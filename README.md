@@ -9,15 +9,6 @@ Source code as of 2010. This project has been converted from Adobe Flash Profess
 
 Feel free to make changes and pull-requests. However be warned: I'm not too sure how compatible the XFL format is with git (you might have a lot of line changes even if you only changed something small). If you make changes, please try to make sure the project can still be opened in Flash Professional CS6.
 
-## Compatible Development Applications
+# Practice hack
 
-* [x] Adobe Flash Professional CS6 (Should work with all newer versions. Newest versions of the application exist under the name 'Adobe Animate')
-* [ ] FlashDevelop - not tested
-
-## Source image files
-
-The source images of the project have been converted into PNG format and placed locally next to where they exist in the FlashPlayer Professional library. However, these generated PNGs are not connected to the game's source. So if you update a PNG, then build and run, it won't work unless you fix the path in the editor first.
-
-## Source audio files
-
-The source audio exists inside of the .dat files. You might find this StackOverflow post helpful: https://stackoverflow.com/questions/4082812/xfl-what-are-the-bin-dat-files
+This repo contains modifications made as part of the SM63 Practice Hack project. We have moved from modifying an existing binary of the game to recompiling from source because it allows much cleaner and better-written code. For the original game code, see [runouw/Super-Mario-63](https://github.com/runouw/Super-Mario-63).
