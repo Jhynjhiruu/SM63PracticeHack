@@ -4,3 +4,6 @@
 *.exe binary
 *.png binary
 *.swf binary
+
+# linguist stuff
+*.xml linguist-language=ActionScript
