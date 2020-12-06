@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/6-6 Tint" itemID="48647d7a-00001492" lastModified="1214547800">
+  <timeline>
+    <DOMTimeline name="6-6 Tint">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20.0000610351563" d="20.0000610351563" tx="99.4" ty="13.1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!2305 -817|2305 4854!2305 4854|2008 4854!2008 4854|2008 -818!2008 -818|2305 -817"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="17.3206024169922" b="-10.0000152587891" c="10.0000152587891" d="17.3206024169922" tx="-14.3" ty="-230.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!2027 -637|-809 -5549!-809 -5549|-550 -5696!-550 -5696|2285 -785!2285 -785|2027 -637"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20.0000610351563" d="20.0000610351563" tx="-41.45" ty="-298.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!-512 -7043|-512 -5590!-512 -5590|-809 -5590!-809 -5590|-809 -7044!-809 -7044|-512 -7043"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.318603515625" b="-5.1763916015625" c="5.1763916015625" d="19.318603515625" tx="-46.5" ty="-368.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!-904 -8503|-492 -6968!-492 -6968|-800 -6968!-800 -6968|-1191 -8427!-1191 -8427|-904 -8503"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10.0000152587891" b="-17.3206024169922" c="17.3206024169922" d="10.0000152587891" tx="-253.1" ty="-524.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!-5837 -11311|-926 -8476!-926 -8476|-1075 -8218!-1075 -8218|-5987 -11054!-5987 -11054|-5837 -11311"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground Blemish">
+                  <matrix>
+                    <Matrix tx="25.35" ty="106.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground Blemish">
+                  <matrix>
+                    <Matrix tx="-164.55" ty="20.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground Blemish">
+                  <matrix>
+                    <Matrix tx="42.3" ty="-41.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground Blemish">
+                  <matrix>
+                    <Matrix tx="-131.6" ty="-155.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground Blemish">
+                  <matrix>
+                    <Matrix tx="-55.65" ty="-368.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

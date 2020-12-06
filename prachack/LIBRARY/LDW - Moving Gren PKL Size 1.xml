@@ -1,0 +1,191 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LDW - Moving Gren PKL Size 1" itemID="4974d058-00001349" sourceFlashFilepath="F:\Super Mario 63\New computer\Level Designer (With Mario Engine new) 3.fla" sourceLibraryItemHRef="LDW - Moving Gren PKL Size 1" sourceLastModified="1232401320" lastModified="1232687175" lastUniqueIdentifier="3" sourceItemID="4974d058-00001349">
+  <timeline>
+    <DOMTimeline name="LDW - Moving Gren PKL Size 1">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[s = _name.charAt(1);
+xc._alpha = 0;
+onEnterFrame = function () {
+	if (this.hitTest(_root._xmouse, _root._ymouse, true)) {
+		hl = true;
+		sc = 120;
+	} else {
+		hl = false;
+		sc = 100;
+	}
+	if (_parent.sizevar == s) {
+		xc._alpha += (100-xc._alpha)/2;
+	} else {
+		xc._alpha += (0-xc._alpha)/2;
+	}
+	_xscale += (sc-_xscale)/3;
+	_yscale = _xscale;
+	txt._xscale += (sc-txt._xscale)/3;
+	txt._yscale = txt._xscale;
+};
+onMouseDown = function () {
+	if (hl == true) {
+		_parent.sizevar = s;
+	}
+};
+gotoAndStop(s);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LDW Moving Gren PL xc" name="xc">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#0000FF"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!44 -101|44 100!44 100|6 100!6 100|6 -45!6 -45[-15 -25 -44 -16!-44 -16|-44 -51!-44 -51[-29 -55 -11 -69!-11 -69[6 -83 13 -101!13 -101|44 -101"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LDW Moving Gren PL xc" name="xc">
+                  <matrix>
+                    <Matrix a="1.4705810546875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[// 2]]></script>
+                  </Actionscript>
+                  <filters>
+                    <GlowFilter color="#0000FF"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!67 -44[67 -31 62 -19!62 -19[57 -6 46 7!46 7[39 16 21 33!21 33[3 49 -2 55!-2 55[-7 60 -10 65!-10 65|67 65!67 65|67 101!67 101|-68 101!-68 101[-66 81 -55 63!-55 63[-44 45 -12 15!-12 15[14 -10 20 -18!20 -18[28 -30 28 -42!28 -42[28 -55 21
+ -61!21 -61[14 -68 2 -68!2 -68[-10 -68 -17 -61!-17 -61[-24 -54 -25 -37!-25 -37|-64 -41!-64 -41[-60 -73 -42 -86!-42 -86[-24 -100 3 -100!3 -100[33 -100 50 -84!50 -84[67 -68 67 -44"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LDW Moving Gren PL xc" name="xc">
+                  <matrix>
+                    <Matrix a="1.941162109375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[// 3]]></script>
+                  </Actionscript>
+                  <filters>
+                    <GlowFilter color="#0000FF"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!18 -49[18 -59 12 -65!12 -65[6 -71 -4 -71!-4 -71[-14 -71 -21 -64!-21 -64[-28 -57 -29 -44!-29 -44|-65 -50!-65 -50[-61 -68 -53 -79!-53 -79[-46 -90 -33 -96!-33 -96[-19 -102 -3 -102!-3 -102[25 -102 43 -84!43 -84[57 -69 57 -51!57 -51[57 -24
+ 28 -9!28 -9[45 -5 55 8!55 8[66 21 66 39!66 39[66 65 46 84!46 84[27 102 -2 102!-2 102[-29 102 -47 87!-47 87[-65 71 -67 46!-67 46|-30 41!-30 41[-29 56 -21 63!-21 63[-13 71 -2 71!-2 71[10 71 18 62!18 62[26 53 26 37!26 37[26 23 19 14!19
+ 14[11 6 0 6!0 6[-8 6 -18 9!-18 9|-14 -23!-14 -23[2 -22 10 -29!10 -29[18 -37 18 -49"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!320 120|-320 120!-320 120|-320 -120!-320 -120|320 -120!320 -120|320 120"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Green Small PF">
+                  <matrix>
+                    <Matrix tx="-16" ty="-8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Green Med PL">
+                  <matrix>
+                    <Matrix tx="-24" ty="-8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Green Large PL">
+                  <matrix>
+                    <Matrix tx="-32" ty="-8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

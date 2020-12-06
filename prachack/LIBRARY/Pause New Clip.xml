@@ -1,0 +1,1203 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pause New Clip" itemID="49c2da88-000011c4" lastModified="1246140573" lastUniqueIdentifier="108">
+  <timeline>
+    <DOMTimeline name="Pause New Clip">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[clicked = false;
+Trans = function (a) {
+	fr = a;
+	//a = destination
+	//	trans.gotoAndPlay(1);
+	trans.play();
+};
+//
+if (_root.Starnamenum == 0) {
+	level = "Castle Grounds";
+} else {
+	level = "Secret Course";
+}
+if (_root.Playinglevel == 1) {
+	level = "Bob-omb Battle Field";
+} else if (_root.Playinglevel == 2) {
+	level = "Snowmans Land";
+} else if (_root.Playinglevel == 3) {
+	level = "Hazy Maze Cave";
+} else if (_root.Playinglevel == 4) {
+	level = "Boo's Mansion";
+} else if (_root.Playinglevel == 5) {
+	level = "Lethal Lava Land";
+} else if (_root.Playinglevel == 6) {
+	level = "Tall Tall Mountain";
+} else if (_root.Playinglevel == 7) {
+	level = "Raindbow Ride";
+} else if (_root.Playinglevel == 8) {
+	level = "Bowsers Castle";
+} else if (_root.Playinglevel == 9) {
+	level = "Sinking Sand Land";
+} else if (_root.Playinglevel == 10) {
+	level = "Wet Dry World";
+} else if (_root.Playinglevel == 11) {
+	level = "Tick Tock Clock";
+}
+//level = _root.playingcourse;       
+star = "<b>"+_root.StarNameArray[_root.Starnamenum];
+//star = "<b> The Secret of the Mountainside"
+desc = _root.StarDescArray[_root.Starnamenum];
+//desc = ".......... Bowser definitely didn't construct all of this just to stall you...  In fact, this Fortress looks hundreds of years old.........  But if Bowser didn't make this..........  then <i>who</i> made it?.......  And <i>why</i>?......."
+//
+gotoAndStop("default");
+//
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" locked="true" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pause New - Transition" name="trans">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="default" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="starmap" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="fludd" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Turbo Fludd Code box">
+                  <matrix>
+                    <Matrix tx="-40" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Rocket Fludd Code Box">
+                  <matrix>
+                    <Matrix tx="40" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Hover Fludd Code Box">
+                  <matrix>
+                    <Matrix tx="40" ty="-55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Overworld - Mario 1 - 3">
+                      <matrix>
+                        <Matrix a="0.998977661132813" d="0.998977661132813" tx="-8.9" ty="-38.45"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Backwards">
+                      <matrix>
+                        <Matrix a="0.998977661132813" d="0.998977661132813" tx="-1.15" ty="-22.15"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point y="-4.95"/>
+                      </transformationPoint>
+                      <Actionscript>
+                        <script><![CDATA[onClipEvent (enterFrame) {
+	if (_root.Fluddpow == "") {
+		gotoAndStop(4);
+	} else if (_root.Fluddpow == "T") {
+		gotoAndStop(3);
+	} else if (_root.Fluddpow == "R") {
+		gotoAndStop(2);
+	} else if (_root.Fluddpow == "H") {
+		gotoAndStop(1);
+	}
+}
+]]></script>
+                      </Actionscript>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="No Fludd Code Box">
+                  <matrix>
+                    <Matrix a="0.996795654296875" d="1.00253295898438" tx="-39.95" ty="-55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" name="options" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Menu - Auto Quality">
+                  <matrix>
+                    <Matrix tx="-106.05" ty="-2.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Menu - Mute Music">
+                  <matrix>
+                    <Matrix tx="-0.35" ty="-50.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Menu - BG Quality">
+                  <matrix>
+                    <Matrix tx="107.05" ty="-2.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" name="exit" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="refresh" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.29290771484375" d="0.160842895507813" tx="-130.95" ty="-32"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.301960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4500 1000S2|-4500 1000!-4500 1000|-4500 -1940!-4500 -1940|4500 -1940!4500 -1940|4500 1000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" parentLayerIndex="3">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pause New SM" name="sm" selected="true">
+                  <matrix>
+                    <Matrix a="0.999725341796875" d="1.0008544921875" tx="-29.9" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.22222900390625" d="0.22222900390625" tx="202" ty="-343.5"/>
+                            </matrix>
+                            <GradientEntry color="#E7FAFE" alpha="0.8" ratio="0.501960784313725"/>
+                            <GradientEntry color="#26D9D9" alpha="0.501960784313725" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.20294189453125" d="0.20294189453125" tx="193.5" ty="-282.6"/>
+                            </matrix>
+                            <GradientEntry color="#66DAF7" alpha="0.501960784313725" ratio="0"/>
+                            <GradientEntry color="#40E1E0" alpha="0.2" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!6520 -7304[6522 -7265 6529 -7206!6529 -7206[6539 -7127 6535 -7102!6535 -7102[6524 -7040 6435 -6859!6435 -6859[6350 -6685 6350 -6675!6350 -6675[6350 -6654 6460 -6411!6460 -6411[6570 -6167 6570 -6037!6570 -6037[6570 -5929 6528 -5872!6528
+ -5872[6499 -5833 6435 -5803!6435 -5803[6361 -5769 6342 -5752!6342 -5752[6300 -5713 6300 -5637!6300 -5637[6300 -5609 6333 -5549!6333 -5549[6353 -5512 6405 -5420!6405 -5420[6510 -5225 6510 -5060!6510 -5060[6510 -5004 6460 -4974!6460 -4974
+[6434 -4958 6350 -4932!6350 -4932[6273 -4908 6240 -4882!6240 -4882[6190 -4842 6190 -4771!6190 -4771[6190 -4745 6205 -4701!6205 -4701[6220 -4657 6220 -4610!6220 -4610[6220 -4515 6191 -4467!6191 -4467[6120 -4352 5895 -4352!5895 -4352[5773
+ -4352 5681 -4391!5681 -4391[5589 -4430 5535 -4430!5535 -4430[5451 -4430 5359 -4331!5359 -4331[5267 -4232 5162 -4232!5162 -4232[5055 -4232 4909 -4356!4909 -4356[4764 -4480 4685 -4480!4685 -4480[4643 -4480 4401 -4371!4401 -4371[4159 -4262
+ 4010 -4262!4010 -4262[3866 -4262 3768 -4321!3768 -4321[3744 -4336 3705 -4362!3705 -4362[3672 -4380 3640 -4380!3640 -4380[3576 -4380 3537 -4340!3537 -4340[3488 -4338 3470 -4323!3470 -4323[3457 -4313 3445 -4286!3445 -4286[3409 -4232 3200
+ -4232!3200 -4232[2895 -4330 2865 -4330!2865 -4330[2804 -4330 2772 -4313!2772 -4313[2753 -4303 2722 -4276!2722 -4276[2646 -4222 2404 -4222!2404 -4222[1840 -4222 1545 -4585!1545 -4585[1440 -4715 1384 -4875!1384 -4875[1340 -4999 1340 -5091
+!1340 -5091[1340 -5138 1420 -5518!1420 -5518[1420 -5576 1375 -5623!1375 -5623[1353 -5646 1275 -5700!1275 -5700[1130 -5802 1130 -5927!1130 -5927[1130 -6003 1195 -6139!1195 -6139[1260 -6275 1260 -6310!1260 -6310[1260 -6370 1226 -6414!1226
+ -6414[1204 -6443 1129 -6535!1129 -6535[1280 -6678 1280 -6763!1280 -6763[1209 -7033 1209 -7037!1209 -7037[1209 -7075 1290 -7134!1290 -7134[1370 -7192 1370 -7258!1370 -7258[1370 -7281 1363 -7304"/>
+                        <Edge fillStyle0="1" edges="
+!1363 -7304[1358 -7321 1349 -7337!1349 -7337[1309 -7410 1210 -7410!1210 -7410[1040 -7410 955 -7237!955 -7237[900 -7127 900 -7031!900 -7031[900 -6993 927 -6910!927 -6910[954 -6827 954 -6802!954 -6802[954 -6791 872 -6701!872 -6701[790 -6612
+ 790 -6525!790 -6525[790 -6462 860 -6386!860 -6386[929 -6311 929 -6307!929 -6307[929 -6302 880 -6175!880 -6175[830 -6048 830 -5925!830 -5925[830 -5774 955 -5609!955 -5609[964 -5597 1041 -5504!1041 -5504[1080 -5457 1080 -5441!1080 -5441
+[1040 -5178 1040 -5088!1040 -5088[1040 -4971 1075 -4833!1075 -4833[1131 -4615 1259 -4440!1259 -4440[1639 -3920 2540 -3920!2540 -3920[2705 -3920 2794 -3969!2794 -3969[2799 -3972 2845 -4004!2845 -4004[2868 -4019 2887 -4019!2887 -4019[2939
+ -3997 3001 -3974!3001 -3974[3125 -3930 3310 -3930!3310 -3930[3576 -3930 3660 -4020!3660 -4020[3662 -4022 3665 -4025!3665 -4025[3797 -3960 4010 -3960!4010 -3960[4239 -3960 4452 -4057!4452 -4057[4486 -4073 4582 -4125!4582 -4125[4640 -4155
+ 4660 -4155!4660 -4155[4681 -4155 4841 -4042!4841 -4042[5027 -3930 5180 -3930!5180 -3930[5297 -3930 5446 -4019!5446 -4019[5520 -4064 5573 -4109!5573 -4109[5596 -4109 5666 -4079!5666 -4079[5737 -4050 5915 -4050!5915 -4050[6267 -4050 6428
+ -4282!6428 -4282[6509 -4399 6520 -4522!6520 -4522|6520 -4657!6520 -4657[6550 -4680 6640 -4728!6640 -4728[6712 -4767 6725 -4787!6725 -4787[6820 -4934 6820 -5057!6820 -5057[6820 -5219 6749 -5408!6749 -5408[6713 -5503 6677 -5590!6677 -5590
+[6677 -5592 6730 -5641!6730 -5641[6793 -5700 6832 -5807!6832 -5807[6870 -5911 6870 -6028!6870 -6028[6870 -6239 6779 -6449!6779 -6449[6763 -6485 6716 -6580!6716 -6580[6687 -6637 6687 -6655!6687 -6655[6687 -6685 6769 -6846!6769 -6846[6850
+ -7041 6850 -7243!6850 -7243[6850 -7245 6853 -7287!6853 -7287[6855 -7336 6845 -7375!6845 -7375[6816 -7500 6690 -7500!6690 -7500[6526 -7500 6520 -7338!6520 -7338[6519 -7324 6520 -7304"/>
+                        <Edge fillStyle0="2" edges="
+!6520 -7304|1363 -7304"/>
+                        <Edge cubics="!2435 -7880(;2579,-7880 4587,-7711 4892,-7695q2435 -7880Q2512 -7880q3603 -7793Q4755 -7702q4892 -7695);"/>
+                        <Edge cubics="!4892 -7695(;5345,-7671 6118,-8141 6642,-7600q4892 -7695Q5023 -7688q5283 -7746Q5647 -7828q5740 -7841Q6012 -7882q6211 -7840Q6461 -7787q6642 -7600);"/>
+                        <Edge cubics="!6642 -7600(;6677,-7563 6690,-7508 6700,-7465q6642 -7600Q6665 -7576q6680 -7535Q6689 -7511q6700 -7465);"/>
+                        <Edge cubics="!6700 -7465(;6757,-7241 6770,-7350 6770,-7198q6700 -7465Q6726 -7362q6756 -7304Q6770 -7279q6770 -7198);"/>
+                        <Edge cubics="!6770 -7198(;6770,-7056 6722,-6902 6585,-6752q6770 -7198Q6770 -6955q6585 -6752);"/>
+                        <Edge cubics="!6585 -6752(;6722,-6618 6780,-6423 6780,-6283q6585 -6752Q6681 -6658q6734 -6520Q6780 -6399q6780 -6283);"/>
+                        <Edge cubics="!6780 -6283(;6780,-5905 6535,-5655 6535,-5601q6780 -6283Q6780 -6053q6658 -5820Q6535 -5628q6535 -5601);"/>
+                        <Edge cubics="!6535 -5601(;6535,-5546 6690,-5372 6690,-5113q6535 -5601Q6535 -5585q6559 -5538Q6605 -5450q6613 -5433Q6690 -5268q6690 -5113);"/>
+                        <Edge cubics="!6690 -5113(;6690,-5013 6666,-4968 6612,-4862q6690 -5113Q6690 -5044q6671 -4990Q6659 -4954q6612 -4862);"/>
+                        <Edge cubics="!6612 -4862(;6551,-4740 6347,-4666 6310,-4622q6612 -4862Q6576 -4790q6452 -4713Q6315 -4627q6310 -4622);"/>
+                        <Edge cubics="!6310 -4622(;6305,-4616 6110,-4190 5745,-4190q6310 -4622Q6258 -4511q6163 -4404Q5973 -4190q5745 -4190);"/>
+                        <Edge cubics="!5745 -4190(;5683,-4190 5506,-4240 5502,-4240q5745 -4190Q5707 -4190q5602 -4215Q5504 -4240q5502 -4240);"/>
+                        <Edge cubics="!5502 -4240(;5482,-4240 5370,-4070 5185,-4070q5502 -4240Q5459 -4197q5405 -4155Q5298 -4070q5185 -4070);"/>
+                        <Edge cubics="!5185 -4070(;4972,-4070 4780,-4235 4772,-4235q5185 -4070Q5053 -4070q4902 -4152Q4776 -4235q4772 -4235);"/>
+                        <Edge cubics="!4772 -4235(;4761,-4235 4405,-4030 4075,-4030q4772 -4235Q4675 -4184q4543 -4132Q4280 -4030q4075 -4030);"/>
+                        <Edge cubics="!4075 -4030(;3775,-4030 3530,-4212 3515,-4212q4075 -4030Q3889 -4030q3688 -4121Q3588 -4166q3515 -4212);"/>
+                        <Edge cubics="!3515 -4212(;3513,-4212 3374,-4100 3155,-4100q3515 -4212Q3514 -4212q3416 -4156Q3292 -4100q3155 -4100);"/>
+                        <Edge cubics="!3155 -4100(;2904,-4100 2945,-4179 2830,-4179q3155 -4100Q3013 -4100q2942 -4139Q2871 -4179q2830 -4179);"/>
+                        <Edge cubics="!2830 -4179(;2813,-4179 2430,-4000 2195,-4000q2830 -4179Q2822 -4179q2594 -4089Q2340 -4000q2195 -4000);"/>
+                        <Edge cubics="!2195 -4000(;2029,-4000 1922,-4090 1750,-4090q2195 -4000Q2113 -4000q1975 -4045Q1837 -4090q1750 -4090);"/>
+                        <Edge cubics="!1750 -4090(;1360,-4090 1180,-4936 1180,-4950q1750 -4090Q1506 -4090q1319 -4515Q1225 -4728q1180 -4950);"/>
+                        <Edge cubics="!1180 -4950(;1180,-5168 1294,-5320 1294,-5370q1180 -4950Q1180 -5080q1237 -5223Q1294 -5366q1294 -5370);"/>
+                        <Edge cubics="!1294 -5370(;1294,-5398 1180,-5477 1180,-5591q1294 -5370Q1294 -5373q1237 -5448Q1180 -5523q1180 -5591);"/>
+                        <Edge cubics="!1180 -5591(;1180,-5830 1307,-6000 1504,-6255q1180 -5591Q1180 -5754q1268 -5917Q1327 -6026q1504 -6255);"/>
+                        <Edge cubics="!1504 -6255(;1383,-6367 1400,-6396 1400,-6491q1504 -6255Q1423 -6330q1407 -6379Q1400 -6400q1400 -6491);"/>
+                        <Edge cubics="!1400 -6491(;1400,-6696 1510,-6778 1510,-6855q1400 -6491Q1400 -6609q1455 -6721Q1510 -6832q1510 -6855);"/>
+                        <Edge cubics="!1510 -6855(;1510,-6885 1360,-6960 1360,-7080q1510 -6855Q1510 -6859q1435 -6934Q1360 -7009q1360 -7080);"/>
+                        <Edge cubics="!1360 -7080(;1360,-7148 1375,-7253 1494,-7320q1360 -7080Q1360 -7245q1494 -7320);"/>
+                        <Edge cubics="!1494 -7320(;1642,-7402 1548,-7458 1620,-7560q1494 -7320Q1578 -7367q1586 -7432Q1596 -7525q1620 -7560);"/>
+                        <Edge cubics="!1620 -7560(;1763,-7758 2408,-7880 2435,-7880q1620 -7560Q1710 -7685q2071 -7794Q2354 -7880q2435 -7880);"/>
+                        <Edge cubics="!1445 -7410(;1595,-7410 1600,-7267 1600,-7258q1445 -7410Q1539 -7410q1579 -7337Q1600 -7298q1600 -7258);"/>
+                        <Edge cubics="!1600 -7258(;1600,-7128 1329,-7068 1329,-7022q1600 -7258Q1600 -7182q1465 -7108Q1431 -7090q1371 -7060Q1329 -7036q1329 -7022);"/>
+                        <Edge cubics="!1329 -7022(;1329,-6888 1540,-6870 1540,-6718q1329 -7022Q1329 -6957q1435 -6877Q1540 -6796q1540 -6718);"/>
+                        <Edge cubics="!1540 -6718(;1540,-6615 1424,-6551 1289,-6455q1540 -6718Q1540 -6651q1465 -6584Q1445 -6566q1289 -6455);"/>
+                        <Edge cubics="!1289 -6455(;1464,-6353 1580,-6391 1580,-6238q1289 -6455Q1342 -6424q1408 -6400Q1475 -6377q1500 -6366Q1580 -6330q1580 -6238);"/>
+                        <Edge cubics="!1580 -6238(;1580,-6103 1300,-5985 1300,-5848q1580 -6238Q1580 -6171q1440 -6044Q1300 -5917q1300 -5848);"/>
+                        <Edge cubics="!1300 -5848(;1300,-5495 1770,-5582 1770,-5328q1300 -5848Q1300 -5729q1373 -5654Q1423 -5602q1535 -5551Q1663 -5492q1697 -5467Q1770 -5412q1770 -5328);"/>
+                        <Edge cubics="!1770 -5328(;1770,-5277 1727,-5180 1620,-5180q1770 -5328Q1770 -5279q1735 -5235Q1692 -5180q1620 -5180);"/>
+                        <Edge cubics="!1620 -5180(;1515,-5180 1179,-5392 1100,-5502q1620 -5180Q1542 -5180q1350 -5300Q1160 -5418q1100 -5502);"/>
+                        <Edge cubics="!1100 -5502(;1027,-5605 1000,-5738 1000,-5855q1100 -5502Q1000 -5643q1000 -5855);"/>
+                        <Edge cubics="!1000 -5855(;1000,-5960 1045,-6065 1135,-6170q1000 -5855Q1000 -6012q1135 -6170);"/>
+                        <Edge cubics="!1135 -6170(;992,-6342 960,-6346 960,-6485q1135 -6170Q994 -6339q994 -6340Q960 -6392q960 -6485);"/>
+                        <Edge cubics="!960 -6485(;960,-6577 952,-6630 1144,-6730q960 -6485Q960 -6571q980 -6604Q1014 -6662q1144 -6730);"/>
+                        <Edge cubics="!1144 -6730(;1067,-6812 1020,-6951 1020,-7045q1144 -6730Q1089 -6789q1053 -6883Q1020 -6971q1020 -7045);"/>
+                        <Edge cubics="!1020 -7045(;1020,-7098 1132,-7410 1445,-7410q1020 -7045Q1020 -7127q1115 -7247Q1244 -7410q1445 -7410);"/>
+                        <Edge cubics="!1470 -7120(;1657,-7120 1620,-6887 1620,-6878q1470 -7120Q1587 -7120q1615 -7002Q1624 -6965q1623 -6920Q1620 -6880q1620 -6878);"/>
+                        <Edge cubics="!1620 -6878(;1620,-6841 1605,-6270 1420,-6270q1620 -6878Q1620 -6728q1589 -6560Q1537 -6270q1420 -6270);"/>
+                        <Edge cubics="!1420 -6270(;1257,-6270 1270,-6443 1270,-6451q1420 -6270Q1318 -6270q1284 -6357Q1267 -6402q1270 -6451);"/>
+                        <Edge cubics="!1270 -6451(;1270,-6472 1300,-6723 1314,-6800q1270 -6451Q1270 -6469q1287 -6604Q1304 -6746q1314 -6800);"/>
+                        <Edge cubics="!1314 -6800(;1322,-6842 1234,-7120 1470,-7120q1314 -6800Q1315 -6806q1309 -6868Q1302 -6933q1307 -6976Q1323 -7120q1470 -7120);"/>
+                        <Edge cubics="!1210 -7410(;1367,-7410 1370,-7267 1370,-7258q1210 -7410Q1309 -7410q1349 -7337Q1370 -7299q1370 -7258);"/>
+                        <Edge cubics="!1370 -7258(;1370,-7135 1209,-7123 1209,-7037q1370 -7258Q1370 -7192q1290 -7134Q1209 -7075q1209 -7037);"/>
+                        <Edge cubics="!1209 -7037(;1209,-7033 1280,-6767 1280,-6763q1209 -7037Q1209 -7033q1280 -6763);"/>
+                        <Edge cubics="!1280 -6763(;1280,-6682 1209,-6611 1129,-6535q1280 -6763Q1280 -6708q1235 -6647Q1205 -6607q1129 -6535);"/>
+                        <Edge cubics="!1129 -6535(;1214,-6415 1260,-6407 1260,-6310q1129 -6535Q1204 -6443q1226 -6414Q1260 -6370q1260 -6310);"/>
+                        <Edge cubics="!1260 -6310(;1260,-6227 1130,-6066 1130,-5927q1260 -6310Q1260 -6275q1195 -6139Q1130 -6003q1130 -5927);"/>
+                        <Edge cubics="!1130 -5927(;1130,-5691 1420,-5695 1420,-5518q1130 -5927Q1130 -5802q1275 -5700Q1353 -5646q1375 -5623Q1420 -5576q1420 -5518);"/>
+                        <Edge cubics="!1420 -5518(;1420,-5515 1340,-5138 1340,-5091q1420 -5518Q1340 -5138q1340 -5091);"/>
+                        <Edge cubics="!1340 -5091(;1340,-4900 1532,-4222 2404,-4222q1340 -5091Q1340 -4999q1384 -4875Q1440 -4715q1545 -4585Q1840 -4222q2404 -4222);"/>
+                        <Edge cubics="!2404 -4222(;2829,-4222 2674,-4330 2865,-4330q2404 -4222Q2646 -4222q2722 -4276Q2753 -4303q2772 -4313Q2804 -4330q2865 -4330);"/>
+                        <Edge cubics="!2865 -4330(;2895,-4330 3197,-4232 3200,-4232q2865 -4330Q2895 -4330q3200 -4232);"/>
+                        <Edge cubics="!3200 -4232(;3572,-4232 3365,-4340 3550,-4340q3200 -4232Q3409 -4232q3445 -4286Q3457 -4313q3470 -4323Q3490 -4340q3550 -4340);"/>
+                        <Edge cubics="!3550 -4340(;3710,-4340 3700,-4167 3700,-4160q3550 -4340Q3650 -4340q3685 -4253Q3703 -4208q3700 -4160);"/>
+                        <Edge cubics="!3700 -4160(;3700,-4093 3723,-3930 3310,-3930q3700 -4160Q3700 -4063q3660 -4020Q3576 -3930q3310 -3930);"/>
+                        <Edge cubics="!3310 -3930(;3005,-3930 2932,-4019 2887,-4019q3310 -3930Q3125 -3930q3001 -3974Q2939 -3997q2887 -4019);"/>
+                        <Edge cubics="!2887 -4019(;2824,-4019 2817,-3920 2540,-3920q2887 -4019Q2868 -4019q2845 -4004Q2799 -3972q2794 -3969Q2705 -3920q2540 -3920);"/>
+                        <Edge cubics="!2540 -3920(;1124,-3920 1040,-4917 1040,-5088q2540 -3920Q1639 -3920q1259 -4440Q1131 -4615q1075 -4833Q1040 -4971q1040 -5088);"/>
+                        <Edge cubics="!1040 -5088(;1040,-5178 1080,-5373 1080,-5441q1040 -5088Q1040 -5136q1060 -5273Q1080 -5410q1080 -5441);"/>
+                        <Edge cubics="!1080 -5441(;1080,-5496 830,-5673 830,-5925q1080 -5441Q1080 -5457q1041 -5504Q964 -5597q955 -5609Q830 -5774q830 -5925);"/>
+                        <Edge cubics="!830 -5925(;830,-6131 929,-6258 929,-6307q830 -5925Q830 -6048q880 -6175Q929 -6302q929 -6307);"/>
+                        <Edge cubics="!929 -6307(;929,-6335 790,-6418 790,-6525q929 -6307Q929 -6311q860 -6386Q790 -6462q790 -6525);"/>
+                        <Edge cubics="!790 -6525(;790,-6673 954,-6755 954,-6802q790 -6525Q790 -6612q872 -6701Q954 -6791q954 -6802);"/>
+                        <Edge cubics="!954 -6802(;954,-6857 900,-6960 900,-7031q954 -6802Q954 -6827q927 -6910Q900 -6993q900 -7031);"/>
+                        <Edge cubics="!900 -7031(;900,-7076 943,-7410 1210,-7410q900 -7031Q900 -7127q955 -7237Q1040 -7410q1210 -7410);"/>
+                        <Edge cubics="!6690 -7500(;6891,-7500 6850,-7252 6850,-7243q6690 -7500Q6816 -7500q6845 -7375Q6855 -7336q6853 -7287Q6850 -7245q6850 -7243);"/>
+                        <Edge cubics="!6850 -7243(;6850,-6907 6687,-6716 6687,-6655q6850 -7243Q6850 -7041q6769 -6846Q6687 -6685q6687 -6655);"/>
+                        <Edge cubics="!6687 -6655(;6687,-6592 6870,-6378 6870,-6028q6687 -6655Q6687 -6637q6716 -6580Q6763 -6485q6779 -6449Q6870 -6239q6870 -6028);"/>
+                        <Edge cubics="!6870 -6028(;6870,-5950 6868,-5906 6832,-5807q6870 -6028Q6870 -5962q6865 -5925Q6857 -5876q6832 -5807);"/>
+                        <Edge cubics="!6832 -5807(;6766,-5628 6677,-5617 6677,-5590q6832 -5807Q6793 -5700q6730 -5641Q6677 -5592q6677 -5590);"/>
+                        <Edge cubics="!6677 -5590(;6677,-5548 6820,-5325 6820,-5057q6677 -5590Q6713 -5503q6749 -5408Q6820 -5219q6820 -5057);"/>
+                        <Edge cubics="!6820 -5057(;6820,-4967 6782,-4875 6725,-4787q6820 -5057Q6820 -4934q6725 -4787);"/>
+                        <Edge cubics="!6725 -4787(;6701,-4751 6590,-4710 6520,-4657q6725 -4787Q6712 -4767q6640 -4728Q6550 -4680q6520 -4657);"/>
+                        <Edge cubics="!6520 -4657(;6520,-4612 6520,-4567 6520,-4522q6520 -4657 6520 -4522);"/>
+                        <Edge cubics="!6520 -4522(;6520,-4512 6476,-4050 5915,-4050q6520 -4522Q6509 -4399q6428 -4282Q6267 -4050q5915 -4050);"/>
+                        <Edge cubics="!5915 -4050(;5610,-4050 5670,-4109 5573,-4109q5915 -4050Q5737 -4050q5666 -4079Q5596 -4109q5573 -4109);"/>
+                        <Edge cubics="!5573 -4109(;5570,-4109 5367,-3930 5180,-3930q5573 -4109Q5520 -4064q5446 -4019Q5297 -3930q5180 -3930);"/>
+                        <Edge cubics="!5180 -3930(;4927,-3930 4702,-4155 4660,-4155q5180 -3930Q5027 -3930q4841 -4042Q4681 -4155q4660 -4155);"/>
+                        <Edge cubics="!4660 -4155(;4590,-4155 4391,-3960 4010,-3960q4660 -4155Q4640 -4155q4582 -4125Q4486 -4073q4452 -4057Q4239 -3960q4010 -3960);"/>
+                        <Edge cubics="!4010 -3960(;3558,-3960 3490,-4188 3490,-4227q4010 -3960Q3722 -3960q3581 -4079Q3490 -4155q3490 -4227);"/>
+                        <Edge cubics="!3490 -4227(;3490,-4265 3517,-4380 3640,-4380q3490 -4227Q3490 -4274q3519 -4318Q3560 -4380q3640 -4380);"/>
+                        <Edge cubics="!3640 -4380(;3740,-4380 3759,-4262 4010,-4262q3640 -4380Q3672 -4380q3705 -4362Q3744 -4336q3768 -4321Q3866 -4262q4010 -4262);"/>
+                        <Edge cubics="!4010 -4262(;4272,-4262 4565,-4480 4685,-4480q4010 -4262Q4159 -4262q4401 -4371Q4643 -4480q4685 -4480);"/>
+                        <Edge cubics="!4685 -4480(;4852,-4480 4957,-4232 5162,-4232q4685 -4480Q4764 -4480q4909 -4356Q5055 -4232q5162 -4232);"/>
+                        <Edge cubics="!5162 -4232(;5365,-4232 5360,-4430 5535,-4430q5162 -4232Q5267 -4232q5359 -4331Q5451 -4430q5535 -4430);"/>
+                        <Edge cubics="!5535 -4430(;5666,-4430 5673,-4352 5895,-4352q5535 -4430Q5589 -4430q5681 -4391Q5773 -4352q5895 -4352);"/>
+                        <Edge cubics="!5895 -4352(;6250,-4352 6220,-4573 6220,-4610q5895 -4352Q6120 -4352q6191 -4467Q6220 -4515q6220 -4610);"/>
+                        <Edge cubics="!6220 -4610(;6220,-4697 6190,-4712 6190,-4771q6220 -4610Q6220 -4657q6205 -4701Q6190 -4745q6190 -4771);"/>
+                        <Edge cubics="!6190 -4771(;6190,-4982 6510,-4892 6510,-5060q6190 -4771Q6190 -4842q6240 -4882Q6273 -4908q6350 -4932Q6434 -4958q6460 -4974Q6510 -5004q6510 -5060);"/>
+                        <Edge cubics="!6510 -5060(;6510,-5342 6300,-5547 6300,-5637q6510 -5060Q6510 -5225q6405 -5420Q6353 -5512q6333 -5549Q6300 -5609q6300 -5637);"/>
+                        <Edge cubics="!6300 -5637(;6300,-5867 6570,-5717 6570,-6037q6300 -5637Q6300 -5713q6342 -5752Q6361 -5769q6435 -5803Q6499 -5833q6528 -5872Q6570 -5929q6570 -6037);"/>
+                        <Edge cubics="!6570 -6037(;6570,-6261 6350,-6597 6350,-6675q6570 -6037Q6570 -6167q6460 -6411Q6350 -6654q6350 -6675);"/>
+                        <Edge cubics="!6350 -6675(;6350,-6705 6515,-6993 6535,-7102q6350 -6675Q6350 -6685q6435 -6859Q6524 -7040q6535 -7102);"/>
+                        <Edge cubics="!6535 -7102(;6552,-7201 6425,-7500 6690,-7500q6535 -7102Q6539 -7127q6529 -7206Q6518 -7295q6520 -7338Q6526 -7500q6690 -7500);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="Pause New Fludd Button">
+                  <matrix>
+                    <Matrix a="1.00054931640625" tx="-119.95" ty="122.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Options Button">
+                  <matrix>
+                    <Matrix a="1.00083923339844" tx="120" ty="76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Star Button">
+                  <matrix>
+                    <Matrix a="1.00077819824219" tx="-119.95" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName='Pause - "Paused"'>
+                  <matrix>
+                    <Matrix ty="-97.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Exit Buton vfsh">
+                  <matrix>
+                    <Matrix a="1.00041198730469" tx="119.95" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText left="50.9" width="268" height="20.1" antiAliasThickness="68" isSelectable="false" variableName="level">
+                  <matrix>
+                    <Matrix tx="-184.9" ty="-67.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Bomb-omb Battle Field</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="18" bitmapSize="360" face="Arial-BoldMT" fillColor="#FFCC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <BevelFilter/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText left="-56.05" width="268.9" height="19.55" antiAliasThickness="68" isSelectable="false" variableName="star" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-78.4" ty="-42.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>-Star Name-</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" face="ComicSansMS-Bold" fillColor="#FFCC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <BevelFilter highlightColor="#FBFF9F" shadowColor="#FFFF00"/>
+                    <BevelFilter distance="2" shadowColor="#FF0000"/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText left="-71.45" width="444.95" height="59.4" antiAliasThickness="68" isSelectable="false" variableName="desc" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-151.55" ty="-19.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Star Description&#xD;Star Description&#xD;Star Description&#xD;Star Description</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" face="ArialMT" fillColor="#FFFF7D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <BevelFilter highlightColor="#FBFF9F" shadowColor="#FFFF00"/>
+                    <BevelFilter distance="2" shadowColor="#FF0000"/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMGroup>
+                  <members>
+                    <DOMDynamicText width="37.1" height="19.8" antiAliasThickness="68" isSelectable="false" variableName="_root.Coins">
+                      <matrix>
+                        <Matrix tx="140.95" ty="-144.9"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>0</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="16" bitmapSize="320" face="MatisseITC-Regular"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMDynamicText>
+                    <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="59.6" ty="-147.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>=</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="22" face="MatisseITC-Regular"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMStaticText>
+                    <DOMDynamicText width="37.1" height="19.8" antiAliasThickness="68" isSelectable="false" variableName="_root.TotalStars">
+                      <matrix>
+                        <Matrix tx="-177.9" ty="-135.15"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>0</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="16" bitmapSize="320" face="MatisseITC-Regular"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMDynamicText>
+                    <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-259.25" ty="-137.75"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>=</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="22" face="MatisseITC-Regular"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMStaticText>
+                    <DOMDynamicText width="37.1" height="19.8" antiAliasThickness="68" isSelectable="false" variableName="_root.Coins">
+                      <matrix>
+                        <Matrix tx="138.95" ty="-146.9"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>0</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" bold="true" size="16" bitmapSize="320" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMDynamicText>
+                    <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="57.6" ty="-149.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>=</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMStaticText>
+                    <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Coin: Yellow Folder/Gold Coin Animation">
+                      <matrix>
+                        <Matrix tx="117.45" ty="-139.45"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMDynamicText width="37.1" height="19.8" antiAliasThickness="68" isSelectable="false" variableName="_root.TotalStars">
+                      <matrix>
+                        <Matrix tx="-179.9" ty="-137.15"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>0</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" bold="true" size="16" bitmapSize="320" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMDynamicText>
+                    <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-261.25" ty="-139.75"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>=</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMStaticText>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite">
+                      <matrix>
+                        <Matrix tx="-221.25" ty="-144.35"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Coin: Star Folder/Star Coin">
+                      <matrix>
+                        <Matrix a="0.75" d="0.75" tx="-130.75" ty="-138.2"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMDynamicText width="37.1" height="19.8" antiAliasThickness="68" isSelectable="false" variableName="_root.TotalStarCoins">
+                      <matrix>
+                        <Matrix tx="-86.55" ty="-136.65"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>0</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="16" bitmapSize="320" face="MatisseITC-Regular"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMDynamicText>
+                    <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-167.9" ty="-139.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>=</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="22" face="MatisseITC-Regular"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMStaticText>
+                    <DOMDynamicText width="37.1" height="19.8" antiAliasThickness="68" isSelectable="false" variableName="_root.TotalStarCoins">
+                      <matrix>
+                        <Matrix tx="-88.55" ty="-138.65"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>0</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" autoKern="false" bold="true" size="16" bitmapSize="320" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMDynamicText>
+                    <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-169.9" ty="-141.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>=</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                      <filters>
+                        <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
+                      </filters>
+                    </DOMStaticText>
+                    <DOMSymbolInstance libraryItemName="      Char/   HUD CLIPS (&amp; BITS)/Redcoins and Silver Stars appear HUD clip">
+                      <matrix>
+                        <Matrix tx="196.5" ty="-123.15"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="HUD Lives Clip (Invisible if on tutorial)">
+                      <matrix>
+                        <Matrix tx="81.15" ty="-134.9"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName='Pause New "Star Map"'>
+                  <matrix>
+                    <Matrix a="1.39999389648438" d="1.39999389648438" tx="-2.95" ty="-118.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Back Button">
+                  <matrix>
+                    <Matrix a="1.00082397460938" tx="-120" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Fludd Button">
+                  <matrix>
+                    <Matrix a="1.00054931640625" tx="-119.95" ty="122.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Options Button">
+                  <matrix>
+                    <Matrix a="1.00083923339844" tx="120" ty="76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Exit Buton vfsh">
+                  <matrix>
+                    <Matrix a="1.00041198730469" tx="119.95" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New SMA">
+                  <matrix>
+                    <Matrix tx="204" ty="-73.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FFFF00"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New SMA">
+                  <matrix>
+                    <Matrix tx="204" ty="-48.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	_rotation = 180;
+}
+]]></script>
+                  </Actionscript>
+                  <filters>
+                    <GlowFilter color="#FFFF00"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New SStoSC">
+                  <matrix>
+                    <Matrix tx="203.4" ty="42.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New SCtoSS">
+                  <matrix>
+                    <Matrix tx="203.5" ty="-6.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.085693359375" d="0.085693359375" tx="-0.05" ty="-25"/>
+                        </matrix>
+                        <GradientEntry color="#EEFCFF" ratio="0"/>
+                        <GradientEntry color="#3DD4FF" alpha="0.792156862745098" ratio="0.207843137254902"/>
+                        <GradientEntry color="#22BDFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1258 -1100[1390 #FFFCC4.BA 1390 -500!1390 -500[1390 76 982 483!982 483[575 890 -1 890!-1 890[-577 890 -984 483!-984 483[-1391 76 -1391 -500!-1391 -500[-1391 #FFFCC4.BA -1259.5 -1100!-1259.5 -1100[#FFFB1C.BC #FFFBA2.E5 -1242.5 -1134!-1242.5
+ -1134[#FFFB86.C3 #FFFAD6.3D -984 -1483!-984 -1483[-577 -1890 -1 -1890!-1 -1890[575 -1890 982 -1483!982 -1483[#477.A3 #FFFAD6.3D 1241 -1134!1241 -1134[#4E1.CC #FFFBA2.E5 1258 -1100"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName='Pause New "Fludd"'>
+                  <matrix>
+                    <Matrix a="1.39999389648438" d="1.39999389648438" tx="0.05" ty="-122.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-2262 -1245|-2262 -958!-2262 -958|-2320 -958!-2320 -958|-2436 -1145!-2436 -1145|-2436 -958!-2436 -958|-2489 -958!-2489 -958|-2489 -1245!-2489 -1245|-2433 -1245!-2433 -1245|-2316 -1053!-2316 -1053|-2316 -1245!-2316 -1245|-2262 -1245!-2030
+ -1139[-2000 -1109 -2000 -1062!-2000 -1062[-2000 -1015 -2030 -984!-2030 -984[-2061 -953 -2107 -953!-2107 -953[-2135 -953 -2161 -966!-2161 -966[-2187 -979 -2201 -1004!-2201 -1004[-2214 -1029 -2214 -1065!-2214 -1065[-2214 -1092 -2201 -1118
+!-2201 -1118[-2187 -1143 -2162 -1157!-2162 -1157[-2138 -1170 -2107 -1170!-2107 -1170[-2060 -1170 -2030 -1139!-2143 -1014[-2128 -998 -2107 -998!-2107 -998[-2085 -998 -2071 -1014!-2071 -1014[-2056 -1031 -2056 -1062!-2056 -1062[-2056 -1093
+ -2071 -1109!-2071 -1109[-2085 -1125 -2107 -1125!-2107 -1125[-2128 -1125 -2143 -1109!-2143 -1109[-2158 -1093 -2158 -1062!-2158 -1062[-2158 -1031 -2143 -1014!-1857 -1128[-1872 -1128 -1883 -1120!-1883 -1120[-1894 -1112 -1898 -1100!-1898
+ -1100[-1903 -1087 -1903 -1052!-1903 -1052|-1903 -958!-1903 -958|-1958 -958!-1958 -958|-1958 -1165!-1958 -1165|-1907 -1165!-1907 -1165|-1907 -1135!-1907 -1135[-1880 -1170 -1838 -1170!-1838 -1170[-1820 -1170 -1805 -1163!-1805 -1163[-1790
+ -1157 -1782 -1147!-1782 -1147[-1775 -1137 -1772 -1124!-1772 -1124[-1769 -1111 -1769 -1087!-1769 -1087|-1769 -958!-1769 -958|-1823 -958!-1823 -958|-1823 -1064!-1823 -1064[-1823 -1097 -1827 -1107!-1827 -1107[-1831 -1117 -1838 -1123!-1838
+ -1123[-1846 -1128 -1857 -1128!-1661 -1115[-1672 -1102 -1672 -1079!-1672 -1079|-1591 -1079!-1591 -1079[-1592 -1103 -1603 -1116!-1603 -1116[-1615 -1128 -1632 -1128!-1632 -1128[-1649 -1128 -1661 -1115!-1635 -1170[-1589 -1170 -1562 -1139
+!-1562 -1139[-1535 -1109 -1537 -1046!-1537 -1046|-1673 -1046!-1673 -1046[-1672 -1021 -1660 -1008!-1660 -1008[-1647 -994 -1629 -994!-1629 -994[-1616 -994 -1607 -1001!-1607 -1001[-1599 -1008 -1594 -1024!-1594 -1024|-1539 -1015!-1539 -1015
+[-1550 -985 -1573 -969!-1573 -969[-1596 -953 -1630 -953!-1630 -953[-1683 -953 -1709 -989!-1709 -989[-1729 -1017 -1729 -1060!-1729 -1060[-1729 -1112 -1702 -1141!-1702 -1141[-1675 -1170 -1635 -1170"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1561 -49[1554 -50 1519 -50!1519 -50|1474 -50!1474 -50|1474 23!1474 23|1517 23!1517 23[1558 23 1569 19!1569 19[1579 16 1585 7!1585 7[1591 -1 1591 -14!1591 -14[1591 -29 1583 -38!1583 -38[1575 -47 1561 -49!1605 -91[1625 -83 1638 -63!1638
+ -63[1650 -43 1650 -18!1650 -18[1650 14 1632 35!1632 35[1613 56 1575 62!1575 62[1594 73 1606 86!1606 86[1618 99 1639 132!1639 132|1674 188!1674 188|1605 188!1605 188|1563 126!1563 126[1541 92 1532 84!1532 84[1524 75 1515 72!1515 72[1506
+ 68 1486 68!1486 68|1474 68!1474 68|1474 188!1474 188|1416 188!1416 188|1416 -99!1416 -99|1538 -99!1538 -99[1584 -99 1605 -91!1799 -24[1846 -24 1876 7!1876 7[1906 37 1906 84!1906 84[1906 131 1876 162!1876 162[1845 193 1799 193!1799 193
+[1771 193 1745 180!1745 180[1719 167 1705 142!1705 142[1692 117 1692 81!1692 81[1692 54 1705 28!1705 28[1719 3 1744 -11!1744 -11[1768 -24 1799 -24!2098 -8[2120 9 2130 42!2130 42|2075 52!2075 52[2073 35 2063 27!2063 27[2053 19 2038 19
+!2038 19[2017 19 2005 33!2005 33[1993 47 1993 81!1993 81[1993 117 2006 133!2006 133[2018 148 2039 148!2039 148[2054 148 2064 139!2064 139[2074 130 2078 109!2078 109|2132 118!2132 118[2124 155 2100 174!2100 174[2076 193 2036 193!2036 193
+[1991 193 1964 164!1964 164[1937 135 1937 84!1937 84[1937 33 1964 5!1964 5[1991 -24 2037 -24!2037 -24[2075 -24 2098 -8!2224 -99|2224 54!2224 54|2288 -19!2288 -19|2355 -19!2355 -19|2285 56!2285 56|2361 188!2361 188|2301 188!2301 188|2249
+ 95!2249 95|2224 122!2224 122|2224 188!2224 188|2169 188!2169 188|2169 -99!2169 -99|2224 -99!2710 -19|2710 24!2710 24|2672 24!2672 24|2672 108!2672 108[2672 133 2674 138!2674 138[2674 142 2678 144!2678 144[2682 147 2688 147!2688 147[2695
+ 147 2710 142!2710 142|2714 184!2714 184[2695 193 2671 193!2671 193[2656 193 2644 188!2644 188[2632 183 2627 175!2627 175[2621 167 2619 153!2619 153[2617 144 2617 115!2617 115|2617 24!2617 24|2592 24!2592 24|2592 -19!2592 -19|2617 -19
+!2617 -19|2617 -61!2617 -61|2672 -93!2672 -93|2672 -19!2672 -19|2710 -19!2570 100|2433 100!2433 100[2434 125 2446 138!2446 138[2459 152 2478 152!2478 152[2491 152 2500 145!2500 145[2508 138 2513 122!2513 122|2568 131!2568 131[2557 161
+ 2534 177!2534 177[2511 193 2477 193!2477 193[2423 193 2397 157!2397 157[2377 129 2377 86!2377 86[2377 34 2404 5!2404 5[2431 -24 2472 -24!2472 -24[2518 -24 2545 7!2545 7[2572 37 2570 100!2504 30[2492 18 2475 18!2475 18[2457 18 2445 31
+!2445 31[2434 44 2434 67!2434 67|2516 67!2516 67[2515 43 2504 30!1835 37[1821 21 1799 21!1799 21[1778 21 1763 37!1763 37[1748 53 1748 84!1748 84[1748 115 1763 132!1763 132[1778 148 1799 148!1799 148[1821 148 1835 132!1835 132[1850 115
+ 1850 84!1850 84[1850 53 1835 37"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-1856 -45|-1856 59!-1856 59[-1829 30 -1795 30!-1795 30[-1757 30 -1732 57!-1732 57[-1707 85 -1707 136!-1707 136[-1707 189 -1732 218!-1732 218[-1758 247 -1794 247!-1794 247[-1812 247 -1829 238!-1829 238[-1847 229 -1860 212!-1860 212|-1860
+ 242!-1860 242|-1911 242!-1911 242|-1911 -45!-1911 -45|-1856 -45!-2345 -45|-2345 3!-2345 3|-2430 3!-2430 3|-2430 242!-2430 242|-2487 242!-2487 242|-2487 3!-2487 3|-2572 3!-2572 3|-2572 -45!-2572 -45|-2345 -45!-1605 91[-1620 107 -1620
+ 138!-1620 138[-1620 169 -1605 186!-1605 186[-1590 202 -1569 202!-1569 202[-1547 202 -1533 186!-1533 186[-1518 169 -1518 138!-1518 138[-1518 107 -1533 91!-1533 91[-1547 75 -1569 75!-1569 75[-1590 75 -1605 91!-1492 216[-1523 247 -1569
+ 247!-1569 247[-1597 247 -1623 234!-1623 234[-1649 221 -1663 196!-1663 196[-1676 171 -1676 135!-1676 135[-1676 108 -1663 82!-1663 82[-1649 57 -1624 43!-1624 43[-1600 30 -1569 30!-1569 30[-1522 30 -1492 61!-1492 61[-1462 91 -1462 138!-1462
+ 138[-1462 185 -1492 216!-1809 72[-1829 72 -1843 87!-1843 87[-1856 103 -1856 134!-1856 134[-1856 166 -1846 181!-1846 181[-1832 203 -1807 203!-1807 203[-1789 203 -1776 188!-1776 188[-1763 172 -1763 139!-1763 139[-1763 103 -1776 88!-1776
+ 88[-1789 72 -1809 72!-2016 64[-2003 43 -1992 37!-1992 37[-1982 30 -1968 30!-1968 30[-1950 30 -1932 40!-1932 40|-1949 88!-1949 88[-1963 79 -1975 79!-1975 79[-1987 79 -1995 86!-1995 86[-2003 92 -2007 108!-2007 108[-2012 125 -2012 178!-2012
+ 178|-2012 242!-2012 242|-2067 242!-2067 242|-2067 35!-2067 35|-2016 35!-2016 35|-2016 64!-2176 35|-2121 35!-2121 35|-2121 242!-2121 242|-2172 242!-2172 242|-2172 211!-2172 211[-2183 228 -2201 237!-2201 237[-2220 247 -2241 247!-2241 247
+[-2261 247 -2278 238!-2278 238[-2295 228 -2302 212!-2302 212[-2309 195 -2309 166!-2309 166|-2309 35!-2309 35|-2255 35!-2255 35|-2255 130!-2255 130[-2255 174 -2251 184!-2251 184[-2249 193 -2241 199!-2241 199[-2233 205 -2220 205!-2220 205
+[-2206 205 -2195 197!-2195 197[-2184 189 -2180 178!-2180 178[-2176 167 -2176 122!-2176 122|-2176 35"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1542 -1134|1655 -1134!1655 -1134|1655 -1246!1655 -1246|1713 -1246!1713 -1246|1713 -960!1713 -960|1655 -960!1655 -960|1655 -1085!1655 -1085|1542 -1085!1542 -1085|1542 -960!1542 -960|1484 -960!1484 -960|1484 -1246!1484 -1246|1542 -1246
+!1542 -1246|1542 -1134!2557 -1172[2575 -1172 2593 -1162!2593 -1162|2576 -1114!2576 -1114[2562 -1123 2550 -1123!2550 -1123[2538 -1123 2530 -1116!2530 -1116[2522 -1110 2518 -1094!2518 -1094[2513 -1077 2513 -1024!2513 -1024|2513 -960!2513
+ -960|2458 -960!2458 -960|2458 -1167!2458 -1167|2509 -1167!2509 -1167|2509 -1138!2509 -1138[2522 -1159 2533 -1165!2533 -1165[2543 -1172 2557 -1172!1812 -1159[1836 -1172 1867 -1172!1867 -1172[1914 -1172 1944 -1141!1944 -1141[1974 -1111
+ 1974 -1064!1974 -1064[1974 -1017 1944 -986!1944 -986[1913 -955 1867 -955!1867 -955[1839 -955 1813 -968!1813 -968[1787 -981 1773 -1006!1773 -1006[1760 -1031 1760 -1067!1760 -1067[1760 -1094 1773 -1120!1773 -1120[1787 -1145 1812 -1159
+!1867 -1127[1846 -1127 1831 -1111!1831 -1111[1816 -1095 1816 -1064!1816 -1064[1816 -1033 1831 -1016!1831 -1016[1846 -1000 1867 -1000!1867 -1000[1889 -1000 1903 -1016!1903 -1016[1918 -1033 1918 -1064!1918 -1064[1918 -1095 1903 -1111!1903
+ -1111[1889 -1127 1867 -1127!2104 -1044[2107 -1053 2110 -1062!2110 -1062|2149 -1167!2149 -1167|2206 -1167!2206 -1167|2123 -960!2123 -960|2074 -960!2074 -960|1990 -1167!1990 -1167|2048 -1167!2048 -1167|2098 -1026!2098 -1026[2103 -1040
+ 2104 -1044!2291 -1117[2280 -1104 2280 -1081!2280 -1081|2362 -1081!2362 -1081[2361 -1105 2350 -1118!2350 -1118[2338 -1130 2321 -1130!2321 -1130[2303 -1130 2291 -1117!2318 -1172[2364 -1172 2391 -1141!2391 -1141[2418 -1111 2416 -1048!2416
+ -1048|2279 -1048!2279 -1048[2280 -1023 2292 -1010!2292 -1010[2305 -996 2324 -996!2324 -996[2337 -996 2346 -1003!2346 -1003[2354 -1010 2359 -1026!2359 -1026|2414 -1017!2414 -1017[2403 -987 2380 -971!2380 -971[2357 -955 2323 -955!2323
+ -955[2269 -955 2243 -991!2243 -991[2223 -1019 2223 -1062!2223 -1062[2223 -1114 2250 -1143!2250 -1143[2277 -1172 2318 -1172"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="Pause New Back Button">
+                  <matrix>
+                    <Matrix a="1.00041198730469" tx="-120" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Options Button">
+                  <matrix>
+                    <Matrix a="1.00083923339844" tx="120" ty="76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Star Button">
+                  <matrix>
+                    <Matrix a="1.00077819824219" tx="-119.95" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Exit Buton vfsh">
+                  <matrix>
+                    <Matrix a="1.00041198730469" tx="119.95" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName='Pause New "Options"'>
+                  <matrix>
+                    <Matrix a="1.39999389648438" d="1.39999389648438" ty="-124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Back Button">
+                  <matrix>
+                    <Matrix tx="119.95" ty="76.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Fludd Button">
+                  <matrix>
+                    <Matrix a="1.00054931640625" tx="-119.95" ty="122.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Star Button">
+                  <matrix>
+                    <Matrix a="1.00077819824219" tx="-119.95" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Exit Buton vfsh">
+                  <matrix>
+                    <Matrix a="1.00041198730469" tx="119.95" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName='Pause New "Exit"'>
+                  <matrix>
+                    <Matrix a="1.39999389648438" d="1.39999389648438" ty="-120"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Back Button">
+                  <matrix>
+                    <Matrix a="1.00041198730469" tx="120.55" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Fludd Button">
+                  <matrix>
+                    <Matrix a="1.00054931640625" tx="-119.95" ty="122.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Options Button">
+                  <matrix>
+                    <Matrix a="1.00083923339844" tx="120" ty="76.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Star Button">
+                  <matrix>
+                    <Matrix a="1.00077819824219" tx="-119.95" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Return Button">
+                  <matrix>
+                    <Matrix tx="-0.05" ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pause New Exit Button" selected="true">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-53.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.46875" d="0.2813720703125" ty="-0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.29290771484375" d="0.160842895507813" tx="-130.95" ty="-32"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.301960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.46875" d="0.669937133789063" ty="207"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="3" edges="
+!-4500 -1500|-4500 -3000!-4500 -3000|4500 -3000!4500 -3000|4500 -1500"/>
+                    <Edge fillStyle1="2" edges="
+!4500 -1500|4500 1000"/>
+                    <Edge fillStyle1="1" edges="
+!4500 1000|4500 3000!4500 3000|-4500 3000!-4500 3000|-4500 1000"/>
+                    <Edge fillStyle1="2" edges="
+!-4500 1000|-4500 -1500"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!-4500 -1500|4500 -1500"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!-4500 1000|4500 1000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.46875" d="0.625274658203125" ty="183.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.46875" d="0.2813720703125" ty="-0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!4500 -1940|-4500 -1940!-4500 -1940|-4500 -3000.5!-4500 -3000.5|4500 -3000.5!4500 -3000.5|4500 -1940"/>
+                    <Edge fillStyle1="2" edges="
+!-4500 1000|4500 1000!4500 1000|4500 3000!4500 3000|-4500 3000!-4500 3000|-4500 1000"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.29290771484375" d="0.160842895507813" tx="-130.95" ty="-32"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.301960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!4500 -1940S2|4500 1000!4500 1000|-4500 1000!-4500 1000|-4500 -1940!-4500 -1940|4500 -1940"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

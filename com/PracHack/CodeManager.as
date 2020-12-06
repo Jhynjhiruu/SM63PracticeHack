@@ -7,7 +7,7 @@ class com.PracHack.CodeManager {
     private var currentCode;
     private var lastCode;
     private var il;
-
+    
     // Constructor.
     public function CodeManager() {
         this.codeList = new Array();
@@ -72,8 +72,8 @@ class com.PracHack.CodeManager {
     public function execute(command) {
         var index = this.checkIfCommandMatches(command);
 
+        _root.textManager.send('message', '');
         if (index != -1) {
-            _root.textManager.send('message', '');
             var splitCmd = command.split(' ');
             this.codeList[index].execute(splitCmd);
 
@@ -84,7 +84,12 @@ class com.PracHack.CodeManager {
             }
         }
         else {
-            _root.textManager.send('message', 'The command entered is invalid.');
+            //_root.textManager.send('message', 'The command entered is invalid.');
+            _root.KoopaShell.newInstrs([command]);
+            if(com.PracHack.KoopaShell.Mnemonic(command).opcode != "last")
+            {
+                this.lastCode = command;
+            }
         }
 
         _root.utils.setPause(false);

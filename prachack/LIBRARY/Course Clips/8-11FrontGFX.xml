@@ -1,0 +1,152 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/8-11FrontGFX" itemID="48e521c0-00000e18" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="8-11FrontGFX" lastModified="1237228021" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="8-11FrontGFX">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                  <matrix>
+                    <Matrix a="2.65444946289063" d="2.655517578125" tx="-0.2" ty="-883.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (enterFrame) {
+	_rotation += 1
+}
+]]></script>
+                  </Actionscript>
+                  <color>
+                    <Color tintMultiplier="1"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                  <matrix>
+                    <Matrix a="3.26239013671875" b="3.26239013671875" c="-3.26739501953125" d="3.26751708984375" tx="-0.2" ty="-883.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (enterFrame) {
+	_rotation -= 0.6
+}
+]]></script>
+                  </Actionscript>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF0000"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                  <matrix>
+                    <Matrix a="2.81353759765625" b="6.81536865234375" c="-6.825927734375" d="2.81803894042969" tx="-0.2" ty="-883.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (enterFrame) {
+	_rotation -= -0.35;
+}
+]]></script>
+                  </Actionscript>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF0000"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brown-Red Stone" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="140.3" ty="-795.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brown-Red Stone" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-219.8" ty="37.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brown-Red Stone" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-220.8" ty="37.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2491 -16223S6|-2123 -16223!-2123 -16223|-2123 -16543!-2123 -16543|2176 -16543!2176 -16543|2176 -16203!2176 -16203|2499 -16203!2499 -16203|2499 -15903!2499 -15903|4405 -15903!4405 -15903|4405 -15303!4405 -15303|-4394 -15303!-4394 -15303
+|-4394 -15903!-4394 -15903|-2491 -15903!-2491 -15903|-2491 -16223"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!2499 -15903S7|2443 -15903"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="
+!4374 -12727S5|3225 -12727!3225 -12727|3225 -12567!3225 -12567|3065 -12567!3065 -12567|3065 -12407!3065 -12407|2905 -12407!2905 -12407|2905 -12247!2905 -12247|2745 -12247!2745 -12247|2745 -12087!2745 -12087|2585 -12087!2585 -12087|2585
+ -11927!2585 -11927|2425 -11927!2425 -11927|2425 -11767!2425 -11767|2265 -11767!2265 -11767|2265 -11607!2265 -11607|2105 -11607!2105 -11607|2105 -11447!2105 -11447|1945 -11447!1945 -11447|1945 -11287!1945 -11287|1785 -11287!1785 -11287
+|1785 -11127!1785 -11127|1625 -11127!1625 -11127|1625 -10967!1625 -10967|1465 -10967!1465 -10967|1465 -10807!1465 -10807|1305 -10807!1305 -10807|1305 -10647!1305 -10647|1145 -10647!1145 -10647|1145 -10487!1145 -10487|985 -10487!985 -10487
+|985 -10294!985 -10294|826 -10294!826 -10294|826 -10134!826 -10134|666 -10134!666 -10134|666 -9974!666 -9974|506 -9974!506 -9974|506 -9814!506 -9814|346 -9814!346 -9814|346 -9654!346 -9654|186 -9654!186 -9654|186 -9494!186 -9494|26 -9494
+!26 -9494|26 -9334!26 -9334|-134 -9334!-134 -9334|-134 -9174!-134 -9174|-294 -9174!-294 -9174|-294 -9014!-294 -9014|-454 -9014!-454 -9014|-454 -8854!-454 -8854|-614 -8854!-614 -8854|-614 -8694!-614 -8694|-774 -8694!-774 -8694|-774 -8534
+!-774 -8534|-934 -8534!-934 -8534|-934 -8374!-934 -8374|-1094 -8374!-1094 -8374|-1094 -8214!-1094 -8214|-1254 -8214!-1254 -8214|-1254 -8054!-1254 -8054|-1414 -8054!-1414 -8054|-1414 -7894!-1414 -7894|-1895 -7894!-1895 -7894|-1895 -7283
+!-1895 -7283|-1266 -7283!-1266 -7283|3394 -12083!3394 -12083|4374 -12083!4374 -12083|4374 -12727"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="
+!24 -4075S6|184 -4075!184 -4075|184 -3915!184 -3915|344 -3915!344 -3915|344 -3755!344 -3755|504 -3755!504 -3755|504 -3595!504 -3595|663 -3595!663 -3595|663 -3402!663 -3402|1114 -3402!1114 -3402|1114 -2815!1114 -2815|514 -2815!514 -2815
+|-1897 -5355!-1897 -5355|-4377 -5355!-4377 -5355|-4377 -5995!-4377 -5995|-1736 -5995!-1736 -5995|-1736 -5835!-1736 -5835|-1576 -5835!-1576 -5835|-1576 -5675!-1576 -5675|-1416 -5675!-1416 -5675|-1416 -5515!-1416 -5515|-1256 -5515!-1256
+ -5515|-1256 -5355!-1256 -5355|-1096 -5355!-1096 -5355|-1096 -5195!-1096 -5195|-936 -5195!-936 -5195|-936 -5035!-936 -5035|-776 -5035!-776 -5035|-776 -4875!-776 -4875|-616 -4875!-616 -4875|-616 -4715!-616 -4715|-456 -4715!-456 -4715|-456
+ -4555!-456 -4555|-296 -4555!-296 -4555|-296 -4395!-296 -4395|-136 -4395!-136 -4395|-136 -4235!-136 -4235|24 -4235!24 -4235|24 -4075"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="
+!1295 -1337S5|1295 -1177!1295 -1177|1135 -1177!1135 -1177|1135 -1017!1135 -1017|975 -1017!975 -1017|975 -857!975 -857|815 -857!815 -857|815 -697!815 -697|655 -697!655 -697|655 -537!655 -537|495 -537!495 -537|495 -377!495 -377|335 -377
+!335 -377|335 -217!335 -217|175 -217!175 -217|175 -57!175 -57|15 -57!15 -57|15 103!15 103|-145 103!-145 103|-145 263!-145 263|-305 263!-305 263|-305 423!-305 423|-465 423!-465 423|-465 583!-465 583|-625 583!-625 583|-625 776!-625 776
+|-1076 776!-1076 776|-1076 1363!-1076 1363|-476 1363!-476 1363|1935 -1177!1935 -1177|4415 -1177!4415 -1177|4415 -1817!4415 -1817|1775 -1817!1775 -1817|1775 -1657!1775 -1657|1615 -1657!1615 -1657|1615 -1497!1615 -1497|1455 -1497!1455 -1497
+|1455 -1337!1455 -1337|1295 -1337"/>
+                        <Edge fillStyle0="3" strokeStyle="1" edges="
+!-2226 743S5|-4416 743!-4416 743|-4416 1383!-4416 1383|-2226 1383!-2226 1383|-2226 743"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText selected="true" width="100" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="84.95" ty="525.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FrontGFX</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="13" face="ArialMT" fillColor="#00CCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

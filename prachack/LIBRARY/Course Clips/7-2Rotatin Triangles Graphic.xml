@@ -1,0 +1,284 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/7-2Rotatin Triangles Graphic" itemID="4931d678-0000151a" symbolType="graphic" lastModified="1228002968">
+  <timeline>
+    <DOMTimeline name="7-2Rotatin Triangles Graphic">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="-0.4" y="8.1"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="-0.4" y="8.1"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="7.5" b="-12.9904174804688" c="12.9904174804688" d="7.5" tx="86.7" ty="16.8"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-15" d="-15" tx="107.7" ty="25.05"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="4">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="7.50006103515625" b="12.9904174804688" c="-12.9904174804688" d="7.50006103515625" tx="74.4" ty="7.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!-1 -518|0 -520!0 -520|3 -516"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!3 -516|590 503"/>
+                        <Edge strokeStyle="1" edges="!590 503|598 517"/>
+                        <Edge fillStyle1="3" strokeStyle="1" edges="!598 517|600 520!600 520|-597 520"/>
+                        <Edge strokeStyle="1" edges="!-597 520|-600 520!-600 520|-599 518"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!-599 518|-1 -518"/>
+                        <Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="!57 195[63 182 63 166!63 166[63 139 45 121!45 121[27 103 2 102"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!2 102[1 102 -1 102!-1 102[-28 102 -46 121!-46 121[-65 139 -65 166!-65 166[-65 180 -60 191"/>
+                        <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!-60 191[-55 203 -46 212!-46 212[-28 230 -1 230!-1 230[26 230 45 212!45 212[52 204 57 195"/>
+                        <Edge fillStyle0="3" edges="!598 517|594 511"/>
+                        <Edge fillStyle0="3" fillStyle1="4" edges="!594 511|57 195"/>
+                        <Edge fillStyle1="4" edges="!590 503|594 511"/>
+                        <Edge fillStyle0="2" fillStyle1="4" edges="!2 102|3 -516"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="!3 -516|-1 -518!-599 518|-597 520"/>
+                        <Edge fillStyle0="2" fillStyle1="3" edges="!-597 520|-60 191"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="0.4" y="-8.1"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="0.4" y="-8.1"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-7.5" b="12.9904174804688" c="-12.9904174804688" d="-7.5" tx="-86.7" ty="-16.8"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-107.7" ty="-25.05"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="4">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-7.50006103515625" b="-12.9904174804688" c="12.9904174804688" d="-7.50006103515625" tx="-74.4" ty="-7.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!597 -520|600 -520!600 -520|599 -518"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!599 -518|1 518"/>
+                        <Edge strokeStyle="1" edges="!1 518|0 520!0 520|-3 516"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!-3 516|-590 -503"/>
+                        <Edge strokeStyle="1" edges="!-590 -503|-598 -517"/>
+                        <Edge fillStyle1="3" strokeStyle="1" edges="!-598 -517|-600 -520!-600 -520|597 -520"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!599 -518|597 -520"/>
+                        <Edge fillStyle0="1" fillStyle1="3" edges="!597 -520|60 -191"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!60 -191[65 -180 65 -166!65 -166[65 -139 46 -121!46 -121[28 -102 1 -102!1 -102[-1 -102 -2 -102"/>
+                        <Edge fillStyle0="1" fillStyle1="4" edges="!-2 -102|-3 516"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-3 516|1 518"/>
+                        <Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="!60 -191[55 -203 46 -212!46 -212[28 -230 1 -230!1 -230[-26 -230 -45 -212!-45 -212[-52 -204 -57 -195"/>
+                        <Edge fillStyle0="2" fillStyle1="4" strokeStyle="1" edges="!-57 -195[-63 -182 -63 -166!-63 -166[-63 -139 -45 -121!-45 -121[-27 -103 -2 -102"/>
+                        <Edge fillStyle1="4" edges="!-590 -503|-594 -511"/>
+                        <Edge fillStyle1="3" edges="!-594 -511|-598 -517"/>
+                        <Edge fillStyle0="4" fillStyle1="3" edges="!-57 -195|-594 -511"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="-0.3" y="-7.55"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="-0.3" y="-7.55"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-7.95584106445313" b="12.7142791748047" c="-12.7142791748047" d="-7.95584106445313" tx="-86.95" ty="-19.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="14.9887847900391" b="0.5328369140625" c="-0.5328369140625" d="14.9887847900391" tx="-107.65" ty="-28.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                        <FillStyle index="4">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-7.03298950195313" b="-13.2471160888672" c="13.2471160888672" d="-7.03298950195313" tx="-75" ty="-9.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="!-16 -92[-15 -92 -13 -92!-13 -92[14 -91 32 -110!32 -110[52 -127 53 -154!53 -154[53 -168 49 -179"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!49 -179[44 -191 36 -200!36 -200[18 -218 -9 -219!-9 -219[-36 -220 -55 -203!-55 -203[-63 -196 -68 -187"/>
+                        <Edge fillStyle0="3" fillStyle1="4" strokeStyle="1" edges="!-68 -187[-75 -174 -75 -158!-75 -158[-76 -131 -59 -113!-59 -113[-41 -94 -16 -92"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!596 -488|49 -179"/>
+                        <Edge strokeStyle="1" edges="!596 -488|599 -488!599 -488|598 -486"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!598 -486|-35 528"/>
+                        <Edge strokeStyle="1" edges="!-35 528|-36 530!-36 530|-39 526"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!-39 526|-590 -513"/>
+                        <Edge strokeStyle="1" edges="!-590 -513|-598 -527"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!-598 -527|-600 -530!-600 -530|596 -488"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!596 -488|598 -486"/>
+                        <Edge fillStyle1="4" edges="!-590 -513|-594 -521"/>
+                        <Edge fillStyle1="2" edges="!-594 -521|-598 -527"/>
+                        <Edge fillStyle0="4" fillStyle1="2" edges="!-68 -187|-594 -521"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-35 528|-39 526"/>
+                        <Edge fillStyle0="4" fillStyle1="1" edges="!-39 526|-16 -92"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="1.2" y="-7.35"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="1.2" y="-7.35"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-6.861572265625" b="13.3344879150391" c="-13.3344116210938" d="-6.86190795898438" tx="-86.15" ty="-11.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="14.9786987304688" b="-0.724639892578125" c="0.724868774414063" d="14.9789428710938" tx="-107.5" ty="-19.1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                        <FillStyle index="4">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-8.11717224121094" b="-12.60986328125" c="12.6095428466797" d="-8.11709594726563" tx="-73.4" ty="-2.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!596 -534|599 -534!599 -534|598 -532"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!598 -532|51 532"/>
+                        <Edge strokeStyle="1" edges="!51 532|50 534!50 534|47 530"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!47 530|-593 -467"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!-593 -467|-599 -476!-599 -476|596 -534"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!598 -532|596 -534"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!596 -534|76 -179"/>
+                        <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!76 -179[81 -168 82 -154!82 -154[83 -127 65 -108!65 -108[48 -88 21 -87!21 -87[19 -87 18 -87"/>
+                        <Edge fillStyle0="1" fillStyle1="4" edges="!18 -87|47 530"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!47 530|51 532"/>
+                        <Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="!-41 -177[-37 -187 -30 -195!-30 -195[-12 -214 15 -215!15 -215[42 -216 61 -199!61 -199[70 -191 76 -179"/>
+                        <Edge fillStyle0="2" fillStyle1="4" edges="!-593 -467|-41 -177"/>
+                        <Edge fillStyle0="4" fillStyle1="3" strokeStyle="1" edges="!18 -87[-7 -87 -26 -104!-26 -104[-45 -121 -46 -148!-46 -148[-47 -164 -41 -177"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,1235 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/ 2 - Snowman's Land/2-3 FrontGFX" itemID="47255749-00000aab" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="2-3FrontGFX" lastModified="1215237753" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="2-3 FrontGFX">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Ground" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-10.5" ty="71.55"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!30965 -1290[35020 #FFFF56.C3 39075 -392!39075 -392|39075 3310!39075 3310|-992 3310!-992 3310|-992 170!-992 170|5147 170!5147 170|5147 130!5147 130|5347 -590!5347 -590|6847 -590!6847 -590|6967 1351!6967 1351|7167 1491!7167 1491|22466
+ 1491!22466 1491|22786 1171!22786 1171|22786 -590!22786 -590|22764.5 -619!22764.5 -619|23366 -1070!23366 -1070|23373 -1129.5!23373 -1129.5|25607 -870!25607 -870|25627 -850!25627 -850|30325 -630!30325 -630|30815 -700!30815 -700|30965 -1290"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="1703.15" ty="-43.65"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!39194 -860|34755 -860!34755 -860|34755 -253!34755 -253|39194 -253!39194 -253|39194 -860"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix tx="557.05" ty="32.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix tx="610.55" ty="31.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix tx="620.55" ty="32.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <SolidColor color="#F8F8F8"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="2" edges="
+!6817 557|6817 872!6817 872|22797 872!22797 872|22797 557"/>
+                        <Edge fillStyle0="2" fillStyle1="1" edges="
+!22797 557|6817 557"/>
+                        <Edge fillStyle0="1" edges="
+!22797 557|22797 517!22797 517|6817 517!6817 517|6817 557"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Snowy Ground/YI - Ice Flat Wall - 5" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="340.9" ty="41.95"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!22756 849|6818 849!6818 849|6818 1489!6818 1489|22756 1489!22756 1489|22756 849"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix tx="1520.25" ty="-50.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (3)">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.258819580078125" c="-0.258819580078125" d="0.965927124023438" tx="1149.05" ty="-72.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.3185424804688" b="5.1763916015625" c="-5.1763916015625" d="19.3185424804688" tx="199.9" ty="-17.65"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!4308 -257|4151 330!4151 330|4824 510!4824 510|4824 -118!4824 -118|4308 -257"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="127.35" ty="-18.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!2871 -354|2871 253!2871 253|4178 253!4178 253|4178 -354!4178 -354|2871 -354"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText left="23.05" width="97.9" height="22.35" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="71.1" ty="382"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Front GFX</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="-1" tx="282.35" ty="-45.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="-1" tx="217.2" ty="-17"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-61.4" ty="1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!2466 33|-904 33!-904 33|-904 640!-904 640|2466 640!2466 640|2466 33"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix tx="119.7" ty="-3.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (4)">
+                  <matrix>
+                    <Matrix tx="129.05" ty="-16"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (1)">
+                  <matrix>
+                    <Matrix tx="236.7" ty="-15.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 1">
+                  <matrix>
+                    <Matrix tx="337.2" ty="-40.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0.01434326171875" b="-19.9380493164063" c="19.9380493164063" d="0.01434326171875" tx="355.65" ty="86.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!22471 1701|7113 1701!7113 1701|7112.5 1401!7112.5 1401|22471 1401!22471 1401|22471 1701"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (3)">
+                  <matrix>
+                    <Matrix tx="251.85" ty="-45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="257.3" ty="-41"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!5607 -200|6777 -200!6777 -200|6777 -807!6777 -807|5607 -807!5607 -807|5607 -200"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="336.5" ty="-9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!7059 -180|7059 1366!7059 1366|6730 1366!6730 1366|6730 -180!6730 -180|7059 -180"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10" b="-17.320556640625" c="17.320556640625" d="10" tx="340.85" ty="77.95"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!7122 1735|6817 1559!6817 1559|6981 1275!6981 1275|7286 1451!7286 1451|7122 1735"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-14.1421508789063" b="-14.1421508789063" c="14.1424560546875" d="-14.1421508789063" tx="1128.95" ty="83.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!22347 1437|22597 1187!22597 1187|22829 1419!22829 1419|22579 1669!22579 1669|22347 1437"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-20" d="-20" tx="1142.6" ty="64.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!22852 -257|22852 1289!22852 1289|22523 1289!22523 1289|22523 -257!22523 -257|22852 -257"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 2">
+                  <matrix>
+                    <Matrix a="-1" tx="1142.6" ty="-41.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.3185424804688" b="5.1763916015625" c="-5.1763916015625" d="19.3185424804688" tx="1242.5" ty="-59.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!25676 -955|25160 -1094!25160 -1094|25003 -507!25003 -507|25676 -327!25676 -327|25676 -955"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="-1" tx="1259.8" ty="-58.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix tx="1158.35" ty="-76.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (1)">
+                  <matrix>
+                    <Matrix tx="1437.8" ty="-57.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (3)">
+                  <matrix>
+                    <Matrix tx="1535.75" ty="-79.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="1148.55" ty="-77"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!23427 -920|24566 -920!24566 -920|24566 -1527!24566 -1527|23427 -1527!23427 -1527|23427 -920"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (4)">
+                  <matrix>
+                    <Matrix a="-1" tx="1244.3" ty="-73.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="1256.9" ty="-49.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!28765 -984|25593.5 -984!25593.5 -984|25593.5 -377!25593.5 -377|28765 -377!28765 -377|28765 -984"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (4)">
+                  <matrix>
+                    <Matrix a="-1" tx="1469.3" ty="-57.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="1446.5" ty="-45.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!29386 -283|30425 -283!30425 -283|30425 -890!30425 -890|29386 -890!29386 -890|29386 -283"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix a="-1" tx="417" ty="21.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix a="-1" tx="427" ty="23"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix a="-1" tx="477" ty="21.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix a="-1" tx="522" ty="23"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix a="-1" tx="842" ty="23"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix a="-1" tx="1012" ty="23"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix a="-1" tx="1082" ty="23"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix a="-1" tx="607" ty="21.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix a="-1" tx="627" ty="21.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix a="-1" tx="727" ty="21.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix a="-1" tx="807" ty="21.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk">
+                  <matrix>
+                    <Matrix a="-1" tx="1027" ty="21.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/ Snowy Ground/Yi - Ice Chunk 2">
+                  <matrix>
+                    <Matrix a="-1" tx="617" ty="23"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Snow Repeat 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="1314.8" ty="-494.1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Wood Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="1104.95" ty="-321.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="
+!25869 -9977|25852 -9977!25852 -9977|25852 -10141!25852 -10141|27244 -10141!27244 -10141|27244 -9977!27244 -9977|27182 -9977"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!27182 -9977[#6A29.46 #FFD928.08 27177 -9909!27177 -9909[27177 -9836 27225 -9776!27225 -9776[27261 -9732 27299 -9689!27299 -9689[27276 -9583 27263 -9528!27263 -9528[27259 -9509 27257 -9489!27257 -9489[27254 -9469 27246 -9450!27246 -9450
+[27211 -9369 27189 -9279!27189 -9279[27182 -9249 27165 -9225!27165 -9225[27154 -9209 27145 -9191!27145 -9191[27069 -9036 26976 -8932!26976 -8932[26957 -8910 26942 -8896!26942 -8896[26864 -8811 26833 -8721!26833 -8721[26775 -8660 26739
+ -8639!26739 -8639[26730 -8710 26701 -8770!26701 -8770[26659 -8779 26663 -8728!26663 -8728[26654 -8613 26611 -8528!26611 -8528[26568 -8445 26488 -8425!26488 -8425[26454 -8493 26470 -8561!26470 -8561[26479 -8599 26480 -8639!26480 -8639
+[26483 -8723 26472 -8799!26472 -8799[26469 -8822 26448 -8838!26448 -8838[26433 -8849 26424 -8878!26424 -8878[26417 -8900 26399 -8919!26399 -8919[26338 -8979 26286 -9036!26286 -9036[26274 -9049 26262 -9062!26262 -9062[26230 -9099 26189
+ -9129!26189 -9129[26133 -9172 26092 -9203!26092 -9203[26069 -9224 26061 -9231!26061 -9231[25994 -9286 25997 -9379!25997 -9379[25999 -9439 26003 -9499!26003 -9499[26004 -9514 26005 -9529!26005 -9529[26008 -9564 26011 -9599!26011 -9599
+[26016 -9662 25951 -9676!25951 -9676[25873 -9731 25871 -9809!25871 -9809[#650D.A8 -9893 25869 -9977"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
+!27182 -9977|25869 -9977"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Snowy/YI Snow Tree Small">
+                  <matrix>
+                    <Matrix tx="1315.9" ty="-583.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Chunk" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="980.45" ty="-557.65"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!19941 -12899[20086 -12901 20158 -12862!20158 -12862[20239 -12819 20335 -12692!20335 -12692[20386 -12625 20448 -12532!20448 -12532[20548 -12407 20568 -12352!20568 -12352[20608 -12247 20608 -12087!20608 -12087[20608 -11979 20606 -11965
+!20606 -11965[20598 -11912 20560 -11886!20560 -11886[20478 -11832 20098 -11842!20098 -11842[19940 -11846 19478 -11836!19478 -11836[19389 -11834 19323 -11833!19323 -11833|19128 -11842!19128 -11842|18478 -11842!18478 -11842[18373 -11838
+ 18307 -11839!18307 -11839[18257 -11841 18229 -11845!18229 -11845[18132 -11859 18048 -11952!18048 -11952|18048 -12002!18048 -12002[18036 -12033 18040 -12093!18040 -12093[18042 -12126 18048 -12167!18048 -12167[18066 -12285 18058 -12362
+!18058 -12362[18051 -12423 18129 -12520!18129 -12520[18194 -12600 18258 -12642!18258 -12642[18397 -12731 18490 -12811!18490 -12811[18569 -12879 18582 -12886!18582 -12886[18615 -12903 18702 -12904!18702 -12904[18762 -12905 18998 -12902
+!18998 -12902[19008 -12902 19018 -12902!19018 -12902[19386 -12902 19698 -12892!19698 -12892[19775 -12890 19941 -12899"/>
+                        <Edge cubics="!18448 -12142(;18438,-12152 18438,-12157 18438,-12182q18448 -12142Q18441 -12149q18439 -12156Q18438 -12162q18438 -12182);"/>
+                        <Edge cubics="!18438 -12182(;18438,-12230 18515,-12390 18548,-12412q18438 -12182Q18438 -12218q18481 -12307Q18523 -12395q18548 -12412);"/>
+                        <Edge cubics="!18548 -12412(;18568,-12426 18706,-12511 18718,-12522q18548 -12412Q18554 -12416q18636 -12468Q18711 -12516q18718 -12522);"/>
+                        <Edge cubics="!18718 -12522(;18762,-12562 18933,-12692 18988,-12732q18718 -12522Q18748 -12549q18849 -12627Q18936 -12694q18988 -12732);"/>
+                        <Edge cubics="!18988 -12732(;19177,-12872 19350,-12862 19558,-12862q18988 -12732Q19113 -12825q19266 -12849Q19343 -12862q19558 -12862);"/>
+                        <Edge cubics="!18018 -11972(;18031,-12102 18072,-12233 18058,-12362q18018 -11972Q18018 -11976q18048 -12167Q18066 -12285q18058 -12362);"/>
+                        <Edge cubics="!18058 -12362(;18048,-12453 18191,-12598 18258,-12642q18058 -12362Q18051 -12423q18129 -12520Q18194 -12600q18258 -12642);"/>
+                        <Edge cubics="!18258 -12642(;18735,-12946 18391,-12902 19018,-12902q18258 -12642Q18397 -12731q18490 -12811Q18569 -12879q18582 -12886Q18615 -12903q18702 -12904Q18765 -12905q19018 -12902);"/>
+                        <Edge cubics="!19018 -12902(;19018,-12902 18998,-12902 18998,-12902q19018 -12902 18998 -12902);"/>
+                        <Edge cubics="!18998 -12902(;19258,-12902 19538,-12897 19698,-12892q18998 -12902Q19378 -12902q19698 -12892);"/>
+                        <Edge cubics="!19698 -12892(;19851,-12888 20040,-12926 20158,-12862q19698 -12892Q19775 -12890q19941 -12899Q20086 -12901q20158 -12862);"/>
+                        <Edge cubics="!20158 -12862(;20288,-12792 20403,-12588 20448,-12532q20158 -12862Q20239 -12819q20335 -12692Q20386 -12625q20448 -12532);"/>
+                        <Edge cubics="!20448 -12532(;20476,-12497 20543,-12421 20568,-12352q20448 -12532Q20502 -12464q20509 -12455Q20552 -12396q20568 -12352);"/>
+                        <Edge cubics="!20568 -12352(;20608,-12247 20608,-12153 20608,-12087q20568 -12352Q20594 -12283q20603 -12205Q20608 -12160q20608 -12087);"/>
+                        <Edge cubics="!20608 -12087(;20608,-11893 20650,-11828 20098,-11842q20608 -12087Q20608 -11979q20606 -11965Q20598 -11912q20560 -11886Q20478 -11832q20098 -11842);"/>
+                        <Edge cubics="!20098 -11842(;19738,-11851 19128,-11817 19128,-11842q20098 -11842Q19940 -11846q19478 -11836Q19128 -11828q19128 -11842);"/>
+                        <Edge cubics="!19128 -11842(;19128,-11842 19323,-11842 19323,-11842q19128 -11842 19323 -11842);"/>
+                        <Edge cubics="!19323 -11842(;18828,-11842 18648,-11840 18478,-11842q19323 -11842Q18478 -11842q18478 -11842);"/>
+                        <Edge cubics="!18478 -11842(;18260,-11845 18176,-11810 18048,-11952q18478 -11842Q18294 -11835q18229 -11845Q18132 -11859q18048 -11952);"/>
+                        <Edge cubics="!18048 -11952(;18048,-11952 18048,-12002 18048,-12002q18048 -11952 18048 -12002);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Chunk" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="866.55" ty="-537.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!16628 -12065[16623 -11864 16613 -11835!16613 -11835[16589 -11769 16483 -11746!16483 -11746[16225 -11689 16171 -11681!16171 -11681[16079 -11666 15943 -11666!15943 -11666[15707 -11666 15645 -11677!15645 -11677[15536 -11696 15413 -11786
+!15413 -11786[15363 -11823 15313 -12036!15313 -12036|15313 -12251!15313 -12251[15313 -12291 15306 -12421!15306 -12421[15302 -12491 15314 -12516!15314 -12516[15328 -12547 15380 -12557!15380 -12557[15426 -12566 15548 -12566!15548 -12566
+[15566 -12566 15632 -12558!15632 -12558[16621 -12630 16627 -12448!16627 -12448[16632 -12267 16628 -12065"/>
+                        <Edge cubics="!15373 -11600(;15373,-11886 15296,-11915 15608,-11915q15373 -11600Q15373 -11640q15366 -11770Q15362 -11840q15374 -11865Q15388 -11896q15440 -11906Q15486 -11915q15608 -11915);"/>
+                        <Edge cubics="!15608 -11915(;15680,-11915 15906,-11875 16023,-11875q15608 -11915Q15638 -11915q15799 -11895Q15959 -11875q16023 -11875);"/>
+                        <Edge cubics="!16023 -11875(;16143,-11875 16295,-11861 16383,-11875q16023 -11875Q16023 -11875q16215 -11870Q16330 -11867q16383 -11875);"/>
+                        <Edge cubics="!16383 -11875(;16691,-11925 16683,-11564 16683,-11350q16383 -11875Q16584 -11908q16649 -11711Q16683 -11607q16683 -11350);"/>
+                        <Edge cubics="!16683 -11350(;16683,-11213 16702,-11130 16543,-11095q16683 -11350Q16683 -11213q16673 -11184Q16649 -11118q16543 -11095);"/>
+                        <Edge cubics="!16543 -11095(;16237,-11028 16198,-11015 16003,-11015q16543 -11095Q16285 -11038q16231 -11030Q16139 -11015q16003 -11015);"/>
+                        <Edge cubics="!16003 -11015(;15737,-11015 15652,-11004 15473,-11135q16003 -11015Q15767 -11015q15705 -11026Q15596 -11045q15473 -11135);"/>
+                        <Edge cubics="!15473 -11135(;15442,-11158 15421,-11181 15373,-11385q15473 -11135Q15446 -11155q15429 -11192Q15406 -11245q15373 -11385);"/>
+                        <Edge cubics="!15373 -11385(;15373,-11445 15373,-11495 15373,-11535q15373 -11385 15373 -11535);"/>
+                        <Edge cubics="!15373 -11535(;15373,-11540 15373,-11596 15373,-11600q15373 -11535 15373 -11600);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Chunk" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="20" tx="694.25" ty="-482.8"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Chunk" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="20" tx="720.25" ty="-476.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!14289 -13210[14417 -13209 14478 -13174!14478 -13174[14555 -13131 14555 -13025!14555 -13025[14555 -12965 14530 -12887!14530 -12887[14505 -12809 14505 -12720!14505 -12720[14505 -12597 14525 -12565!14525 -12565[14545 -12533 14517 -12356
+!14517 -12356[14488 -12179 14341 -11978!14341 -11978[14194 -11777 14168 -11861!14168 -11861[14142 -11945 14094 -12010!14094 -12010[14070 -12042 14035 -12145!14035 -12145[14001 -12241 13915 -12445!13915 -12445[13894 -12501 13886 -12602
+!13886 -12602[13877 -12717 13865 -12765!13865 -12765[13823 -12925 13735 -13035!13735 -13035|13815 -13216!13815 -13216[13899 -13196 14048 -13201!14048 -13201[14130 -13204 14289 -13210"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="
+!12984 -13056[12980 -13041 12976 -12926!12976 -12926[12979 -12831 12976 -12767!12976 -12767[12969 -12653 12920 -12486!12920 -12486[12907 -12445 12866 -12348!12866 -12348[12673 -12070 12671 -12085!12671 -12085[12663 -12163 12633 -12216
+!12633 -12216[12559 -12315 12538 -12356!12538 -12356[12527 -12376 12519 -12417!12519 -12417[12510 -12456 12488 -12599!12488 -12599[12466 -12743 12432 -12804!12432 -12804[12398 -12866 12360 -13268!12360 -13268[12363 -13293 12367 -13324
+!12367 -13324[12378 -13382 12426 -13386!12426 -13386[12673 -13386 12781 -13396!12781 -13396[12895 -13396 12944 -13366!12944 -13366[13015 -13322 13015 -13191!13015 -13191[13015 -13152 13009 -13134!13009 -13134[12989 -13078 12984 -13056"/>
+                        <Edge cubics="!15718 -12367(;15718,-12653 15641,-12682 15953,-12682q15718 -12367Q15718 -12407q15711 -12537Q15707 -12607q15719 -12632Q15733 -12663q15785 -12673Q15831 -12682q15953 -12682);"/>
+                        <Edge cubics="!15953 -12682(;16025,-12682 16251,-12642 16368,-12642q15953 -12682Q15983 -12682q16144 -12662Q16304 -12642q16368 -12642);"/>
+                        <Edge cubics="!16368 -12642(;16488,-12642 16640,-12628 16728,-12642q16368 -12642Q16368 -12642q16560 -12637Q16675 -12634q16728 -12642);"/>
+                        <Edge cubics="!16728 -12642(;17036,-12692 17028,-12331 17028,-12117q16728 -12642Q16929 -12675q16994 -12478Q17028 -12374q17028 -12117);"/>
+                        <Edge cubics="!17028 -12117(;17028,-11980 17047,-11897 16888,-11862q17028 -12117Q17028 -11980q17018 -11951Q16994 -11885q16888 -11862);"/>
+                        <Edge cubics="!16888 -11862(;16582,-11795 16543,-11782 16348,-11782q16888 -11862Q16630 -11805q16576 -11797Q16484 -11782q16348 -11782);"/>
+                        <Edge cubics="!16348 -11782(;16082,-11782 15997,-11771 15818,-11902q16348 -11782Q16112 -11782q16050 -11793Q15941 -11812q15818 -11902);"/>
+                        <Edge cubics="!15818 -11902(;15787,-11925 15766,-11948 15718,-12152q15818 -11902Q15791 -11922q15774 -11959Q15751 -12012q15718 -12152);"/>
+                        <Edge cubics="!15718 -12152(;15718,-12212 15718,-12262 15718,-12302q15718 -12152 15718 -12302);"/>
+                        <Edge cubics="!15718 -12302(;15718,-12307 15718,-12363 15718,-12367q15718 -12302 15718 -12367);"/>
+                        <Edge cubics="!13728 -13903(;13711,-13880 13685,-13796 13678,-13743q13728 -13903Q13715 -13886q13699 -13834Q13683 -13783q13678 -13743);"/>
+                        <Edge cubics="!13678 -13743(;13670,-13677 13678,-13627 13678,-13623q13678 -13743Q13673 -13702q13675 -13660Q13678 -13625q13678 -13623);"/>
+                        <Edge cubics="!13678 -13623(;13678,-13420 13750,-13233 13728,-13012q13678 -13623Q13678 -13542q13711 -13324Q13740 -13135q13728 -13012);"/>
+                        <Edge cubics="!13728 -13012(;13693,-12651 14102,-12662 14198,-12662q13728 -13012Q13706 -12782q13914 -12702Q14017 -12662q14198 -12662);"/>
+                        <Edge cubics="!14198 -12662(;14356,-12662 14420,-12638 14428,-12882q14198 -12662Q14342 -12662q14369 -12680Q14423 -12716q14428 -12882);"/>
+                        <Edge cubics="!14428 -12882(;14435,-13048 14428,-13195 14428,-13338q14428 -12882Q14432 -12982q14431 -13119Q14430 -13194q14428 -13338);"/>
+                        <Edge cubics="!14428 -13338(;14428,-13918 14542,-13993 14008,-13993q14428 -13338Q14428 -13483q14437 -13685Q14441 -13828q14418 -13883Q14390 -13949q14299 -13972Q14216 -13993q14008 -13993);"/>
+                        <Edge cubics="!14008 -13993(;13983,-13993 13888,-13996 13828,-13993q14008 -13993Q13966 -13994q13931 -13994Q13865 -13995q13828 -13993);"/>
+                        <Edge cubics="!13828 -13993(;13780,-13991 13708,-14017 13708,-13928q13828 -13993Q13774 -13998q13750 -13993Q13708 -13985q13708 -13928);"/>
+                        <Edge cubics="!13708 -13928(;13708,-13903 13718,-13883 13718,-13863q13708 -13928Q13708 -13915q13713 -13894Q13718 -13872q13718 -13863);"/>
+                        <Edge cubics="!11870 -14023(;12148,-13957 12610,-14137 12610,-13832q11870 -14023Q11954 -14003q12103 -14008Q12185 -14011q12344 -14017Q12472 -14016q12533 -13981Q12610 -13938q12610 -13832);"/>
+                        <Edge cubics="!12610 -13832(;12610,-13702 12560,-13696 12560,-13527q12610 -13832Q12610 -13772q12585 -13694Q12560 -13616q12560 -13527);"/>
+                        <Edge cubics="!12560 -13527(;12560,-13283 12600,-13460 12600,-13222q12560 -13527Q12560 -13404q12580 -13372Q12600 -13340q12600 -13222);"/>
+                        <Edge cubics="!12600 -13222(;12600,-12995 12490,-12752 12290,-12752q12600 -13222Q12600 -13038q12520 -12902Q12432 -12752q12290 -12752);"/>
+                        <Edge cubics="!12290 -12752(;12148,-12752 12122,-12858 12090,-12952q12290 -12752Q12197 -12752q12149 -12817Q12125 -12849q12090 -12952);"/>
+                        <Edge cubics="!12090 -12952(;12056,-13048 12005,-13158 11970,-13252q12090 -12952Q12072 -13004q12030 -13103Q11986 -13210q11970 -13252);"/>
+                        <Edge cubics="!11970 -13252(;11931,-13355 11948,-13460 11920,-13572q11970 -13252Q11949 -13308q11941 -13409Q11932 -13524q11920 -13572);"/>
+                        <Edge cubics="!11920 -13572(;11886,-13701 11841,-13778 11790,-13842q11920 -13572Q11878 -13732q11790 -13842);"/>
+                        <Edge cubics="!11790 -13842(;11790,-13842 11790,-13922 11790,-13922q11790 -13842 11790 -13922);"/>
+                        <Edge cubics="!13840 -13942(;13840,-13942 14390,-13942 14390,-13942q13840 -13942 14390 -13942);"/>
+                        <Edge cubics="!14390 -13942(;14545,-13670 14600,-13820 14600,-13622q14390 -13942Q14465 -13811q14553 -13754Q14581 -13736q14589 -13717Q14600 -13691q14600 -13622);"/>
+                        <Edge cubics="!14600 -13622(;14600,-13448 14572,-13531 14500,-13282q14600 -13622Q14600 -13526q14577 -13480Q14530 -13386q14500 -13282);"/>
+                        <Edge cubics="!14500 -13282(;14500,-13282 14500,-12852 14500,-12852q14500 -13282 14500 -12852);"/>
+                        <Edge cubics="!13860 -13902(;14000,-13902 14110,-13912 14135,-13912q13860 -13902Q13944 -13902q14041 -13907Q14089 -13909q14135 -13912);"/>
+                        <Edge cubics="!14135 -13912(;14287,-13912 14430,-13901 14430,-13707q14135 -13912Q14279 -13912q14340 -13882Q14430 -13838q14430 -13707);"/>
+                        <Edge cubics="!14430 -13707(;14430,-13640 14422,-13666 14390,-13572q14430 -13707Q14430 -13668q14422 -13650Q14397 -13594q14390 -13572);"/>
+                        <Edge cubics="!14390 -13572(;14377,-13535 14382,-13492 14380,-13442q14390 -13572Q14382 -13549q14381 -13512Q14381 -13467q14380 -13442);"/>
+                        <Edge cubics="!14380 -13442(;14375,-13340 14408,-13267 14310,-13002q14380 -13442Q14385 -13347q14380 -13283Q14372 -13169q14310 -13002);"/>
+                        <Edge cubics="!14310 -13002(;14260,-12870 14172,-12772 14180,-12702q14310 -13002Q14292 -12954q14223 -12829Q14176 -12742q14180 -12702);"/>
+                        <Edge cubics="!14180 -12702(;14188,-12612 14147,-12492 14065,-12492q14180 -12702Q14187 -12627q14156 -12563Q14123 -12492q14065 -12492);"/>
+                        <Edge cubics="!14065 -12492(;13913,-12492 14040,-12607 13950,-12732q14065 -12492Q14013 -12492q13996 -12512Q13983 -12527q13984 -12565Q13988 -12679q13950 -12732);"/>
+                        <Edge cubics="!13950 -12732(;13927,-12763 13857,-12831 13830,-12872q13950 -12732Q13941 -12744q13892 -12798Q13845 -12849q13830 -12872);"/>
+                        <Edge cubics="!13830 -12872(;13802,-12915 13811,-12953 13780,-12992q13830 -12872Q13817 -12892q13806 -12933Q13796 -12972q13780 -12992);"/>
+                        <Edge cubics="!13780 -12992(;13760,-13018 13460,-13367 13460,-13532q13780 -12992Q13690 -13099q13613 -13210Q13460 -13428q13460 -13532);"/>
+                        <Edge cubics="!13460 -13532(;13460,-13597 13562,-13647 13590,-13722q13460 -13532Q13460 -13567q13515 -13623Q13577 -13688q13590 -13722);"/>
+                        <Edge cubics="!13590 -13722(;13620,-13803 13593,-13895 13690,-13902q13590 -13722Q13605 -13762q13615 -13840Q13630 -13898q13690 -13902);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Wood Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="553.95" ty="-664.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Snow Repeat 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.3185424804688" b="5.1763916015625" c="-5.1763916015625" d="19.3185424804688" tx="463.65" ty="-662.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!11107 -12998|11107 -13298!11107 -13298|7879 -13298!7879 -13298|7879 -12998"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
+!7879 -12998|11107 -12998"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="
+!7879 -12998[7900 -12924 7900 -12787!7900 -12787[7900 -12723 7906 -12711!7906 -12711[7923 -12681 8000 -12672!8000 -12672[8023 -12671 8075 -12646!8075 -12646[8142 -12613 8200 -12562!8200 -12562[8325 -12451 8439 -12438!8439 -12438[8517
+ -12429 8750 -12442!8750 -12442[8872 -12442 8919 -12401!8919 -12401[#22F5.05 #FFCFA9.19 8973 -12296!8973 -12296[#231F.F6 #FFD036.5B 9076 -12143!9076 -12143[#237D.1F #FFD09A.D6 9095 -12123!9095 -12123[#23E6.EC #FFD00E.8C 9398 -12233!9398
+ -12233[9709 -12281 9910 -12262!9910 -12262[10334 -12222 10640 -12362!10640 -12362[10648 -12366 10738 -12400!10738 -12400[10829 -12437 10850 -12462!10850 -12462[10874 -12490 10893 -12545!10893 -12545[10914 -12605 10950 -12652!10950 -12652
+[11000 -12720 11043 -12868!11043 -12868[#2B37.EB #FFCD75.0B 11107 -12998"/>
+                        <Edge cubics="!11107 -12998(;11107,-12998 11107,-13298 11107,-13298q11107 -12998 11107 -13298);"/>
+                        <Edge cubics="!10738 -12400(;10799,-12425 10836,-12445 10850,-12462q10738 -12400Q10830 -12438q10850 -12462);"/>
+                        <Edge cubics="!10640 -12362(;10645,-12365 10678,-12377 10738,-12400q10640 -12362Q10642 -12363q10738 -12400);"/>
+                        <Edge cubics="!10850 -12462(;10866,-12481 10880,-12508 10893,-12545q10850 -12462Q10874 -12490q10893 -12545);"/>
+                        <Edge cubics="!10893 -12545(;10907,-12585 10926,-12621 10950,-12652q10893 -12545Q10914 -12606q10950 -12652);"/>
+                        <Edge cubics="!10950 -12652(;10983,-12697 11014,-12769 11043,-12868q10950 -12652Q11000 -12719q11043 -12868);"/>
+                        <Edge cubics="!9910 -12262(;10193,-12235 10436,-12269 10640,-12362q9910 -12262Q10332 -12222q10640 -12362);"/>
+                        <Edge cubics="!11043 -12868(;11057,-12915 11078,-12959 11107,-12998q11043 -12868Q11065 -12941q11107 -12998);"/>
+                        <Edge cubics="!7879 -12998(;7879,-12998 7879,-13298 7879,-13298q7879 -12998 7879 -13298);"/>
+                        <Edge cubics="!7906 -12711(;7917,-12691 7949,-12678 8000,-12672q7906 -12711Q7922 -12681q8000 -12672);"/>
+                        <Edge cubics="!7900 -12787(;7900,-12744 7902,-12719 7906,-12711q7900 -12787Q7900 -12723q7906 -12711);"/>
+                        <Edge cubics="!8000 -12672(;8015,-12671 8040,-12663 8075,-12646q8000 -12672Q8025 -12670q8075 -12646);"/>
+                        <Edge cubics="!7879 -12998(;7893,-12949 7900,-12878 7900,-12787q7879 -12998Q7900 -12924q7900 -12787);"/>
+                        <Edge cubics="!8439 -12438(;8491,-12432 8595,-12433 8750,-12442q8439 -12438Q8520 -12429q8750 -12442);"/>
+                        <Edge cubics="!8200 -12562(;8283,-12488 8363,-12447 8439,-12438q8200 -12562Q8324 -12452q8439 -12438);"/>
+                        <Edge cubics="!9095 -12123(;9159,-12223 9260,-12260 9398,-12233q9095 -12123Q9191 -12273q9398 -12233);"/>
+                        <Edge cubics="!8919 -12401(;8939,-12384 8957,-12349 8973,-12296q8919 -12401Q8949 -12375q8973 -12296);"/>
+                        <Edge cubics="!9076 -12143(;9082,-12136 9088,-12130 9095,-12123q9076 -12143 9095 -12123);"/>
+                        <Edge cubics="!8973 -12296(;8986,-12255 9020,-12204 9076,-12143q8973 -12296Q8993 -12234q9076 -12143);"/>
+                        <Edge cubics="!8750 -12442(;8831,-12442 8888,-12428 8919,-12401q8750 -12442Q8872 -12442q8919 -12401);"/>
+                        <Edge cubics="!8075 -12646(;8120,-12624 8161,-12596 8200,-12562q8075 -12646Q8140 -12614q8200 -12562);"/>
+                        <Edge cubics="!7879 -12998(;7879,-12998 11107,-12998 11107,-12998q7879 -12998 11107 -12998);"/>
+                        <Edge cubics="!7879 -13298(;7879,-13298 11107,-13298 11107,-13298q7879 -13298 11107 -13298);"/>
+                        <Edge cubics="!9398 -12233(;9605,-12265 9776,-12275 9910,-12262q9398 -12233Q9711 -12281q9910 -12262);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Snowy/YI Snow Tree Small">
+                  <matrix>
+                    <Matrix tx="403.5" ty="-742.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!4678.5 -4262|8678.5 -4262"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!26616 -12062[26616 -11648 26323 -11355!26323 -11355[26030 -11062 25616 -11062!25616 -11062[25202 -11062 24909 -11355!24909 -11355[24616 -11648 24616 -12063!24616 -12063[24616 -12477 24909 -12770!24909 -12770[25202 -13063 25616 -13062
+!25616 -13062[26030 -13063 26323 -12770!26323 -12770[26616 -12477 26616 -12062"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!23516 -12096[23223 -11803 22809 -11803!22809 -11803[22395 -11803 22102 -12096!22102 -12096[21809 -12389 21809 -12804!21809 -12804[21809 -13218 22102 -13511!22102 -13511[22395 -13804 22809 -13803!22809 -13803[23223 -13804 23516 -13511
+!23516 -13511[23809 -13218 23809 -12803!23809 -12803[23809 -12389 23516 -12096"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Snow Repeat 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.3185424804688" b="5.1763916015625" c="-5.1763916015625" d="19.3185424804688" tx="614.2" ty="-933.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Wood Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="596" ty="-991.3"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!8833 -19526[#22A9.41 #FFB406.E4 8921 -19384!8921 -19384[9004 -19269 9020 -19224!9020 -19224[9047 -19075 9076 -18972!9076 -18972[9132 -18774 9220 -18774!9220 -18774[9262 -18774 9390 -18904!9390 -18904[#258D.9A #FFB677.D5 9655 -18755!9655
+ -18755[#25E0.68 #FFB702.47 9731 -18654!9731 -18654[#2625.AF #FFB741.AA 9792.5 -18683!9792.5 -18683[#265B.14 #FFB6C8.1C 9842 -18802!9842 -18802[9864 -18851 9890 -18874!9890 -18874[9958 -18934 10059 -18997!10059 -18997[10142 -19049 10160
+ -19054!10160 -19054[10195 -19065 10224 -19087!10224 -19087[10240 -19100 10270 -19125!10270 -19125[10330 -19167 10460 -19164!10460 -19164[10523 -19162 10557 -19165!10557 -19165[#2984.2 -18988 10650 -19032!10650 -19032[#29AF.E8 -19076
+ 10690.5 -19196!10690.5 -19196[#29D5.08 -19316 10700 -19334!10700 -19334|10700 -19526"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
+!10700 -19526|8833 -19526"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="
+!10700 -19526|10747 -19526!10747 -19526|10747 -19826!10747 -19826|8720 -19826!8720 -19826|8720 -19526!8720 -19526|8833 -19526"/>
+                        <Edge cubics="!11107 -12998(;11107,-12998 11107,-13298 11107,-13298q11107 -12998 11107 -13298);"/>
+                        <Edge cubics="!10738 -12400(;10799,-12425 10836,-12445 10850,-12462q10738 -12400Q10830 -12438q10850 -12462);"/>
+                        <Edge cubics="!10640 -12362(;10645,-12365 10678,-12377 10738,-12400q10640 -12362Q10642 -12363q10738 -12400);"/>
+                        <Edge cubics="!10850 -12462(;10866,-12481 10880,-12508 10893,-12545q10850 -12462Q10874 -12490q10893 -12545);"/>
+                        <Edge cubics="!10893 -12545(;10907,-12585 10926,-12621 10950,-12652q10893 -12545Q10914 -12606q10950 -12652);"/>
+                        <Edge cubics="!10950 -12652(;10983,-12697 11014,-12769 11043,-12868q10950 -12652Q11000 -12719q11043 -12868);"/>
+                        <Edge cubics="!9910 -12262(;10193,-12235 10436,-12269 10640,-12362q9910 -12262Q10332 -12222q10640 -12362);"/>
+                        <Edge cubics="!11043 -12868(;11057,-12915 11078,-12959 11107,-12998q11043 -12868Q11065 -12941q11107 -12998);"/>
+                        <Edge cubics="!7879 -12998(;7879,-12998 7879,-13298 7879,-13298q7879 -12998 7879 -13298);"/>
+                        <Edge cubics="!7906 -12711(;7917,-12691 7949,-12678 8000,-12672q7906 -12711Q7922 -12681q8000 -12672);"/>
+                        <Edge cubics="!7900 -12787(;7900,-12744 7902,-12719 7906,-12711q7900 -12787Q7900 -12723q7906 -12711);"/>
+                        <Edge cubics="!8000 -12672(;8015,-12671 8040,-12663 8075,-12646q8000 -12672Q8025 -12670q8075 -12646);"/>
+                        <Edge cubics="!7879 -12998(;7893,-12949 7900,-12878 7900,-12787q7879 -12998Q7900 -12924q7900 -12787);"/>
+                        <Edge cubics="!8439 -12438(;8491,-12432 8595,-12433 8750,-12442q8439 -12438Q8520 -12429q8750 -12442);"/>
+                        <Edge cubics="!8200 -12562(;8283,-12488 8363,-12447 8439,-12438q8200 -12562Q8324 -12452q8439 -12438);"/>
+                        <Edge cubics="!9095 -12123(;9159,-12223 9260,-12260 9398,-12233q9095 -12123Q9191 -12273q9398 -12233);"/>
+                        <Edge cubics="!8919 -12401(;8939,-12384 8957,-12349 8973,-12296q8919 -12401Q8949 -12375q8973 -12296);"/>
+                        <Edge cubics="!9076 -12143(;9082,-12136 9088,-12130 9095,-12123q9076 -12143 9095 -12123);"/>
+                        <Edge cubics="!8973 -12296(;8986,-12255 9020,-12204 9076,-12143q8973 -12296Q8993 -12234q9076 -12143);"/>
+                        <Edge cubics="!8750 -12442(;8831,-12442 8888,-12428 8919,-12401q8750 -12442Q8872 -12442q8919 -12401);"/>
+                        <Edge cubics="!8075 -12646(;8120,-12624 8161,-12596 8200,-12562q8075 -12646Q8140 -12614q8200 -12562);"/>
+                        <Edge cubics="!7879 -12998(;7879,-12998 11107,-12998 11107,-12998q7879 -12998 11107 -12998);"/>
+                        <Edge cubics="!7879 -13298(;7879,-13298 11107,-13298 11107,-13298q7879 -13298 11107 -13298);"/>
+                        <Edge cubics="!9398 -12233(;9605,-12265 9776,-12275 9910,-12262q9398 -12233Q9711 -12281q9910 -12262);"/>
+                        <Edge cubics="!6060 -21285(;6172,-21002 6266,-20968 6310,-20845q6060 -21285Q6123 -21125q6211 -21005Q6294 -20890q6310 -20845);"/>
+                        <Edge cubics="!6310 -20845(;6335,-20772 6368,-20395 6510,-20395q6310 -20845Q6337 -20696q6366 -20593Q6422 -20395q6510 -20395);"/>
+                        <Edge cubics="!6510 -20395(;6552,-20395 6627,-20445 6640,-20445q6510 -20395Q6535 -20395q6586 -20420Q6637 -20445q6640 -20445);"/>
+                        <Edge cubics="!6640 -20445(;6705,-20445 6778,-20235 6925,-20235q6640 -20445Q6662 -20445q6752 -20340Q6841 -20235q6925 -20235);"/>
+                        <Edge cubics="!6925 -20235(;7123,-20235 7095,-20420 7180,-20495q6925 -20235Q7043 -20235q7095 -20337Q7109 -20365q7132 -20423Q7154 -20472q7180 -20495);"/>
+                        <Edge cubics="!7180 -20495(;7285,-20587 7436,-20671 7450,-20675q7180 -20495Q7248 -20555q7349 -20618Q7432 -20670q7450 -20675);"/>
+                        <Edge cubics="!7450 -20675(;7563,-20712 7530,-20790 7750,-20785q7450 -20675Q7485 -20686q7514 -20708Q7530 -20721q7560 -20746Q7620 -20788q7750 -20785);"/>
+                        <Edge cubics="!7750 -20785(;7875,-20782 8050,-20752 8050,-20825q7750 -20785Q7813 -20783q7947 -20776Q8050 -20779q8050 -20825);"/>
+                        <Edge cubics="!8050 -20825(;8050,-20897 8025,-20883 7990,-20955q8050 -20825Q8050 -20867q8033 -20890Q7999 -20937q7990 -20955);"/>
+                        <Edge cubics="!7990 -20955(;7990,-20955 7990,-21325 7990,-21325q7990 -20955 7990 -21325);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!11883 -20513[12176 -20806 12590 -20805!12590 -20805[13004 -20806 13297 -20513!13297 -20513[13590 -20220 13590 -19805!13590 -19805[13590 -19391 13297 -19098!13297 -19098[13004 -18805 12590 -18805!12590 -18805[12176 -18805 11883 -19098
+!11883 -19098[11590 -19391 11590 -19806!11590 -19806[11590 -20220 11883 -20513"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!13883 -20513[14176 -20806 14590 -20805!14590 -20805[15004 -20806 15297 -20513!15297 -20513[15590 -20220 15590 -19805!15590 -19805[15590 -19391 15297 -19098!15297 -19098[15004 -18805 14590 -18805!14590 -18805[14176 -18805 13883 -19098
+!13883 -19098[13590 -19391 13590 -19806!13590 -19806[13590 -20220 13883 -20513"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!17590 -19805[17590 -19391 17297 -19098!17297 -19098[17004 -18805 16590 -18805!16590 -18805[16176 -18805 15883 -19098!15883 -19098[15590 -19391 15590 -19806!15590 -19806[15590 -20220 15883 -20513!15883 -20513[16176 -20806 16590 -20805
+!16590 -20805[17004 -20806 17297 -20513!17297 -20513[17590 -20220 17590 -19805"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!19297 -20513[19590 -20220 19590 -19805!19590 -19805[19590 -19391 19297 -19098!19297 -19098[19004 -18805 18590 -18805!18590 -18805[18176 -18805 17883 -19098!17883 -19098[17590 -19391 17590 -19806!17590 -19806[17590 -20220 17883 -20513
+!17883 -20513[18176 -20806 18590 -20805!18590 -20805[19004 -20806 19297 -20513"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Snow Repeat 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.3185424804688" b="5.1763916015625" c="-5.1763916015625" d="19.3185424804688" tx="592.2" ty="-1046.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!12547 -26817[12651 -26785 12709 -26745!12709 -26745[12877 -26630 12877 -26312!12877 -26312[12877 -26197 12851 -26130!12851 -26130[12814 -26036 12797 -25929!12797 -25929[12759 -25683 12777 -25516!12777 -25516[12794 -25358 12737 -25178
+!12737 -25178[12664 -24986 12637 -24898!12637 -24898[12592 -24746 12452 -24703!12452 -24703[12286 -24682 12217 -24662!12217 -24662[11932 -24576 11913 -24571!11913 -24571[11802 -24544 11657 -24544!11657 -24544[11467 -24542 11410 -24543
+!11410 -24543[11326 -24546 11272 -24575!11272 -24575[11224 -24600 11118 -24694!11118 -24694[10887 -24899 10820 -24957!10820 -24957[10734 -25031 10443 -25248!10443 -25248[10197 -25464 10200 -25634!10200 -25634|10120 -25988!10120 -25988
+[10150 -26335 10338 -26491!10338 -26491[10346 -26498 10514 -26615!10514 -26615[10627 -26695 10700 -26783!10700 -26783[10950 -27091 11047 -27156!11047 -27156[11148 -27225 11357 -27225!11357 -27225[11483 -27225 11718 -27138!11718 -27138
+[11763 -27120 12377 -26871!12377 -26871[12397 -26863 12547 -26817"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Snow Repeat 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10.0000152587891" b="-17.320556640625" c="-17.320556640625" d="-10.0000152587891" tx="1102.65" ty="-1653.6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!22023 -26906[21955 -26934 21493 -26930!21493 -26930[21033 -26926 20790 -26459!20790 -26459[20547 -25992 20503 -25856!20503 -25856[20454 -25707 20413 -25676!20413 -25676[20374 -25645 20336 -25525!20336 -25525[20298 -25405 20289 -25300
+!20289 -25300[20263 -25264 20267 -25236!20267 -25236[20285 -25142 20510 -25025!20510 -25025[20667 -24944 20791 -24908!20791 -24908[20821 -24898 20955 -24758!20955 -24758[21093 -24612 21111 -24558!21111 -24558[21131 -24500 21180 -24441
+!21180 -24441[21239 -24370 21251 -24346!21251 -24346[21325 -24214 21556 -24239!21556 -24239[21706 -24253 22047 -24366!22047 -24366[22237 -24428 22519 -24428!22519 -24428[22795 -24430 22943 -24482!22943 -24482[23217 -24578 23306 -24935
+!23306 -24935[23376 -25209 23320 -25481!23320 -25481[23271 -25710 23292 -25859!23292 -25859[23305 -25962 23363 -26060!23363 -26060[23436 -26181 23447 -26216!23447 -26216[23481 -26316 23455 -26464!23455 -26464[23419 -26666 23128 -26767
+!23128 -26767[22856 -26863 22696 -26865!22696 -26865[22536 -26865 22314 -26871!22314 -26871[22090 -26877 22023 -26906"/>
+                        <Edge cubics="!29999 -32706(;30221,-32396 30128,-32357 30027,-32026q29999 -32706Q30146 -32501q30133 -32374Q30125 -32284q30027 -32026);"/>
+                        <Edge cubics="!30027 -32026(;29976,-31863 29893,-31496 29759,-31362q30027 -32026Q30002 -31945q29924 -31683Q29843 -31446q29759 -31362);"/>
+                        <Edge cubics="!29759 -31362(;29723,-31326 29276,-30939 29094,-30725q29759 -31362Q29741 -31344q29480 -31111Q29206 -30857q29094 -30725);"/>
+                        <Edge cubics="!29094 -30725(;28979,-30590 28911,-30688 28768,-30683q29094 -30725Q29024 -30643q28942 -30655Q28839 -30686q28768 -30683);"/>
+                        <Edge cubics="!28768 -30683(;28565,-30678 28550,-30591 28437,-30704q28768 -30683Q28706 -30681q28647 -30668Q28590 -30653q28569 -30650Q28504 -30637q28437 -30704);"/>
+                        <Edge cubics="!28437 -30704(;28263,-30878 28246,-31121 28019,-31262q28437 -30704Q28369 -30772q28248 -30995Q28145 -31184q28019 -31262);"/>
+                        <Edge cubics="!28019 -31262(;27939,-31314 27935,-31438 27906,-31545q28019 -31262Q27969 -31294q27943 -31384Q27920 -31491q27906 -31545);"/>
+                        <Edge cubics="!27906 -31545(;27885,-31628 27842,-31723 27751,-31814q27906 -31545Q27867 -31698q27751 -31814);"/>
+                        <Edge cubics="!27751 -31814(;27597,-31964 27315,-32260 27425,-32394q27751 -31814Q27307 -32250q27425 -32394);"/>
+                        <Edge cubics="!27425 -32394(;27565,-32566 27878,-32875 27913,-32910q27425 -32394Q27512 -32503q27708 -32703Q27773 -32770q27913 -32910);"/>
+                        <Edge cubics="!27913 -32910(;28064,-33061 28269,-33280 28386,-33271q27913 -32910Q28102 -33099q28162 -33151Q28310 -33277q28386 -33271);"/>
+                        <Edge cubics="!28386 -33271(;28558,-33259 28659,-33448 28839,-33554q28386 -33271Q28487 -33264q28610 -33369Q28680 -33431q28716 -33463Q28782 -33521q28839 -33554);"/>
+                        <Edge cubics="!28839 -33554(;29002,-33649 29118,-33335 29278,-33257q28839 -33554Q28933 -33610q29060 -33471Q29094 -33433q29165 -33350Q29228 -33281q29278 -33257);"/>
+                        <Edge cubics="!29278 -33257(;29368,-33213 29464,-33231 29589,-33200q29278 -33257Q29327 -33232q29420 -33223Q29540 -33213q29589 -33200);"/>
+                        <Edge cubics="!29589 -33200(;29643,-33188 29748,-33155 29829,-33130q29589 -33200Q29618 -33193q29829 -33130);"/>
+                        <Edge cubics="!29829 -33130(;29829,-33130 29914,-33045 29914,-33045q29829 -33130 29914 -33045);"/>
+                        <Edge cubics="!23411 -26344(;23465,-26254 23419,-26026 23468,-25891q23411 -26344Q23439 -26296q23441 -26134Q23444 -25957q23468 -25891);"/>
+                        <Edge cubics="!23468 -25891(;23492,-25823 23511,-25726 23510,-25707q23468 -25891Q23485 -25844q23498 -25781Q23511 -25724q23510 -25707);"/>
+                        <Edge cubics="!23510 -25707(;23497,-25566 23464,-25335 23453,-25282q23510 -25707Q23501 -25610q23480 -25463Q23462 -25329q23453 -25282);"/>
+                        <Edge cubics="!23453 -25282(;23438,-25201 23361,-24986 23298,-24901q23453 -25282Q23440 -25213q23394 -25093Q23342 -24959q23298 -24901);"/>
+                        <Edge cubics="!23298 -24901(;23138,-24689 23273,-24594 23205,-24526q23298 -24901Q23206 -24779q23218 -24659Q23220 -24629q23226 -24583Q23227 -24548q23205 -24526);"/>
+                        <Edge cubics="!23205 -24526(;23096,-24417 22666,-24415 22591,-24420q23205 -24526Q23135 -24456q22885 -24430Q22711 -24412q22591 -24420);"/>
+                        <Edge cubics="!22591 -24420(;22556,-24421 22192,-24291 22123,-24236q22591 -24420Q22561 -24422q22370 -24349Q22171 -24274q22123 -24236);"/>
+                        <Edge cubics="!22123 -24236(;22035,-24166 21958,-24155 21884,-24109q22123 -24236Q22073 -24196q21998 -24163Q21908 -24123q21884 -24109);"/>
+                        <Edge cubics="!21884 -24109(;21678,-23985 21477,-24162 21261,-24364q21884 -24109Q21745 -24026q21576 -24113Q21466 -24171q21261 -24364);"/>
+                        <Edge cubics="!21261 -24364(;21042,-24569 20794,-24547 20617,-24724q21261 -24364Q21148 -24469q20923 -24554Q20704 -24637q20617 -24724);"/>
+                        <Edge cubics="!20617 -24724(;20378,-24963 20717,-25438 20921,-25636q20617 -24724Q20458 -24883q20603 -25196Q20715 -25436q20921 -25636);"/>
+                        <Edge cubics="!20921 -25636(;21450,-26141 21074,-26127 21410,-26463q20921 -25636Q21100 -25805q21173 -25930Q21225 -26018q21238 -26113Q21254 -26231q21266 -26263Q21300 -26353q21410 -26463);"/>
+                        <Edge cubics="!21410 -26463(;21620,-26673 22068,-26639 22350,-26471q21410 -26463Q21561 -26614q21853 -26608Q22128 -26603q22350 -26471);"/>
+                        <Edge cubics="!22350 -26471(;22421,-26428 22645,-26346 22774,-26301q22350 -26471Q22443 -26414q22774 -26301);"/>
+                        <Edge cubics="!22774 -26301(;22870,-26269 22917,-26204 23015,-26202q22774 -26301Q22806 -26291q22893 -26240Q22959 -26202q23015 -26202);"/>
+                        <Edge cubics="!23015 -26202(;23073,-26200 23157,-26222 23199,-26216q23015 -26202Q23042 -26201q23114 -26211Q23178 -26219q23199 -26216);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!10120 -29138|10120 -27538"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!10920 -30738|10920 -29138"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="1526.95" ty="-80.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!30994.5 -1590|30994.5 -983!30994.5 -983|31515 -983!31515 -983|31515 -1590!31515 -1590|30994.5 -1590"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="-1" tx="1650.25" ty="-61.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.8404998779297" b="2.45213317871094" c="-2.45213317871094" d="19.8404998779297" tx="1627.3" ty="-59.3"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!32922 -514|34895 -270!34895 -270|34895 -882!34895 -882|32996 -1117!32996 -1117|32922 -514"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (4)">
+                  <matrix>
+                    <Matrix a="-1" tx="1590.75" ty="-76.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top (new)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.3185424804688" b="5.1763916015625" c="-5.1763916015625" d="19.3185424804688" tx="1569.6" ty="-69.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!31672 -673|32405 -476!32405 -476|32405 -1105!32405 -1105|31829 -1259!31829 -1259|31672 -673"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix tx="1619.25" ty="-61.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

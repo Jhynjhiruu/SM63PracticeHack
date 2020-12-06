@@ -43,7 +43,9 @@ class com.PracHack.MemoryWatch {
             ["xvel", "_root.Course.Char.xspeed"],
             ["xspeed", "_root.Course.Char.xspeed"],
             ["yvel", "_root.Course.Char.yspeed"],
-            ["yspeed", "_root.Course.Char.yspeed"]
+            ["yspeed", "_root.Course.Char.yspeed"],
+            ["stack", "_root.KoopaShell.handler.stack"],
+            ["queue", "_root.KoopaShell.queue"]
         ];
     }
 

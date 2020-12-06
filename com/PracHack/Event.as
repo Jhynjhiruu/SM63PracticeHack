@@ -18,13 +18,8 @@ class com.PracHack.Event {
         if (_root.memoryWatch.isDisplayed()) {
            _root.textManager.send('watch', _root.memoryWatch.getWatch());
         }
-
-        // KoopaShell
-        if (_root.KeySlash()) {
-            _root.koopashellInput = true;
-        }
-        _root.tickCpu();
-        _root.setCollision();
+        
+        _root.KoopaShell.iter();
     }
 
     // Triggers code that happens on every loading zone.

@@ -1,0 +1,375 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/ 5 - Lethal Lava Land/ Sides (2,3)/5-3MidBG" itemID="476d9d2a-00000d29" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="5-3MidBG" lastModified="1215479752" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="5-3MidBG">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#8F0101"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!5428 1224|-16624 1224!-16624 1224|-16624 3334!-16624 3334|5428 3334!5428 3334|5428 1224"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="-633.6" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="-505.6" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="-379.1" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="-123.6" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="4.4" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="-251.6" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="132.4" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="-758.6" ty="56.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color brightness="-0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Pattern 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10" d="10" tx="25.85" ty="-45.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10" d="10" tx="9.35" ty="15.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-437 -1984[-304 -2118 -222 -2272!-222 -2272[-205 -2305 -189 -2339!-189 -2339[-93 -2557 -93 -2815!-93 -2815[-93 -3302 -437 -3646!-437 -3646[-781 -3990 -1268 -3990!-1268 -3990[-1755 -3990 -2099 -3646!-2099 -3646[-2443 -3302 -2443 -2815
+!-2443 -2815[-2443 -2602 -2377 -2417!-2377 -2417[-2360 -2367 -2337 -2319"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-2337 -2319[-2253 -2138 -2099 -1984!-2099 -1984[-1755 -1640 -1268 -1640!-1268 -1640|-1260 -1640!-1260 -1640[-1259 -1640 -1258 -1640!-1258 -1640|-1238 -1640!-1238 -1640[-1233 -1640 -1228 -1640!-1228 -1640[-767 -1654 -437 -1984"/>
+                        <Edge strokeStyle="1" edges="
+!-189 -2339[-189 -2338 -189 -2337"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-189 -2337|-182 -400"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="
+!-182 -400|-182 1288!-182 1288|-1103 1288"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-1103 1288|-2942 1288!-2942 1288|-2942 290!-2942 290|-2337 -290!-2337 -290|-2337 -2319"/>
+                        <Edge fillStyle0="1" edges="
+!-189 -2337[-265 -2117 -397 -1984!-397 -1984[-408 -1974 -419 -1963"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!-419 -1963|-437 -1984"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
+!-1103 1288|-1103 -400!-1103 -400|-182 -400"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Brick" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="10" d="10" tx="-9.1" ty="-21.6"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="2">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Brick" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="10" d="10" tx="-9.1" ty="48.4"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" weight="2">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="2" strokeStyle="1" edges="
+!-182 968|308 968!308 968|308 1288!308 1288|-182 1288!-182 1288|-182 968"/>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="
+!308 208|-182 208!-182 208|-182 -432!-182 -432|308 -432!308 -432|308 208"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Pattern 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10" d="10" tx="25.85" ty="-45.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-1288 -4525|-1308 -4525"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!-1308 -4525[-1806 -4185 -1726 -3405!-1726 -3405[-1318 -3037 -870 -3405!-870 -3405[-784 -4181 -1288 -4525"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#4A4A00" alpha="0.450980392156863"/>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <SolidColor alpha="0.450980392156863"/>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <SolidColor alpha="0.149019607843137"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-890 -3931[-975 -4311 -1288 -4525!-1288 -4525|-1308 -4525!-1308 -4525[-1627 -4307 -1709 -3908"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="
+!-1709 -3908[-1755 -3685 -1726 -3405!-1726 -3405[-1318 -3037 -870 -3405!-870 -3405[-838 -3699 -890 -3931"/>
+                        <Edge fillStyle0="2" edges="
+!-437 -1984[-304 -2118 -222 -2272!-222 -2272[-93 -2517 -93 -2815!-93 -2815[-93 -3302 -437 -3646!-437 -3646[-639 -3848 -890 -3931"/>
+                        <Edge fillStyle0="3" edges="
+!-2337 -2319|-2337 -290!-2337 -290|-2942 290!-2942 290|-2942 1288!-2942 1288|-1103 1288!-1103 1288|-1103 -400!-1103 -400|-182 -400!-182 -400|-189 -2339!-189 -2339[-264 -2118 -397 -1984!-397 -1984[-408 -1974 -419 -1963!-419 -1963|-437
+ -1984"/>
+                        <Edge fillStyle0="3" fillStyle1="2" edges="
+!-437 -1984[-767 -1654 -1228 -1640!-1228 -1640[-1233 -1640 -1238 -1640!-1238 -1640|-1258 -1640!-1258 -1640[-1259 -1640 -1260 -1640!-1260 -1640|-1268 -1640!-1268 -1640[-1755 -1640 -2099 -1984!-2099 -1984[-2253 -2138 -2337 -2319"/>
+                        <Edge fillStyle0="2" edges="
+!-1709 -3908[-1923 -3822 -2099 -3646!-2099 -3646[-2443 -3302 -2443 -2815!-2443 -2815[-2443 -2602 -2377 -2417!-2377 -2417[-2360 -2367 -2337 -2319"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor alpha="0.2"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-302 -3010[-550 -2743 -552 -3290!-552 -3290|-302 -3010"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Sides (2,3)/5-2 Wheel Tint">
+                  <matrix>
+                    <Matrix a="0.207595825195313" d="0.207595825195313" tx="-438.85" ty="57.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.5"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (enterFrame) {
+	if (_root.PauseGame == false && _root.playpause == false) {
+		_rotation += 0.7
+	}
+}
+]]></script>
+                  </Actionscript>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Faded Brick" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="5" d="5" tx="-287.6" ty="-215.65"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Red Stone 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="6.25" d="6.25" tx="-295.6" ty="50.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!-5912 751|-8223 751!-8223 751|-8580 413!-8580 413|-8580 -5837!-8580 -5837|-7361 -5837!-7361 -5837|-6702 -6495!-6702 -6495|-10828 -6495!-10828 -6495|-10155 -5837!-10155 -5837|-8975 -5837!-8975 -5837|-8975 413!-8975 413|-9331 751!-9331
+ 751|-9331 1210!-9331 1210|-5912 1210"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
+!-5912 1210|-5912 751"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="
+!-5912 1210|-4631 1210!-4631 1210|-4631 505!-4631 505|-5292 505!-5292 505|-5437 403!-5437 403|-5912 403!-5912 403|-5912 751"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor alpha="0.349019607843137"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-7361 -5837|-6702 -6495!-6702 -6495|-10828 -6495!-10828 -6495|-10155 -5837!-10155 -5837|-8975 -5837!-8975 -5837|-8975 413!-8975 413|-9331 751!-9331 751|-9331 1210!-9331 1210|-4631 1210!-4631 1210|-4631 505!-4631 505|-5292 505!-5292 505
+|-5437 403!-5437 403|-5912 403!-5912 403|-5912 751!-5912 751|-8223 751!-8223 751|-8580 413!-8580 413|-8580 -5837!-8580 -5837|-7361 -5837"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

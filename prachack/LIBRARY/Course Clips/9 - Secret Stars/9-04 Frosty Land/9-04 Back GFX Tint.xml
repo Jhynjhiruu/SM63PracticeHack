@@ -1,0 +1,485 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/ 9 - Secret Stars/ 9-04 Frosty Land/9-04 Back GFX Tint" itemID="469d74f6-00000fa5" lastModified="1214976003" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="9-04 Back GFX Tint">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Ground" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.999755859375" d="15.999755859375" tx="525.35" ty="102.3"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!10084 3272|6904 2036!6904 2036|2666 518!2666 518|1471 518!1471 518|1191 -455!1191 -455|-2055 -97!-2055 -97|-2824 2045!-2824 2045|-13761 3878!-13761 3878|-13818.5 16758!-13818.5 16758|14010 16758!14010 16758|14010 2340!14010 2340|12442
+ 2398!12442 2398|12442 940!12442 940|10507 755!10507 755|10084 3272"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.7802734375" b="-2.58905029296875" c="2.58905029296875" d="15.7802734375" tx="29.2" ty="-37.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1169 -335|-1586 125!-1586 125|-1586 -353!-1586 -353[#228.F4 #FFFD1E.D1 583 -745!583 -745|1088 -827.5!1088 -827.5|1169 -335"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 1">
+                  <matrix>
+                    <Matrix a="0.789016723632813" b="-0.12945556640625" c="0.12945556640625" d="0.789016723632813" tx="54.4" ty="-41.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.7802734375" b="-2.58905029296875" c="2.58905029296875" d="15.7802734375" tx="58.5" ty="-16.05"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1439 -365|1564 392!1564 392|1295 436!1295 436|1170 -321!1170 -321|1439 -365"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Invert Corner">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="64.9" ty="18"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.7802734375" b="-2.58905029296875" c="2.58905029296875" d="15.7802734375" tx="209.4" ty="0.6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!2596 292[2301 343 1951 404!1951 404|2028 872!2028 872|2594 779!2594 779|2596 292"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 2">
+                  <matrix>
+                    <Matrix a="-0.79998779296875" d="0.79998779296875" tx="-100.4" ty="-19"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-14.5724792480469" b="-6.5850830078125" c="-6.5850830078125" d="14.5724792480469" tx="-99.9" ty="7.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-2246 44|-3170 2103!-3170 2103|-2856 1994!-2856 1994|-1998.5 156!-1998.5 156|-2246 44"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="14.9606628417969" b="5.64794921875" c="-5.64794921875" d="14.9606628417969" tx="477.6" ty="142.55"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!9854 3498|7317 2542!7317 2542|7556 2128!7556 2128[9522 2842 9552 2850!9552 2850|10030 3031!10030 3031|9854 3498"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Invert Corner">
+                  <matrix>
+                    <Matrix a="-0.79998779296875" d="0.79998779296875" tx="507.8" ty="149.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 2">
+                  <matrix>
+                    <Matrix a="-0.792800903320313" b="0.0942840576171875" c="0.0942840576171875" d="0.792800903320313" tx="524.3" ty="20.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-15.7443237304688" b="-2.64859008789063" c="-2.64859008789063" d="15.7443237304688" tx="528.45" ty="45.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!10301 861|9933 3084!9933 3084|10189 3084!10189 3084|10568.5 906!10568.5 906|10301 861"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.999755859375" d="15.999755859375" tx="523.1" ty="19.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!10974 909|10462 909!10462 909|10462 397!10462 397|10974 397!10974 397|10974 909"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="14.9402008056641" b="5.67666625976563" c="-5.67666625976563" d="14.9402008056641" tx="576.1" ty="22.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!11522 445|12000 626!12000 626|11819 1104!11819 1104|11341 923!11341 923|11522 445"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 1">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="616.6" ty="39.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Wall">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="616.6" ty="64.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Invert Corner">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="616.6" ty="103.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.999755859375" d="15.999755859375" tx="629.2" ty="103.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!13430 2072|12584 2063!12584 2063|12584 2575!12584 2575|13428 2577.5!13428 2577.5|13430 2072"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Ground" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.987548828125" b="-0.570785522460938" c="0.570785522460938" d="15.987548828125" tx="-2785.55" ty="95.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-46367 -1468|-46070 6850!-46070 6850|-65228 7259!-65228 7259|-66695 2908!-66695 2908|-62188 2194!-62188 2194|-62226 1147!-62226 1147|-51380 584!-51380 584|-51427 -728!-51427 -728[-48739 -770 -46367 -1468"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.987548828125" b="-0.570785522460938" c="0.570785522460938" d="15.987548828125" tx="-2570" ty="-51.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-51400 -1028|-48758 -1122!-48758 -1122|-48786 -635!-48786 -635|-50151 -592!-50151 -592|-50150 -560!-50150 -560|-51381 -516!-51381 -516|-51400 -1028"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.2950592041016" b="-4.68923950195313" c="4.68923950195313" d="15.2950592041016" tx="-2448.6" ty="-54.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-48822 -606|-46341 -1367!-46341 -1367|-46444 -1871!-46444 -1871|-48865 -1128!-48865 -1128|-48852 -704!-48852 -704|-48822 -606"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Ground" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.999755859375" d="15.999755859375" tx="-1194.9" ty="84.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-24839 -1140|-23886.5 865!-23886.5 865|-26275 855!-26275 855|-26671 -384!-26671 -384|-24839 -1140"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 2">
+                  <matrix>
+                    <Matrix a="0.790191650390625" b="-0.114120483398438" c="0.114120483398438" d="0.790191650390625" tx="-1243.45" ty="-70.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="14.5223541259766" b="-6.63328552246094" c="6.63328552246094" d="14.5223541259766" tx="-1241.1" ty="-46.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-24575 -1038|-23645 1014!-23645 1014|-23892 1080!-23892 1080|-24823 -926!-24823 -926|-24575 -1038"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-15.4546051025391" b="4.14105224609375" c="4.14105224609375" d="15.4546051025391" tx="-1278.35" ty="-55.3"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-25567 -1106|-26061 -974!-26061 -974|-25928 -479!-25928 -479|-25434 -611!-25434 -611|-25567 -1106"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-12.9619598388672" b="9.35020446777344" c="9.35020446777344" d="12.9619598388672" tx="-1311.85" ty="-41.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-26237 -824|-26652 -525!-26652 -525|-26353 -110!-26353 -110|-25938 -409!-25938 -409|-26237 -824"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Corner 1">
+                  <matrix>
+                    <Matrix a="-0.772735595703125" b="0.207046508789063" c="0.207046508789063" d="0.772735595703125" tx="-1327.85" ty="-29.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Wall">
+                  <matrix>
+                    <Matrix a="-0.772735595703125" b="0.207046508789063" c="0.207046508789063" d="0.772735595703125" tx="-1321.25" ty="-4.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-04 Frosty Land/9-04 STUUPPIDD Bitmap Glitch">
+                  <matrix>
+                    <Matrix a="0.999237060546875" b="-0.035675048828125" c="0.035675048828125" d="0.999237060546875" tx="-2812.5" ty="29.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (4)">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-1311.05" ty="-49.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-1277" ty="-57.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (4)">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-1265" ty="-68"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-1253" ty="-72.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-101.4" ty="-23.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (1)">
+                  <matrix>
+                    <Matrix a="-0.75" d="0.75" tx="-77.9" ty="-25.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (1)">
+                  <matrix>
+                    <Matrix a="-0.75" d="0.75" tx="88.7" ty="17.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="88.05" ty="18.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="14.9402008056641" b="5.67666625976563" c="-5.67666625976563" d="14.9402008056641" tx="548.4" ty="19.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!10968 397|11446 578!11446 578|11265 1056!11265 1056|10787 875!10787 875|10968 397"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Ground/YI Snow/YI Snow Slope (2)">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="566.2" ty="24.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Top 1" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="14.9402008056641" b="5.67666625976563" c="-5.67666625976563" d="14.9402008056641" tx="597.85" ty="30.2"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!11957 604|12435 785!12435 785|12254 1263!12254 1263|11776 1082!11776 1082|11957 604"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

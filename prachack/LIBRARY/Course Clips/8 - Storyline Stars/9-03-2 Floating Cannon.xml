@@ -1,0 +1,190 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/ 8 - Storyline Stars/9-03-2 Floating Cannon" itemID="47e2bbd9-00000fc2" lastModified="1242351786" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="9-03-2 Floating Cannon">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[HitTest = function (ground, X, Y) {
+	if (_root.Course[ground].hitTest(((X)*_root.coursescale/100)+(_parent._x*_root.coursescale/100)+_root.Course._x, ((Y)*_root.coursescale/100)+(_parent._y*_root.coursescale/100)+_root.Course._y, true) || _root.Course.BPlatforms.hitTest(((_x)*_root.coursescale/100)+(_parent._x*_root.coursescale/100)+_root.Course._x, ((_y)*_root.coursescale/100)+(_parent._y*_root.coursescale/100)+_root.Course._y, true)) {
+		return (true);
+	} else {
+		return (false);
+	}
+};
+yspeed = 0;
+maxY = _y;
+onEnterFrame = function () {
+	yspeed *= 0.7;
+	if (HitTest("Water", _x, _y)) {
+		count = 0;
+		for (i=0; i<7; i++) {
+			if (HitTest("Water", _x, _y-i*2)) {
+				count++;
+			}
+		}
+		yspeed -= count/10;
+	} else {
+		yspeed += 1;
+	}
+	_y += yspeed;
+	_y = Math.min(_y, maxY);
+	_root.Course.BackGFX.cannon2._y = _y;
+	_root.Course.Platforms.cannon._y = _y;
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.00543212890625" d="0.00543212890625" tx="-1" ty="-3.6"/>
+                            </matrix>
+                            <GradientEntry color="#555555" ratio="0"/>
+                            <GradientEntry color="#262626" ratio="0.980392156862745"/>
+                          </RadialGradient>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix ty="-3.5"/>
+                            </matrix>
+                            <GradientEntry color="#3C3C3C" alpha="0.501960784313725" ratio="0"/>
+                            <GradientEntry color="#262626" alpha="0.501960784313725" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.00543212890625" d="0.00543212890625" tx="2.15" ty="-8.35"/>
+                            </matrix>
+                            <GradientEntry color="#484848" ratio="0"/>
+                            <GradientEntry color="#262626" ratio="0.980392156862745"/>
+                          </RadialGradient>
+                        </FillStyle>
+                        <FillStyle index="4">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.0052490234375" d="0.0052490234375" tx="-0.75" ty="2.5"/>
+                            </matrix>
+                            <GradientEntry color="#6F6F6F" ratio="0"/>
+                            <GradientEntry color="#262626" ratio="0.980392156862745"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                        <StrokeStyle index="2">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="!-45 -128S7[-42 -124 -35 -120!-35 -120[-20 -111 1 -111!1 -111[22 -111 36 -120"/>
+                        <Edge fillStyle0="3" strokeStyle="1" edges="!36 -120S5[48 -127 51 -136"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!51 -136S7[51 -138 51 -140!51 -140[51 -152 36 -161!36 -161[22 -169 1 -169!1 -169[-20 -169 -35 -161!-35 -161[-49 -152 -49 -140"/>
+                        <Edge fillStyle0="3" strokeStyle="1" edges="!-49 -140S5[-47 -131 -45 -128"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!51 -120S6|51 -136"/>
+                        <Edge fillStyle1="1" edges="!36 -120S2|51 -120"/>
+                        <Edge fillStyle0="2" fillStyle1="4" strokeStyle="1" edges="!51 18S7[53 20 56 23!56 23[73 43 73 70!73 70[73 100 51 121!51 121[30 143 0 143!0 143[-30 143 -52 121!-52 121[-73 100 -73 70!-73 70[-73 40 -52 18!-52 18|-51 17"/>
+                        <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-51 17S7|-49 -128"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="!-49 -128S5|-49 -140"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!51 18S6|51 10"/>
+                        <Edge fillStyle1="1" edges="!51 10S2|41 10"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!41 10S6[46 13 51 18"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!51 10S7|51 -120"/>
+                        <Edge fillStyle1="2" strokeStyle="2" edges="!200 190S6|-200 190!-200 190|-200 -210!-200 -210|200 -210!200 -210|200 190"/>
+                        <Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="!-51 17S7[-50 16 -48 15!-48 15[-47 14 -46 13!-46 13[-26 -3 0 -3!0 -3[23 -3 41 10"/>
+                        <Edge fillStyle1="1" edges="!-49 -128S2|-45 -128"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Alpha" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 8 - Storyline Stars/9-03-2 Flaoting Cannon Alpha" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Metal Tile" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-16" ty="-19.25"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Pole PL Repeat" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="35.35" ty="-22.15"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!281 -290|640 -290"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!640 -290|640 -420!640 -420|281 -420!281 -420|281 -290"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-640 -290|-640 320!-640 320|640 320!640 320|640 -290"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-299 -290|-299 -420!-299 -420|-640 -420!-640 -420|-640 -290"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-640 -290|-299 -290"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!281 -290|-299 -290"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

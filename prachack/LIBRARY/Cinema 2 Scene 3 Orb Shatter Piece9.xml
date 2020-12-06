@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Cinema 2 Scene 3 Orb Shatter Piece9" itemID="492d9e5c-00000f07" sourceFlashFilepath="Rob &amp; Steve Hewitt\My Documents\Super Mario 63\Orb Shattering.fla" sourceLibraryItemHRef="Cinema 2 Scene 3 Orb Shatter Piece9" sourceLastModified="1227726881" lastModified="1227726881" sourceItemID="492d9e5c-00000f07">
+  <timeline>
+    <DOMTimeline name="Cinema 2 Scene 3 Orb Shatter Piece9">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_parent.I(_name);
+onEnterFrame = function () {
+	_parent.OEF(_name);
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.04437255859375" d="0.04437255859375" tx="-11.75" ty="7.7"/>
+                            </matrix>
+                            <GradientEntry color="#F8F2C2" alpha="0.0823529411764706" ratio="0"/>
+                            <GradientEntry color="#FEF7BC" alpha="0.623529411764706" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!269 175[259 116 235 61!235 61[173 -81 70 -204!70 -204[19 -142 -13 -79!-13 -79[-22 -63 -30 -46!-30 -46|-45 -26!-45 -26|-40 74!-40 74|-85 64!-85 64[-109 35 -137 8!-137 8[-144 1 -151 -5!-151 -5[-167 -20 -181 -30!-181 -30[-222 -17 -269 -12
+!-269 -12[-245 38 -240 100!-240 100[-203 138 -148 157!-148 157[-100 175 -63 204!-63 204[-22 199 21 193!21 193[143 179 269 175"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

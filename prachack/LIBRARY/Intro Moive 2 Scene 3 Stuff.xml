@@ -1,0 +1,1739 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Intro Moive 2 Scene 3 Stuff" itemID="492ccf76-00000f87" lastModified="1246058025" lastUniqueIdentifier="18">
+  <timeline>
+    <DOMTimeline name="Intro Moive 2 Scene 3 Stuff">
+      <layers>
+        <DOMLayer name="Layer 9" color="#4FFF4F" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="30" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bgsong.onSoundComplete = null;
+_root.bgsong.stop();
+_root.bgsong = new Sound(_root);
+_root.bgsong.attachSound("Danger Ahead");
+_root.bgsong.start(0, 1);
+_root.bgsong.setVolume(100);
+_root.bgsong.onSoundComplete = function() {
+	_root.bgsong.attachSound("Danger Ahead");
+	_root.bgsong.start(0, 999);
+	_root.bgsong.setVolume(100);
+	_root.bgsong.onSoundComplete = null;
+};]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</b> Here it is</i>... The <b>Shine Sprite Orb</b>!";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="51" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> With <i>this</i>, I have control of this Castle!";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="56" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> Kamek, <b>status report!</b>";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="74" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i></b> Master Bowser, the Toads have retreated, and Peach has been captured...";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="76" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i></b> Mario is lying unconcious outside the Castle; he shouldn't wake up for a few hours.";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="78" duration="18" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i></b>The Battle has been won.";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="96" duration="5" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> Perfect, everything is going according to plan...";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="101" duration="43" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> <b>Kamek, DESTROY IT NOW!!!!!</b>";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="144" duration="28" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[onEnterFrame = function () {
+	_root.bgsong.setVolume(Math.max(_root.bgsong.getVolume()-4, 0));
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bgsong.onSoundComplete = null;
+_root.bgsong.stop();
+_root.bgsong = new Sound(_root);
+_root.bgsong.attachSound("Airship Theme Repeat");
+_root.bgsong.start(109, 1);
+_root.bgsong.setVolume(0);
+_root.bgsong.onSoundComplete = function() {
+	_root.bgsong.attachSound("Airship Theme Repeat");
+	_root.bgsong.start(0, 999);
+	_root.bgsong.setVolume(100);
+	_root.bgsong.onSoundComplete = null;
+};]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="174" duration="163" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[count = 1;
+onEnterFrame = function () {
+	// camera quake 
+	_root.QuakeX = (random(16)-8)*count;
+	_root.QuakeY = (random(20)-10)*count;
+	// ^ 
+	_root.bgsong.setVolume(Math.min(_root.bgsong.getVolume()+3, 100));
+	//
+	count -= 0.01;
+	if (count<=0) {
+		onEnterFrame = null;
+	}
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="337" duration="34" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[onEnterFrame = function () {
+	_root.bgsong.setVolume(Math.max(_root.bgsong.getVolume()-3, 0));
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="371" duration="36" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bgsong.onSoundComplete = null;
+_root.bgsong.stop();
+_root.bgsong = new Sound(_root);
+_root.bgsong.attachSound("Danger Ahead");
+_root.bgsong.start(0, 1);
+_root.bgsong.setVolume(0);
+_root.bgsong.onSoundComplete = function() {
+	_root.bgsong.attachSound("Danger Ahead");
+	_root.bgsong.start(0, 999);
+	_root.bgsong.setVolume(100);
+	_root.bgsong.onSoundComplete = null;
+};
+onEnterFrame = function () {
+	_root.bgsong.setVolume(Math.min(_root.bgsong.getVolume()+3, 100));
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="407" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="410" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i></b> The Shine Sprites will drift around aimlessly. Eventually they will be lost forever...";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="424" duration="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> Muwahhahhaha! Then the plan should succeed.";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="436" duration="13" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i></b> What should we do with Mario?  He's bound to interfere...";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="449" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> Forget about Mario, there's now way he can even get into the Castle.";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="450" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> The entire Castle is now locked up....";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="451" duration="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 3;
+_root.CinemaMessage = "<b><i>Bowser:</i></b> Right now... I'll start the search for <i><b>It</b></i>...........";
+lastframeZ = _root.KeyZ();
+//
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = null();
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="471" duration="21" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.bgsong.stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="492" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_parent._parent.play();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="27" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.624923706054688" tx="35.95" ty="18.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.624923706054688" tx="35.95" ty="18.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="18" tweenType="motion" keyMode="17921" acceleration="-50">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.624923706054688" tx="35.95" ty="18.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="115.95" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="8" tweenType="motion" keyMode="17921" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="115.95" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" duration="8" tweenType="motion" keyMode="17921" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="45.95" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="-24.05" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="7" tweenType="motion" keyMode="17921" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="-24.05" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="8" tweenType="motion" keyMode="17921" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="41.3" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="115.95" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="23" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="115.95" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.624923706054688" tx="15.95" ty="-11.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="20" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.624923706054688" tx="15.95" ty="-11.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="192" duration="196" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.624923706054688" tx="15.95" ty="-11.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="388" duration="21" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.624923706054688" tx="15.95" ty="-11.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="409" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="-24.05" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="411" duration="5" tweenType="motion" keyMode="17921" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="-24.05" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="416" duration="7" tweenType="motion" keyMode="17921" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="25.95" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="423" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="95.95" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="425" duration="4" tweenType="motion" keyMode="17921" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="95.95" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="429" duration="6" tweenType="motion" keyMode="17921" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="47.95" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="435" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="-24.05" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="437" duration="5" tweenType="motion" keyMode="17921" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="-24.05" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="442" duration="6" tweenType="motion" keyMode="17921" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="39.6" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="448" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="115.95" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="453" duration="18" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.312515258789063" d="0.312469482421875" tx="115.95" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="471" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.625030517578125" d="0.62493896484375" tx="15.95" ty="-11.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 16" color="#FF4F4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="170" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="170" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix tx="3" ty="3"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.11029052734375" d="0.11029052734375" tx="32.25" ty="20"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1903 -859S2[2425 -337 2425 400!2425 400[2425 1137 1903 1659!1903 1659[1382 2181 645 2181!645 2181[-92 2181 -614 1659!-614 1659[-1135 1137 -1135 400!-1135 400[-1135 -337 -614 -859!-614 -859[-92 -1380 645 -1380!645 -1380[1382 -1380 1903
+ -859"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="171" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.2205810546875" d="0.2205810546875" tx="35.25" ty="23"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!3221 -2058[4265 -1014 4265 460!4265 460[4265 1934 3221 2978!3221 2978[2179 4022 705 4022!705 4022[-769 4022 -1813 2978!-1813 2978[-2855 1934 -2855 460!-2855 460[-2855 -1014 -1813 -2058!-1813 -2058[-769 -3100 705 -3100!705 -3100[2179
+ -3100 3221 -2058"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix tx="3" ty="3"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.11029052734375" d="0.11029052734375" tx="32.25" ty="20"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.501960784313725" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1903 -859S2[2425 -337 2425 400!2425 400[2425 1137 1903 1659!1903 1659[1382 2181 645 2181!645 2181[-92 2181 -614 1659!-614 1659[-1135 1137 -1135 400!-1135 400[-1135 -337 -614 -859!-614 -859[-92 -1380 645 -1380!645 -1380[1382 -1380 1903
+ -859"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="173" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="17.6" ty="11.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.11029052734375" d="0.11029052734375" tx="35.25" ty="23"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.501960784313725" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!1963 -799S2[2485 -277 2485 460!2485 460[2485 1197 1963 1719!1963 1719[1442 2241 705 2241!705 2241[-32 2241 -554 1719!-554 1719[-1075 1197 -1075 460!-1075 460[-1075 -277 -554 -799!-554 -799[-32 -1320 705 -1320!705 -1320[1442 -1320 1963
+ -799"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="174" duration="319" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#FFFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="151" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="151" duration="18" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Spell Clip">
+                  <matrix>
+                    <Matrix tx="-50.75" ty="91.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="169" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Spell Clip">
+                  <matrix>
+                    <Matrix tx="4.25" ty="41.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="170" duration="323" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 14" color="#808080" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="152" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="152" duration="18" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Spell Clip" blendMode="difference">
+                  <matrix>
+                    <Matrix tx="-50.75" ty="91.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="170" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Spell Clip" blendMode="difference">
+                  <matrix>
+                    <Matrix tx="4.25" ty="41.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="171" duration="322" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 15" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="153" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="153" duration="18" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Spell Clip" blendMode="invert">
+                  <matrix>
+                    <Matrix tx="-50.75" ty="91.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="171" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Spell Clip" blendMode="invert">
+                  <matrix>
+                    <Matrix tx="4.25" ty="41.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="192" duration="301" keyMode="9728" soundName=" Audio/Sound Effects/GlassShatter" soundSync="start" soundZoomLevel="65535">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 17" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="172" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" duration="237" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Scene 3 Orb Shattering">
+                  <matrix>
+                    <Matrix tx="34.1" ty="20.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="409" duration="84" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FrontGFX" color="#FFFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="192" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/C-S Star " name="st">
+                  <matrix>
+                    <Matrix tx="35" ty="20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="192" duration="2" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/C-S Star " name="st" blendMode="add">
+                  <matrix>
+                    <Matrix tx="35" ty="20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="194" duration="3" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/C-S Star " name="st" blendMode="invert">
+                  <matrix>
+                    <Matrix tx="35" ty="20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.7109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="197" duration="4" tweenType="motion" keyMode="17921" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/C-S Star " name="st" blendMode="invert">
+                  <matrix>
+                    <Matrix a="1.3599853515625" d="1.3599853515625" tx="35" ty="20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="201" duration="292" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/C-S Star " name="st" blendMode="invert">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35" ty="20.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="172" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!700 -336[1006 -336 1222 -120!1222 -120[1438 96 1438 402!1438 402[1438 708 1222 924!1222 924[1006 1140 700 1140!700 1140[394 1140 178 924!178 924[-38 708 -38 402!-38 402[-38 96 178 -120!178 -120[394 -336 700 -336"/>
+                    <Edge fillStyle1="1" edges="
+!5297 2760|-3622 2760!-3622 2760|-3622 -2320!-3622 -2320|5297 -2320!5297 -2320|5297 2760"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="321" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" parentLayerIndex="8" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="172" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/C-S Front Shine" name="s">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="34" ty="27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="321" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="74" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Standing 2">
+                  <matrix>
+                    <Matrix a="-1" tx="-41" ty="78.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Talking">
+                  <matrix>
+                    <Matrix tx="-59" ty="92.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" duration="50" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Standing 2">
+                  <matrix>
+                    <Matrix a="-1" tx="-41" ty="78.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="130" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Standing 2 - Talking - 2">
+                  <matrix>
+                    <Matrix a="-1" tx="-39.15" ty="77"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="137" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Standing 3 - Talking - 1">
+                  <matrix>
+                    <Matrix a="-1" tx="-38.5" ty="77.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="139" duration="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Standing 3 - Talking - 2">
+                  <matrix>
+                    <Matrix a="-1" tx="-38.5" ty="77.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="151" duration="28" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Standing 3 - Talking - 4">
+                  <matrix>
+                    <Matrix a="-1" tx="-37.65" ty="80"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" duration="230" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Standing 2">
+                  <matrix>
+                    <Matrix a="-1" tx="-41" ty="78.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="409" duration="84" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Kamek Talking">
+                  <matrix>
+                    <Matrix tx="-59" ty="92.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema2 Bowser Idle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="138.6" ty="76.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema2 Bowser Idle">
+                  <matrix>
+                    <Matrix tx="138.6" ty="76.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema2 Bowser Idle" symbolType="graphic" firstFrame="20" loop="loop">
+                  <matrix>
+                    <Matrix tx="138.6" ty="76.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="98" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Body - 2">
+                      <matrix>
+                        <Matrix tx="112.25" ty="45.75"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 9">
+                      <matrix>
+                        <Matrix a="-1" tx="123.25" ty="67.4"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Head - 2">
+                      <matrix>
+                        <Matrix tx="103.6" ty="40.75"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 1">
+                      <matrix>
+                        <Matrix tx="137.15" ty="64.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="100" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 10">
+                      <matrix>
+                        <Matrix a="-1" tx="123.45" ty="65.7"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Body - 2">
+                      <matrix>
+                        <Matrix tx="112.1" ty="45.7"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 1">
+                      <matrix>
+                        <Matrix tx="137" ty="64.1"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Head - 7">
+                      <matrix>
+                        <Matrix tx="105.6" ty="39.7"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" duration="391" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema2 Bowser Idle" symbolType="graphic" firstFrame="58" loop="loop">
+                  <matrix>
+                    <Matrix tx="138.6" ty="76.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="192" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="192" duration="217" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cinema 2 Scene 3 50 Shine Sprites">
+                  <matrix>
+                    <Matrix tx="36.25" ty="24.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="409" duration="84" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BackGFX" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="172" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Golden Tile Repeat" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-45.9" ty="43.55"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!701.5 1517|701 1517!701 1517[696 1517 691 1517!691 1517[317 1516 7 1341!7 1341[3 1339 0 1337!0 1337[-122 1267 -234 1170!-234 1170[-328 1089 -415 989!-415 989|-416 988!-416 988[-495 897 -559 800!-559 800[-617 714 -664 624!-664 624[-696
+ 561 -724 496!-724 496[-868 154 -874 -254!-874 -254|-874 -271!-874 -271[-874 -280 -874 -288!-874 -288[-874 -337 -872 -385!-872 -385[-872 -388 -871 -391!-871 -391[-845 -1004 -498 -1462!-498 -1462[-468 -1502 -436 -1540!-436 -1540[-426 -1552
+ -416 -1564!-416 -1564[-396 -1587 -375 -1609!-375 -1609[70 -2093 691 -2092!691 -2092[1304 -2093 1748 -1618!1748 -1618[1758 -1607 1768 -1596!1768 -1596[1782 -1580 1797 -1564!1797 -1564[1807 -1552 1817 -1540!1817 -1540[1870 -1477 1917 -1410
+!1917 -1410[2004 -1286 2069 -1150!2069 -1150[2078 -1133 2086 -1114!2086 -1114[2238 -778 2253 -375!2253 -375[2254 -332 2255 -288!2255 -288[2255 -275 2255 -261!2255 -261[2255 -259 2255 -257!2255 -257[2251 5 2191 241!2191 241[2142 428 2057
+ 598!2057 598[1996 720 1917 833!1917 833[1884 881 1847 927!1847 927[1822 958 1797 988!1797 988[1769 1019 1742 1049!1742 1049[1730 1061 1718 1073!1718 1073[1716 1075 1715 1077!1715 1077[1713 1078 1711 1080!1711 1080[1709 1082 1708 1084
+!1708 1084[1706 1085 1704 1087!1704 1087[1702 1089 1701 1091!1701 1091[1697 1094 1694 1097!1694 1097[1691 1100 1688 1104!1688 1104[1684 1107 1681 1110!1681 1110[1678 1113 1675 1117!1675 1117[1671 1120 1668 1123!1668 1123[1665 1126 1662
+ 1129!1662 1129[1658 1132 1655 1135!1655 1135[1652 1137 1649 1141!1649 1141[1292 1466 835 1510"/>
+                        <Edge fillStyle0="1" edges="
+!835 1510|835 1514!835 1514[782 1517 730 1517!730 1517[722 1517 714 1517!714 1517[#2C5.54 1517 701.5 1517"/>
+                        <Edge strokeStyle="1" edges="
+!701.5 1517|702 1517!702 1517[708 1516 714 1517!714 1517[775 1515 835 1510"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-4091 -3004|4848 -3004!4848 -3004|4848 2136!4848 2136|-4091 2136!-4091 2136|-4091 -3004"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="2.07907104492188" tx="-223" ty="-151.7"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="-2.07904052734375" tx="-223" ty="106.8"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!500 1089|165 2116!165 2116|420 2154!420 2154|641 1074!641 1074|500 1074!500 1074|500 1089"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!897 1090|1231 2112!1231 2112|975 2148!975 2148|740 1074!740 1074|897 1074!897 1074|897 1090"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/Castle Stained Glass Window">
+                  <matrix>
+                    <Matrix a="-1" tx="34.45" ty="-13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.66015625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Carpet" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="642.45" ty="495.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!5178 2138|-4439 2138!-4439 2138|-4439 2778!-4439 2778|5178 2778!5178 2778|5178 2138"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/C-S Shine Orb">
+                  <matrix>
+                    <Matrix tx="-565.65" ty="6.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Door F6 Bit">
+                      <matrix>
+                        <Matrix a="1.25" d="1.25161743164063" tx="-126.8" ty="68.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Door F6 Bit">
+                      <matrix>
+                        <Matrix a="-1.25" d="1.25161743164063" tx="-125.8" ty="68.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="2.07907104492188" tx="211" ty="-151.7"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="-2.07904052734375" tx="211" ty="106.8"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.04437255859375" d="0.04437255859375" tx="35" ty="19.95"/>
+                            </matrix>
+                            <GradientEntry color="#F8F2C2" alpha="0.0823529411764706" ratio="0"/>
+                            <GradientEntry color="#FEF7BC" alpha="0.623529411764706" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!700 -307[992 -308 1199 -101!1199 -101[1406 106 1407 399!1407 399[1406 691 1199 898!1199 898[992 1105 700 1106!700 1106[407 1105 200 898!200 898[-7 691 -6 399!-6 399[-7 106 200 -101!200 -101[407 -308 700 -307"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="321" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Golden Tile Repeat" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-45.9" ty="43.55"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!701.5 1517|701 1517!701 1517[696 1517 691 1517!691 1517[317 1516 7 1341!7 1341[3 1339 0 1337!0 1337[-122 1267 -234 1170!-234 1170[-328 1089 -415 989!-415 989|-416 988!-416 988[-495 897 -559 800!-559 800[-617 714 -664 624!-664 624[-696
+ 561 -724 496!-724 496[-868 154 -874 -254!-874 -254|-874 -271!-874 -271[-874 -280 -874 -288!-874 -288[-874 -337 -872 -385!-872 -385[-872 -388 -871 -391!-871 -391[-845 -1004 -498 -1462!-498 -1462[-468 -1502 -436 -1540!-436 -1540[-426 -1552
+ -416 -1564!-416 -1564[-396 -1587 -375 -1609!-375 -1609[70 -2093 691 -2092!691 -2092[1304 -2093 1748 -1618!1748 -1618[1758 -1607 1768 -1596!1768 -1596[1782 -1580 1797 -1564!1797 -1564[1807 -1552 1817 -1540!1817 -1540[1870 -1477 1917 -1410
+!1917 -1410[2004 -1286 2069 -1150!2069 -1150[2078 -1133 2086 -1114!2086 -1114[2238 -778 2253 -375!2253 -375[2254 -332 2255 -288!2255 -288[2255 -275 2255 -261!2255 -261[2255 -259 2255 -257!2255 -257[2251 5 2191 241!2191 241[2142 428 2057
+ 598!2057 598[1996 720 1917 833!1917 833[1884 881 1847 927!1847 927[1822 958 1797 988!1797 988[1769 1019 1742 1049!1742 1049[1730 1061 1718 1073!1718 1073[1716 1075 1715 1077!1715 1077[1713 1078 1711 1080!1711 1080[1709 1082 1708 1084
+!1708 1084[1706 1085 1704 1087!1704 1087[1702 1089 1701 1091!1701 1091[1697 1094 1694 1097!1694 1097[1691 1100 1688 1104!1688 1104[1684 1107 1681 1110!1681 1110[1678 1113 1675 1117!1675 1117[1671 1120 1668 1123!1668 1123[1665 1126 1662
+ 1129!1662 1129[1658 1132 1655 1135!1655 1135[1652 1137 1649 1141!1649 1141[1292 1466 835 1510"/>
+                        <Edge fillStyle0="1" edges="
+!835 1510|835 1514!835 1514[782 1517 730 1517!730 1517[722 1517 714 1517!714 1517[#2C5.54 1517 701.5 1517"/>
+                        <Edge strokeStyle="1" edges="
+!701.5 1517|702 1517!702 1517[708 1516 714 1517!714 1517[775 1515 835 1510"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-4091 -3004|4848 -3004!4848 -3004|4848 2136!4848 2136|-4091 2136!-4091 2136|-4091 -3004"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="2.07907104492188" tx="-223" ty="-151.7"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="-2.07904052734375" tx="-223" ty="106.8"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/C-S Stuff/Castle Stained Glass Window">
+                  <matrix>
+                    <Matrix a="-1" tx="34.45" ty="-13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.66015625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Carpet" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="642.45" ty="495.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!5178 2138|-4439 2138!-4439 2138|-4439 2778!-4439 2778|5178 2778!5178 2778|5178 2138"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!500 1089|165 2116!165 2116|420 2154!420 2154|641 1074!641 1074|500 1074!500 1074|500 1089"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!897 1090|1231 2112!1231 2112|975 2148!975 2148|740 1074!740 1074|897 1074!897 1074|897 1090"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Door F6 Bit">
+                      <matrix>
+                        <Matrix a="1.25" d="1.25161743164063" tx="-126.8" ty="68.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Door F6 Bit">
+                      <matrix>
+                        <Matrix a="-1.25" d="1.25161743164063" tx="-125.8" ty="68.15"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="2.07907104492188" tx="211" ty="-151.7"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
+                      <matrix>
+                        <Matrix a="1.5" d="-2.07904052734375" tx="211" ty="106.8"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="493" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!4684 -2860S2|-4175 -2860!-4175 -2860|-4175 2441!-4175 2441|4684 2441!4684 2441|4684 -2860!7724 5260|-7475 5260!-7475 5260|-7475 -5072!-7475 -5072|7724 -5072!7724 -5072|7724 5260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

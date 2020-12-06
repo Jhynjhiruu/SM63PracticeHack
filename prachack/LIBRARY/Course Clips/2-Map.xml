@@ -1,0 +1,684 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/2-Map" itemID="4872a488-00000e27" lastModified="1215475440">
+  <timeline>
+    <DOMTimeline name="2-Map">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF" alpha="0.250980392156863"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2714 -2225|2714 -2225!2714 -2225|2714 2225!2714 2225|-2714 2225!-2714 2225|-2714 -2225"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText left="-9.85" width="170.3" height="46.7" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-75.5" ty="-117.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Snowman's Land:&#xD;(Top View)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <BevelFilter highlightColor="#D9F0FB"/>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" quality="3" strength="10"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText left="-4.7" width="66.3" height="33.2" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-30.45" ty="-58.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The&#xD;Snowman</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText left="-6.65" width="70.2" height="33.2" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="67.5" ty="27.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>More&#xD;Mountains</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText left="-6.65" width="70.2" height="15.6" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="67.5" ty="-42.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Mountains</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText left="-0.45" width="57.8" height="15.6" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-121.15" ty="28.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ice Maze</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Chunk" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-109.6" ty="-17.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2192 -343|-1552 -343!-1552 -343|-1552 -210!-1552 -210|-2192 -210!-2192 -210|-2192 -343"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText left="-10.15" width="77.2" height="15.6" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-118.15" ty="-38.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Chief Chilly</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText left="6.95" width="43" height="15.6" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-116.15" ty="68.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Forest</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="14" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#000000" strength="10"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Snow Repeat 2" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="46.35" ty="-55.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!186 -1160[108 -1100 3 -1100!3 -1100[-102 -1100 -179 -1160"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-179 -1160[-222 -1138 -259 -1105!-259 -1105[-368 -1009 -367 -874!-367 -874[-368 -740 -259 -644!-259 -644[-252 -638 -244 -632"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-244 -632[-140 -548 4 -548!4 -548[148 -548 252 -633"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!252 -633[259 -638 266 -644!266 -644[375 -740 375 -874!375 -874[375 -1009 266 -1105!266 -1105[228 -1138 186 -1160"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-179 -1160[-186 -1166 -193 -1172!-193 -1172[-275 -1244 -275 -1345!-275 -1345[-275 -1446 -193 -1518!-193 -1518[-112 -1589 3 -1589!3 -1589[118 -1589 200 -1518!200 -1518[282 -1446 282 -1345!282 -1345[282 -1244 200 -1172!200 -1172[193 -1166
+ 186 -1160!252 -633[306 -605 354 -563!354 -563[499 -435 499 -255!499 -255[499 -75 354 52!354 52[209 180 4 180!4 180[-201 180 -346 52!-346 52[-491 -75 -491 -255!-491 -255[-491 -435 -346 -563!-346 -563[-299 -605 -244 -632"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-20" d="20" tx="11.05" ty="-40.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!-1649 -705|-1839 -1125!-1839 -1125|-2049 -1065!-2049 -1065|-2239 -705"/>
+                        <Edge fillStyle0="1" edges="
+!-2239 -705|-1649 -705"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-226.45" ty="-3.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-2659 35|-2469 -385!-2469 -385|-2169 -325!-2169 -325|-2069 35"/>
+                        <Edge fillStyle1="1" edges="
+!-2069 35|-2659 35"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/YI Ice Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10" d="10" tx="-107.45" ty="20.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/YI Ice Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10" d="10" tx="-132.45" ty="10.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!-871 400|-2161 400!-2161 400|-2161 1050!-2161 1050|-871 1050!-871 1050|-871 400"/>
+                        <Edge fillStyle0="2" edges="
+!-2331 200|-2661 200!-2661 200|-2661 850!-2661 850|-2331 850!-2331 850|-2331 200"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Chunk" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="69.45" ty="-11.65"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!1740 -677[1676 -668 1072 -330!1072 -330|1072 60!1072 60[1072 124 1152 220!1152 220[1232 315 1232 490!1232 490[1232 575 1202 611!1202 611[1172 646 1172 725!1172 725[1172 813 1502 950!1502 950[1619 998 2097 980!2097 980[2366 980 2398 974
+!2398 974[2456 963 2522 880!2522 880[2552 841 2552 375!2552 375[2575 57 2542 -90!2542 -90[2500 -262 2489 -292!2489 -292[2451 -394 2362 -490!2362 -490[2308 -548 2146 -613!2146 -613[1979 -680 1877 -680!1877 -680[1765 -680 1740 -677"/>
+                        <Edge cubics="!1072 -330(;1072,-170 1074,-50 1072,60q1072 -330Q1072 60q1072 60);"/>
+                        <Edge cubics="!1072 60(;1072,114 1102,160 1152,220q1072 60Q1072 98q1093 138Q1111 170q1152 220);"/>
+                        <Edge cubics="!1152 220(;1233,316 1232,418 1232,490q1152 220Q1205 283q1222 364Q1232 409q1232 490);"/>
+                        <Edge cubics="!1232 490(;1232,658 1172,565 1172,725q1232 490Q1232 575q1202 611Q1172 646q1172 725);"/>
+                        <Edge cubics="!1172 725(;1172,807 1425,918 1502,950q1172 725Q1172 778q1308 856Q1390 904q1502 950);"/>
+                        <Edge cubics="!1502 950(;1619,998 2057,980 2097,980q1502 950Q1575 980q1828 983Q1958 985q2097 980);"/>
+                        <Edge cubics="!2097 980(;2425,980 2429,997 2522,880q2097 980Q2366 980q2398 974Q2456 963q2522 880);"/>
+                        <Edge cubics="!2522 880(;2543,853 2552,626 2552,375q2522 880Q2552 841q2552 375);"/>
+                        <Edge cubics="!2552 375(;2552,350 2575,57 2542,-90q2552 375Q2558 283q2559 188Q2563 2q2542 -90);"/>
+                        <Edge cubics="!2542 -90(;2505,-243 2498,-343 2362,-490q2542 -90Q2500 -262q2489 -292Q2451 -394q2362 -490);"/>
+                        <Edge cubics="!2362 -490(;2292,-565 2017,-680 1877,-680q2362 -490Q2308 -548q2146 -613Q1979 -680q1877 -680);"/>
+                        <Edge cubics="!1877 -680(;1773,-680 1698,-688 1632,-630q1877 -680Q1765 -680q1740 -677Q1676 -668q1632 -630);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-20" d="20" tx="145.85" ty="44.6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!2259 678|1985 255!1985 255|1815.5 357.5"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!1815.5 357.5|1825 375!2259 678|2073.5 985"/>
+                        <Edge fillStyle0="1" edges="
+!2073.5 985|2561 985"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!2561 985|2364 505!2364 505|2259 678"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!1815.5 357.5|1655 455!1655 455|1580 680!1580 680|1775 975"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!1375 155|1705 155!1705 155|1815.5 357.5"/>
+                        <Edge strokeStyle="1" edges="
+!1365.5 147.5|1375 135"/>
+                        <Edge fillStyle1="1" edges="
+!1365.5 147.5|1375 155"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!1197 960.5|1195 965"/>
+                        <Edge fillStyle0="1" edges="
+!1195 965|1195 985!1195 985|2073.5 985"/>
+                        <Edge fillStyle1="1" edges="
+!1197 960.5|1185 955"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!1185 955|1185 385!1185 385|1365.5 147.5"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!1580 680|1425 445!1425 445|1197 960.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="35.8" ty="-31.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!2438 -550|2438 -530!2438 -530|1560 -530!1560 -530|1072 -530"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!1072 -530|1269 -1010!1269 -1010|1374 -837!1374 -837|1648 -1260!1648 -1260|1818 -1157!1818 -1157|1928 -1360!1928 -1360|2258 -1360"/>
+                        <Edge fillStyle1="1" edges="
+!2258 -1360|2268 -1367"/>
+                        <Edge strokeStyle="1" edges="
+!2268 -1367|2258 -1380"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!1374 -837|1560 -530!1858 -540|2053 -835!2053 -835|1978 -1060!1978 -1060|1818 -1157!1818 -1157|1808 -1140"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!2438 -550|2436 -554"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!2436 -554|2208 -1070!2208 -1070|2053 -835"/>
+                        <Edge fillStyle0="1" edges="
+!2436 -554|2448 -560"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!2448 -560|2448 -1130!2448 -1130|2268 -1367"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" weight="2">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge strokeStyle="1" edges="
+!1984 -1445[2020 -1481 2071 -1481!2071 -1481[2122 -1481 2158 -1445!2158 -1445[2193 -1410 2194 -1360!2194 -1360|1948 -1360!1948 -1360[1949 -1410 1984 -1445"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="6.85" ty="80.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!2153 1040|1998 1250!1998 1250|2148 1580"/>
+                        <Edge strokeStyle="1" edges="
+!1792 1610|1788 1620"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!1792 1610|1888 1340!1888 1340|2088 1580"/>
+                        <Edge strokeStyle="1" edges="
+!1675 1610|1678 1620"/>
+                        <Edge fillStyle1="1" edges="
+!1792 1610|1675 1610"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!1204 1610|1479 980!1479 980|1528 1137!1528 1137|1838 450!1838 450|2153 1040!2153 1040|2308 830!2308 830|2608 1610"/>
+                        <Edge fillStyle1="1" edges="
+!2608 1610|1792 1610"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!1998 1250|1848 920!1848 920|1577 1295!1577 1295|1675 1610"/>
+                        <Edge strokeStyle="1" edges="
+!1199 1620|1204 1610"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!1577 1295|1528 1137"/>
+                        <Edge fillStyle0="1" edges="
+!1204 1610|1675 1610"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <DashedStroke scaleMode="normal" weight="3">
+                            <fill>
+                              <SolidColor color="#FF0000"/>
+                            </fill>
+                          </DashedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!2228 -1010|-2261 -1010!-2261 -1010|-2261 1660!-2261 1660|2228 1660!2228 1660|2228 -1010"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Snowy/YI Snow Tree Small">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-74.8" ty="69.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Snowy/YI Snow Tree Small">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-90.55" ty="49.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Snowy/YI Snow Tree Small">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-109.6" ty="76.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Snowy/YI Snow Tree Small">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-132.95" ty="53"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-77.55" ty="89.1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!319 1885|509 1465!509 1465|809 1525!809 1525|909 1885"/>
+                        <Edge fillStyle1="1" edges="
+!909 1885|319 1885"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-20" d="20" tx="37.05" ty="-4.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!-1129 15|-1319 -405!-1319 -405|-1529 -345!-1529 -345|-1719 15"/>
+                        <Edge fillStyle0="1" edges="
+!-1719 15|-1129 15"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Snow Repeat" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-114.8" ty="-91.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-2714 -2225|2714 -2225!2714 -2225|2714 2225!2714 2225|-2714 2225!-2714 2225|-2714 -2225"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient focalPointRatio="-0.266666666666667">
+                            <matrix>
+                              <Matrix a="0.2843017578125" d="0.21417236328125" tx="-55.45" ty="-36.5"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" alpha="0.301960784313725" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="
+!-2714 -2225|2714 -2225!2714 -2225|2714 2225!2714 2225|-2714 2225!-2714 2225|-2714 -2225"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,158 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LDW - Moving Gren PL Up-Down" itemID="4974cabb-0000133d" sourceFlashFilepath="F:\Super Mario 63\New computer\Level Designer (With Mario Engine new) 3.fla" sourceLibraryItemHRef="LDW - Moving Gren PL Up-Down" sourceLastModified="1232400982" lastModified="1237778740" sourceItemID="4974cabb-0000133d">
+  <timeline>
+    <DOMTimeline name="LDW - Moving Gren PL Up-Down">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndStop(_parent.ydirection);
+onEnterFrame = function () {
+	if (this.hitTest(_root._xmouse, _root._ymouse, true)) {
+		hl = true;
+		sc = 120;
+	} else {
+		hl = false;
+		sc = 100;
+	}
+	gotoAndStop(_parent.ydirection);
+	_xscale += (sc-_xscale)/3;
+	_yscale = _xscale;
+};
+onMouseDown = function () {
+	if (hl == true) {
+		if (_parent.ydirection == "Up") {
+			_parent.ydirection = "Down";
+		} else if (_parent.ydirection == "Down") {
+			_parent.ydirection = "none";
+		} else {
+			_parent.yspeednum = 2;
+			_parent.ylengthnum = 40;
+			_parent.yoffsetnum = 0;
+			_parent.yaccel = 0;
+			_parent.ydirection = "Up";
+		}
+	}
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Up" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="Down" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="none" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF00" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!350 -177|350 123!350 123|-330 123!-330 123|-330 -177!-330 -177|350 -177"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!72 -35[63 -24 63 -3!63 -3[63 21 73 33!73 33[82 45 96 45!96 45[110 45 119 34!119 34[128 23 128 -1!128 -1[128 -24 118 -35!118 -35[109 -46 96 -46!96 -46[82 -46 72 -35!61 -52[68 -63 80 -70!80 -70[92 -76 106 -76!106 -76[131 -76 149 -57!149
+ -57[167 -37 167 -1!167 -1[167 35 149 55!149 55[131 75 106 75!106 75[94 75 84 70!84 70[74 66 63 54!63 54|63 127!63 127|25 127!25 127|25 -73!25 -73|61 -73!61 -73|61 -52!-126 -128|-126 -20!-126 -20[-126 6 -125 14!-125 14[-122 26 -112 33
+!-112 33[-103 41 -86 41!-86 41[-69 41 -60 34!-60 34[-51 27 -49 16!-49 16[-48 6 -48 -18!-48 -18|-48 -128!-48 -128|-7 -128!-7 -128|-7 -23!-7 -23[-7 13 -10 28!-10 28[-14 43 -22 53!-22 53[-31 63 -46 69!-46 69[-61 75 -85 75!-85 75[-113 75
+ -128 69!-128 69[-143 62 -152 52!-152 52[-160 41 -163 29!-163 29[-167 12 -167 -22!-167 -22|-167 -128!-167 -128|-126 -128"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!194 -47|147 98!147 98|110 98!110 98|85 5!85 5|60 98!60 98|23 98!23 98|-23 -47!-23 -47|15 -47!15 -47|42 48!42 48|67 -47!67 -47|104 -47!104 -47|128 48!128 48|156 -47!156 -47|194 -47!291 -50[304 -50 315 -46!315 -46[325 -41 331 -34!331 -34
+[336 -27 338 -18!338 -18[340 -9 340 8!340 8|340 98!340 98|302 98!302 98|302 24!302 24[302 0 299 -6!299 -6[297 -13 291 -17!291 -17[286 -21 278 -21!278 -21[268 -21 260 -16!260 -16[252 -10 249 -1!249 -1[246 8 246 32!246 32|246 98!246 98
+|208 98!208 98|208 -47!208 -47|244 -47!244 -47|244 -26!244 -26[263 -50 291 -50!-227 -99[-209 -93 -196 -80!-196 -80[-184 -67 -177 -48!-177 -48[-171 -28 -171 0!-171 0[-171 24 -177 42!-177 42[-184 64 -198 78!-198 78[-209 88 -227 94!-227
+ 94[-240 98 -263 98!-263 98|-339 98!-339 98|-339 -102!-339 -102|-265 -102!-265 -102[-240 -102 -227 -99!-228 -57[-236 -64 -247 -67!-247 -67[-255 -69 -280 -69!-280 -69|-298 -69!-298 -69|-298 64!-298 64|-268 64!-268 64[-251 64 -244 62!-244
+ 62[-234 60 -227 54!-227 54[-221 48 -217 35!-217 35[-213 21 -213 -2!-213 -2[-213 -25 -217 -38!-217 -38[-221 -50 -228 -57!-37 -29[-16 -8 -16 25!-16 25[-16 58 -37 80!-37 80[-58 101 -91 101!-91 101[-111 101 -129 92!-129 92[-147 83 -156 66
+!-156 66[-166 48 -166 23!-166 23[-166 4 -156 -14!-156 -14[-147 -32 -130 -41!-130 -41[-112 -50 -91 -50!-91 -50[-58 -50 -37 -29!-91 -19[-106 -19 -116 -8!-116 -8[-126 4 -126 25!-126 25[-126 47 -116 58!-116 58[-106 70 -91 70!-91 70[-76 70
+ -66 58!-66 58[-55 47 -55 25!-55 25[-55 4 -66 -8!-66 -8[-76 -19 -91 -19"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!63 -73|63 -52!63 -52[82 -76 110 -76!110 -76[123 -76 134 -72!134 -72[144 -67 150 -60!150 -60[155 -53 157 -44!157 -44[159 -35 159 -18!159 -18|159 72!159 72|121 72!121 72|121 -2!121 -2[121 -26 118 -32!118 -32[116 -39 110 -43!110 -43[105
+ -47 97 -47!97 -47[87 -47 79 -42!79 -42[71 -36 68 -27!68 -27[65 -18 65 6!65 6|65 72!65 72|27 72!27 72|27 -73!27 -73|63 -73!232 -13|289 -13!289 -13[289 -30 281 -38!281 -38[273 -47 261 -47!261 -47[248 -47 240 -38!240 -38[232 -29 232 -13
+!310 -55[328 -34 328 10!328 10|231 10!231 10[232 28 241 37!241 37[249 47 263 47!263 47[272 47 278 42!278 42[284 37 287 26!287 26|325 32!325 32[318 53 302 64!302 64[286 75 262 75!262 75[224 75 206 51!206 51[192 31 192 0!192 0[192 -36 211
+ -56!211 -56[230 -76 258 -76!258 -76[291 -76 310 -55!-221 -72[-211 -67 -205 -60!-205 -60[-200 -53 -198 -44!-198 -44[-196 -35 -196 -18!-196 -18|-196 72!-196 72|-234 72!-234 72|-234 -2!-234 -2[-234 -26 -237 -32!-237 -32[-239 -39 -245 -43
+!-245 -43[-250 -47 -258 -47!-258 -47[-268 -47 -276 -42!-276 -42[-284 -36 -287 -27!-287 -27[-290 -18 -290 6!-290 6|-290 72!-290 72|-328 72!-328 72|-328 -73!-328 -73|-292 -73!-292 -73|-292 -52!-292 -52[-273 -76 -245 -76!-245 -76[-232 -76
+ -221 -72!-136 -40[-127 -58 -110 -67!-110 -67[-92 -76 -71 -76!-71 -76[-38 -76 -17 -55!-17 -55[4 -34 4 -1!4 -1[4 32 -17 54!-17 54[-38 75 -71 75!-71 75[-91 75 -109 66!-109 66[-127 57 -136 40!-136 40[-146 22 -146 -3!-146 -3[-146 -22 -136
+ -40!-96 -34[-106 -22 -106 -1!-106 -1[-106 21 -96 32!-96 32[-86 44 -71 44!-71 44[-56 44 -46 32!-46 32[-35 21 -35 -1!-35 -1[-35 -22 -46 -34!-46 -34[-56 -45 -71 -45!-71 -45[-86 -45 -96 -34"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

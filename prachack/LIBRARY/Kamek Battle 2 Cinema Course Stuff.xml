@@ -1,0 +1,844 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Kamek Battle 2 Cinema Course Stuff" itemID="48fc0452-000014c1" lastModified="1241392440" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="Kamek Battle 2 Cinema Course Stuff">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.QuakeX = 0;
+_root.QuakeY = 0;
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//_root.PlayMessage("Gah! "+_root.CurrentPlayer+" What are you doing here?!? You might mess up my Master's plans, so I'll have to kill you now!");
+_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i> I can't believe Master Bowser!!!!! ...!!! .. !!";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//_root.PlayMessage("Gah! "+_root.CurrentPlayer+" What are you doing here?!? You might mess up my Master's plans, so I'll have to kill you now!");
+_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  I have helped Bowser in devising his Master Plan, or technically, <i>my</i> Master Plan!!";
+lastframeZ = _root.KeyZ()
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="91" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//_root.PlayMessage("Gah! "+_root.CurrentPlayer+" What are you doing here?!? You might mess up my Master's plans, so I'll have to kill you now!");
+_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i> I helped him when he needed to <i>borrow</i> my Magic to create the Airship, and command all the forces for him!!! ....";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//_root.PlayMessage("Gah! "+_root.CurrentPlayer+" What are you doing here?!? You might mess up my Master's plans, so I'll have to kill you now!");
+_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  And I practically told him where the Orb of Power is!  And this is how he repays me?!?!?!??!";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="93" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[//_root.PlayMessage("Gah! "+_root.CurrentPlayer+" What are you doing here?!? You might mess up my Master's plans, so I'll have to kill you now!");
+_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  He has kicked me out of his high ranking officers..... in other words,  he <i>Fired</i> his teacher!!";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  @#$%%#@@</b>  I should've known Bowser couldn't handle that much Power...";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+
+
+
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="95" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  The Orb of Power must've posessed him;  he's trying to destroy the entire planet!!";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+
+
+
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="96" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  Not just take it over, but actually <i>blow it up</i> with that Meteor he's planning on summoning!!";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+
+
+
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="97" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  I raised him from a baby!!  That's it, Bowser!!!!  I will defeat you!";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+
+
+
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="98" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.CinemaMessageFrame = 2;
+_root.CinemaMessage = "<b><i>Kamek:</i>  You have always treated me like scum,  and now you're gonna get it!";
+lastframeZ = _root.KeyZ();
+//
+stop();
+onEnterFrame = function () {
+	if (_root.KeyZ() == true && lastframeZ !== true && _root.CinemaMessageFinished == true) {
+		_root.CinemaMessage = "";
+		//_root.CinemaMessage = "Some mroe text";
+		//_root.CinemaMessageFrame = 3;
+		onEnterFrame = function () {
+			_root.Camcenter = _parent.Target1;
+			_root.PauseGame = false;
+		};
+		play();
+	}
+	lastframeZ = _root.KeyZ();
+	//
+	_root.Camcenter = _parent.Target1;
+	_root.PauseGame = false;
+};
+
+
+
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="101" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_parent._parent.play();
+stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="84" tweenType="motion" keyMode="17921" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.814071655273438" d="0.814071655273438" tx="572.45" ty="94.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="84" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StageCam">
+                  <matrix>
+                    <Matrix a="0.369613647460938" d="0.369613647460938" tx="572.45" ty="-195.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="102" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup>
+                      <members>
+                        <DOMGroup>
+                          <transformationPoint>
+                            <Point x="61.35" y="282.5"/>
+                          </transformationPoint>
+                          <members>
+                            <DOMShape>
+                              <transformationPoint>
+                                <Point x="61.35" y="282.5"/>
+                              </transformationPoint>
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#BD0000"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle0="1" edges="!22290 5430|-19835 5470!-19835 5470|-19835 5870!-19835 5870|22290 5870!22290 5870|22290 5430"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="-170.25" ty="263.55"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="340.75" ty="263.55"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="596.75" ty="263.55"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="84.75" ty="263.55"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="-426.25" ty="263.5"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="852.75" ty="263.55"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="-938.25" ty="263.5"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="-682.25" ty="263.5"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                        <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
+                          <matrix>
+                            <Matrix tx="-1194.25" ty="263.55"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
+                      <matrix>
+                        <Matrix a="0.48199462890625" d="2.33102416992188" tx="93.35" ty="300.5"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="93" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-08 Kamek (Lava Battle)/9-08 Kamek Talking">
+                  <matrix>
+                    <Matrix a="-1" tx="559.7" ty="-168.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/9-08 kamek Talking 2">
+                  <matrix>
+                    <Matrix a="-1" tx="559.85" ty="-168.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="102" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="   Enemies/Normal/ G-Z/ Koopa/Flying Koopa Animation">
+                  <matrix>
+                    <Matrix tx="596.85" ty="-180.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="102" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-08 Kamek (Lava Battle)/9-08 Kamek BG">
+                      <matrix>
+                        <Matrix tx="-237.6" ty="148.45"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <color>
+                        <Color tintMultiplier="0.35"/>
+                      </color>
+                    </DOMSymbolInstance>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="474.45" ty="238.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!9489 4958|10797 4958!10797 4958|10797 4778!10797 4778|9489 4778!9489 4778|9489 4958"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="597.45" ty="238.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="1" edges="!13257 4778|11949 4778!11949 4778|11949 4958!11949 4958|13257 4958!13257 4958|13257 4778"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="698.85" ty="239.8"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="2">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="634.85" ty="239.8"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="3">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="442.85" ty="239.8"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="4">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="378.85" ty="239.8"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="5">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="538.85" ty="239.8"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" weight="2">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!15245 4796|15245 5436!15245 5436|14625 5436!14625 5436|14625 4796!14625 4796|15245 4796"/>
+                            <Edge fillStyle1="2" strokeStyle="1" edges="!13345 5436|13345 4796!13345 4796|13965 4796!13965 4796|13965 5436!13965 5436|13345 5436"/>
+                            <Edge fillStyle0="4" strokeStyle="1" edges="!8205 4796|7577 4796!7577 4796|7577 5436!7577 5436|8205 5436!8205 5436|8205 4796"/>
+                            <Edge fillStyle0="3" strokeStyle="1" edges="!9485 5436|9485 4796!9485 4796|8857 4796!8857 4796|8857 5436!8857 5436|9485 5436"/>
+                            <Edge fillStyle0="5" strokeStyle="1" edges="!12045 4796|10785 4796!10785 4796|10785 5436!10785 5436|12045 5436!12045 5436|12045 4796"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMSymbolInstance libraryItemName="  Course Clips/ 8 - Bowser's Castle/Main Clips/8-1 Bobbing Pole">
+                      <matrix>
+                        <Matrix a="0.793655395507813" b="-0.097869873046875" c="0.097869873046875" d="0.793655395507813" tx="293.85" ty="190.35"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point/>
+                      </transformationPoint>
+                      <Actionscript>
+                        <script><![CDATA[onClipEvent (load) {
+	count = 0;
+	rotspeed = 0.02;
+	landedon = false;
+}
+onClipEvent (enterFrame) {
+	_rotation += rotspeed;
+	count += 1;
+	if (count>180) {
+		rotspeed *= -1;
+		count = 0;
+	}
+	//    
+	dx = _x-_root.Course.Char._x+_parent._x;
+	dy = _y-_root.Course.Char._y+_parent._y;
+	distance = Math.sqrt(dx*dx+dy*dy);
+	//      
+	newx = Math.sin(_root.angleToRadians(_rotation))*distance;
+	newy = Math.cos(_root.angleToRadians(_rotation))*distance;
+	diffy = newy-oldy;
+	diffx = newx-oldx;
+	oldx = newx;
+	oldy = newy;
+	//
+	Y = Math.cos(_root.angleToRadians(_rotation))*distance;
+	X = Math.sin(_root.angleToRadians(_rotation))*distance;
+	//
+	if (hitTest((_root.Course.Char._x*_root.coursescale/100)+_root.Course._x, ((_root.Course.Char._y+3)*_root.coursescale/100)+_root.Course._y, true)) {
+		_root.Course.Char._x += this.diffx;
+		_root.Course.Char._y += this.diffY;
+		//_root.Course.Char.xspeed = _root.groundFriction(_root.Course.Char.xspeed, 0.3, 1.1);
+		if (landedon == false) {
+			_root.Course.Char.xspeed -= this.diffx;
+			//
+		}
+		landedon = true;
+	} else {
+		if (landedon == true) {
+			_root.Course.Char.xspeed += this.diffx;
+			//_root.Course.Char.yspeed += this.diffy/2;
+		}
+		landedon = false;
+	}
+	// 
+}
+]]></script>
+                      </Actionscript>
+                    </DOMSymbolInstance>
+                    <DOMGroup>
+                      <members>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix tx="557.35" ty="-265.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix a="-1" tx="586.35" ty="-265.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix tx="557.35" ty="-345.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix a="-1" tx="586.35" ty="-345.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix tx="557.35" ty="-45.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix a="-1" tx="586.35" ty="-45.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix tx="557.35" ty="-125.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
+                          <matrix>
+                            <Matrix a="-1" tx="586.35" ty="-125.7"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
+                          <matrix>
+                            <Matrix a="0.75" d="0.75" tx="426.2" ty="-106.15"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
+                          <matrix>
+                            <Matrix a="0.75" d="0.75" tx="426.2" ty="-32.15"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
+                          <matrix>
+                            <Matrix a="0.75" d="0.75" tx="426.2" ty="45.85"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
+                          <matrix>
+                            <Matrix a="0.75" d="0.75" tx="688.2" ty="-106.15"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
+                          <matrix>
+                            <Matrix a="0.75" d="0.75" tx="688.2" ty="-32.15"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
+                          <matrix>
+                            <Matrix a="0.75" d="0.75" tx="688.2" ty="45.85"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Bowser Door">
+                          <matrix>
+                            <Matrix tx="556.2" ty="-185.65"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                        <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Bowser Door">
+                          <matrix>
+                            <Matrix a="-1" tx="588.2" ty="-185.65"/>
+                          </matrix>
+                        </DOMBitmapInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="677.95" ty="161.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="2">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="645.95" ty="161.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="3">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="546.95" ty="121.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="4">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="487.95" ty="161.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="5">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="578.95" ty="121.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                            <FillStyle index="6">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="20" d="20" tx="455.95" ty="161.9"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle0="2" edges="!13254 3238|12919 3238!12919 3238|12919 3418!12919 3418|13254 3418!13254 3418|13254 3238"/>
+                            <Edge fillStyle0="1" edges="!13559 3418|13894 3418!13894 3418|13894 3238!13894 3238|13559 3238!13559 3238|13559 3418"/>
+                            <Edge fillStyle0="3" edges="!11274 2618|11274 2438!11274 2438|10939 2438!10939 2438|10939 2618!10939 2618|11274 2618"/>
+                            <Edge fillStyle0="4" edges="!9759 3418|10094 3418!10094 3418|10094 3238!10094 3238|9759 3238!9759 3238|9759 3418"/>
+                            <Edge fillStyle0="5" edges="!11914 2618|11914 2438!11914 2438|11579 2438!11579 2438|11579 2618!11579 2618|11914 2618"/>
+                            <Edge fillStyle0="6" edges="!9454 3418|9454 3238!9454 3238|9119 3238!9119 3238|9119 3418!9119 3418|9454 3418"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMShape selected="true">
+                              <fills>
+                                <FillStyle index="1">
+                                  <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
+                                    <matrix>
+                                      <Matrix a="20" d="20" tx="539.35" ty="-155.05"/>
+                                    </matrix>
+                                  </BitmapFill>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle0="1" edges="!12095 -3101S1|10787 -3101!10787 -3101|10787 -2921!10787 -2921|12095 -2921!12095 -2921|12095 -3101"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

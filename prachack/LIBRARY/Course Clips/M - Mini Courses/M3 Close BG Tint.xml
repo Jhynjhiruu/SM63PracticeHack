@@ -1,0 +1,1587 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/ M - Mini Courses /M3 Close BG Tint" itemID="47808ab6-0000101d" lastModified="1214890240" lastUniqueIdentifier="76">
+  <timeline>
+    <DOMTimeline name="M3 Close BG Tint">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop()]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Clock Themed/Pendulum Code">
+                  <matrix>
+                    <Matrix a="-1" tx="-302.75" ty="-277.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="50.1"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	graphic = true
+	distance = 60
+	angle = 35;
+	thickness = 10;
+	bellsize = 20
+	basesize = 16
+	speed = 900*_root.Course.BackGFX.clockspeed;
+	offstart = 0;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Clock Themed/Pendulum Code">
+                  <matrix>
+                    <Matrix a="-1" tx="-286.75" ty="-277.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="50.1"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	graphic = true;
+	distance = 80;
+	angle = 30;
+	thickness = 10;
+	bellsize = 25;
+	basesize = 16;
+	speed = 1200*_root.Course.BackGFX.clockspeed;
+	offstart = 20;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Clock Themed/Pendulum Code">
+                  <matrix>
+                    <Matrix tx="196.55" ty="-76.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="50.1"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	graphic = true
+	distance = 60
+	angle = 35;
+	thickness = 10;
+	bellsize = 20
+	basesize = 16
+	speed = 900*_root.Course.BackGFX.clockspeed;
+	offstart = 0;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="7.5" c="171.515579223633" d="0" tx="-487.95" ty="-289.8"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-8387 -5796|-9759 -5796!-9759 -5796|-9759 -5316!-9759 -5316|-8387 -5316!-8387 -5316|-8387 -5796"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="5.30331420898438" b="5.30331420898438" c="121.27995300293" d="-121.28254699707" tx="-436.7" ty="-273.8"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-7761 -6267|-7761 -5771!-7761 -5771|-8210 -5322!-8210 -5322|-8387 -5322!-8387 -5322|-8387 -5823!-8387 -5823|-7929 -6267!-7929 -6267|-7761 -6267"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-254.9" ty="63.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-304.9" ty="13.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-354.9" ty="-36.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-87.85" ty="-317.7"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!4020 -6287|-2240 -6287!-2240 -6287|-2240 -5912!-2240 -5912|4020 -5912!4020 -5912|4020 -6287"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.353561401367188" b="0.353561401367188" c="-0.353546142578125" d="0.353561401367188" tx="48.5" ty="-370"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0" b="-0.5" c="0.5" d="0" tx="108.5" ty="-410"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.353546142578125" b="-0.353546142578125" c="0.353561401367188" d="-0.353546142578125" tx="168.5" ty="-370"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="7.5" c="-171.515579223633" d="0" tx="233.2" ty="-109.75"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!3292 -2194.5|7924 -2194!7924 -2194|7924 -1714!7924 -1714|3292 -1714.5!3292 -1714.5|3292 -2194.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.353561401367188" b="-0.353546142578125" c="0.353561401367188" d="0.353561401367188" tx="-71.5" ty="-370"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0" b="-0.5" c="0.5" d="0" tx="-11.5" ty="-410"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.353561401367188" b="-0.353546142578125" c="0.353561401367188" d="0.353561401367188" tx="48.5" ty="-450"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.353546142578125" b="0.353561401367188" c="-0.353546142578125" d="-0.353546142578125" tx="168.5" ty="-450"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.353561401367188" b="-0.353546142578125" c="0.353561401367188" d="0.353561401367188" tx="-71.5" ty="-450"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0" b="-0.5" c="0.5" d="0" tx="108.5" ty="-500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="-0.5" tx="-11.5" ty="-500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 2;
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="7.5" c="171.515579223633" d="0" tx="-225.05" ty="-313.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-7761 -5796|-3129 -5796!-3129 -5796|-3129 -6276!-3129 -6276|-7761 -6276!-7761 -6276|-7761 -5796"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="-7.5" c="171.515579223633" d="0" tx="-230.2" ty="62.3"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-3231 1246|-4017 1246!-4017 1246|-4017 766!-4017 766|-3231 766!-3231 766|-3231 1246"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="5.30331420898438" b="-5.30328369140625" c="121.27995300293" d="121.28254699707" tx="-178.95" ty="46.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-3232 772|-3232 1273!-3232 1273|-2774 1717!-2774 1717|-2606 1717!-2606 1717|-2606 1221!-2606 1221|-3055 772!-3055 772|-3232 772"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="-7.5" c="171.515579223633" d="0" tx="32.7" ty="86.35"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1468 1726|-2606 1726!-2606 1726|-2606 1246!-2606 1246|-1468 1246!-1468 1246|-1468 1726"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="7.5" c="-171.515579223633" d="0" tx="-330.65" ty="-131.75"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-7985 -2634|-3353 -2634!-3353 -2634|-3353 -2154!-3353 -2154|-7985 -2154!-7985 -2154|-7985 -2634"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Clock Themed/Pendulum Code">
+                  <matrix>
+                    <Matrix tx="14.2" ty="-283.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="50.1"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	graphic = true
+	distance = 60
+	angle = 35;
+	thickness = 10;
+	bellsize = 20
+	basesize = 16
+	speed = 900*_root.Course.BackGFX.clockspeed;
+	offstart = 0;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Clock Themed/Pendulum Code">
+                  <matrix>
+                    <Matrix tx="15.2" ty="-283.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="50.1"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	graphic = true
+	distance = 80
+	angle = 30
+	thickness = 10;
+	bellsize = 25
+	basesize = 16
+	speed = 1200*_root.Course.BackGFX.clockspeed;
+	offstart = 20;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="7.5" c="-171.515579223633" d="0" tx="153.55" ty="-317"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!1456 -6340|-836 -6340!-836 -6340|-836 -5860!-836 -5860|1456 -5860!1456 -5860|1456 -6340"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 2">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-24.6" ty="-156.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 2">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-287.5" ty="-156.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-344.55" ty="-298.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-6860 -5900|-7880 -5900!-7880 -5900|-7880 -5533!-7880 -5533|-6860 -5533!-6860 -5533|-6860 -5900"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-169.55" ty="-330.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-4380 -6186|-3360 -6186!-3360 -6186|-3360 -6553!-3360 -6553|-4380 -6553!-4380 -6553|-4380 -6186"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Switches/Question tile">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-220.7" ty="-178"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 2">
+                  <matrix>
+                    <Matrix tx="-316.65" ty="-193.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 2">
+                  <matrix>
+                    <Matrix tx="-256.5" ty="-255.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	gotoAndStop(60);
+
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="4">
+                            <fill>
+                              <SolidColor color="#999999"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!-10436 -5603|-10436 -8600"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="0" b="7.5" c="171.515579223633" d="0" tx="-740.2" ty="-256.55"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle0="1" strokeStyle="1" edges="!-14804 -4651|-13432 -4651!-13432 -4651|-13432 -5131!-13432 -5131|-14804 -5131!-14804 -5131|-14804 -4651"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="5.30331420898438" b="5.30331420898438" c="121.27995300293" d="-121.28254699707" tx="-688.95" ty="-240.55"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!-12806 -5106|-13255 -4657!-13255 -4657|-13432 -4657!-13432 -4657|-13432 -5158!-13432 -5158|-12974 -5602!-12974 -5602|-12806 -5602!-12806 -5602|-12806 -5106"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape>
+                          <fills>
+                            <FillStyle index="1">
+                              <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                                <matrix>
+                                  <Matrix a="0" b="7.5" c="171.515579223633" d="0" tx="-640.3" ty="-280.15"/>
+                                </matrix>
+                              </BitmapFill>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle0="1" strokeStyle="1" edges="!-12806 -5123|-9929 -5123!-9929 -5123|-9929 -5603!-9929 -5603|-12806 -5603!-12806 -5603|-12806 -5123"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 1">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-597.25" ty="-409"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-552.45" ty="-463"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -2;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-502.45" ty="-513"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 2;
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-622.45" ty="-573"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 1
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-672.45" ty="-623"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -1
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 2">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-349.55" ty="-535.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 1">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-539.75" ty="-660.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-296.5" ty="-610.05"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-5899 -12136|-6919 -12136!-6919 -12136|-6919 -11769!-6919 -11769|-5899 -11769!-5899 -11769|-5899 -12136"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-347.5" ty="-628.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-7939 -12136|-6919 -12136!-6919 -12136|-6919 -12503!-6919 -12503|-7939 -12503!-7939 -12503|-7939 -12136"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 2">
+                  <matrix>
+                    <Matrix tx="-190.5" ty="-536"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	gotoAndStop(60);
+
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-498.45" ty="-751"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 3
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-414.5" ty="-773"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -3
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-258.5" ty="-794"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -3
+	frame = 4
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-307.5" ty="-804.6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-7139 -16027|-7139 -15660!-7139 -15660|-6119 -15660!-6119 -15660|-6119 -16027!-6119 -16027|-7139 -16027"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="-178.5" ty="-812"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 3
+	frame = 4
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="1.6" ty="-494.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!63 -9823|-957 -9823!-957 -9823|-957 -9456!-957 -9456|63 -9456!63 -9456|63 -9823"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Clock Themed/Pendulum Code">
+                  <matrix>
+                    <Matrix tx="15.2" ty="-283.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.2" y="50.1"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	graphic = true
+	distance = 100
+	angle = 30
+	thickness = 10;
+	bellsize = 25
+	basesize = 16
+	speed = 1100*_root.Course.BackGFX.clockspeed;
+	offstart = -30
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 1">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-447.25" ty="-409"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 2">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="51.4" ty="-53.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Metal Mesh 1">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="23.05" ty="-196.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="132.35" ty="-696.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!2678 -13860|1658 -13860!1658 -13860|1658 -13493!1658 -13493|2678 -13493!2678 -13493|2678 -13860"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-407.6" ty="-633.6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-9141 -12240|-8121 -12240!-8121 -12240|-8121 -12607!-8121 -12607|-9141 -12607!-9141 -12607|-9141 -12240"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 2">
+                  <matrix>
+                    <Matrix tx="-579.05" ty="-140.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	gotoAndStop(60);
+
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-176.5" ty="-66.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 3
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-260.45" ty="-88.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -3
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-416.45" ty="-109.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -3
+	frame = 4
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-15" d="15" tx="-367.45" ty="-119.7"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-7380 -2329|-6360 -2329!-6360 -2329|-6360 -1962!-6360 -1962|-7380 -1962!-7380 -1962|-7380 -2329"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-496.45" ty="-127.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 3
+	frame = 4
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="-1.6" ty="-536.15"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-1021 -10291|-1 -10291!-1 -10291|-1 -10658!-1 -10658|-1021 -10658!-1021 -10658|-1021 -10291"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="-7.5" c="-171.515579223633" d="0" tx="-380.4" ty="-265"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-8195 -5780|-8981 -5780!-8981 -5780|-8981 -5300!-8981 -5300|-8195 -5300!-8195 -5300|-8195 -5780"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-5.30328369140625" b="-5.30328369140625" c="-121.27995300293" d="121.28254699707" tx="-431.65" ty="-280.95"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-8980 -5273|-9438 -4829!-9438 -4829|-9606 -4829!-9606 -4829|-9606 -5325!-9606 -5325|-9157 -5774!-9157 -5774|-8980 -5774!-8980 -5774|-8980 -5273"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="-7.5" c="-171.515579223633" d="0" tx="-643.3" ty="-240.95"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-9606 -5300|-10744 -5300!-10744 -5300|-10744 -4820!-10744 -4820|-9606 -4820!-9606 -4820|-9606 -5300"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-187.95" ty="-605.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -3
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-107.35" ty="-557.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -3
+	frame = 2
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="-7.5" c="-171.515579223633" d="0" tx="17.55" ty="-329"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-1022 -7060|-1022 -6580!-1022 -6580|-236 -6580!-236 -6580|-236 -7060!-236 -7060|-1022 -7060"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-5.30328369140625" b="-5.30328369140625" c="-121.27995300293" d="121.28254699707" tx="-33.7" ty="-344.95"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1021 -7054|-1021 -6553!-1021 -6553|-1479 -6109!-1479 -6109|-1647 -6109!-1647 -6109|-1647 -6605!-1647 -6605|-1198 -7054!-1198 -7054|-1021 -7054"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock Bridge" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="-7.5" c="-171.515579223633" d="0" tx="-245.35" ty="-304.95"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-1647 -6580|-4044 -6580!-4044 -6580|-4044 -6100!-4044 -6100|-1647 -6100!-1647 -6100|-1647 -6580"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor alpha="0.301960784313725"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2977 -15952|-2977 -13493!-2977 -13493|-4777 -13493!-4777 -13493|-4777 -16032!-4777 -16032|-2977 -16032!-2977 -16032|-2977 -15952"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-2977 -13493|-3177 -13573!-3177 -13573|-4517 -13573!-4517 -13573|-4777 -13493!-3177 -13573|-3177 -15532!-3177 -15532|-4517 -15532!-4517 -15532|-4517 -13573!-4777 -16032|-4517 -15532!-3177 -15532|-2977 -15952"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance libraryItemName="   Enemies/Normal/ G-Z/ Thwomps/MPA Thwomp">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-212.95" ty="-713.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Mario Galaxy Star - 1">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="-203.25" ty="-761.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15" d="15" tx="272.85" ty="-292.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!4468 -5413|5488 -5413!5488 -5413|5488 -5780!5488 -5780|4468 -5780!4468 -5780|4468 -5413"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 2">
+                  <matrix>
+                    <Matrix tx="41" ty="-340.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	gotoAndStop(60);
+
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-337.95" ty="-290"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = -3
+	frame = 1
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 BG Object 1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="-257.95" ty="-310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	speed = 3
+	frame = 1
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

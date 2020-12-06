@@ -1,0 +1,102 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/ M - Mini Courses /M3 BG Object 3" itemID="47809890-00001122" lastModified="1199642036">
+  <timeline>
+    <DOMTimeline name="M3 BG Object 3">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[onEnterFrame = function () {
+	_rotation += _parent.speed;
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="0" b="22.5" c="-22.5" d="0" tx="-78.25" ty="-42.75"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="7.62939453125e-005" b="-22.5001373291016" c="22.5001373291016" d="7.62939453125e-005" tx="-110.15" ty="-79.9"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-19.4856109619141" b="-11.2500915527344" c="11.2500915527344" d="-19.4856109619141" tx="-124.05" ty="-43.25"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="4">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.4857788085938" b="-11.25" c="11.25" d="19.4857788085938" tx="-86.35" ty="-91.5"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="5">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="19.4856872558594" b="11.2502136230469" c="-11.2502136230469" d="19.4856872558594" tx="-50.8" ty="-77.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="6">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Battery" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-19.4856109619141" b="11.25" c="-11.25" d="-19.4856109619141" tx="-92.45" ty="-28.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="4" fillStyle1="2" strokeStyle="1" edges="!-529 915|-1 0"/>
+                        <Edge fillStyle0="4" fillStyle1="5" strokeStyle="1" edges="!-1 0|-1056 0"/>
+                        <Edge fillStyle0="4" strokeStyle="1" edges="!-1056 0|-529 915"/>
+                        <Edge fillStyle1="5" strokeStyle="1" edges="!-1056 0|-1057 0!-1057 0|-529 -915"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-529 -915|528 -914"/>
+                        <Edge fillStyle1="6" strokeStyle="1" edges="!528 -914|1056 0"/>
+                        <Edge fillStyle1="3" strokeStyle="1" edges="!1056 0|527 914"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!527 914|527 915!527 915|-529 915"/>
+                        <Edge fillStyle0="5" fillStyle1="1" strokeStyle="1" edges="!-1 0|-529 -915"/>
+                        <Edge fillStyle0="6" fillStyle1="1" strokeStyle="1" edges="!528 -914[263 -457 -1 0"/>
+                        <Edge fillStyle0="6" fillStyle1="3" strokeStyle="1" edges="!-1 0|1056 0"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!-1 0|527 914"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

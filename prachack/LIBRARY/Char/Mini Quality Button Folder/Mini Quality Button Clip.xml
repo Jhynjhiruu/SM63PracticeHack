@@ -1,0 +1,157 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="      Char/ Mini Quality Button Folder/Mini Quality Button Clip" itemID="47746dbd-00000e54" lastModified="1211688968" lastUniqueIdentifier="15">
+  <timeline>
+    <DOMTimeline name="Mini Quality Button Clip">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[CloseFunction = null;
+onEnterFrame = function () {
+	
+	/*if (_root._quality == "LOW") {
+	_parent.qnum = 0;
+	} else if (_root._quality == "MEDIUM") {
+	_parent.qnum = 1;
+	} else if (_root._quality == "HIGH") {
+	_parent.qnum = 2;
+	} else if (_root._quality == "BEST") {
+	_parent.qnum = 3;
+	}
+	gotoAndStop(_parent.qnum+1);*/
+	if (_parent.mm.clip._currentframe<5) {
+		touch = false;
+		for (i=0; i<4; i++) {
+			if (this["q"+i].hitTest(_root._xmouse, _root._ymouse, false) && touch == false) {
+				this["q"+i].larger = true;
+				touch = true;
+			} else {
+				this["q"+i].larger = false;
+			}
+		}
+		this["q"+_parent.qnum].larger = true;
+	}
+	for (i=0; i<4; i++) {
+		if (this["q"+i].larger == true && _parent.mm.clip._currentframe<5) {
+			this["q"+i]._xscale += (130-this["q"+i]._xscale)/5;
+			this["q"+i]._yscale = this["q"+i]._xscale;
+		} else {
+			this["q"+i]._xscale += (100-this["q"+i]._xscale)/5;
+			this["q"+i]._yscale = this["q"+i]._xscale;
+		}
+	}
+	CloseFunction();
+};
+onMouseDown = function () {
+	touch = false;
+	for (i=0; i<4; i++) {
+		if (this["q"+i].hitTest(_root._xmouse, _root._ymouse, false) && touch == false && _parent.mm.clip._currentframe<5) {
+			_root._quality = _root.QualityArray[i];
+			_parent.qnum = i;
+			touch = true;
+		}
+	}
+	if (_parent.mm.clip.hitTest(_root._xmouse, _root._ymouse, false) && touch == false && CloseFunction == null) {
+		if (_parent.mm.clip._currentframe<5) {
+			CloseFunction = function () {
+				this._y += 1;
+				_parent.mm._y = this._y;
+				_parent.mm.clip.nextFrame();
+				if (_parent.mm.clip._currentframe == 22) {
+					CloseFunction = null;
+				}
+			};
+		} else {
+			CloseFunction = function () {
+				this._y -= 1;
+				_parent.mm._y = this._y;
+				_parent.mm.clip.prevFrame();
+				if (_parent.mm.clip._currentframe == 1) {
+					CloseFunction = null;
+				}
+			};
+		}
+	}
+};
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Text" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="1.15" y="-24.55"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="1.15" y="-24.55"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!522 -556|455 -410!455 -410[448 -399 444 -393!444 -393[439 -387 431 -383!431 -383[425 -379 415 -378!415 -378[406 -376 393 -376!393 -376[381 -376 368 -378!368 -378|365 -404!365 -404[374 -403 384 -403!384 -403[398 -403 406 -409!406 -409
+[412 -416 417 -428!417 -428|354 -556!354 -556|401 -556!401 -556|439 -465!439 -465|478 -556!478 -556|522 -556!45 -540[52 -532 52 -509!52 -509|50 -470!50 -470[50 -452 53 -445!53 -445[55 -436 60 -428!60 -428|17 -428!17 -428[16 -431 14 -437
+!14 -437|12 -441!12 -441[1 -433 -11 -429!-11 -429[-24 -425 -38 -425!-38 -425[-63 -425 -79 -435!-79 -435[-93 -446 -93 -462!-93 -462[-93 -473 -87 -482!-87 -482[-79 -491 -68 -494!-68 -494[-55 -499 -33 -503!-33 -503[-3 -508 9 -512!9 -512
+|9 -514!9 -514[9 -524 3 -529!3 -529[-3 -533 -21 -533!-21 -533[-32 -533 -38 -529!-38 -529[-46 -525 -49 -517!-49 -517|-88 -523!-88 -523[-82 -542 -66 -550!-66 -550[-49 -559 -17 -559!-17 -559[11 -559 25 -554!25 -554[39 -548 45 -540!181 -605
+|225 -605!225 -605|225 -574!225 -574|181 -574!181 -574|181 -605!137 -605|137 -428!137 -428|93 -428!93 -428|93 -605!93 -605|137 -605!252 -556|272 -556!272 -556|272 -581!272 -581|315 -601!315 -601|315 -556!315 -556|345 -556!345 -556|345
+ -529!345 -529|315 -529!315 -529|315 -477!315 -477[315 -461 316 -459!316 -459[316 -456 319 -455!319 -455[322 -452 327 -452!327 -452[333 -452 345 -456!345 -456|348 -430!348 -430[333 -425 313 -425!313 -425[302 -425 293 -428!293 -428[283
+ -431 278 -436!278 -436[275 -441 274 -449!274 -449[272 -455 272 -473!272 -473|272 -529!272 -529|252 -529!252 -529|252 -556!225 -556|225 -428!225 -428|181 -428!181 -428|181 -556!181 -556|225 -556!9 -482|9 -490!9 -490[0 -487 -17 -485!-17
+ -485[-36 -481 -41 -478!-41 -478[-49 -473 -49 -466!-49 -466[-49 -459 -43 -454!-43 -454[-36 -449 -25 -449!-25 -449[-14 -449 -3 -455!-3 -455[5 -460 8 -466!8 -466[9 -470 9 -482!-232 -497[-232 -470 -228 -463!-228 -463[-227 -457 -220 -454
+!-220 -454[-214 -451 -205 -451!-205 -451[-194 -451 -184 -455!-184 -455[-175 -460 -172 -467!-172 -467[-169 -475 -169 -502!-169 -502|-169 -556!-169 -556|-126 -556!-126 -556|-126 -428!-126 -428|-165 -428!-165 -428|-165 -447!-165 -447[-175
+ -436 -189 -430!-189 -430[-205 -425 -220 -425!-220 -425[-236 -425 -250 -430!-250 -430[-263 -436 -269 -446!-269 -446[-274 -456 -274 -475!-274 -475|-274 -556!-274 -556|-232 -556!-232 -556|-232 -497!-394 -533[-409 -533 -419 -523!-419 -523
+[-430 -513 -430 -492!-430 -492[-430 -470 -420 -461!-420 -461[-409 -451 -395 -451!-395 -451[-379 -451 -368 -462!-368 -462[-357 -472 -357 -493!-357 -493[-357 -513 -367 -523!-367 -523[-378 -533 -394 -533!-356 -537|-356 -556!-356 -556|-315
+ -556!-315 -556|-315 -379!-315 -379|-359 -379!-359 -379|-359 -444!-359 -444[-367 -435 -379 -430!-379 -430[-392 -425 -408 -425!-408 -425[-435 -425 -453 -441!-453 -441[-474 -460 -474 -493!-474 -493[-474 -524 -453 -542!-453 -542[-435 -559
+ -405 -559!-405 -559[-389 -559 -376 -554!-376 -554[-365 -548 -356 -537"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="      Char/ Mini Quality Button Folder/Mini Quality Button Best" name="q3">
+                  <matrix>
+                    <Matrix tx="31" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="      Char/ Mini Quality Button Folder/Mini Quality Button High" name="q2">
+                  <matrix>
+                    <Matrix tx="-14.85" ty="0.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="      Char/ Mini Quality Button Folder/Mini Quality Button Low" name="q0">
+                  <matrix>
+                    <Matrix tx="-17" ty="-9.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="      Char/ Mini Quality Button Folder/Mini Quality Button Medium" name="q1">
+                  <matrix>
+                    <Matrix tx="19.9" ty="-10.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,174 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="  Course Clips/ M - Mini Courses / M3 - Tick Tock Clock/M3-1 Close BG" itemID="4776f658-00000d14" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="M3-1CloseBG" lastModified="1199645661" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="M3-1 Close BG">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop()]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses /M3 Close BG Tint">
+                  <matrix>
+                    <Matrix tx="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.4"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor alpha="0.4"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!-982 -832|938 -832!938 -832|938 1428!938 1428|-982 1428!-982 1428|-982 -832"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor alpha="0.250980392156863"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!11591 -25622.5|11591 -14692!11591 -14692|-9282 -14692!-9282 -14692|-9282 -23503.5!-9282 -23503.5[-9282 #FFA301.DD -9322 -23806!-9322 -23806|-10441 -23806!-10441 -23806[-10481 #FFA301.DD -10481 -23503.5!-10481 -23503.5|-10481 -5892!-10481
+ -5892|-13920 -5892!-13920 -5892[-13960 -5892 -13960 -5852!-13960 -5852|-13960 -4733!-13960 -4733[-13960 -4693 -13920 -4693!-13920 -4693|-10481 -4693!-10481 -4693|-10481 7071!-10481 7071[-10481 #1BF9.65 -10441 7161.5!-10441 7161.5|-9322
+ 7161.5!-9322 7161.5[-9282 #1BF9.65 -9282 7071!-9282 7071|-9282 -4693!-9282 -4693|11591 -4693!11591 -4693|11591 7251.5!11591 7251.5[11591 #1CAD.E5 11631 7342!11631 7342|13150 7342!13150 7342[13190 #1CAD.E5 13190 7251.5!13190 7251.5|13190
+ -4693!13190 -4693|16469 -4693!16469 -4693[16509 -4693 16509 -4733!16509 -4733|16509 -5852!16509 -5852[16509 -5892 16469 -5892!16469 -5892|13190 -5892!13190 -5892|13190 -25622.5!13190 -25622.5[13190 #FF9ABA.9D 13150 -25925.5!13150 -25925.5
+|11631 -25925.5!11631 -25925.5[11591 #FF9ABA.9D 11591 -25622.5!11591 -5892|-9282 -5892!-9282 -5892|-9282 -13493!-9282 -13493|11591 -13493!11591 -13493|11591 -5892"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-211.1" ty="407.4"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.2212524414063" b="11.1360473632813" d="15.2212524414063" tx="-268.45" ty="833"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.2212524414063" d="6.03778076171875" tx="-252.45" ty="625.85"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="4">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.2212524414063" b="-7.0789794921875" d="15.2212524414063" tx="-268.45" ty="1082.6"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="5">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="15.2212524414063" d="15.2212524414063" tx="-250.45" ty="642.1"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
+!933 -834|938 -834!938 -834|938 1414"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!938 1414|949 1429"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="
+!794 -574|933 -834"/>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="
+!933 -834|-966 -834"/>
+                        <Edge fillStyle0="3" fillStyle1="4" strokeStyle="1" edges="
+!-966 -834|-838 -574"/>
+                        <Edge fillStyle0="3" fillStyle1="5" strokeStyle="1" edges="
+!-838 -574|794 -574"/>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="
+!-982 1408|-982 1426!-982 1426|938 1426!938 1426|938 1414"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="
+!938 1414|794 1347"/>
+                        <Edge fillStyle0="3" fillStyle1="5" strokeStyle="1" edges="
+!794 1347|-838 1347"/>
+                        <Edge fillStyle0="3" fillStyle1="4" strokeStyle="1" edges="
+!-838 1347|-982 1408"/>
+                        <Edge fillStyle0="5" fillStyle1="2" strokeStyle="1" edges="
+!794 1347|794 -574"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!15636 -33032|-13556 -33032!-13556 -33032|-13556 7391!-13556 7391|15636 7391!15636 7391|15636 -33032"/>
+                        <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="
+!-966 -834|-982 -834!-982 -834|-982 1408"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-982 1408|-1001 1429"/>
+                        <Edge fillStyle0="4" fillStyle1="5" strokeStyle="1" edges="
+!-838 1347|-838 -574"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
