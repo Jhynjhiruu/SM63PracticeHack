@@ -160,7 +160,7 @@ if (_root.Star[_parent.starnum] == true) {
             </DOMFrame>
             <DOMFrame index="106" duration="43" tweenType="motion" keyMode="17921" acceleration="-20">
               <elements>
-                <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect">
                   <matrix>
                     <Matrix a="1.5999755859375" d="1.5999755859375" tx="-0.05" ty="-0.05"/>
                   </matrix>
@@ -251,7 +251,7 @@ if (_root.Star[_parent.starnum] == true) {
             </DOMFrame>
             <DOMFrame index="106" duration="43" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName=" Menu/ Stars/Invis Star Clip" selected="true">
+                <DOMSymbolInstance libraryItemName=" Menu/ Stars/Invis Star Clip">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -267,9 +267,6 @@ if (_root.Star[_parent.starnum] == true) {
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -329,7 +326,7 @@ if (_root.Star[_parent.starnum] == true) {
                     <GlowFilter blurX="0" blurY="0" color="#FFCC00" strength="0"/>
                   </filters>
                   <color>
-                    <Color alphaMultiplier="0.58203125"/>
+                    <Color alphaMultiplier="0.578125"/>
                   </color>
                 </DOMSymbolInstance>
               </elements>
@@ -343,9 +340,6 @@ if (_root.Star[_parent.starnum] == true) {
                   <filters>
                     <GlowFilter blurX="12" blurY="12" color="#FFFF00" strength="2"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -358,9 +352,6 @@ if (_root.Star[_parent.starnum] == true) {
                   <filters>
                     <GlowFilter blurX="0" blurY="0" color="#FFCC00" strength="0"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

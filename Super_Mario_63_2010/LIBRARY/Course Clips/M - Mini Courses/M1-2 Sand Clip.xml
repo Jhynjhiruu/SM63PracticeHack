@@ -63,8 +63,8 @@ onEnterFrame = function () {
                   </strokes>
                   <edges>
                     <Edge fillStyle1="2" edges="!-18074 700|-18074 100!-18074 100|11795 100!11795 100|11795 700"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!11795 700|11795 2258!11795 2258|-18074 2258!-18074 2258|-18074 700"/>
                     <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!11795 700|-18074 700"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-18074 700|-18074 2258!-18074 2258|11795 2258!11795 2258|11795 700"/>
                   </edges>
                 </DOMShape>
               </elements>

@@ -30,7 +30,7 @@ onMouseDown = function () {
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName='LDP "Create"' selected="true">
+                <DOMSymbolInstance libraryItemName='LDP "Create"'>
                   <transformationPoint>
                     <Point x="-0.05"/>
                   </transformationPoint>

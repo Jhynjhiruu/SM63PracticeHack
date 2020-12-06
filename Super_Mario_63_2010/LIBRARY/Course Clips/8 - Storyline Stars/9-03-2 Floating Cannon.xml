@@ -44,46 +44,40 @@ onEnterFrame = function () {
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix ty="-1"/>
-                  </matrix>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix ty="-1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <RadialGradient>
                             <matrix>
-                              <Matrix ty="-2.5"/>
+                              <Matrix a="0.00543212890625" d="0.00543212890625" tx="-1" ty="-3.6"/>
                             </matrix>
-                            <GradientEntry color="#3C3C3C" alpha="0.501960784313725" ratio="0"/>
-                            <GradientEntry color="#262626" alpha="0.501960784313725" ratio="1"/>
+                            <GradientEntry color="#555555" ratio="0"/>
+                            <GradientEntry color="#262626" ratio="0.980392156862745"/>
                           </RadialGradient>
                         </FillStyle>
                         <FillStyle index="2">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.00543212890625" d="0.00543212890625" tx="2.15" ty="-7.35"/>
+                              <Matrix ty="-3.5"/>
                             </matrix>
-                            <GradientEntry color="#484848" ratio="0"/>
-                            <GradientEntry color="#262626" ratio="0.980392156862745"/>
+                            <GradientEntry color="#3C3C3C" alpha="0.501960784313725" ratio="0"/>
+                            <GradientEntry color="#262626" alpha="0.501960784313725" ratio="1"/>
                           </RadialGradient>
                         </FillStyle>
                         <FillStyle index="3">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.00543212890625" d="0.00543212890625" tx="-1" ty="-2.6"/>
+                              <Matrix a="0.00543212890625" d="0.00543212890625" tx="2.15" ty="-8.35"/>
                             </matrix>
-                            <GradientEntry color="#555555" ratio="0"/>
+                            <GradientEntry color="#484848" ratio="0"/>
                             <GradientEntry color="#262626" ratio="0.980392156862745"/>
                           </RadialGradient>
                         </FillStyle>
                         <FillStyle index="4">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.0052490234375" d="0.0052490234375" tx="-0.75" ty="3.5"/>
+                              <Matrix a="0.0052490234375" d="0.0052490234375" tx="-0.75" ty="2.5"/>
                             </matrix>
                             <GradientEntry color="#6F6F6F" ratio="0"/>
                             <GradientEntry color="#262626" ratio="0.980392156862745"/>
@@ -105,31 +99,24 @@ onEnterFrame = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="3">
-                          <SolidStroke scaleMode="normal">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="!-45 -108.5[-41.515625 #FFFF98.47 -35 -100!-35 -100[-20 -91 1 -91!1 -91[22 -91 36 -100"/>
-                        <Edge fillStyle0="2" strokeStyle="1" edges="!36 -100[#30.45 #FFFF95.75 50.5 -116"/>
-                        <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!50.5 -116[51 -117.8125 51 -120!51 -120[51 -132 36 -141!36 -141[22 -149 1 -149!1 -149[-20 -149 -35 -141!-35 -141[-49 -132 -49 -120"/>
-                        <Edge fillStyle0="2" strokeStyle="1" edges="!-49 -120[-46.640625 #FFFF91.69 -45 -108.5"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!50.5 -100|50.5 -116"/>
-                        <Edge fillStyle1="3" edges="!36 -100|50.5 -100"/>
-                        <Edge fillStyle0="3" fillStyle1="4" strokeStyle="3" edges="!-51 37[-49.515625 #23.B6 -48 34.5!-48 34.5[#FFFFD0.FF #21.A9 -46 33!-46 33[#FFFFE5.FF 17 0 17!0 17[#17.31 17 41 29.5"/>
-                        <Edge fillStyle0="3" edges="!41 29.5|50.5 29.5"/>
-                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="!50.5 29.5|50.5 -100"/>
-                        <Edge fillStyle1="4" strokeStyle="3" edges="!41 29.5[#2D.F6 #21.0A 50.5 37.5"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!50.5 37.5|50.5 29.5"/>
-                        <Edge fillStyle0="1" fillStyle1="4" strokeStyle="3" edges="!50.5 37.5|51 38!51 38[#35.62 #28.62 55.5 43!55.5 43[73 63.25 73 90!73 90[73 120 51 141!51 141[30 163 0 163!0 163[-30 163 -52 141!-52 141[-73 120 -73 90!-73 90[-73 60 -52 38!-52 38[#FFFFCC.7F #25.86 -51 37"/>
-                        <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!-51 37|-49 -108.5"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!-49 -108.5|-49 -120"/>
-                        <Edge fillStyle1="1" strokeStyle="2" edges="!200 209.5|-200 209.5!-200 209.5|-200 -190.5!-200 -190.5|200 -190.5!200 -190.5|200 209.5"/>
-                        <Edge fillStyle1="3" edges="!-49 -108.5|-45 -108.5"/>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="!-45 -128S7[-42 -124 -35 -120!-35 -120[-20 -111 1 -111!1 -111[22 -111 36 -120"/>
+                        <Edge fillStyle0="3" strokeStyle="1" edges="!36 -120S5[48 -127 51 -136"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!51 -136S7[51 -138 51 -140!51 -140[51 -152 36 -161!36 -161[22 -169 1 -169!1 -169[-20 -169 -35 -161!-35 -161[-49 -152 -49 -140"/>
+                        <Edge fillStyle0="3" strokeStyle="1" edges="!-49 -140S5[-47 -131 -45 -128"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!51 -120S6|51 -136"/>
+                        <Edge fillStyle1="1" edges="!36 -120S2|51 -120"/>
+                        <Edge fillStyle0="2" fillStyle1="4" strokeStyle="1" edges="!51 18S7[53 20 56 23!56 23[73 43 73 70!73 70[73 100 51 121!51 121[30 143 0 143!0 143[-30 143 -52 121!-52 121[-73 100 -73 70!-73 70[-73 40 -52 18!-52 18|-51 17"/>
+                        <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-51 17S7|-49 -128"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="!-49 -128S5|-49 -140"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!51 18S6|51 10"/>
+                        <Edge fillStyle1="1" edges="!51 10S2|41 10"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!41 10S6[46 13 51 18"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!51 10S7|51 -120"/>
+                        <Edge fillStyle1="2" strokeStyle="2" edges="!200 190S6|-200 190!-200 190|-200 -210!-200 -210|200 -210!200 -210|200 190"/>
+                        <Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="!-51 17S7[-50 16 -48 15!-48 15[-47 14 -46 13!-46 13[-26 -3 0 -3!0 -3[23 -3 41 10"/>
+                        <Edge fillStyle1="1" edges="!-49 -128S2|-45 -128"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -185,11 +172,11 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle0="2" strokeStyle="1" edges="!640 -290|640 -420!640 -420|281 -420!281 -420|281 -290"/>
                     <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!281 -290|640 -290"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!640 -290|640 320!640 320|-640 320!-640 320|-640 -290"/>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="!-640 -290|-640 -420!-640 -420|-299 -420!-299 -420|-299 -290"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!-299 -290|281 -290"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!640 -290|640 -420!640 -420|281 -420!281 -420|281 -290"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!281 -290|-299 -290"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-299 -290|-299 -420!-299 -420|-640 -420!-640 -420|-640 -290"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-640 -290|-640 320!-640 320|640 320!640 320|640 -290"/>
                     <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-640 -290|-299 -290"/>
                   </edges>
                 </DOMShape>

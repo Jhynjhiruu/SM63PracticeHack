@@ -320,31 +320,25 @@
                   </fills>
                   <edges>
                     <Edge fillStyle1="2" edges="!20207 6149|20207 2943!20207 2943|20407 2943!20407 2943|20408 3169!20408 3169|20253 3169!20253 3169|20252.5 3809!20252.5 3809|20296 6149"/>
-                    <Edge fillStyle1="3" edges="!20296 6149|20306 6689!20306 6689|20305.5 6689!20305.5 6689|20304.5 6709!20304.5 6709|20207 6709!20207 6709|20207 6149"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!20296 6149|20207 6149"/>
+                    <Edge fillStyle0="3" edges="!20207 6149|20207 6709!20207 6709|20304.5 6709!20304.5 6709|20305.5 6689!20305.5 6689|20306 6689!20306 6689|20296 6149"/>
                     <Edge fillStyle0="1" edges="!19987 6709|19987 6863!19987 6863|20187 6863!20187 6863|20187 6709!20187 6709|19987 6709"/>
-                    <Edge fillStyle0="2" fillStyle1="3" edges="!20207 6149|20296 6149"/>
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Grassy Ground/Grass Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-1710" ty="-875.05"/>
+                              <Matrix a="20" d="20" tx="-1711" ty="-875.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-34200 -50488[-34200 -25715 -34200 -7462!-34200 -7462|-34000 -7462!-34000 -7462|-34000 -50488!-34000 -50488|-34200 -50488"/>
+                        <Edge fillStyle0="1" edges="!-34220 -50488[-34220 -25715 -34220 -7462!-34220 -7462|-34020 -7462!-34020 -7462|-34020 -50488!-34020 -50488|-34220 -50488"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -817,25 +811,19 @@
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-0.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-0.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Grassy Ground/Grass Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="4205.1" ty="-495.35"/>
+                              <Matrix a="20" d="20" tx="4204.6" ty="-495.35"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!84115 -6590|84302 -6590!84302 -6590|84302 -9907!84302 -9907|84115 -9907!84115 -9907|84115 -6590"/>
+                        <Edge fillStyle0="1" edges="!84292 -6590|84292 -9907!84292 -9907|84105 -9907!84105 -9907|84105 -6590!84105 -6590|84292 -6590"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1129,7 +1117,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-28971 -487|-29171 -487!-29171 -487|-29171 -7247!-29171 -7247|-28971 -7247!-28971 -7247|-28971 -487"/>
+                        <Edge fillStyle1="1" edges="!-29171 -487|-29171 -7247!-29171 -7247|-28971 -7247!-28971 -7247|-28971 -487!-28971 -487|-29171 -487"/>
                       </edges>
                     </DOMShape>
                   </members>

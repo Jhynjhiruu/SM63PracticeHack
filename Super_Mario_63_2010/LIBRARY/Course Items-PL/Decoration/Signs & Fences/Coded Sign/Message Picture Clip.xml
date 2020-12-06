@@ -25,7 +25,7 @@
                 </DOMStaticText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1" duration="4" keyMode="9728" acceleration="100">
+            <DOMFrame index="1" duration="4" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[picture.gotoAndStop(picturenum);
 onEnterFrame = function () {
@@ -35,7 +35,7 @@ onEnterFrame = function () {
               </Actionscript>
               <elements/>
             </DOMFrame>
-            <DOMFrame index="5" keyMode="9728" acceleration="100">
+            <DOMFrame index="5" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();
 ]]></script>

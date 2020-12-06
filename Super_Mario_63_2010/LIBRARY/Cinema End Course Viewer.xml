@@ -8,7 +8,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 1 - Bob-omb Battlefield/  Areas 1-1 &amp; 1-2/1-1 Back Graphics">
                   <matrix>
-                    <Matrix a="1.00001525878906" tx="-0.05" ty="0.05"/>
+                    <Matrix tx="-0.05" ty="0.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.05" y="-0.05"/>
@@ -25,7 +25,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 1 - Bob-omb Battlefield/  Areas 1-1 &amp; 1-2/1-2 Back Graphics">
                   <matrix>
-                    <Matrix d="1.00007629394531"/>
+                    <Matrix d="1.00006103515625"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -42,7 +42,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses / M1 - Sinking Sand Land/M1-1 Back GFX">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="0.999908447265625"/>
+                    <Matrix d="0.999908447265625"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -85,7 +85,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 2 - Snowman's Land/2-4BackGFX">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="1.00006103515625"/>
+                    <Matrix d="1.00006103515625"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -160,7 +160,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Sides (2,3)/5-3 Back GFX">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="1.00004577636719"/>
+                    <Matrix d="1.00004577636719"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -270,7 +270,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="BC-3BackGFX">
                   <matrix>
-                    <Matrix a="1.00001525878906" ty="-0.05"/>
+                    <Matrix ty="-0.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.05"/>

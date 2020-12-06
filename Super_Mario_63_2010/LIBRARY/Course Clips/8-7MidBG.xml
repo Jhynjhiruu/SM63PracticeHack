@@ -8,7 +8,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray" selected="true">
                   <matrix>
-                    <Matrix a="0.297927856445313" d="9.00593566894531" tx="8.8" ty="231.75"/>
+                    <Matrix a="0.297927856445313" d="9.00592041015625" tx="8.8" ty="231.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -26,19 +26,13 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="1.29251098632813" tx="-26.25" ty="60"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="18" y="1.1"/>
+                    <Point x="-3" y="61.1"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="1.29251098632813" tx="-26.25" ty="60"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="18" y="1.1"/>
+                        <Point x="-3" y="61.1"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -46,7 +40,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!10275 3384|-9554 3384!-9554 3384|-9554 -341!-9554 -341|10275 -341!10275 -341|10275 3384"/>
+                        <Edge fillStyle1="1" edges="!12756 4584S2|-12874 4584!-12874 4584|-12874 859!-12874 859|12756 859!12756 859|12756 4584"/>
                       </edges>
                     </DOMShape>
                   </members>

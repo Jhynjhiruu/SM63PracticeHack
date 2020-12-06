@@ -15,6 +15,10 @@ onEnterFrame = function () {
 		// Key unlock animation code here 
 		//
 		if (_root.KeyUP() && !_root.KeyRIGHT() && !_root.KeyLEFT()) {
+            // We inject the event code to trigger the flag, only if the level is 8-11 => the door is fake bowser
+            if (_root.utils.getLevelName() == "8-11") {
+                _root.event.onFakeBowserStart();
+            }
 			_root.Course.Char.attack = true;
 			_root.Course.Char.xspeed = 0;
 			_root.Course.Char.attackFrame = "BigDoor";
@@ -28,7 +32,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="box">
                   <matrix>
-                    <Matrix a="1.46650695800781" d="1.01202392578125" tx="0.5" ty="60.5"/>
+                    <Matrix a="1.46649169921875" d="1.01202392578125" tx="0.5" ty="60.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

@@ -39,7 +39,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName=' Menu/ Pre-Loader/"Loading"'>
                   <matrix>
-                    <Matrix a="1.00154113769531" tx="-36.1" ty="-125"/>
+                    <Matrix a="1.00152587890625" tx="-36.1" ty="-125"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -114,7 +114,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!383 -1847S6|383 303!383 303|-407 303!-407 303|-407 -1847!-407 -1847|383 -1847"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!383 303S6|-407 303!-407 303|-407 -1847!-407 -1847|383 -1847!383 -1847|383 303"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -140,7 +140,7 @@
               <elements>
                 <DOMShape isFloating="true">
                   <matrix>
-                    <Matrix d="1.83204650878906" ty="-13.85"/>
+                    <Matrix d="1.83203125" ty="-13.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.6" y="-38.6"/>
@@ -167,7 +167,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!383 303S6|-407 303!-407 303|-407 -1847!-407 -1847|383 -1847!383 -1847|383 303"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!383 -1847S6|383 303!383 303|-407 303!-407 303|-407 -1847!-407 -1847|383 -1847"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -176,7 +176,7 @@
               <elements>
                 <DOMShape isFloating="true">
                   <matrix>
-                    <Matrix d="2.61085510253906" ty="-26.8"/>
+                    <Matrix d="2.61083984375" ty="-26.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.6" y="-38.6"/>
@@ -203,7 +203,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!383 303S6|-407 303!-407 303|-407 -1847!-407 -1847|383 -1847!383 -1847|383 303"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!383 -1847S6|383 303!383 303|-407 303!-407 303|-407 -1847!-407 -1847|383 -1847"/>
                   </edges>
                 </DOMShape>
               </elements>

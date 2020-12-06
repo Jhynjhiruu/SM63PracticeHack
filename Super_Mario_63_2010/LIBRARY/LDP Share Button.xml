@@ -30,7 +30,7 @@ onMouseDown = function () {
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName='LDP "Share' selected="true">
+                <DOMSymbolInstance libraryItemName='LDP "Share'>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -69,7 +69,7 @@ onMouseDown = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1541 -272|1541 272!1541 272|-1541.5 272!-1541.5 272|-1541.5 -272!-1541.5 -272|1541 -272"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1541 272|-1541.5 272!-1541.5 272|-1541.5 -272!-1541.5 -272|1541 -272!1541 -272|1541 272"/>
                   </edges>
                 </DOMShape>
               </elements>

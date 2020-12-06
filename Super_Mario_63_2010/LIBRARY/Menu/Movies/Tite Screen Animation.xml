@@ -6,23 +6,17 @@
           <frames>
             <DOMFrame index="0" duration="2387" keyMode="9728">
               <elements>
-                <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix tx="-225" ty="-150"/>
-                  </matrix>
+                <DOMGroup>
                   <members>
-                    <DOMShape selected="true">
-                      <matrix>
-                        <Matrix tx="-225" ty="-150"/>
-                      </matrix>
+                    <DOMShape>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!9000 -0.5|9000 5999.5!9000 5999.5|0 5999.5!0 5999.5|0 -0.5!0 -0.5|9000 -0.5"/>
-                        <Edge fillStyle1="1" edges="!10500 6750|-1500 6750!-1500 6750|-1500 -750!-1500 -750|10500 -750!10500 -750|10500 6750"/>
+                        <Edge fillStyle0="1" edges="!4500 3000|-4500 3000!-4500 3000|-4500 -3000!-4500 -3000|4500 -3000!4500 -3000|4500 3000"/>
+                        <Edge fillStyle1="1" edges="!6000 3750|-6000 3750!-6000 3750|-6000 -3750!-6000 -3750|6000 -3750!6000 -3750|6000 3750"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -148,7 +142,7 @@ _root.bgsong.setVolume(100);]]></script>
         </DOMLayer>
         <DOMLayer name="Layer 8" color="#FF4F4F" locked="true" heightLiteral="15">
           <frames>
-            <DOMFrame index="0" duration="43" keyMode="9728" acceleration="-100">
+            <DOMFrame index="0" duration="43" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="43" duration="9" tweenType="motion" keyMode="17921">
@@ -168,7 +162,7 @@ _root.bgsong.setVolume(100);]]></script>
             </DOMFrame>
             <DOMFrame index="52" duration="250" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Light Effects (Clip)" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Light Effects (Clip)">
                   <matrix>
                     <Matrix ty="-30"/>
                   </matrix>
@@ -249,7 +243,7 @@ _root.bgsong.setVolume(100);]]></script>
               <elements>
                 <DOMSymbolInstance libraryItemName=' Xtra/Title: "Super Mario Sunshine 128"'>
                   <matrix>
-                    <Matrix a="1.12037658691406" d="1.12037658691406" ty="-10"/>
+                    <Matrix a="1.120361328125" d="1.120361328125" ty="-10"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -293,7 +287,7 @@ _root.bgsong.setVolume(100);]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="62" duration="240" keyMode="9728" acceleration="100">
+            <DOMFrame index="62" duration="240" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName=' Xtra/Title: "Super Mario Sunshine 128"'>
                   <matrix>
@@ -329,7 +323,7 @@ _root.bgsong.setVolume(100);]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1104" duration="69" keyMode="9728" acceleration="100">
+            <DOMFrame index="1104" duration="69" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName=' Xtra/Title: "Super Mario Sunshine 128"'>
                   <matrix>
@@ -634,9 +628,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -649,9 +640,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -664,9 +652,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -679,9 +664,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -694,9 +676,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -709,9 +688,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -724,9 +700,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -739,9 +712,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -754,9 +724,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -769,9 +736,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -784,9 +748,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -799,9 +760,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -814,9 +772,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -829,9 +784,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -844,9 +796,6 @@ _root.bgsong.setVolume(100);]]></script>
                   <transformationPoint>
                     <Point x="-0.1" y="-0.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -868,14 +817,8 @@ _root.bgsong.setVolume(100);]]></script>
                 <DOMGroup>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-160.95" ty="7"/>
-                      </matrix>
                       <members>
                         <DOMGroup selected="true">
-                          <matrix>
-                            <Matrix tx="-160.95" ty="7"/>
-                          </matrix>
                           <members>
                             <DOMSymbolInstance libraryItemName=" Menu/Peaches Castle (Movie)" selected="true">
                               <matrix>
@@ -898,14 +841,8 @@ _root.bgsong.setVolume(100);]]></script>
                 <DOMGroup selected="true">
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="657.9" ty="-60.9"/>
-                      </matrix>
                       <members>
                         <DOMGroup selected="true">
-                          <matrix>
-                            <Matrix tx="657.9" ty="-60.9"/>
-                          </matrix>
                           <members>
                             <DOMSymbolInstance libraryItemName=" Menu/Peaches Castle (Movie)" selected="true">
                               <matrix>
@@ -926,19 +863,10 @@ _root.bgsong.setVolume(100);]]></script>
             <DOMFrame index="339" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="2" d="2" tx="162.8" ty="-22.95"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix a="2" d="2" tx="1478.6" ty="-144.75"/>
-                      </matrix>
                       <members>
                         <DOMGroup selected="true">
-                          <matrix>
-                            <Matrix a="2" d="2" tx="1478.6" ty="-144.75"/>
-                          </matrix>
                           <members>
                             <DOMSymbolInstance libraryItemName=" Menu/Peaches Castle (Movie)" selected="true">
                               <matrix>
@@ -1196,9 +1124,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1173" duration="11" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix b="0.197891235351563" tx="315.25" ty="6.1"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Paintings/1- Picture">
                       <matrix>
@@ -1247,9 +1172,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1195" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.677139282226563" b="-0.118942260742188" tx="-447.4" ty="-7.5"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Paintings/1- Picture" selected="true">
                       <matrix>
@@ -1274,9 +1196,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1196" duration="11" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.05413818359375" b="0.2760009765625" d="1.5" tx="-116.4" ty="-32.9"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Paintings/2- Picture" selected="true">
                       <matrix>
@@ -1301,9 +1220,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1207" duration="11" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.5" d="1.5" tx="-564" ty="55.9"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Paintings/2- Picture" selected="true">
                       <matrix>
@@ -1328,9 +1244,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1218" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.07537841796875" b="-0.339691162109375" d="1.5" tx="-704.3" ty="198.65"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Paintings/2- Picture" selected="true">
                       <matrix>
@@ -1379,9 +1292,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1227" duration="8" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix b="-0.144119262695313" tx="-290" ty="41.85"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Paintings/3-Picture">
                       <matrix>
@@ -1406,9 +1316,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1235" duration="1152" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix b="-0.400314331054688" tx="-580" ty="136.05"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Paintings/3-Picture">
                       <matrix>
@@ -1451,7 +1358,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             </DOMFrame>
             <DOMFrame index="1046" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
-                <DOMSymbolInstance libraryItemName="Cloud Background 1 Part" selected="true">
+                <DOMSymbolInstance libraryItemName="Cloud Background 1 Part">
                   <matrix>
                     <Matrix a="1.2109375" d="1.19985961914063"/>
                   </matrix>
@@ -1576,11 +1483,8 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1035" duration="50" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="40.5" ty="-14.1"/>
-                  </matrix>
                   <members>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect">
                       <matrix>
                         <Matrix a="3.199951171875" d="3.199951171875" ty="-13.1"/>
                       </matrix>
@@ -1594,7 +1498,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
 ]]></script>
                       </Actionscript>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect">
                       <matrix>
                         <Matrix a="1.41424560546875" b="-1.4141845703125" c="1.41424560546875" d="1.41424560546875" ty="-13.1"/>
                       </matrix>
@@ -1624,12 +1528,9 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
               <elements>
                 <DOMGroup>
                   <members>
-                    <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="3.25" ty="-13.6"/>
-                      </matrix>
+                    <DOMGroup>
                       <members>
-                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect">
                           <matrix>
                             <Matrix a="1.5999755859375" d="1.5999755859375" tx="-17" ty="-13.1"/>
                           </matrix>
@@ -1643,7 +1544,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
 ]]></script>
                           </Actionscript>
                         </DOMSymbolInstance>
-                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect">
                           <matrix>
                             <Matrix a="0.707122802734375" b="-0.70709228515625" c="0.707122802734375" d="0.707122802734375" tx="-17" ty="-13.1"/>
                           </matrix>
@@ -1662,7 +1563,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                         </DOMSymbolInstance>
                       </members>
                     </DOMGroup>
-                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite">
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite">
                       <matrix>
                         <Matrix tx="-29" ty="-29.1"/>
                       </matrix>
@@ -1674,16 +1575,10 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1103" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="20"/>
-                  </matrix>
                   <members>
-                    <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="3.25" ty="6.4"/>
-                      </matrix>
+                    <DOMGroup>
                       <members>
-                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect">
                           <matrix>
                             <Matrix a="1.5999755859375" d="1.5999755859375" tx="-17" ty="6.9"/>
                           </matrix>
@@ -1697,7 +1592,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
 ]]></script>
                           </Actionscript>
                         </DOMSymbolInstance>
-                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect" selected="true">
+                        <DOMSymbolInstance libraryItemName="   Effects/ Light Effects Folder/Shine Light Effect">
                           <matrix>
                             <Matrix a="0.707122802734375" b="-0.70709228515625" c="0.707122802734375" d="0.707122802734375" tx="-17" ty="6.9"/>
                           </matrix>
@@ -1716,7 +1611,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                         </DOMSymbolInstance>
                       </members>
                     </DOMGroup>
-                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite">
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite">
                       <matrix>
                         <Matrix tx="-29" ty="-9.1"/>
                       </matrix>
@@ -1810,7 +1705,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             </DOMFrame>
             <DOMFrame index="1102" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName=" Menu/transparent Bowser Image" selected="true">
+                <DOMSymbolInstance libraryItemName=" Menu/transparent Bowser Image">
                   <matrix>
                     <Matrix a="3" d="3" tx="5" ty="-40.05"/>
                   </matrix>
@@ -1833,24 +1728,18 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
         </DOMLayer>
         <DOMLayer name="Background" color="#4FFF4F" autoNamed="false" heightLiteral="15">
           <frames>
-            <DOMFrame index="0" duration="340" keyMode="9728" acceleration="-100">
+            <DOMFrame index="0" duration="340" keyMode="9728">
               <elements>
                 <DOMGroup>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-275" ty="-200"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-275" ty="-200"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <LinearGradient>
                                 <matrix>
-                                  <Matrix a="0" b="-0.177200317382813" c="1.30833435058594" d="0" tx="-164.25" ty="195.15"/>
+                                  <Matrix a="0" b="-0.177200317382813" c="1.30833435058594" d="0" tx="-439.25" ty="-4.85"/>
                                 </matrix>
                                 <GradientEntry color="#C6CEF8" ratio="0"/>
                                 <GradientEntry color="#D8E0F8" ratio="0.0941176470588235"/>
@@ -1861,7 +1750,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!9999.5 7000|999.5 7000!999.5 7000|999.5 1000!999.5 1000|9999.5 1000!9999.5 1000|9999.5 7000"/>
+                            <Edge fillStyle1="1" edges="!-4500 -3000|4500 -3000!4500 -3000|4500 3000!4500 3000|-4500 3000!-4500 3000|-4500 -3000"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -1897,7 +1786,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!-4500 -780|-4500 580!-4500 580|4500 580!4500 580|4500 -780!4500 -780|-4500 -780"/>
+                            <Edge fillStyle0="1" edges="!-4500 580|4500 580!4500 580|4500 -780!4500 -780|-4500 -780!-4500 -780|-4500 580"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2069,7 +1958,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5456 4677|-6539 4677!-6539 4677|-6539 -4280!-6539 -4280|5456 -4280!5456 -4280|5456 4677"/>
+                    <Edge fillStyle1="1" edges="!5456 -4280|5456 4677!5456 4677|-6539 4677!-6539 4677|-6539 -4280!-6539 -4280|5456 -4280"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -2086,7 +1975,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5936 4077|-6059 4077!-6059 4077|-6059 -3880!-6059 -3880|5936 -3880!5936 -3880|5936 4077"/>
+                    <Edge fillStyle1="1" edges="!5936 -3880|5936 4077!5936 4077|-6059 4077!-6059 4077|-6059 -3880!-6059 -3880|5936 -3880"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -2171,7 +2060,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5257 3477|-4940 3477!-4940 3477|-4940 -3360!-4940 -3360|5257 -3360!5257 -3360|5257 3477"/>
+                    <Edge fillStyle1="1" edges="!5257 -3360|5257 3477!5257 3477|-4940 3477!-4940 3477|-4940 -3360!-4940 -3360|5257 -3360"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -2188,7 +2077,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5257 3477|-4940 3477!-4940 3477|-4940 -3360!-4940 -3360|5257 -3360!5257 -3360|5257 3477"/>
+                    <Edge fillStyle1="1" edges="!5257 -3360|5257 3477!5257 3477|-4940 3477!-4940 3477|-4940 -3360!-4940 -3360|5257 -3360"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -2205,7 +2094,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5257 3477|-4940 3477!-4940 3477|-4940 -3360!-4940 -3360|5257 -3360!5257 -3360|5257 3477"/>
+                    <Edge fillStyle1="1" edges="!5257 -3360|5257 3477!5257 3477|-4940 3477!-4940 3477|-4940 -3360!-4940 -3360|5257 -3360"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -2254,7 +2143,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 1 - Bob-omb Battlefield/  Areas 1-1 &amp; 1-2/1-1 Back Graphics">
                   <matrix>
-                    <Matrix a="1.00001525878906" tx="-0.05" ty="0.05"/>
+                    <Matrix tx="-0.05" ty="0.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.05" y="-0.05"/>
@@ -2279,9 +2168,6 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -2292,7 +2178,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses / M1 - Sinking Sand Land/M1-1 Back GFX">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="0.999908447265625"/>
+                    <Matrix d="0.999908447265625"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -2338,7 +2224,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-04 Frosty Land/9-04 Back GFX">
                   <matrix>
-                    <Matrix d="1.00044250488281" tx="0.15"/>
+                    <Matrix d="1.00042724609375" tx="0.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -2346,7 +2232,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-04 Frosty Land/9-04 Front GFX">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="1.00053405761719" ty="-0.15"/>
+                    <Matrix d="1.00053405761719" ty="-0.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -2361,7 +2247,7 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Back GFX">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="1.00004577636719"/>
+                    <Matrix d="1.00004577636719"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -2465,34 +2351,28 @@ this.swapDepths(_root.getNextHighestDepth());]]></script>
             <DOMFrame index="1219" duration="1168" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix ty="-3.5"/>
-                  </matrix>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix ty="-3.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Backgrounds/NSMB Cave BG (Back)" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="30" tx="-285.25" ty="-149.6"/>
+                              <Matrix a="30" d="-30" tx="-285.25" ty="275.9"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Backgrounds/NSMB Cave BG (Back)" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="-30" tx="-285.25" ty="279.4"/>
+                              <Matrix a="30" d="30" tx="-285.25" ty="-153.1"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-5110 1268|-5110 -2972!-5110 -2972|5110 -2972!5110 -2972|5110 1268"/>
-                        <Edge fillStyle1="2" edges="!5110 1268|5110 3112!5110 3112|-5110 3112!-5110 3112|-5110 1268"/>
-                        <Edge fillStyle0="1" fillStyle1="2" edges="!-5110 1268|5110 1268"/>
+                        <Edge fillStyle1="2" edges="!-5110 1198S2|-5110 -3042!-5110 -3042|5110 -3042!5110 -3042|5110 1198"/>
+                        <Edge fillStyle1="1" edges="!5110 1198S2|5110 3042!5110 3042|-5110 3042!-5110 3042|-5110 1198"/>
+                        <Edge fillStyle0="2" fillStyle1="1" edges="!-5110 1198S3|5110 1198"/>
                       </edges>
                     </DOMShape>
                   </members>

@@ -50,20 +50,10 @@ onMouseDown = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-311 -393|312 -393!312 -393|312 -183!312 -183|312 392!312 392|-311 394"/>
-                        <Edge fillStyle1="1" strokeStyle="2" edges="!-311 394|-311 -183"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!-311 -183|312 392"/>
-                        <Edge fillStyle1="1" strokeStyle="2" edges="!-311 -183|-311 -393"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!312 -183|-311 -183"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!312 -183|312 392!312 392|-311 394!-311 394|-311 -183!-311 -183|-311 -393!-311 -393|312 -393!312 -393|312 -183"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!312 -183|-311 -183!-311 -183|312 392"/>
                       </edges>
                     </DOMShape>
                   </members>

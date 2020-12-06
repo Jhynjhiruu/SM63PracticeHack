@@ -57,7 +57,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="4.67884826660156" d="2.04145812988281" tx="-402" ty="90.95"/>
+                    <Matrix a="4.6788330078125" d="2.04144287109375" tx="-402" ty="90.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -188,7 +188,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-4.30665588378906" d="-18.9181365966797" tx="-564.45" ty="-368.45"/>
+                    <Matrix a="-4.306640625" d="-18.9181365966797" tx="-564.45" ty="-368.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -258,7 +258,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="2.91828918457031" d="2.00103759765625" tx="-561.75" ty="-358.75"/>
+                    <Matrix a="2.91827392578125" d="2.00103759765625" tx="-561.75" ty="-358.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -344,19 +344,13 @@ onClipEvent (enterFrame) {
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-463.55" ty="-48.55"/>
+                              <Matrix a="20" d="20" tx="-463.55" ty="-49.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -371,25 +365,19 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!-10589 -395|-7969 -395!-7969 -395|-7969 -885!-7969 -885|-10589 -885!-10589 -885|-10589 -395"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-10589 -415|-7969 -415!-7969 -415|-7969 -905!-7969 -905|-10589 -905!-10589 -905|-10589 -415"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-463.55" ty="-287"/>
+                              <Matrix a="20" d="20" tx="-463.55" ty="-286"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -404,7 +392,7 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!-7969 -5650|-11835 -5650!-11835 -5650|-11835 -5150!-11835 -5150|-7969 -5150!-7969 -5150|-7969 -5650"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-7969 -5630|-11835 -5630!-11835 -5630|-11835 -5130!-11835 -5130|-7969 -5130!-7969 -5130|-7969 -5630"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -521,19 +509,13 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-2"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-2"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="468.05" ty="-611.05"/>
+                              <Matrix a="20" d="20" tx="468.05" ty="-613.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -548,7 +530,7 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!9377 -12159|9377 -11579!9377 -11579|10663 -11579!10663 -11579|10663 -12159!10663 -12159|9377 -12159"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!9377 -11619|10663 -11619!10663 -11619|10663 -12199!10663 -12199|9377 -12199!9377 -12199|9377 -11619"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1263,19 +1245,13 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-7" ty="-2.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-7" ty="-2.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick Tock PL Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="8.05" ty="-285.5"/>
+                              <Matrix a="20" d="20" tx="1.05" ty="-288"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1290,7 +1266,7 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!1463 -5620|-483 -5620!-483 -5620|-483 -5120!-483 -5120|1463 -5120!1463 -5120|1463 -5620"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!1323 -5670|-623 -5670!-623 -5670|-623 -5170!-623 -5170|1323 -5170!1323 -5170|1323 -5670"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1638,9 +1614,6 @@ onClipEvent (enterFrame) {
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

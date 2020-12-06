@@ -33,12 +33,12 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="2" edges="!5615 2500S2|5615 2660"/>
-                        <Edge fillStyle1="3" edges="!5615 2660S2|5615 3040!5615 3040|-5615 3040!-5615 3040|-5615 2660"/>
-                        <Edge fillStyle1="2" edges="!-5615 2660S2|-5615 2500"/>
-                        <Edge fillStyle1="1" edges="!-5615 2500S2|-5615 -3040!-5615 -3040|5615 -3040!5615 -3040|5615 2500"/>
-                        <Edge fillStyle0="3" fillStyle1="2" edges="!5615 2660S3|-5615 2660"/>
-                        <Edge fillStyle0="1" fillStyle1="2" edges="!-5615 2500S3|5615 2500"/>
+                        <Edge fillStyle1="2" edges="!-5615 2660|-5615 2500"/>
+                        <Edge fillStyle1="1" edges="!-5615 2500|-5615 -3040!-5615 -3040|5615 -3040!5615 -3040|5615 2500"/>
+                        <Edge fillStyle1="2" edges="!5615 2500|5615 2660"/>
+                        <Edge fillStyle1="3" edges="!5615 2660|5615 3040!5615 3040|-5615 3040!-5615 3040|-5615 2660"/>
+                        <Edge fillStyle0="3" fillStyle1="2" edges="!5615 2660|-5615 2660"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!-5615 2500|5615 2500"/>
                       </edges>
                     </DOMShape>
                   </members>

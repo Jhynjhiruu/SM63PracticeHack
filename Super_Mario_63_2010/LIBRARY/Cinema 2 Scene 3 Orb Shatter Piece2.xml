@@ -21,19 +21,13 @@ onEnterFrame = function () {
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="20.6" ty="4.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="20.6" ty="4.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.04437255859375" d="0.04437255859375"/>
+                              <Matrix a="0.04437255859375" d="0.04437255859375" tx="20.6" ty="4.65"/>
                             </matrix>
                             <GradientEntry color="#F8F2C2" alpha="0.0823529411764706" ratio="0"/>
                             <GradientEntry color="#FEF7BC" alpha="0.623529411764706" ratio="1"/>
@@ -50,9 +44,8 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-704.5 -60S6[-697.78125 -145.03125 -672.5 -222.5"/>
-                        <Edge fillStyle1="1" edges="!-672.5 -222.5S2[#FFFD8C.03 #FFFF1C.11 -579 -225!-579 -225[#FFFDEF.8D #FFFF22.DD -483.5 -227.5!-483.5 -227.5[#FFFE75.66 #FFFF65.69 -282 -107!-282 -107[-205 -73 -120 -55!-120 -55[-137 -2 -168 32!-168 32[-170 35 -170 40!-170 40|-215 40
-!-215 40[-438 -85 -700 -60!-700 -60[#FFFD41.DE #FFFFC4.1B -704.5 -60"/>
+                        <Edge fillStyle1="1" edges="!-260 -129[-216 -135 -167 -132!-167 -132[-116 -128 -71 -134!-71 -134[17 -62 130 -14!130 -14[207 20 292 38!292 38[275 91 244 125!244 125[242 128 242 133!242 133|197 133!197 133[-26 8 -288 33!-288 33[-290 33 -292 33"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-292 33[-286 -52 -260 -129"/>
                       </edges>
                     </DOMShape>
                   </members>

@@ -60,6 +60,10 @@ onEnterFrame = function () {
 			_root.Course.Char.yspeed /= 2;
 			_root.Course.Char._x = _x+_parent._x;
 			_root.Course.Char._y = _y+_parent._y+(20*_root.coursescale/100);
+
+            // Additional code when a star is collected
+            _root.event.onStarCollected();
+
 			gotoAndStop("Gone");
 		}
 	} else {

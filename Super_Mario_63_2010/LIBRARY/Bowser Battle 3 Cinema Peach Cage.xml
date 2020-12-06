@@ -106,19 +106,13 @@
             <DOMFrame index="0" duration="56" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-0.5" ty="0.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-0.5" ty="0.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence Large" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-17" ty="-6.5"/>
+                              <Matrix a="20" d="20" tx="-17.5" ty="-6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -134,7 +128,7 @@
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!313 -628|-340 -628!-340 -628|-340 532!-340 532|313 532!313 532|313 -628"/>
+!303 -618|-350 -618!-350 -618|-350 542!-350 542|303 542!303 542|303 -618"/>
                       </edges>
                     </DOMShape>
                   </members>

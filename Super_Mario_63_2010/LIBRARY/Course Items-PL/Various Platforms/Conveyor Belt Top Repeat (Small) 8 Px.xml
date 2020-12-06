@@ -58,7 +58,7 @@ stop();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!80 -100|80 100!80 100|-80 100!-80 100|-80 -100!-80 -100|80 -100"/>
+                    <Edge fillStyle1="1" edges="!80 100|-80 100!-80 100|-80 -100!-80 -100|80 -100!80 -100|80 100"/>
                   </edges>
                 </DOMShape>
               </elements>

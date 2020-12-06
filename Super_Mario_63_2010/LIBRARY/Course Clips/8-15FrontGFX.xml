@@ -504,14 +504,8 @@
                   </filters>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="114.95" ty="67.4"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="114.95" ty="67.4"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -522,8 +516,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!2956 -6469S4[#B8C.22 -5640.375 2370 -5055!2370 -5055[#6F8.A2 -4468.875 956 -4469!956 -4469[#7F.62 -4468.875 -459 -5055!-459 -5055[#FFFBEB.E2 -5640.375 -1044 -6469!-1044 -6469[#FFFBEB.E2 #FFE37E.62 -459 -7884!-459 -7884[#7F.62 #FFDEEA.E2
- 956 -8469!956 -8469[#6F8.A2 #FFDEEA.E2 2370 -7884!2370 -7884[#B8C.22 #FFE37E.62 2956 -6469"/>
+                        <Edge strokeStyle="1" edges="!4669 -6536[5255 -5950 5255 -5121!5255 -5121[5255 -4292 4669 -3707!4669 -3707[4084 -3121 3255 -3121!3255 -3121[2426 -3121 1840 -3707!1840 -3707[1255 -4292 1255 -5121!1255 -5121[1255 -5950 1840 -6536!1840 -6536[2426 -7121 3255 -7121!3255
+ -7121[4084 -7121 4669 -6536"/>
                       </edges>
                     </DOMShape>
                   </members>

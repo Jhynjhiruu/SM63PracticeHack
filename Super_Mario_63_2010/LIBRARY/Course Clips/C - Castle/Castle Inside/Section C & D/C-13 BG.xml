@@ -69,7 +69,7 @@ _root.changecourse("righttransition2", "8-1", 0, 0, 0, 0, true);
         </DOMLayer>
         <DOMLayer name="Layer 1" color="#4FFF4F" parentLayerIndex="0">
           <frames>
-            <DOMFrame index="0" keyMode="9984" acceleration="-100">
+            <DOMFrame index="0" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();
 ]]></script>

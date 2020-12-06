@@ -499,7 +499,7 @@ Moveleft = function () {
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName=" Xtra/Lineless Movieclip" name="body" selected="true">
+                <DOMSymbolInstance libraryItemName=" Xtra/Lineless Movieclip" name="body">
                   <matrix>
                     <Matrix a="0.212310791015625" d="0.123703002929688" ty="-2.55"/>
                   </matrix>
@@ -510,7 +510,7 @@ Moveleft = function () {
                     <Color alphaMultiplier="0"/>
                   </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName=" Xtra/Lineless Movieclip" name="head" selected="true">
+                <DOMSymbolInstance libraryItemName=" Xtra/Lineless Movieclip" name="head">
                   <matrix>
                     <Matrix a="0.265380859375" d="0.1416015625" ty="-17.5"/>
                   </matrix>

@@ -4,7 +4,7 @@
       <layers>
         <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>
-            <DOMFrame index="0" duration="9" keyMode="9728" acceleration="100">
+            <DOMFrame index="0" duration="9" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[if (_root.TotalStars !== 0 || (_root.Course.Char.attack == true && _root.Course.Char.attackFrame == "Respawn")) {
 	gotoAndStop("end");

@@ -105,25 +105,19 @@
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-1" ty="2"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-1" ty="2"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Decoration/ Signs &amp; Fences/Fence Repeat" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="1363.2" ty="-644.5"/>
+                              <Matrix a="20" d="20" tx="1362.2" ty="-642.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!30554 -12890|27264 -12890!27264 -12890|27264 -12550!27264 -12550|30554 -12550!30554 -12550|30554 -12890"/>
+                        <Edge fillStyle0="1" edges="!30534 -12850|27244 -12850!27244 -12850|27244 -12510!27244 -12510|30534 -12510!30534 -12510|30534 -12850"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -234,73 +228,55 @@
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.98681640625" b="0.159835815429688" c="-0.159835815429688" d="0.98681640625" tx="278.5" ty="-156.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.98681640625" b="0.159835815429688" c="-0.159835815429688" d="0.98681640625" tx="278.5" ty="-156.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="834.3" ty="-80.25"/>
+                              <Matrix a="19.7360229492188" b="3.19671630859375" c="-3.19671630859375" d="19.7360229492188" tx="1114.65" ty="-102.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!29016 -1600|25586 -1600!25586 -1600|25586 -986!25586 -986|29016 -986!29016 -986|29016 -1600"/>
+                        <Edge fillStyle0="1" edges="!30976 -10|34361 538!34361 538|34459 -68!34459 -68|31074 -616!31074 -616|30976 -10"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.99273681640625" b="-0.1160888671875" c="0.116104125976563" d="0.99273681640625" tx="453.3" ty="223.7"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.99273681640625" b="-0.1160888671875" c="0.116104125976563" d="0.99273681640625" tx="453.3" ty="223.7"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="834.3" ty="-80.25"/>
+                              <Matrix a="19.854736328125" b="-2.32177734375" c="2.32208251953125" d="19.854736328125" tx="1272.25" ty="47.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!29016 -1600|25586 -1600!25586 -1600|25586 -986!25586 -986|29016 -986!29016 -986|29016 -1600"/>
+                        <Edge fillStyle0="1" edges="!34280 -84|34352 525!34352 525|37757 127!37757 127|37685 -482!37685 -482|34280 -84"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-3"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="19.2385864257813" b="5.4144287109375" c="-5.4144287109375" d="19.2385864257813" tx="1053.6" ty="-171.85"/>
+                              <Matrix a="19.2385864257813" b="5.4144287109375" c="-5.4144287109375" d="19.2385864257813" tx="1053.6" ty="-174.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!29465 -432|31115 32.5!31115 32.5|31115 -605!31115 -605|29631 -1022.5!29631 -1022.5|29465 -432"/>
+                        <Edge fillStyle0="1" edges="!29465 -492|31115 -27!31115 -27|31115 -665!31115 -665|29631 -1082!29631 -1082|29465 -492"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -339,25 +315,19 @@
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.977249145507813" b="0.208160400390625" c="-0.208160400390625" d="0.977249145507813" tx="190.7" ty="-782.3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.977249145507813" b="0.208160400390625" c="-0.208160400390625" d="0.977249145507813" tx="190.7" ty="-782.3"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Wall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="20" tx="1898.15" ty="-583.65"/>
+                              <Matrix a="-19.5449829101563" b="-4.1632080078125" c="-4.1632080078125" d="19.5449829101563" tx="2167.15" ty="-957.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!37652 -19137|37652 4863!37652 4863|37932 4863!37932 4863|37932 -19137!37932 -19137|37652 -19137"/>
+                        <Edge fillStyle0="1" edges="!44593 -26510|39597 -3056!39597 -3056|39871 -2998!39871 -2998|44867 -26452!44867 -26452|44593 -26510"/>
                       </edges>
                     </DOMShape>
                   </members>

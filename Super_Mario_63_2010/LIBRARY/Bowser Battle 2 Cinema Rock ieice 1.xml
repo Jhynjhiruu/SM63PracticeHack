@@ -7,19 +7,13 @@
             <DOMFrame index="0" duration="39" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-34.45" ty="-22.3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-34.45" ty="-22.3"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="93.8" ty="42.5"/>
+                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="59.35" ty="20.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -34,10 +28,10 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" edges="!1124 363[#404.21 #135.7D 931 258!931 258[740 160 564 202!564 202[#231.5A #CA.88 558.5 203!558.5 203|427.5 159"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!427.5 159|253.5 346.5!253.5 346.5|463.5 710!463.5 710|567.5 730.5!567.5 730.5|573 733.5"/>
-                        <Edge fillStyle0="1" edges="!573 733.5[#238.F3 #2B5.8E 558 654!558 654[555 645 555 635!555 635|545 625!545 625|525 530!525 530|570 525!570 525|595 540!595 540[642 602 705 645!705 645|750 590!750 590[#353.19 #298.DE 970.5 679.5"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!970.5 679.5|891.5 451.5!891.5 451.5|861.5 399.5!861.5 399.5|1124 363"/>
+                        <Edge fillStyle0="1" edges="!435 -83[339 -137 242 -188!242 -188[51 -286 -125 -244!-125 -244[-128 -243 -130 -243!-130 -243|-261 -287"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-261 -287|-435 -99!-435 -99|-225 264!-225 264|-121 285!-121 285|-116 288"/>
+                        <Edge fillStyle0="1" edges="!-116 288[-120 248 -131 208!-131 208[-134 199 -134 189!-134 189|-144 179!-144 179|-164 84!-164 84|-119 79!-119 79|-94 94!-94 94[-47 156 16 199!16 199|61 144!61 144[162 219 282 234"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!282 234|203 6!203 6|173 -46!173 -46|435 -83"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -47,19 +41,13 @@
             <DOMFrame index="39" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-324.45" ty="-22.3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-324.45" ty="-22.3"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="93.8" ty="42.5"/>
+                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="-230.65" ty="20.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -74,10 +62,10 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!970.5 679.5|891.5 451.5!891.5 451.5|861.5 399.5!861.5 399.5|1124 363"/>
-                        <Edge fillStyle0="1" edges="!1124 363[#404.21 #135.7D 931 258!931 258[740 160 564 202!564 202[#231.5A #CA.88 558.5 203!558.5 203|427.5 159"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!427.5 159|253.5 346.5!253.5 346.5|463.5 710!463.5 710|567.5 730.5!567.5 730.5|573 733.5"/>
-                        <Edge fillStyle0="1" edges="!573 733.5[#238.F3 #2B5.8E 558 654!558 654[555 645 555 635!555 635|545 625!545 625|525 530!525 530|570 525!570 525|595 540!595 540[642 602 705 645!705 645|750 590!750 590[#353.19 #298.DE 970.5 679.5"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-6061 -287|-6235 -99!-6235 -99|-6025 264!-6025 264|-5921 285!-5921 285|-5916 288"/>
+                        <Edge fillStyle0="1" edges="!-5916 288[-5920 248 -5931 208!-5931 208[-5934 199 -5934 189!-5934 189|-5944 179!-5944 179|-5964 84!-5964 84|-5919 79!-5919 79|-5894 94!-5894 94[-5847 156 -5784 199!-5784 199|-5739 144!-5739 144[-5638 219 -5518 234"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-5518 234|-5597 6!-5597 6|-5627 -46!-5627 -46|-5365 -83"/>
+                        <Edge fillStyle0="1" edges="!-5365 -83[-5461 -137 -5558 -188!-5558 -188[-5749 -286 -5925 -244!-5925 -244[-5928 -243 -5930 -243!-5930 -243|-6061 -287"/>
                       </edges>
                     </DOMShape>
                   </members>

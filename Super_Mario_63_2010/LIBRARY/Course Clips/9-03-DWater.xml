@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText width="32.2" height="13.35" autoExpand="true" isSelectable="false">
+                <DOMStaticText width="26.75" height="14.85" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="-203.35" ty="-67.45"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>Water</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" face="Matisse ITC" fillColor="#305088"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" face="MatisseITC-Regular" fillColor="#305088"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -51,7 +51,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="   Effects/Water/ Water Blocks/Giant Water Block" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/Water/ Water Blocks/Giant Water Block">
                   <matrix>
                     <Matrix tx="539" ty="234.9"/>
                   </matrix>

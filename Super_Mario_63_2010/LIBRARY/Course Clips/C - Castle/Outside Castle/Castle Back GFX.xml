@@ -135,7 +135,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp1" selected="true">
                   <matrix>
-                    <Matrix a="0" b="3.77369689941406" c="-3.12469482421875" d="0" tx="-1485.8" ty="31.9"/>
+                    <Matrix a="0" b="3.773681640625" c="-3.12469482421875" d="0" tx="-1485.8" ty="31.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -149,7 +149,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp2" selected="true">
                   <matrix>
-                    <Matrix a="0" b="18.8684844970703" c="-18.7481689453125" d="0" tx="2392.1" ty="-693.5"/>
+                    <Matrix a="0" b="18.8684692382813" c="-18.7481689453125" d="0" tx="2392.1" ty="-693.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1130,16 +1130,17 @@ onClipEvent (enterFrame) {
                   <edges>
                     <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!28087 5930|28087 6240!28087 6240|27777 6240!27777 6240|27777 5930!27777 5930|28087 5930"/>
                     <Edge fillStyle0="1" strokeStyle="2" edges="!28375 5902.5|28375 5640!28375 5640|27497 5640!27497 5640|27497 5940"/>
-                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="2" edges="!27497 5940|27497 6400"/>
-                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!27497 6400|27197 6400"/>
+                    <Edge fillStyle0="3" strokeStyle="2" edges="!27497 5940|27197 6400"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!27197 6400|23637 6400"/>
                     <Edge fillStyle0="1" strokeStyle="2" edges="!23637 6400|24897 8339!24897 8339|28675 8339"/>
                     <Edge fillStyle0="1" edges="!28675 8339|28375 8159"/>
                     <Edge fillStyle0="1" strokeStyle="2" edges="!28375 8159|28912 8080.5"/>
-                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="2" edges="!28912 8080.5|28375 6851.5!28375 6851.5|28375 5902.5"/>
-                    <Edge fillStyle0="3" strokeStyle="2" edges="!27497 5940|27197 6400"/>
-                    <Edge strokeStyle="2" edges="!29655 7979|29401 8008.5!29401 8008.5|29455 8119"/>
-                    <Edge fillStyle0="3" strokeStyle="2" edges="!28912 8080.5|29401 8008.5!29401 8008.5|28375 5902.5"/>
+                    <Edge fillStyle0="3" strokeStyle="2" edges="!28912 8080.5|29401 8008.5"/>
+                    <Edge strokeStyle="2" edges="!29401 8008.5|29455 8119"/>
+                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!27497 6400|27197 6400"/>
+                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="2" edges="!27497 5940|27497 6400!28912 8080.5|28375 6851.5!28375 6851.5|28375 5902.5"/>
+                    <Edge strokeStyle="2" edges="!29655 7979|29401 8008.5"/>
+                    <Edge fillStyle0="3" strokeStyle="2" edges="!29401 8008.5|28375 5902.5"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ C - Castle/ Outside Castle/Princess Peaches Castle Code">
@@ -1208,7 +1209,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Main Door Clip">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="1.00001525878906" tx="11.9" ty="41.1"/>
+                    <Matrix tx="11.9" ty="41.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1222,7 +1223,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Doors/Main Door Clip">
                   <matrix>
-                    <Matrix a="-1" d="1.00001525878906" tx="-3.9" ty="41.1"/>
+                    <Matrix a="-1" tx="-3.9" ty="41.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

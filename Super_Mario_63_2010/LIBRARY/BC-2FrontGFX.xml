@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
                     <Matrix a="0.623550415039063" d="4.57318115234375" tx="-1112.6" ty="640.6"/>
                   </matrix>
@@ -39,14 +39,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-259" ty="-22"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-259" ty="-22"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -57,21 +51,15 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!-34135.5 6244S4[#FF7DE5.0C #1863.EF -32721.5 6829.5!-32721.5 6829.5[#FF8278.51 #1CF7.34 -32135.5 8244!-32135.5 8244[#FF8278.51 #2370.8C -32721.5 9658!-32721.5 9658[#FF7DE5.0C #2803.D1 -34135.5 10244!-34135.5 10244[#FF776B.B4 #2803.D1
- -35550 9658!-35550 9658[#FF72D8.6E #2370.8C -36135.5 8244!-36135.5 8244[#FF72D8.6E #1CF7.34 -35550 6829.5!-35550 6829.5[#FF776B.B4 #1863.EF -34135.5 6244"/>
+                        <Edge strokeStyle="1" edges="!-37315 7804[-37316 8633 -37901 9218!-37901 9218[-38487 9804 -39315 9804!-39315 9804[-40144 9804 -40730 9218!-40730 9218[-41316 8633 -41315 7804!-41315 7804[-41316 6975 -40730 6390!-40730 6390[-40144 5804 -39315 5804!-39315 5804[-38487
+ 5804 -37901 6390!-37901 6390[-37316 6975 -37315 7804"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="2" ty="63"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="2" ty="63"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -83,20 +71,14 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-36200 7816S4|-36200 6216"/>
+!-36160 9076|-36160 7476"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="102" ty="53"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="102" ty="53"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -108,20 +90,14 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-36200 7816S4|-36200 6216"/>
+!-34160 8876|-34160 7276"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="202" ty="43"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="202" ty="43"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -133,20 +109,14 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-36200 7816S4|-36200 6216"/>
+!-32160 8676|-32160 7076"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="302" ty="33"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="302" ty="33"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -158,25 +128,19 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-36200 7816S4|-36200 6216"/>
+!-30160 8476|-30160 6876"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.999435424804688" b="-0.999435424804688" c="0.999435424804688" d="0.999435424804688" tx="-668.4" ty="-1695.75"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-1810" y="350.75"/>
+                    <Point x="-2126.85" y="463.8"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.999435424804688" b="-0.999435424804688" c="0.999435424804688" d="0.999435424804688" tx="-668.4" ty="-1695.75"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-1810" y="350.75"/>
+                        <Point x="-2126.85" y="463.8"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -189,7 +153,7 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-36200 7816S4|-36200 6216"/>
+!-41736 10077|-43336 8477"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -478,19 +442,10 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-993.6" ty="493.3"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-993.6" ty="493.3"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-993.6" ty="493.3"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <SolidColor color="#BD0000"/>
@@ -498,7 +453,7 @@ onClipEvent (enterFrame) {
                           </fills>
                           <edges>
                             <Edge fillStyle0="1" edges="
-!26156.5 2500|-32492 2500!-32492 2500|-32493 2900!-32493 2900|26156 2900!26156 2900|26156.5 2500"/>
+!6285 12366|-52364 12366!-52364 12366|-52365 12766!-52365 12766|6284 12766!6284 12766|6285 12366"/>
                           </edges>
                         </DOMShape>
                       </members>

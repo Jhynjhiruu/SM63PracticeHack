@@ -60,8 +60,8 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 -27968[#FFFFC1.EB #FF92BE.EB -107 -28014!-107 -28014[-152 -28059 -152 -28123!-152 -28123[-152 -28187 -107 -28233!-107 -28233[-61 -28278 3 -28278!3 -28278[67 -28278 112 -28233!112 -28233[158 -28187 158 -28123!158 -28123[158 -28059 112
- -28014!112 -28014[67 -27968 3 -27968!3 -27968[#1.7F -27968 0 -27968"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-107 -28233[-61 -28278 3 -28278!3 -28278[67 -28278 112 -28233!112 -28233[158 -28187 158 -28123!158 -28123[158 -28059 112 -28014!112 -28014[67 -27968 3 -27968!3 -27968[#1.7F -27968 0 -27968!0 -27968[#FFFFC1.EB #FF92BE.EB -107 -28014!-107
+ -28014[-152 -28059 -152 -28123!-152 -28123[-152 -28187 -107 -28233"/>
                     <Edge strokeStyle="1" edges="
 !0 -27968|0 -27329"/>
                   </edges>
@@ -325,19 +325,13 @@ onEnterFrame = function () {
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-20"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-20"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Haunted Brick Tile 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="570.15" ty="-378.5"/>
+                              <Matrix a="20" d="20" tx="570.15" ty="-398.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -350,23 +344,10 @@ onEnterFrame = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!2710 -2280|2103.5 -1680"/>
-                        <Edge fillStyle1="1" strokeStyle="2" edges="
-!2103.5 -1680|-2162.5 -1680"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="
-!-2162.5 -1680|-2790 -2280"/>
-                        <Edge fillStyle1="1" strokeStyle="2" edges="
-!-2790 -2280|2710 -2280"/>
+!2104 -2080|-2162 -2080!-2162 -2080|-2790 -2680!-2790 -2680|2710 -2680!2710 -2680|2104 -2080"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -485,10 +466,10 @@ onEnterFrame = function () {
 !5283 -7559|5283 158!5283 158|3988 147!3988 147|3988 -7559!3988 -7559|5283 -7559"/>
                     <Edge fillStyle1="2" edges="
 !2103 -7567|2103 158!2103 158|808 147!808 147|808 -7567!808 -7567|2103 -7567"/>
-                    <Edge fillStyle1="3" edges="
-!3703 -7563|3703 158!3703 158|2408 147!2408 147|2408 -7563!2408 -7563|3703 -7563"/>
                     <Edge fillStyle1="14" edges="
 !648 -2719|-647 -2719!-647 -2719|-647 -7839!-647 -7839|648 -7839!648 -7839|648 -2719"/>
+                    <Edge fillStyle1="3" edges="
+!3703 -7563|3703 158!3703 158|2408 147!2408 147|2408 -7563!2408 -7563|3703 -7563"/>
                     <Edge fillStyle0="4" edges="
 !7052 -6880|7052 -3040!7052 -3040|8347 -3040!8347 -3040|8347 -6880!8347 -6880|7052 -6880"/>
                     <Edge fillStyle0="5" edges="

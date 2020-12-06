@@ -75,7 +75,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-3.97015380859375" d="-18.5957336425781" tx="474.95" ty="635.45"/>
+                    <Matrix a="-3.97015380859375" d="-18.5957183837891" tx="474.95" ty="635.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -98,7 +98,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-3.97015380859375" d="-18.5957336425781" tx="264.95" ty="635.45"/>
+                    <Matrix a="-3.97015380859375" d="-18.5957183837891" tx="264.95" ty="635.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -121,7 +121,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-2.20416259765625" d="-12.9693450927734" tx="427.75" ty="680.4"/>
+                    <Matrix a="-2.20416259765625" d="-12.9693298339844" tx="427.75" ty="680.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -144,7 +144,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-2.20416259765625" d="-12.9693450927734" tx="310.05" ty="680.4"/>
+                    <Matrix a="-2.20416259765625" d="-12.9693298339844" tx="310.05" ty="680.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -167,7 +167,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-2.20416259765625" d="-12.9693450927734" tx="372.85" ty="770.45"/>
+                    <Matrix a="-2.20416259765625" d="-12.9693298339844" tx="372.85" ty="770.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -190,7 +190,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-6.42652893066406" d="-28.7992706298828" tx="538.95" ty="553.75"/>
+                    <Matrix a="-6.426513671875" d="-28.7992553710938" tx="538.95" ty="553.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -213,7 +213,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-6.42652893066406" d="-28.7992706298828" tx="199.1" ty="553.75"/>
+                    <Matrix a="-6.426513671875" d="-28.7992553710938" tx="199.1" ty="553.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -711,9 +711,9 @@ onClipEvent (enterFrame) {
           <frames>
             <DOMFrame index="0" duration="4" keyMode="9728">
               <elements>
-                <DOMGroup selected="true">
+                <DOMGroup>
                   <members>
-                    <DOMShape selected="true">
+                    <DOMShape>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Underwater Wall" bitmapIsClipped="false">
@@ -731,20 +731,11 @@ onClipEvent (enterFrame) {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1223 2442|-1223 667.5!-1223 667.5[#FFFBB2.EA #287.75 -937 631!-937 631[-583 595 -200 595!-200 595[310 590 758 598!758 598[#5B9.FC #261.3D 1605.5 652!1605.5 652[#75E.67 #25A.B7 2334 454!2334 454[2710 329 3521 16!3521 16[4341 -299 4677
- -412!4677 -412[5252 -605 5495 -605!5495 -605[6224 -605 8261 -285!8261 -285[9421 -103 9687 -65!9687 -65[#27C8.4D #5.BD 10472.5 26.5!10472.5 26.5|12429 2442"/>
-                        <Edge fillStyle1="1" strokeStyle="2" edges="
-!12429 2442|14531 7437!14531 7437|14531 7700!14531 7700|24336 7700!24336 7700|24336 11899!24336 11899|14531 11899!14531 11899|14531 12915!14531 12915|10699 16113!10699 16113|5183.5 16113!5183.5 16113|-1103 13954!-1103 13954|-1223 13954
-!-1223 13954|-1223 2442"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!5495 -605[6224 -605 8261 -285!8261 -285[9421 -103 9687 -65!9687 -65[#27C8.4D #5.BD 10472.5 26.5!10472.5 26.5|12429 2442!12429 2442|14531 7437!14531 7437|14531 7700!14531 7700|24336 7700!24336 7700|24336 11899!24336 11899|14531 11899
+!14531 11899|14531 12915!14531 12915|10699 16113!10699 16113|5183.5 16113!5183.5 16113|-1103 13954!-1103 13954|-1223 13954!-1223 13954|-1223 667.5!-1223 667.5[#FFFBB2.EA #287.75 -937 631!-937 631[-583 595 -200 595!-200 595[310 590 758
+ 598!758 598[#5B9.FC #261.3D 1605.5 652!1605.5 652[#75E.67 #25A.B7 2334 454!2334 454[2710 329 3521 16!3521 16[4341 -299 4677 -412!4677 -412[5252 -605 5495 -605"/>
                         <Edge cubics="!-1435 3115(;-1230,3050 -725,2995 -200,2995q-1435 3115Q-1276 3065q-937 3031Q-583 2995q-200 2995);"/>
                         <Edge cubics="!-200 2995(;-100,2995 1640,2975 1640,3075q-200 2995Q310 2990q758 2998Q1640 3012q1640 3075);"/>
                         <Edge cubics="!1640 3075(;1640,3075 1420,3075 1420,3075q1640 3075 1420 3075);"/>

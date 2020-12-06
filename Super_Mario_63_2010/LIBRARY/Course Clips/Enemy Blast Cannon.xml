@@ -40,25 +40,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="0" duration="19" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.55" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.55" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0" b="0.0152587890625" c="-0.03662109375" d="0" tx="25.2"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -75,7 +69,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1104 -250|1104 250!1104 250|-96 250!-96 250[-513 -38 -96 -250!-96 -250|1104 -250"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -85,25 +79,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="19" duration="20" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.6" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.6" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0.0039520263671875" b="0.014739990234375" c="-0.035369873046875" d="0.0094757080078125" tx="24.35" ty="-6.55"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -120,7 +108,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1131 -45|-28 266!-28 266[-506 96 -158 -217!-158 -217|1001 -528!1001 -528|1131 -45"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -130,25 +118,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="39" duration="10" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.258804321289063" b="0.965927124023438" c="-0.965927124023438" d="-0.258804321289063" tx="-21.3" ty="-6.3"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.55" y="-22.25"/>
+                    <Point x="0.05"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.258804321289063" b="0.965927124023438" c="-0.965927124023438" d="-0.258804321289063" tx="-21.3" ty="-6.3"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.55" y="-22.25"/>
+                        <Point x="0.05"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="-0.0039520263671875" b="0.014739990234375" c="-0.035369873046875" d="-0.0094757080078125" tx="24.4" ty="6.55"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -165,7 +147,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1002 527|-157 216!-157 216[-485 -170 -27 -267!-27 -267|1132 44!1132 44|1002 527"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -175,25 +157,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="49" duration="2" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.55" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.55" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0" b="0.0152587890625" c="-0.03662109375" d="0" tx="25.2"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -210,7 +186,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1104 -250|1104 250!1104 250|-96 250!-96 250[-513 -38 -96 -250!-96 -250|1104 -250"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -220,25 +196,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="51" duration="8" tweenType="motion" keyMode="17921" acceleration="-100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-0.691879272460938" d="0" tx="-20.25" ty="-0.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.55" y="-22.25"/>
+                    <Point x="-4.85"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-0.691879272460938" d="0" tx="-20.25" ty="-0.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.55" y="-22.25"/>
+                        <Point x="-4.85"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0" b="0.0152587890625" c="-0.0253448486328125" d="0" tx="12.6"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -255,7 +225,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!667 -250|667 250!667 250|-164 250!-164 250[-452 -38 -164 -250!-164 -250|667 -250"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -265,25 +235,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="59" duration="65" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.55" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.55" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0" b="0.0152587890625" c="-0.03662109375" d="0" tx="25.2"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -300,7 +264,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1104 -250|1104 250!1104 250|-96 250!-96 250[-513 -38 -96 -250!-96 -250|1104 -250"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -310,25 +274,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="124" duration="19" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.55" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.55" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0" b="0.0152587890625" c="-0.03662109375" d="0" tx="25.2"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -345,7 +303,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1104 -250|1104 250!1104 250|-96 250!-96 250[-513 -38 -96 -250!-96 -250|1104 -250"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -355,25 +313,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="143" duration="2" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.6" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.6" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0.0039520263671875" b="0.014739990234375" c="-0.035369873046875" d="0.0094757080078125" tx="24.35" ty="-6.55"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -390,7 +342,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1131 -45|-28 266!-28 266[-506 96 -158 -217!-158 -217|1001 -528!1001 -528|1131 -45"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -400,25 +352,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="145" duration="4" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.781936645507813" d="0.209518432617188" tx="-20.45" ty="4.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.65" y="-22.25"/>
+                    <Point x="-2.9" y="0.85"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.781936645507813" d="0.209518432617188" tx="-20.45" ty="4.9"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.65" y="-22.25"/>
+                        <Point x="-2.9" y="0.85"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0.0039520263671875" b="0.014739990234375" c="-0.0286407470703125" d="0.0076751708984375" tx="16.8" ty="-4.5"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -435,7 +381,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!740 -458|870 25!870 25|-68 277!-68 277[-469 86 -198 -206!-198 -206|740 -458"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -445,25 +391,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="149" duration="10" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.6" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.6" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0.0039520263671875" b="0.014739990234375" c="-0.035369873046875" d="0.0094757080078125" tx="24.35" ty="-6.55"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -480,7 +420,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1131 -45|-28 266!-28 266[-506 96 -158 -217!-158 -217|1001 -528!1001 -528|1131 -45"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -490,25 +430,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="159" duration="15" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.6" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="0.258819580078125" tx="-21.65" ty="5.2"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.6" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0.0039520263671875" b="0.014739990234375" c="-0.035369873046875" d="0.0094757080078125" tx="24.35" ty="-6.55"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -525,7 +459,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1131 -45|-28 266!-28 266[-506 96 -158 -217!-158 -217|1001 -528!1001 -528|1131 -45"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -535,25 +469,19 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
             <DOMFrame index="174" duration="26" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.55" y="-22.25"/>
+                    <Point/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1" d="0" tx="-22.25" ty="-0.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.55" y="-22.25"/>
+                        <Point/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-47.45"/>
+                              <Matrix a="0" b="0.0152587890625" c="-0.03662109375" d="0" tx="25.2"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -570,7 +498,7 @@ if (Math.abs((_root.currentCamX)-(_x+_parent._x))<1500 && Math.abs((_root.curren
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1104 -250|1104 250!1104 250|-96 250!-96 250[-513 -38 -96 -250!-96 -250|1104 -250"/>
                       </edges>
                     </DOMShape>
                   </members>

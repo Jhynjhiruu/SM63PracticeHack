@@ -17,61 +17,43 @@
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.63236999511719" tx="434.35" ty="182.2"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.63236999511719" tx="434.35" ty="182.2"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#00FF00"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!10493 7316S2|-21136 7316!-21136 7316|-21136 6196!-21136 6196|10493 6196!10493 6196|10493 7316"/>
+                        <Edge fillStyle1="1" edges="!25815 10960|-25815 10960!-25815 10960|-25815 9840!-25815 9840|25815 9840!25815 9840|25815 10960"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1.63236999511719" c="-1" d="0" tx="-662.2" ty="-285.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1.63236999511719" c="-1" d="0" tx="-662.2" ty="-285.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#00FF00"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!10493 7316S2|-21136 7316!-21136 7316|-21136 6196!-21136 6196|10493 6196!10493 6196|10493 7316"/>
+                        <Edge fillStyle1="1" edges="!-19440 -40215|-19440 11415!-19440 11415|-20560 11415!-20560 11415|-20560 -40215!-20560 -40215|-19440 -40215"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1.63236999511719" c="-1" d="0" tx="1337.8" ty="-285.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1.63236999511719" c="-1" d="0" tx="1337.8" ty="-285.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#00FF00"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!10493 7316S2|-21136 7316!-21136 7316|-21136 6196!-21136 6196|10493 6196!10493 6196|10493 7316"/>
+                        <Edge fillStyle1="1" edges="!20560 -40215|20560 11415!20560 11415|19440 11415!19440 11415|19440 -40215!19440 -40215|20560 -40215"/>
                       </edges>
                     </DOMShape>
                   </members>

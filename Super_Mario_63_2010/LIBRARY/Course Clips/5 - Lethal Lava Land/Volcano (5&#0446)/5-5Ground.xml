@@ -18,14 +18,8 @@
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#009900"/>
@@ -33,25 +27,19 @@
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-1423 2858S1|-8402 2858!-8402 2858|-8402 3318!-8402 3318|-1423 3318!-1423 3318|-1423 2858"/>
+!-1423 2958|-8402 2958!-8402 2958|-8402 3418!-8402 3418|-1423 3418!-1423 3418|-1423 2958"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.61326599121094" tx="945.8" ty="239.5"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-245.65" y="154.4"/>
+                    <Point x="549.5" y="393.9"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.61326599121094" tx="945.8" ty="239.5"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-245.65" y="154.4"/>
+                        <Point x="549.5" y="393.9"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -60,25 +48,19 @@
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-1423 2858S1|-8402 2858!-8402 2858|-8402 3318!-8402 3318|-1423 3318!-1423 3318|-1423 2858"/>
+!16620 7648|5361 7648!5361 7648|5361 8108!5361 8108|16620 8108!16620 8108|16620 7648"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.2867431640625" tx="1473.55" ty="18.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-245.65" y="154.4"/>
+                    <Point x="1157.45" y="172.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.2867431640625" tx="1473.55" ty="18.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-245.65" y="154.4"/>
+                        <Point x="1157.45" y="172.95"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -87,7 +69,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-1423 2858S1|-8402 2858!-8402 2858|-8402 3318!-8402 3318|-1423 3318!-1423 3318|-1423 2858"/>
+!27640 3229|18660 3229!18660 3229|18660 3689!18660 3689|27640 3689!27640 3689|27640 3229"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -102,7 +84,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!3717 1119S2|3137 1119!3137 1119|3137 159!3137 159|3717 159!3717 159|3717 1119"/>
+!3717 1119|3137 1119!3137 1119|3137 159!3137 159|3717 159!3717 159|3717 1119"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -181,7 +163,7 @@
  -2281!2379 -2281|2379 -4362!2379 -4362|1782 -4362!1782 -4362|1782 -7320!1782 -7320|-10558 -7240!-10558 -7240|-10558 -16356!-10558 -16356|-9687 -16356"/>
                   </edges>
                 </DOMShape>
-                <DOMShape selected="true" isFloating="true">
+                <DOMShape isFloating="true">
                   <fills>
                     <FillStyle index="1">
                       <SolidColor color="#00FF00"/>

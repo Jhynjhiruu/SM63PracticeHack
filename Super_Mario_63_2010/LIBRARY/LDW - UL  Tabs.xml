@@ -127,7 +127,7 @@ if (_root.MaxStarCoins>=array[num]) {
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="!143 -319|-331.5 -319!-331.5 -319|-331.5 -199!-331.5 -199|1 -199!1 -199|143 -319"/>
-                        <Edge fillStyle1="1" edges="!642 27|642 321!642 321|348 321!348 321|348 27!348 27|642 27"/>
+                        <Edge fillStyle1="1" edges="!642 321|348 321!348 321|348 27!348 27|642 27!642 27|642 321"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -166,49 +166,37 @@ if (_root.MaxStarCoins>=array[num]) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="0.15"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="0.15"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="5" d="5" tx="-32" ty="-17.15"/>
+                              <Matrix a="5" d="5" tx="-32" ty="-17"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-640 -329|-285 -329!-285 -329|-285 -162!-285 -162|-640 -162!-640 -162|-640 -329"/>
+                        <Edge fillStyle1="1" edges="!-285 -326|-285 -159!-285 -159|-640 -159!-640 -159|-640 -326!-640 -326|-285 -326"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="0.15"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="0.15"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-5" d="-5" tx="55.85" ty="8.2"/>
+                              <Matrix a="-5" d="-5" tx="56" ty="8.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!357 -20|357 164!357 164|484 164!484 164|484 -20!484 -20|357 -20"/>
+                        <Edge fillStyle0="1" edges="!360 -20|360 164!360 164|487 164!487 164|487 -20!487 -20|360 -20"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -236,7 +224,7 @@ if (_root.MaxStarCoins>=array[num]) {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!77 -317|632 -317!632 -317|632 -256!632 -256|77 -256!77 -256|77 -317"/>
+                        <Edge fillStyle1="1" edges="!632 -317|632 -256!632 -256|77 -256!77 -256|77 -317!77 -317|632 -317"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -250,30 +238,30 @@ if (_root.MaxStarCoins>=array[num]) {
                     <DOMShape>
                       <fills>
                         <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/YI Ice Cube" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="10" d="10" tx="16.25" ty="-16"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                        <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Wood Tile" bitmapIsClipped="false">
                             <matrix>
                               <Matrix a="10" d="10"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
-                        <FillStyle index="2">
+                        <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Chunk" bitmapIsClipped="false">
                             <matrix>
                               <Matrix a="10" d="10" tx="-16"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
-                        <FillStyle index="3">
+                        <FillStyle index="4">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Ice Wall (ripped)" bitmapIsClipped="false">
                             <matrix>
                               <Matrix a="10" d="10" tx="-32"/>
-                            </matrix>
-                          </BitmapFill>
-                        </FillStyle>
-                        <FillStyle index="4">
-                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/YI Ice Cube" bitmapIsClipped="false">
-                            <matrix>
-                              <Matrix a="10" d="10" tx="16.25" ty="-16"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -288,15 +276,15 @@ if (_root.MaxStarCoins>=array[num]) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="4" edges="!325 0|325 -320!325 -320|645 -320!645 -320|645 0!645 0|640 0"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!640 0|640 320!640 320|0 320"/>
-                        <Edge fillStyle1="2" strokeStyle="1" edges="!0 320|-320 320"/>
-                        <Edge fillStyle1="3" strokeStyle="1" edges="!-320 320|-640 320!-640 320|-640 175!-640 175|-320 175"/>
-                        <Edge fillStyle1="2" strokeStyle="1" edges="!-320 175|-320 0!-320 0|0 0"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!0 0|325 0"/>
-                        <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="!325 0|640 0"/>
-                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!0 0|0 320"/>
-                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!-320 320|-320 175"/>
+                        <Edge fillStyle1="1" edges="!325 0|325 -320!325 -320|645 -320!645 -320|645 0!645 0|640 0"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!640 0|640 320!640 320|0 320"/>
+                        <Edge fillStyle1="3" strokeStyle="1" edges="!0 320|-320 320"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!-320 320|-640 320!-640 320|-640 175!-640 175|-320 175"/>
+                        <Edge fillStyle1="3" strokeStyle="1" edges="!-320 175|-320 0!-320 0|0 0"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!0 0|325 0"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!325 0|640 0"/>
+                        <Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="!0 0|0 320"/>
+                        <Edge fillStyle0="4" fillStyle1="3" strokeStyle="1" edges="!-320 320|-320 175"/>
                       </edges>
                     </DOMShape>
                     <DOMGroup>
@@ -312,7 +300,7 @@ if (_root.MaxStarCoins>=array[num]) {
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!-640 -50|-544 -175!-544 -175|-51 -175!-51 -175|85 -320!85 -320|-640.5 -320.5!-640.5 -320.5|-640 -50"/>
+                            <Edge fillStyle0="1" edges="!-544 -175|-51 -175!-51 -175|85 -320!85 -320|-640.5 -320.5!-640.5 -320.5|-640 -50!-640 -50|-544 -175"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -323,49 +311,37 @@ if (_root.MaxStarCoins>=array[num]) {
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-0.25"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-0.25"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="7.07107543945313" b="7.07107543945313" c="-7.07107543945313" d="7.07107543945313" tx="10.6" ty="-30.05"/>
+                                  <Matrix a="7.07107543945313" b="7.07107543945313" c="-7.07107543945313" d="7.07107543945313" tx="10.35" ty="-30.05"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!156.5 -320|-15 -148.5!-15 -148.5|-78.5 -212.5!-78.5 -212.5|29 -320!29 -320|156.5 -320"/>
+                            <Edge fillStyle1="1" edges="!152 -320|-20 -148!-20 -148|-83 -212!-83 -212|24 -320!24 -320|152 -320"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-0.25"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-0.25"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Snow/YI Snow Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="7.07107543945313" b="7.07107543945313" c="-7.07107543945313" d="7.07107543945313" tx="-28.3" ty="-12.9"/>
+                                  <Matrix a="7.07107543945313" b="7.07107543945313" c="-7.07107543945313" d="7.07107543945313" tx="-28.55" ty="-12.9"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!-517 -208.5|-453.5 -145!-453.5 -145|-634 35.5!-634 35.5|-634 -91.5!-634 -91.5|-517 -208.5"/>
+                            <Edge fillStyle1="1" edges="!-458 -145|-639 36!-639 36|-639 -91!-639 -91|-522 -208!-522 -208|-458 -145"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -439,8 +415,8 @@ if (_root.MaxStarCoins>=array[num]) {
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!310 -129[334 -142 356 -153!356 -153[422 -187 471 -218!471 -218[478 -222 485 -223!485 -223[505 -225 525 -224!525 -224[564 -223 601 -232!601 -232[615 -235 630 -235!630 -235[#27B.86 #FFFF15.27 641 -235!641 -235|641 315!641 315|-59 315!-59
- 315|-59 143!-59 143[#A.3F #8A.B6 80 138!80 138[85 138 90 137!90 137[188 135 285 135!285 135[295 135 305 135!305 135[293 124 303 113!303 113[305 110 305 105!305 105[305 53 305 0!305 0[305 -62 307 -125!307 -125[308 -127 310 -129"/>
+!356 -153[422 -187 471 -218!471 -218[478 -222 485 -223!485 -223[505 -225 525 -224!525 -224[564 -223 601 -232!601 -232[615 -235 630 -235!630 -235[#27B.86 #FFFF15.27 641 -235!641 -235|641 315!641 315|-59 315!-59 315|-59 143!-59 143[#A.3F
+ #8A.B6 80 138!80 138[85 138 90 137!90 137[188 135 285 135!285 135[295 135 305 135!305 135[293 124 303 113!303 113[305 110 305 105!305 105[305 53 305 0!305 0[305 -62 307 -125!307 -125[308 -127 310 -129!310 -129[334 -142 356 -153"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -511,48 +487,46 @@ if (_root.MaxStarCoins>=array[num]) {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="3" strokeStyle="3" edges="
-!320 -318|640 -318"/>
-                    <Edge strokeStyle="4" edges="
-!640 -318|640 -320.5!640 -320.5|320 -320.5"/>
+                    <Edge fillStyle0="4" edges="
+!320 -318|320 -320.5"/>
                     <Edge fillStyle0="4" strokeStyle="4" edges="
 !320 -320.5|237 -320.5"/>
                     <Edge fillStyle0="4" edges="
 !237 -320.5[#94.28 #FFFEF0.C6 60 -230!60 -230|55 -210!55 -210[52 -208 50 -205!50 -205[0 -139 -20 -70!-20 -70|-175 -100!-175 -100[-175 -103 -175 -105!-175 -105[#FFFF5B.3F #FFFF27.8F -178 -320.5"/>
                     <Edge fillStyle0="4" strokeStyle="4" edges="
 !-178 -320.5|-314 -320.5"/>
-                    <Edge fillStyle0="4" edges="
-!-314 -320.5|-314 -318"/>
-                    <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="
-!-314 -318|-314 2!-314 2|-634 2"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="
-!-634 2|-634 -318!-634 -318|-314 -318"/>
-                    <Edge fillStyle0="4" edges="
-!320 -318|320 -320.5"/>
-                    <Edge fillStyle0="2" fillStyle1="4" strokeStyle="2" edges="
-!320 2|320 319.5"/>
-                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="4" edges="
-!320 319.5|640 319.5"/>
-                    <Edge fillStyle0="2" strokeStyle="4" edges="
-!640 319.5|640 2"/>
-                    <Edge fillStyle0="3" strokeStyle="4" edges="
-!640 2|640 -318"/>
-                    <Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="
-!640 2|320 2"/>
-                    <Edge fillStyle0="2" strokeStyle="2" edges="
-!320 319.5|320 322!320 322|640 322!640 322|640 319.5"/>
-                    <Edge fillStyle0="4" strokeStyle="4" edges="
-!10 319.5|320 319.5"/>
-                    <Edge fillStyle0="4" fillStyle1="3" strokeStyle="3" edges="
-!320 2|320 -318"/>
                     <Edge strokeStyle="4" edges="
 !-314 -320.5|-640 -320.5!-640 -320.5|-640 2"/>
-                    <Edge fillStyle1="4" edges="
-!-640 2|-634 2"/>
+                    <Edge fillStyle0="4" strokeStyle="4" edges="
+!-640 2|-640 168.5"/>
                     <Edge fillStyle0="4" edges="
 !-640 168.5[#FFFDD9.A3 #76.72 -429 127!-429 127[-196 146 -20 270!-20 270[-18 272 -16 276!-16 276[-2.7578125 #129.17 10 319.5"/>
                     <Edge fillStyle0="4" strokeStyle="4" edges="
-!-640 2|-640 168.5"/>
+!10 319.5|320 319.5"/>
+                    <Edge fillStyle0="2" strokeStyle="2" edges="
+!320 319.5|320 322!320 322|640 322!640 322|640 319.5"/>
+                    <Edge fillStyle0="2" strokeStyle="4" edges="
+!640 319.5|640 2"/>
+                    <Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="
+!640 2|320 2"/>
+                    <Edge fillStyle0="2" fillStyle1="4" strokeStyle="2" edges="
+!320 2|320 319.5"/>
+                    <Edge strokeStyle="4" edges="
+!640 -318|640 -320.5!640 -320.5|320 -320.5"/>
+                    <Edge fillStyle1="3" strokeStyle="3" edges="
+!320 -318|640 -318"/>
+                    <Edge fillStyle1="3" strokeStyle="4" edges="
+!640 -318|640 2"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="4" edges="
+!320 319.5|640 319.5"/>
+                    <Edge fillStyle0="4" fillStyle1="3" strokeStyle="3" edges="
+!320 2|320 -318"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-634 2|-634 -318!-634 -318|-314 -318"/>
+                    <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="
+!-314 -318|-314 2!-314 2|-634 2"/>
+                    <Edge fillStyle0="4" edges="
+!-634 2|-640 2!-314 -320.5|-314 -318"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -593,18 +567,18 @@ if (_root.MaxStarCoins>=array[num]) {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" edges="
-!320 0|0 0!0 0|0 -320!0 -320|320 -320"/>
-                    <Edge fillStyle1="3" strokeStyle="1" edges="
-!320 -320|640 -320!640 -320|640 -165"/>
-                    <Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="
-!640 -165|320 -165"/>
-                    <Edge fillStyle0="2" fillStyle1="1" edges="
-!320 -165|320 0"/>
-                    <Edge fillStyle0="2" edges="
-!320 0|320 320!320 320|640 320!640 320|640 -165"/>
                     <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="
 !320 -165|320 -320"/>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="
+!320 -320|640 -320!640 -320|640 -165"/>
+                    <Edge fillStyle1="2" edges="
+!640 -165|640 320!640 320|320 320!320 320|320 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!320 0|320 -165"/>
+                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="
+!320 -165|640 -165"/>
+                    <Edge fillStyle1="1" edges="
+!320 0|0 0!0 0|0 -320!0 -320|320 -320"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Basement Tile">
@@ -679,14 +653,14 @@ if (_root.MaxStarCoins>=array[num]) {
 !640 -320|640 0!640 0|320 0!320 0|320 -320!320 -320|640 -320"/>
                     <Edge fillStyle0="4" edges="
 !-320 320|0 320!0 320|0 0"/>
-                    <Edge fillStyle0="4" fillStyle1="3" edges="
-!0 0|-320 0"/>
-                    <Edge fillStyle0="2" edges="
-!-320 0|-640 0!-640 0|-640 320!-640 320|-320 320"/>
-                    <Edge fillStyle0="2" fillStyle1="4" edges="
-!-320 320|-320 0"/>
-                    <Edge fillStyle1="3" edges="
-!-320 0|-320 -320!-320 -320|0 -320!0 -320|0 0"/>
+                    <Edge fillStyle0="3" edges="
+!0 0|0 -320!0 -320|-320 -320!-320 -320|-320 0"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!-320 0|-320 320"/>
+                    <Edge fillStyle1="2" edges="
+!-320 320|-640 320!-640 320|-640 0!-640 0|-320 0"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!-320 0|0 0"/>
                     <Edge fillStyle1="1" edges="
 !-320.5 -0.5|-640.5 -0.5!-640.5 -0.5|-640.5 -320.5!-640.5 -320.5|-320.5 -320.5!-320.5 -320.5|-320.5 -0.5"/>
                   </edges>
@@ -738,7 +712,7 @@ if (_root.MaxStarCoins>=array[num]) {
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
-!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5!640 -320.5|640 319.5"/>
+!640 -320.5|640 319.5!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -769,7 +743,7 @@ if (_root.MaxStarCoins>=array[num]) {
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
-!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5!640 -320.5|640 319.5"/>
+!640 -320.5|640 319.5!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -831,7 +805,7 @@ if (_root.MaxStarCoins>=array[num]) {
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
-!640 319.5S6|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5!640 -320.5|640 319.5"/>
+!640 -320.5S6|640 319.5!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -862,7 +836,7 @@ if (_root.MaxStarCoins>=array[num]) {
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
-!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5!640 -320.5|640 319.5"/>
+!640 -320.5|640 319.5!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -881,7 +855,7 @@ if (_root.MaxStarCoins>=array[num]) {
                   </strokes>
                   <edges>
                     <Edge strokeStyle="1" edges="
-!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5!640 -320.5|640 319.5"/>
+!640 -320.5|640 319.5!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -912,7 +886,7 @@ if (_root.MaxStarCoins>=array[num]) {
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
-!640 -320.5|640 319.5!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5"/>
+!640 319.5|-640 319.5!-640 319.5|-640 -320.5!-640 -320.5|640 -320.5!640 -320.5|640 319.5"/>
                   </edges>
                 </DOMShape>
               </elements>

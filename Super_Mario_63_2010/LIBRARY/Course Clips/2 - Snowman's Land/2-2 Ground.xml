@@ -132,19 +132,13 @@
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="4.40243530273438" tx="162.95" ty="-151.35"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-273.55" y="-130.55"/>
+                    <Point x="-110.6" y="-726.1"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="4.40243530273438" tx="162.95" ty="-151.35"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-273.55" y="-130.55"/>
+                        <Point x="-110.6" y="-726.1"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -153,25 +147,19 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-5041 -6040S2|-5041 819!-5041 819|-5901 819!-5901 819|-5901 -6040!-5901 -6040|-5041 -6040"/>
+!-1782 -29618|-1782 579!-1782 579|-2642 579!-2642 579|-2642 -29618!-2642 -29618|-1782 -29618"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="-1" c="5.43235778808594" d="0" tx="1548.35" ty="-1732.95"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-273.5" y="-130.55"/>
+                    <Point x="839.15" y="-1459.45"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="-1" c="5.43235778808594" d="0" tx="1548.35" ty="-1732.95"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-273.5" y="-130.55"/>
+                        <Point x="839.15" y="-1459.45"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -180,7 +168,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-5041 -6040S2|-5041 819!-5041 819|-5901 819!-5901 819|-5901 -6040!-5901 -6040|-5041 -6040"/>
+!35416 -28758|-1844 -28758!-1844 -28758|-1844 -29618!-1844 -29618|35416 -29618!35416 -29618|35416 -28758"/>
                       </edges>
                     </DOMShape>
                   </members>

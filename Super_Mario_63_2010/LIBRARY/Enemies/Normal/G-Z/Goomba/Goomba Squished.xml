@@ -219,7 +219,7 @@ if (_parent._parent.battleArena == true) {
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
                   <matrix>
-                    <Matrix a="0.77777099609375" d="1.00001525878906" tx="-7" ty="-15"/>
+                    <Matrix a="0.77777099609375" tx="-7" ty="-15"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="9" y="9"/>
@@ -243,7 +243,7 @@ if (_parent._parent.battleArena == true) {
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
                   <matrix>
-                    <Matrix a="0.333343505859375" d="1.55494689941406" tx="-3" ty="-25"/>
+                    <Matrix a="0.333343505859375" d="1.554931640625" tx="-3" ty="-25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="9" y="9.05"/>

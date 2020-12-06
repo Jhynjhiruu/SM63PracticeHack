@@ -111,7 +111,7 @@ onMouseUp = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1598 160|-1602 160!-1602 160|-1602 -160!-1602 -160|1598 -160!1598 -160|1598 160"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1598 -160|1598 160!1598 160|-1602 160!-1602 160|-1602 -160!-1602 -160|1598 -160"/>
                   </edges>
                 </DOMShape>
               </elements>

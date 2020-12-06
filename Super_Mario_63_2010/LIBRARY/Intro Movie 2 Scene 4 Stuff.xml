@@ -758,7 +758,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="122" duration="20" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.3125" d="0.312515258789063" tx="-283.8" ty="148.1"/>
                   </matrix>
@@ -785,7 +785,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="152" duration="24" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.3125" d="0.312515258789063" tx="-283.8" ty="148.1"/>
                   </matrix>
@@ -857,7 +857,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="332" duration="45" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.9375" d="0.937545776367188" tx="-89.8" ty="-17.9"/>
                   </matrix>

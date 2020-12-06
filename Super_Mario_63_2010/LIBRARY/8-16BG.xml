@@ -266,19 +266,13 @@
                   </filters>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-50"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-50"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-23.95" ty="238.6"/>
+                              <Matrix a="10" d="10" tx="-23.95" ty="188.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -293,8 +287,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!904 9700|903.5 3979!903.5 3979|-1139 3979!-1139 3979|-1139 9700"/>
-                        <Edge fillStyle0="1" edges="!-1139 9700|904 9700"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!904 8700|904 2979!904 2979|-1139 2979!-1139 2979|-1139 8700"/>
+                        <Edge fillStyle0="1" edges="!-1139 8700|904 8700"/>
                       </edges>
                     </DOMShape>
                   </members>

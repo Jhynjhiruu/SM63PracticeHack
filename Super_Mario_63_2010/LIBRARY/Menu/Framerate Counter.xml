@@ -6,7 +6,9 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <Actionscript>
-                <script><![CDATA[if ((_root._quality == "BEST" || _root._quality == "HIGH") && _root.AutoQuality == true) {
+                <script><![CDATA[// Triggers event that happens whenever a loading zone is entered
+_root.event.onLoadingZone();
+if ((_root._quality == "BEST" || _root._quality == "HIGH") && _root.AutoQuality == true) {
 	_root.Qualitynum--;
 }
 //   
@@ -19,6 +21,8 @@ count = 0;
 frtxt = "fps: unknown";
 stop();
 onEnterFrame = function () {
+    // Triggers events that happen on each frame
+    _root.event.onEachFrame();
 	if (_root.PauseGame == false) {
 		if (count++>=4) {
 			if (_root._quality == "LOW") {

@@ -288,7 +288,7 @@ if(Votes2 == "0"){
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!4331 -1147|4331 1593!4331 1593|-789 1593!-789 1593|-789 -1147!-789 -1147|4331 -1147"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!4331 1593|-789 1593!-789 1593|-789 -1147!-789 -1147|4331 -1147!4331 -1147|4331 1593"/>
                       </edges>
                     </DOMShape>
                   </members>

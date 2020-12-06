@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!471 -661S2|471 109!471 109|-299 109!-299 109|-299 -661!-299 -661|471 -661"/>
+                    <Edge fillStyle1="1" edges="!471 109S2|-299 109!-299 109|-299 -661!-299 -661|471 -661!471 -661|471 109"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -687,7 +687,7 @@
 ]]></script>
                   </Actionscript>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-05 Blast to the Stratosphere/9-05 Sideways Wind" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-05 Blast to the Stratosphere/9-05 Sideways Wind">
                   <matrix>
                     <Matrix a="-1" tx="200.3" ty="-746.5"/>
                   </matrix>

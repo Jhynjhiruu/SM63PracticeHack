@@ -269,7 +269,7 @@ if (_root.Fluddpow == "T") {
         </DOMLayer>
         <DOMLayer name="Layer 2" color="#9933CC" locked="true">
           <frames>
-            <DOMFrame index="0" duration="27" keyMode="9728" acceleration="-40">
+            <DOMFrame index="0" duration="27" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Mario CLIPS/Mario wait Waterblast 2" name="water">
                   <transformationPoint>
@@ -278,7 +278,7 @@ if (_root.Fluddpow == "T") {
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="27" duration="27" keyMode="9728" acceleration="-40">
+            <DOMFrame index="27" duration="27" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Rocket Waterblast 2" name="water">
                   <transformationPoint>
@@ -287,7 +287,7 @@ if (_root.Fluddpow == "T") {
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="54" duration="27" keyMode="9728" acceleration="-40">
+            <DOMFrame index="54" duration="27" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Mario CLIPS/Mario wait water blast 3" name="water">
                   <transformationPoint>

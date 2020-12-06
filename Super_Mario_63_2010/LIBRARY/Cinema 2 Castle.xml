@@ -1015,7 +1015,7 @@ _root.bgsong.onSoundComplete = null;
           <frames>
             <DOMFrame index="0" duration="79" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625030517578125" d="0.624923706054688" tx="-1247.45" ty="164.65"/>
                   </matrix>
@@ -1027,7 +1027,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="79" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625030517578125" d="0.624923706054688" tx="-1127.45" ty="164.65"/>
                   </matrix>
@@ -1039,7 +1039,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="80" duration="19" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625030517578125" d="0.624923706054688" tx="-1127.45" ty="164.65"/>
                   </matrix>
@@ -1053,7 +1053,7 @@ _root.bgsong.onSoundComplete = null;
               <elements>
                 <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
-                    <Matrix a="1.07997131347656" d="1.07980346679688" tx="-388.85" ty="0.35"/>
+                    <Matrix a="1.0799560546875" d="1.07980346679688" tx="-388.85" ty="0.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1077,7 +1077,7 @@ _root.bgsong.onSoundComplete = null;
               <elements>
                 <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
-                    <Matrix a="1.30905151367188" d="1.30885314941406" tx="-1.95" ty="-83.15"/>
+                    <Matrix a="1.30905151367188" d="1.308837890625" tx="-1.95" ty="-83.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1099,7 +1099,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="280" duration="6" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.624984741210938" d="0.625030517578125" tx="-169.95" ty="117.4"/>
                   </matrix>
@@ -1135,7 +1135,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="300" duration="5" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.624984741210938" d="0.625030517578125" tx="-219.95" ty="117.4"/>
                   </matrix>
@@ -1171,7 +1171,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="368" duration="5" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.624984741210938" d="0.625030517578125" tx="-169.95" ty="117.4"/>
                   </matrix>
@@ -1233,7 +1233,7 @@ _root.bgsong.onSoundComplete = null;
               <elements>
                 <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
-                    <Matrix a="2.29200744628906" d="2.29217529296875" tx="-549.95" ty="-282.6"/>
+                    <Matrix a="2.2919921875" d="2.29217529296875" tx="-549.95" ty="-282.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1327,7 +1327,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="891" duration="52" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625" d="0.625015258789063" tx="-866.45" ty="-597.6"/>
                   </matrix>
@@ -1471,7 +1471,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="1324" duration="39" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625" d="0.625015258789063" tx="-108.4" ty="35.2"/>
                   </matrix>
@@ -1567,7 +1567,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="1685" duration="13" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.311553955078125" b="-0.0233001708984375" c="0.0233001708984375" d="0.311569213867188" tx="-277.85" ty="125.9"/>
                   </matrix>
@@ -1579,7 +1579,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="1698" duration="16" tweenType="motion" keyMode="17921" acceleration="-100">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.311553955078125" b="-0.0233001708984375" c="0.0233001708984375" d="0.311569213867188" tx="-277.85" ty="125.9"/>
                   </matrix>
@@ -1603,7 +1603,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="1733" duration="15" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625" d="0.625015258789063" tx="-157.85" ty="55.9"/>
                   </matrix>
@@ -1744,7 +1744,7 @@ _root.bgsong.onSoundComplete = null;
               <elements>
                 <DOMSymbolInstance libraryItemName="Cinema 2 Sleep Projectile">
                   <matrix>
-                    <Matrix a="1.08320617675781" d="1.08320617675781" tx="-318.75" ty="161.3"/>
+                    <Matrix a="1.08319091796875" d="1.08319091796875" tx="-318.75" ty="161.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1773,9 +1773,6 @@ _root.bgsong.onSoundComplete = null;
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -1822,7 +1819,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="527" duration="1380" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Cinema 2 Airship Front" selected="true">
+                <DOMSymbolInstance libraryItemName="Cinema 2 Airship Front">
                   <matrix>
                     <Matrix a="1.00030517578125" tx="-939.35" ty="-443.85"/>
                   </matrix>
@@ -1877,19 +1874,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1245" duration="18" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="2" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="745" ty="205"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="30.2" ty="20.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="30.2" ty="20.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -1900,20 +1888,14 @@ _root.bgsong.onSoundComplete = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+                            <Edge strokeStyle="1" edges="!499 395S4|609 213!609 213|722 395!722 395|499 395"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="30.2" ty="20.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="30.2" ty="20.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -1924,20 +1906,14 @@ _root.bgsong.onSoundComplete = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+                            <Edge strokeStyle="1" edges="!792 588S4|612 588!612 588|612 408!612 408|792 408!792 408|792 588"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="30.2" ty="20.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="30.2" ty="20.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -1948,8 +1924,7 @@ _root.bgsong.onSoundComplete = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+                            <Edge strokeStyle="1" edges="!597 498S4[596 535 570 561!570 561[544 588 507 588!507 588[469 588 443 561!443 561[416 535 417 498!417 498[416 460 443 434!443 434[469 407 507 408!507 408[544 407 570 434!570 434[596 460 597 498"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -1961,19 +1936,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1263" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="500" ty="360"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-214.8" ty="175.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-214.8" ty="175.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -1984,21 +1950,14 @@ _root.bgsong.onSoundComplete = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+                            <Edge strokeStyle="1" edges="!-4401 3495S4|-4291 3313!-4291 3313|-4178 3495!-4178 3495|-4401 3495"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-214.8" ty="175.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-214.8" ty="175.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2009,21 +1968,14 @@ _root.bgsong.onSoundComplete = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+                            <Edge strokeStyle="1" edges="!-4108 3688S4|-4288 3688!-4288 3688|-4288 3508!-4288 3508|-4108 3508!-4108 3508|-4108 3688"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-214.8" ty="175.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-214.8" ty="175.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2034,9 +1986,8 @@ _root.bgsong.onSoundComplete = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+                            <Edge strokeStyle="1" edges="!-4303 3598S4[-4304 3635 -4330 3661!-4330 3661[-4356 3688 -4393 3688!-4393 3688[-4431 3688 -4457 3661!-4457 3661[-4484 3635 -4483 3598!-4483 3598[-4484 3560 -4457 3534!-4457 3534[-4431 3507 -4393 3508!-4393 3508[-4356 3507 -4330 3534
+!-4330 3534[-4304 3560 -4303 3598"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2063,19 +2014,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1298" duration="19" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="3" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="617.3" ty="228.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-97.5" ty="43.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-97.5" ty="43.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2087,20 +2029,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-2055 864S4|-1945 682!-1945 682|-1832 864!-1832 864|-2055 864"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-97.5" ty="43.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-97.5" ty="43.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2112,20 +2048,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-1762 877S4|-1762 1057!-1762 1057|-1942 1057!-1942 1057|-1942 877!-1942 877|-1762 877"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-97.5" ty="43.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-97.5" ty="43.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2137,8 +2067,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-1957 967S4[-1958 1004 -1984 1030!-1984 1030[-2010 1057 -2047 1057!-2047 1057[-2085 1057 -2111 1030!-2111 1030[-2138 1004 -2137 967!-2137 967[-2138 929 -2111 903!-2111 903[-2085 876 -2047 877!-2047 877[-2010 876 -1984 903!-1984 903[-1958
+ 929 -1957 967"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2150,19 +2080,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1317" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="509.3" ty="360.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-205.5" ty="175.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-205.5" ty="175.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2174,20 +2095,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-4105 3322S4|-3992 3504!-3992 3504|-4215 3504!-4215 3504|-4105 3322"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-205.5" ty="175.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-205.5" ty="175.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2199,20 +2114,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-4102 3517S4|-3922 3517!-3922 3517|-3922 3697!-3922 3697|-4102 3697!-4102 3697|-4102 3517"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-205.5" ty="175.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-205.5" ty="175.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2224,8 +2133,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-4117 3607S4[-4118 3644 -4144 3670!-4144 3670[-4170 3697 -4207 3697!-4207 3697[-4245 3697 -4271 3670!-4271 3670[-4298 3644 -4297 3607!-4297 3607[-4298 3569 -4271 3543!-4271 3543[-4245 3516 -4207 3517!-4207 3517[-4170 3516 -4144 3543
+!-4144 3543[-4118 3569 -4117 3607"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2310,19 +2219,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1228" duration="18" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="2" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="745" ty="205"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="30.2" ty="20.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="30.2" ty="20.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2334,20 +2234,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!499 395S4|609 213!609 213|722 395!722 395|499 395"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="30.2" ty="20.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="30.2" ty="20.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2359,20 +2253,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!792 588S4|612 588!612 588|612 408!612 408|792 408!792 408|792 588"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="30.2" ty="20.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="30.2" ty="20.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2384,8 +2272,7 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!597 498S4[596 535 570 561!570 561[544 588 507 588!507 588[469 588 443 561!443 561[416 535 417 498!417 498[416 460 443 434!443 434[469 407 507 408!507 408[544 407 570 434!570 434[596 460 597 498"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2397,19 +2284,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1246" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="570" ty="360"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-144.8" ty="175.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-144.8" ty="175.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2421,20 +2299,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-3001 3495S4|-2891 3313!-2891 3313|-2778 3495!-2778 3495|-3001 3495"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-144.8" ty="175.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-144.8" ty="175.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2446,20 +2318,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-2708 3688S4|-2888 3688!-2888 3688|-2888 3508!-2888 3508|-2708 3508!-2708 3508|-2708 3688"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-144.8" ty="175.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-144.8" ty="175.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2471,8 +2337,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-2903 3598S4[-2904 3635 -2930 3661!-2930 3661[-2956 3688 -2993 3688!-2993 3688[-3031 3688 -3057 3661!-3057 3661[-3084 3635 -3083 3598!-3083 3598[-3084 3560 -3057 3534!-3057 3534[-3031 3507 -2993 3508!-2993 3508[-2956 3507 -2930 3534
+!-2930 3534[-2904 3560 -2903 3598"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2499,9 +2365,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1263" duration="30" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9208984375" b="0.386764526367188" c="-0.386764526367188" d="0.9208984375" tx="148.15" ty="-152.45"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -2525,9 +2388,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1293" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9208984375" b="0.386764526367188" c="-0.386764526367188" d="0.9208984375" tx="188.15" ty="141.55"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -2566,19 +2426,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1334" duration="19" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="3" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="469.3" ty="246.95"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="62"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="62"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2590,20 +2441,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-4905 1052S4|-4792 1234!-4792 1234|-5015 1234!-5015 1234|-4905 1052"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="62"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="62"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2615,20 +2460,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-4722 1427S4|-4902 1427!-4902 1427|-4902 1247!-4902 1247|-4722 1247!-4722 1247|-4722 1427"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="62"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="62"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2640,8 +2479,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-4917 1337S4[-4918 1374 -4944 1400!-4944 1400[-4970 1427 -5007 1427!-5007 1427[-5045 1427 -5071 1400!-5071 1400[-5098 1374 -5097 1337!-5097 1337[-5098 1299 -5071 1273!-5071 1273[-5045 1246 -5007 1247!-5007 1247[-4970 1246 -4944 1273
+!-4944 1273[-4918 1299 -4917 1337"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2653,19 +2492,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1353" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="644.3" ty="355.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-70.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-70.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2677,20 +2507,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-1515 3404S4|-1405 3222!-1405 3222|-1292 3404!-1292 3404|-1515 3404"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-70.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-70.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2702,20 +2526,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-1222 3597S4|-1402 3597!-1402 3597|-1402 3417!-1402 3417|-1222 3417!-1222 3417|-1222 3597"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-70.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-70.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2727,8 +2545,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-1417 3507S4[-1418 3544 -1444 3570!-1444 3570[-1470 3597 -1507 3597!-1507 3597[-1545 3597 -1571 3570!-1571 3570[-1598 3544 -1597 3507!-1597 3507[-1598 3469 -1571 3443!-1571 3443[-1545 3416 -1507 3417!-1507 3417[-1470 3416 -1444 3443
+!-1444 3443[-1418 3469 -1417 3507"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2755,19 +2573,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1544" duration="19" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="3" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="469.3" ty="256.95"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="72"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="72"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2779,20 +2588,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-4905 1252S4|-4792 1434!-4792 1434|-5015 1434!-5015 1434|-4905 1252"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="72"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="72"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2804,20 +2607,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-4722 1627S4|-4902 1627!-4902 1627|-4902 1447!-4902 1447|-4722 1447!-4722 1447|-4722 1627"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="72"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="72"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2829,8 +2626,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-4917 1537S4[-4918 1574 -4944 1600!-4944 1600[-4970 1627 -5007 1627!-5007 1627[-5045 1627 -5071 1600!-5071 1600[-5098 1574 -5097 1537!-5097 1537[-5098 1499 -5071 1473!-5071 1473[-5045 1446 -5007 1447!-5007 1447[-4970 1446 -4944 1473
+!-4944 1473[-4918 1499 -4917 1537"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2842,19 +2639,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1563" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="639.3" ty="355.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-75.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-75.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2866,20 +2654,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-1615 3404S4|-1505 3222!-1505 3222|-1392 3404!-1392 3404|-1615 3404"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-75.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-75.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2891,20 +2673,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-1322 3597S4|-1502 3597!-1502 3597|-1502 3417!-1502 3417|-1322 3417!-1322 3417|-1322 3597"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-75.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-75.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2916,8 +2692,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-1697 3507S4[-1698 3469 -1671 3443!-1671 3443[-1645 3416 -1607 3417!-1607 3417[-1570 3416 -1544 3443!-1544 3443[-1518 3469 -1517 3507!-1517 3507[-1518 3544 -1544 3570!-1544 3570[-1570 3597 -1607 3597!-1607 3597[-1645 3597 -1671 3570
+!-1671 3570[-1698 3544 -1697 3507"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2944,19 +2720,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1627" duration="14" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="3" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="599.8" ty="211.85"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-115" ty="26.9"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-115" ty="26.9"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2968,20 +2735,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-2405 532S4|-2295 350!-2295 350|-2182 532!-2182 532|-2405 532"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-115" ty="26.9"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-115" ty="26.9"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -2993,20 +2754,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-2112 725S4|-2292 725!-2292 725|-2292 545!-2292 545|-2112 545!-2112 545|-2112 725"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-115" ty="26.9"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-115" ty="26.9"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3018,8 +2773,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-2307 635S4[-2308 672 -2334 698!-2334 698[-2360 725 -2397 725!-2397 725[-2435 725 -2461 698!-2461 698[-2488 672 -2487 635!-2487 635[-2488 597 -2461 571!-2461 571[-2435 544 -2397 545!-2397 545[-2360 544 -2334 571!-2334 571[-2308 597 -2307
+ 635"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3031,19 +2786,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1641" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="404.3" ty="355.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-310.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-310.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3055,20 +2801,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-6315 3404S4|-6205 3222!-6205 3222|-6092 3404!-6092 3404|-6315 3404"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-310.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-310.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3080,20 +2820,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-6022 3597S4|-6202 3597!-6202 3597|-6202 3417!-6202 3417|-6022 3417!-6022 3417|-6022 3597"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-310.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-310.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3105,8 +2839,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-6217 3507S4[-6218 3544 -6244 3570!-6244 3570[-6270 3597 -6307 3597!-6307 3597[-6345 3597 -6371 3570!-6371 3570[-6398 3544 -6397 3507!-6397 3507[-6398 3469 -6371 3443!-6371 3443[-6345 3416 -6307 3417!-6307 3417[-6270 3416 -6244 3443
+!-6244 3443[-6218 3469 -6217 3507"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3191,19 +2925,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1123" duration="16" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="2" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-114.85" ty="123.8"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-829.65" ty="-61.15"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-829.65" ty="-61.15"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3215,20 +2940,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-16698 -1229S4|-16588 -1411!-16588 -1411|-16475 -1229!-16475 -1229|-16698 -1229"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-829.65" ty="-61.15"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-829.65" ty="-61.15"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3240,20 +2959,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-16405 -1036S4|-16585 -1036!-16585 -1036|-16585 -1216!-16585 -1216|-16405 -1216!-16405 -1216|-16405 -1036"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-829.65" ty="-61.15"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-829.65" ty="-61.15"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3265,8 +2978,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-16600 -1126S4[-16601 -1089 -16627 -1063!-16627 -1063[-16653 -1036 -16690 -1036!-16690 -1036[-16728 -1036 -16754 -1063!-16754 -1063[-16781 -1089 -16780 -1126!-16780 -1126[-16781 -1164 -16754 -1190!-16754 -1190[-16728 -1217 -16690 -1216
+!-16690 -1216[-16653 -1217 -16627 -1190!-16627 -1190[-16601 -1164 -16600 -1126"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3278,19 +2991,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1139" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="300" ty="200"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-414.8" ty="15.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-414.8" ty="15.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3302,20 +3006,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-8401 295S4|-8291 113!-8291 113|-8178 295!-8178 295|-8401 295"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-414.8" ty="15.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-414.8" ty="15.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3327,20 +3025,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-8108 488S4|-8288 488!-8288 488|-8288 308!-8288 308|-8108 308!-8108 308|-8108 488"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-414.8" ty="15.05"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-414.8" ty="15.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3352,8 +3044,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-8303 398S4[-8304 435 -8330 461!-8330 461[-8356 488 -8393 488!-8393 488[-8431 488 -8457 461!-8457 461[-8484 435 -8483 398!-8483 398[-8484 360 -8457 334!-8457 334[-8431 307 -8393 308!-8393 308[-8356 307 -8330 334!-8330 334[-8304 360 -8303
+ 398"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3476,19 +3168,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1211" duration="19" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="3" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="747.3" ty="203.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="32.5" ty="18.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="32.5" ty="18.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3500,20 +3183,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!545 364S4|655 182!655 182|768 364!768 364|545 364"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="32.5" ty="18.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="32.5" ty="18.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3525,20 +3202,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!838 557S4|658 557!658 557|658 377!658 377|838 377!838 377|838 557"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="32.5" ty="18.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="32.5" ty="18.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3550,8 +3221,7 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!643 467S4[642 504 616 530!616 530[590 557 553 557!553 557[515 557 489 530!489 530[462 504 463 467!463 467[462 429 489 403!489 403[515 376 553 377!553 377[590 376 616 403!616 403[642 429 643 467"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3563,19 +3233,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1230" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="514.3" ty="360.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-200.5" ty="175.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-200.5" ty="175.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3587,20 +3248,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-3892 3504S4|-4115 3504!-4115 3504|-4005 3322!-4005 3322|-3892 3504"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-200.5" ty="175.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-200.5" ty="175.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3612,20 +3267,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-3822 3697S4|-4002 3697!-4002 3697|-4002 3517!-4002 3517|-3822 3517!-3822 3517|-3822 3697"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-200.5" ty="175.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-200.5" ty="175.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3637,8 +3286,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-4171 3670S4[-4198 3644 -4197 3607!-4197 3607[-4198 3569 -4171 3543!-4171 3543[-4145 3516 -4107 3517!-4107 3517[-4070 3516 -4044 3543!-4044 3543[-4018 3569 -4017 3607!-4017 3607[-4018 3644 -4044 3670!-4044 3670[-4070 3697 -4107 3697
+!-4107 3697[-4145 3697 -4171 3670"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3665,9 +3314,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1265" duration="31" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-200"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -3691,9 +3337,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1296" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.848587036132813" b="-0.526275634765625" c="0.526275634765625" d="0.848587036132813" tx="-76.75" ty="19.1"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -3768,19 +3411,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1559" duration="14" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="3" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="469.3" ty="256.95"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="72"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="72"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3792,20 +3426,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-4905 1252S4|-4792 1434!-4792 1434|-5015 1434!-5015 1434|-4905 1252"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="72"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="72"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3817,20 +3445,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-4722 1627S4|-4902 1627!-4902 1627|-4902 1447!-4902 1447|-4722 1447!-4722 1447|-4722 1627"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-245.5" ty="72"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-245.5" ty="72"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3842,8 +3464,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-4917 1537S4[-4918 1574 -4944 1600!-4944 1600[-4970 1627 -5007 1627!-5007 1627[-5045 1627 -5071 1600!-5071 1600[-5098 1574 -5097 1537!-5097 1537[-5098 1499 -5071 1473!-5071 1473[-5045 1446 -5007 1447!-5007 1447[-4970 1446 -4944 1473
+!-4944 1473[-4918 1499 -4917 1537"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3855,19 +3477,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1573" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="489.3" ty="355.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-225.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-225.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3879,20 +3492,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-4615 3404S4|-4505 3222!-4505 3222|-4392 3404!-4392 3404|-4615 3404"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-225.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-225.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3904,20 +3511,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-4322 3597S4|-4502 3597!-4502 3597|-4502 3417!-4502 3417|-4322 3417!-4322 3417|-4322 3597"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-225.5" ty="170.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-225.5" ty="170.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3929,8 +3530,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-4517 3507S4[-4518 3544 -4544 3570!-4544 3570[-4570 3597 -4607 3597!-4607 3597[-4645 3597 -4671 3570!-4671 3570[-4698 3544 -4697 3507!-4697 3507[-4698 3469 -4671 3443!-4671 3443[-4645 3416 -4607 3417!-4607 3417[-4570 3416 -4544 3443
+!-4544 3443[-4518 3469 -4517 3507"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -3957,19 +3558,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1641" duration="11" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="3" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="599.8" ty="211.85"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-115" ty="26.9"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-115" ty="26.9"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -3981,20 +3573,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-2405 532S4|-2295 350!-2295 350|-2182 532!-2182 532|-2405 532"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-115" ty="26.9"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-115" ty="26.9"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -4006,20 +3592,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-2112 725S4|-2292 725!-2292 725|-2292 545!-2292 545|-2112 545!-2112 545|-2112 725"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-115" ty="26.9"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-115" ty="26.9"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -4031,8 +3611,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-2307 635S4[-2308 672 -2334 698!-2334 698[-2360 725 -2397 725!-2397 725[-2435 725 -2461 698!-2461 698[-2488 672 -2487 635!-2487 635[-2488 597 -2461 571!-2461 571[-2435 544 -2397 545!-2397 545[-2360 544 -2334 571!-2334 571[-2308 597 -2307
+ 635"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -4044,19 +3624,10 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1652" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="449.3" ty="300.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-265.5" ty="115.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-265.5" ty="115.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -4068,20 +3639,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-5415 2304S4|-5305 2122!-5305 2122|-5192 2304!-5192 2304|-5415 2304"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-265.5" ty="115.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-265.5" ty="115.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -4093,20 +3658,14 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-5122 2497S4|-5302 2497!-5302 2497|-5302 2317!-5302 2317|-5122 2317!-5122 2317|-5122 2497"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-265.5" ty="115.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-265.5" ty="115.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -4118,8 +3677,8 @@ _root.bgsong.onSoundComplete = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-5317 2407S4[-5318 2444 -5344 2470!-5344 2470[-5370 2497 -5407 2497!-5407 2497[-5445 2497 -5471 2470!-5471 2470[-5498 2444 -5497 2407!-5497 2407[-5498 2369 -5471 2343!-5471 2343[-5445 2316 -5407 2317!-5407 2317[-5370 2316 -5344 2343
+!-5344 2343[-5318 2369 -5317 2407"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -4137,9 +3696,6 @@ _root.bgsong.onSoundComplete = null;
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -4514,7 +4070,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1312" keyMode="9984">
+            <DOMFrame index="1312" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4526,7 +4082,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1313" keyMode="9984">
+            <DOMFrame index="1313" keyMode="9728">
               <elements>
                 <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4535,7 +4091,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1314" keyMode="9984">
+            <DOMFrame index="1314" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4544,7 +4100,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1315" duration="2" keyMode="9984">
+            <DOMFrame index="1315" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 2">
                   <matrix>
@@ -4553,7 +4109,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1317" duration="3" keyMode="9984">
+            <DOMFrame index="1317" duration="3" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 2">
                   <matrix>
@@ -4562,7 +4118,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1320" duration="3" keyMode="9984">
+            <DOMFrame index="1320" duration="3" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4571,7 +4127,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1323" duration="7" keyMode="9984">
+            <DOMFrame index="1323" duration="7" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4583,7 +4139,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1330" duration="4" keyMode="9984">
+            <DOMFrame index="1330" duration="4" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Talking - 1">
                   <matrix>
@@ -4592,7 +4148,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1334" duration="53" keyMode="9984">
+            <DOMFrame index="1334" duration="53" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Talking - 2">
                   <matrix>
@@ -4601,10 +4157,10 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1387" duration="139" keyMode="9984">
+            <DOMFrame index="1387" duration="139" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="1526" duration="15" keyMode="9984">
+            <DOMFrame index="1526" duration="15" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4616,7 +4172,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1541" duration="3" keyMode="9984">
+            <DOMFrame index="1541" duration="3" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Talking - 1">
                   <matrix>
@@ -4625,7 +4181,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1544" duration="12" keyMode="9984">
+            <DOMFrame index="1544" duration="12" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Talking - 2">
                   <matrix>
@@ -4634,7 +4190,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1556" duration="3" keyMode="9984">
+            <DOMFrame index="1556" duration="3" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4646,7 +4202,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1559" duration="3" keyMode="9984">
+            <DOMFrame index="1559" duration="3" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Talking - 1">
                   <matrix>
@@ -4655,7 +4211,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1562" duration="6" keyMode="9984">
+            <DOMFrame index="1562" duration="6" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Talking - 2">
                   <matrix>
@@ -4664,7 +4220,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1568" duration="9" keyMode="9984">
+            <DOMFrame index="1568" duration="9" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4685,7 +4241,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1583" keyMode="9984">
+            <DOMFrame index="1583" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4703,7 +4259,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1588" duration="2" keyMode="9984">
+            <DOMFrame index="1588" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 2">
                   <matrix>
@@ -4712,7 +4268,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1590" keyMode="9984">
+            <DOMFrame index="1590" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4721,7 +4277,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1591" keyMode="9984">
+            <DOMFrame index="1591" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4742,7 +4298,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1612" keyMode="9984">
+            <DOMFrame index="1612" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4754,7 +4310,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1613" duration="2" keyMode="9984">
+            <DOMFrame index="1613" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4763,7 +4319,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1615" duration="2" keyMode="9984">
+            <DOMFrame index="1615" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 2">
                   <matrix>
@@ -4772,7 +4328,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1617" duration="2" keyMode="9984">
+            <DOMFrame index="1617" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 2">
                   <matrix>
@@ -4781,7 +4337,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1619" duration="2" keyMode="9984">
+            <DOMFrame index="1619" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Kamek/Kamek Stopping - 1">
                   <matrix>
@@ -4790,7 +4346,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1621" duration="3" keyMode="9984">
+            <DOMFrame index="1621" duration="3" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4829,7 +4385,7 @@ _root.bgsong.onSoundComplete = null;
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1635" duration="3" keyMode="9984">
+            <DOMFrame index="1635" duration="3" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -4952,9 +4508,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1261" duration="34" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.732070922851563" b="-0.678817749023438" c="0.678817749023438" d="0.732070922851563" tx="-176.25" ty="-273.7"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -4978,9 +4531,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1295" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.732070922851563" b="-0.678817749023438" c="0.678817749023438" d="0.732070922851563" tx="-176.25" ty="20.3"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -5307,7 +4857,7 @@ _root.bgsong.onSoundComplete = null;
             </DOMFrame>
             <DOMFrame index="973" duration="18" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="Intro Movie 2 Castle Barior" selected="true">
+                <DOMSymbolInstance libraryItemName="Intro Movie 2 Castle Barior">
                   <matrix>
                     <Matrix tx="-383.85" ty="22.05"/>
                   </matrix>
@@ -5318,14 +4868,14 @@ _root.bgsong.onSoundComplete = null;
                     <BlurFilter blurX="81.3878021240234"/>
                   </filters>
                   <color>
-                    <Color alphaMultiplier="0.67578125"/>
+                    <Color alphaMultiplier="0.6796875"/>
                   </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="991" duration="188" keyMode="9728" acceleration="100">
+            <DOMFrame index="991" duration="188" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Intro Movie 2 Castle Barior" selected="true">
+                <DOMSymbolInstance libraryItemName="Intro Movie 2 Castle Barior">
                   <matrix>
                     <Matrix tx="-383.85" ty="22.05"/>
                   </matrix>
@@ -5540,9 +5090,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1265" duration="33" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.732070922851563" b="-0.678817749023438" c="0.678817749023438" d="0.732070922851563" tx="-26.25" ty="-273.7"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -5566,9 +5113,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1298" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.732070922851563" b="-0.678817749023438" c="0.678817749023438" d="0.732070922851563" tx="-66.25" ty="20.3"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -5981,9 +5525,6 @@ _root.bgsong.onSoundComplete = null;
             <DOMFrame index="1088" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="60" ty="200"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="Intro Movie 2 Goomba Parachute" symbolType="graphic" firstFrame="38" loop="loop">
                       <matrix>
@@ -6212,9 +5753,9 @@ _root.bgsong.onSoundComplete = null;
                   </fills>
                   <edges>
                     <Edge fillStyle1="1" edges="
-!-5651 2843S2|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-6151 2843
-|-6176 2589!-6176 2589|-6176 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151 2843!-5576 2876|-5576 2972!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-6651 2843|-6676 2589!-6676
- 2589|-6676 2471!-6676 2471|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6576 2876|-6576 2972!-6576 2972|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876"/>
+!-5651 2843S2|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-6151 2843|-6176 2589!-6176 2589|-6176 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589
+|-6097 2843!-6097 2843|-6151 2843!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-5576 2876|-5576 2972!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-6576 2876|-6576 2972!-6576
+ 2972|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876!-6651 2843|-6676 2589!-6676 2589|-6676 2471!-6676 2471|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843"/>
                   </edges>
                 </DOMShape>
                 <DOMShape isFloating="true">
@@ -6243,10 +5784,10 @@ _root.bgsong.onSoundComplete = null;
                   </fills>
                   <edges>
                     <Edge fillStyle1="1" edges="
-!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-5651 2843|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-6176 2589|-6176
- 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151 2843!-6151 2843|-6176 2589!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-5576 2876|-5576 2972!-3832 2389|-3857 2643!-3857 2643
-|-3911 2643!-3911 2643|-3936 2389!-3936 2389|-3936 2271!-3936 2271|-3832 2271!-3832 2271|-3832 2389!-3836 2772|-3932 2772!-3932 2772|-3932 2676!-3932 2676|-3836 2676!-3836 2676|-3836 2772!-6676 2589|-6676 2471!-6676 2471|-6572 2471!-6572
- 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6651 2843|-6676 2589!-6576 2876|-6576 2972!-6576 2972|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876"/>
+!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-5651 2843|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-6176 2589|-6176 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151
+ 2843!-6151 2843|-6176 2589!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-5576 2876|-5576 2972!-3936 2271|-3832 2271!-3832 2271
+|-3832 2389!-3832 2389|-3857 2643!-3857 2643|-3911 2643!-3911 2643|-3936 2389!-3936 2389|-3936 2271!-3836 2772|-3932 2772!-3932 2772|-3932 2676!-3932 2676|-3836 2676!-3836 2676|-3836 2772!-6576 2876|-6576 2972!-6576 2972|-6672 2972!-6672
+ 2972|-6672 2876!-6672 2876|-6576 2876!-6676 2589|-6676 2471!-6676 2471|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6651 2843|-6676 2589"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -6319,10 +5860,10 @@ _root.bgsong.onSoundComplete = null;
                   </fills>
                   <edges>
                     <Edge fillStyle1="1" edges="
-!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-5651 2843|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-6176 2589|-6176 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151
- 2843!-6151 2843|-6176 2589!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-5576 2876|-5576 2972!-3832 2389|-3857 2643!-3857 2643
-|-3911 2643!-3911 2643|-3936 2389!-3936 2389|-3936 2271!-3936 2271|-3832 2271!-3832 2271|-3832 2389!-3836 2772|-3932 2772!-3932 2772|-3932 2676!-3932 2676|-3836 2676!-3836 2676|-3836 2772!-6576 2876|-6576 2972!-6576 2972|-6672 2972!-6672
- 2972|-6672 2876!-6672 2876|-6576 2876!-6676 2589|-6676 2471!-6676 2471|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6651 2843|-6676 2589"/>
+!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-5651 2843|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-6176 2589|-6176
+ 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151 2843!-6151 2843|-6176 2589!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-5576 2876|-5576 2972!-3936 2271|-3832 2271!-3832 2271
+|-3832 2389!-3832 2389|-3857 2643!-3857 2643|-3911 2643!-3911 2643|-3936 2389!-3936 2389|-3936 2271!-3836 2772|-3932 2772!-3932 2772|-3932 2676!-3932 2676|-3836 2676!-3836 2676|-3836 2772!-6676 2589|-6676 2471!-6676 2471|-6572 2471!-6572
+ 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6651 2843|-6676 2589!-6576 2876|-6576 2972!-6576 2972|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -6337,9 +5878,9 @@ _root.bgsong.onSoundComplete = null;
                   </fills>
                   <edges>
                     <Edge fillStyle1="1" edges="
-!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-5651 2843|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-6176 2589|-6176
- 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151 2843!-6151 2843|-6176 2589!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-5576 2876|-5576 2972!-6676 2589|-6676 2471!-6676 2471
-|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6651 2843|-6676 2589!-6576 2876|-6576 2972!-6576 2972|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876"/>
+!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-5651 2843|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-6176 2589|-6176 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151
+ 2843!-6151 2843|-6176 2589!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-5576 2876|-5576 2972!-6576 2876|-6576 2972!-6576 2972
+|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876!-6676 2589|-6676 2471!-6676 2471|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6651 2843|-6676 2589"/>
                   </edges>
                 </DOMShape>
                 <DOMShape isFloating="true">
@@ -6350,9 +5891,9 @@ _root.bgsong.onSoundComplete = null;
                   </fills>
                   <edges>
                     <Edge fillStyle1="1" edges="
-!-5651 2843S2|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-6151 2843|-6176 2589!-6176 2589|-6176 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589
-|-6097 2843!-6097 2843|-6151 2843!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-5576 2876|-5576 2972!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-6576 2876|-6576 2972!-6576
- 2972|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876!-6651 2843|-6676 2589!-6676 2589|-6676 2471!-6676 2471|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843"/>
+!-5651 2843S2|-5676 2589!-5676 2589|-5676 2471!-5676 2471|-5572 2471!-5572 2471|-5572 2589!-5572 2589|-5597 2843!-5597 2843|-5651 2843!-6076 2876|-6076 2972!-6076 2972|-6172 2972!-6172 2972|-6172 2876!-6172 2876|-6076 2876!-6151 2843
+|-6176 2589!-6176 2589|-6176 2471!-6176 2471|-6072 2471!-6072 2471|-6072 2589!-6072 2589|-6097 2843!-6097 2843|-6151 2843!-5576 2876|-5576 2972!-5576 2972|-5672 2972!-5672 2972|-5672 2876!-5672 2876|-5576 2876!-6651 2843|-6676 2589!-6676
+ 2589|-6676 2471!-6676 2471|-6572 2471!-6572 2471|-6572 2589!-6572 2589|-6597 2843!-6597 2843|-6651 2843!-6576 2876|-6576 2972!-6576 2972|-6672 2972!-6672 2972|-6672 2876!-6672 2876|-6576 2876"/>
                   </edges>
                 </DOMShape>
                 <DOMShape isFloating="true">

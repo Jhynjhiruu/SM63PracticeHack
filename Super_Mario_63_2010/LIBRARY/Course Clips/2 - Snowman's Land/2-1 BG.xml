@@ -7,30 +7,21 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.02119445800781" d="1.171875"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix a="1.02119445800781" d="1.171875"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix a="1.02119445800781" d="1.171875"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Backgrounds/Cool Cool mountain Background" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="-259.5" ty="-128"/>
+                                  <Matrix a="20.423583984375" d="23.4375" tx="-265" ty="-150"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!5190 2560|-5190 2560!-5190 2560|-5190 -2560!-5190 -2560|5190 -2560!5190 -2560|5190 2560"/>
+                            <Edge fillStyle1="1" edges="!-5300 -3000|5300 -3000!5300 -3000|5300 3000!5300 3000|-5300 3000!-5300 3000|-5300 -3000"/>
                           </edges>
                         </DOMShape>
                       </members>

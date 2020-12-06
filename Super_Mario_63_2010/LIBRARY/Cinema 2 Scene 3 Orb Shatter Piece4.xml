@@ -21,19 +21,13 @@ onEnterFrame = function () {
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-10.5" ty="19.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-10.5" ty="19.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.04437255859375" d="0.04437255859375"/>
+                              <Matrix a="0.04437255859375" d="0.04437255859375" tx="-10.5" ty="19.65"/>
                             </matrix>
                             <GradientEntry color="#F8F2C2" alpha="0.0823529411764706" ratio="0"/>
                             <GradientEntry color="#FEF7BC" alpha="0.623529411764706" ratio="1"/>
@@ -50,24 +44,18 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-44.5 -705.5S1[#FFFFF2.BA #FFFD75.AA 11.5 -594.5!11.5 -594.5|321 -631.5"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!321 -631.5S5[#125.A2 #FFFD7A.0F 265 -657.5!265 -657.5[#8E.B9 #FFFD3D.7D 0 -706.5!0 -706.5[-22.53125 #FFFD3D.7F -44.5 -705.5"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!111 -238[84 -253 55 -264!55 -264[-67 -314 -210 -313!-210 -313[-233 -314 -254 -312"/>
+                        <Edge fillStyle0="1" edges="!-254 -312[-223 -257 -198 -201!-198 -201|111 -238"/>
                       </edges>
                     </DOMShape>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-10.5" ty="19.65"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-10.5" ty="19.65"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <RadialGradient>
                                 <matrix>
-                                  <Matrix a="0.04437255859375" d="0.04437255859375"/>
+                                  <Matrix a="0.04437255859375" d="0.04437255859375" tx="-10.5" ty="19.65"/>
                                 </matrix>
                                 <GradientEntry color="#F8F2C2" alpha="0.0823529411764706" ratio="0"/>
                                 <GradientEntry color="#FEF7BC" alpha="0.623529411764706" ratio="1"/>
@@ -84,10 +72,9 @@ onEnterFrame = function () {
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge fillStyle1="1" strokeStyle="1" edges="!321 -631.5S6[#179.AA #FFFDA5.83 429.5 -562!429.5 -562[#1BE.DA #FFFDDB.B9 463.5 -533.5"/>
-                            <Edge fillStyle1="1" edges="!463.5 -533.5S2[#189.6C #FFFE32.37 331 -390!331 -390[248 -294 205 -200!205 -200|190 -180!190 -180|195 -80!195 -80|150 -90!150 -90[120 -126 84 -159!84 -159[58 -183 35 -195!35 -195[28 -208 55 -210!55 -210[70 -213 79 -221!79 -221[80 -223
- 80 -225!80 -225[132 -244 171 -284!171 -284[197 -311 210 -340!210 -340|210 -430!210 -430[198 -439 189 -443!189 -443[177 -450 165 -455!165 -455[160 -455 155 -455!155 -455|145 -470!145 -470[#4A.D6 #FFFE1D.D7 19.5 -526!19.5 -526|40 -525
-!40 -525[#1B.04 -559.9375 11.5 -594.5!11.5 -594.5|321 -631.5"/>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!111 -238S6[168 -209 220 -169!220 -169[237 -155 254 -140"/>
+                            <Edge fillStyle1="1" edges="!254 -140S2[183 -69 121 3!121 3[38 99 -5 193!-5 193|-20 213!-20 213|-15 313!-15 313|-60 303!-60 303[-90 267 -126 234!-126 234[-152 210 -175 198!-175 198[-182 185 -155 183!-155 183[-140 180 -131 172!-131 172[-130 170 -130 168!-130 168
+[-78 149 -39 109!-39 109[-13 82 0 53!0 53|0 -37!0 -37[-12 -46 -21 -50!-21 -50[-33 -57 -45 -62!-45 -62[-50 -62 -55 -62!-55 -62|-65 -77!-65 -77[-135 -89 -190 -133!-190 -133|-170 -132!-170 -132[-183 -167 -198 -201!-198 -201|111 -238"/>
                           </edges>
                         </DOMShape>
                       </members>

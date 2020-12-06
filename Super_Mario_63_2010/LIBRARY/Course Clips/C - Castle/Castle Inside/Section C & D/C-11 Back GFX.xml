@@ -99,9 +99,6 @@ onEnterFrame = function () {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="350" ty="-9.5"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
                       <matrix>
@@ -116,35 +113,29 @@ onEnterFrame = function () {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.958587646484375" d="0.783126831054688" tx="147.35" ty="-193.1"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
                       <matrix>
-                        <Matrix a="1.43788146972656" d="1.17469787597656" tx="290.4" ty="-329"/>
+                        <Matrix a="1.4378662109375" d="1.1746826171875" tx="290.4" ty="-329"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
                       <matrix>
-                        <Matrix a="1.43788146972656" d="-1.1746826171875" tx="290.4" ty="-182.55"/>
+                        <Matrix a="1.4378662109375" d="-1.1746826171875" tx="290.4" ty="-182.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.958587646484375" d="0.783126831054688" tx="328.35" ty="-193.1"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
                       <matrix>
-                        <Matrix a="1.43788146972656" d="1.17469787597656" tx="471.4" ty="-329"/>
+                        <Matrix a="1.4378662109375" d="1.1746826171875" tx="471.4" ty="-329"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
                       <matrix>
-                        <Matrix a="1.43788146972656" d="-1.1746826171875" tx="471.4" ty="-182.55"/>
+                        <Matrix a="1.4378662109375" d="-1.1746826171875" tx="471.4" ty="-182.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                   </members>
@@ -525,26 +516,20 @@ onEnterFrame = function () {
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="200"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="200"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
-                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Tile" bitmapIsClipped="false">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Wall 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-149.95" ty="-35.65"/>
+                              <Matrix a="20" d="20" tx="51.05" ty="68"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
-                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Wall 2" bitmapIsClipped="false">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-148.95" ty="68"/>
+                              <Matrix a="20" d="20" tx="50.05" ty="-35.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -557,38 +542,25 @@ onEnterFrame = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-6323 80|-5343 -1640!-5343 -1640|-1743 -1640!-1743 -1640|-1743 80"/>
-                        <Edge fillStyle1="2" strokeStyle="2" edges="!-1743 80|6937 80!6937 80|6937 400!6937 400|-6323 400!-6323 400|-6323 80"/>
-                        <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="!-1743 80|-6323 80"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!-2323 80|-1343 -1640!-1343 -1640|2257 -1640!2257 -1640|2257 80"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!2257 80|10937 80!10937 80|10937 400!10937 400|-2323 400!-2323 400|-2323 80"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!2257 80|-2323 80"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="200"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="200"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor alpha="0.301960784313725"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-1743 -1640|-1743 80!-1743 80|-5342 80!-5342 80|-5342 -1640!-5342 -1640|-1743 -1640"/>
+                        <Edge fillStyle1="1" edges="!2257 80|-1342 80!-1342 80|-1342 -1640!-1342 -1640|2257 -1640!2257 -1640|2257 80"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -618,7 +590,7 @@ onEnterFrame = function () {
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!9998 -3640|9998 80!9998 80|2419 80!2419 80|2419 -3640!2419 -3640|6497 -3640!6497 -3640|6497 -6570!6497 -6570|9777 -6570!9777 -6570|9777 -3640!9777 -3640|9998 -3640"/>
+                            <Edge fillStyle1="1" edges="!9998 -3640S2|9998 80!9998 80|2419 80!2419 80|2419 -3640!2419 -3640|6497 -3640!6497 -3640|6497 -6570!6497 -6570|9777 -6570!9777 -6570|9777 -3640!9777 -3640|9998 -3640"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -637,8 +609,8 @@ onEnterFrame = function () {
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="!2419 80|2419 -640!2419 -640|2419 -1640!2419 -1640|2419 -2640!2419 -2640|2419 -3640!2419 -3640|3419 -3640!3419 -3640|4419 -3640!4419 -3640|5419 -3640!5419 -3640|6419 -3640!6419 -3640|7419 -3640!7419 -3640|7419 -4640!7419 -4640|6477 -4640
-!5419 -3640|5419 -2640!5419 -2640|6419 -2640!6419 -2640|6419 -3640!3419 -3640|3419 -2640!3419 -2640|4419 -2640!4419 -2640|4419 -3640!4419 -640|4419 -1640!4419 -1640|3419 -1640!3419 -1640|3419 -640!3419 -640|4419 -640!6419 -640|6419 -1640
-!6419 -1640|5419 -1640!5419 -1640|5419 -640!5419 -640|6419 -640!4419 -2640|5419 -2640!4419 -1640|4419 -2640!5419 -1640|4419 -1640!6419 -1640|6419 -2640!5419 80|5419 -640!5419 -640|4419 -640!4419 -640|4419 80!5419 -2640|5419 -1640!2419
+!5419 -3640|5419 -2640!5419 -2640|6419 -2640!6419 -2640|6419 -3640!3419 -3640|3419 -2640!3419 -2640|4419 -2640!4419 -2640|4419 -3640!4419 -1640|3419 -1640!3419 -1640|3419 -640!3419 -640|4419 -640!4419 -640|4419 -1640!6419 -1640|5419 -1640
+!5419 -1640|5419 -640!5419 -640|6419 -640!6419 -640|6419 -1640!4419 -2640|5419 -2640!4419 -1640|4419 -2640!5419 -1640|4419 -1640!6419 -1640|6419 -2640!5419 80|5419 -640!5419 -640|4419 -640!4419 -640|4419 80!5419 -2640|5419 -1640!2419
  -1640|3419 -1640!3419 -1640|3419 -2640!3419 -2640|2419 -2640!3419 80|3419 -640!3419 -640|2419 -640!8877 -6640|8419 -6640!8419 -6640|8419 -5640!8419 -5640|9617 -5640!6417 -5640|7419 -5640!7419 -5640|7419 -6640!7419 -6640|6877 -6640!7419
  -4640|8419 -4640!8419 -4640|8419 -5640!8419 -5640|7419 -5640!7419 -5640|7419 -4640!8419 -4640|9697 -4640!8419 -6640|7419 -6640!8419 -4640|8419 -3640!8419 -3640|9419 -3640!9419 -3640|9998 -3640!9998 -3640|9998 -2640!9998 -2640|9998 -1640
 !9998 -1640|9998 -640!9998 -640|9998 80!8419 -3640|8419 -2640!8419 -2640|9419 -2640!9419 -2640|9419 -3640!6419 -2640|7419 -2640!7419 -2640|7419 -3640!7419 -640|8419 -640!8419 -640|8419 -1640!8419 -1640|7419 -1640!7419 -1640|7419 -640

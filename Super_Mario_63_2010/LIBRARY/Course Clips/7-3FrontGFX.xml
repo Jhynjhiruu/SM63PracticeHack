@@ -53,14 +53,8 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-18"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-18"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DottedStroke scaleMode="normal" weight="4" dotSpace="10">
@@ -72,7 +66,7 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-3 1820S4|-3 -2120"/>
+!-3 1460|-3 -2480"/>
                       </edges>
                     </DOMShape>
                   </members>

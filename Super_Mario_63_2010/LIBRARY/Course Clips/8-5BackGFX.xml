@@ -49,7 +49,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" selected="true">
                   <matrix>
-                    <Matrix a="-1.66090393066406" d="-31.2581176757813" tx="-1139.45" ty="-121.7"/>
+                    <Matrix a="-1.660888671875" d="-31.2581176757813" tx="-1139.45" ty="-121.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -88,7 +88,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-2.83108520507813" d="-15.6290588378906" tx="-1603.4" ty="-724"/>
+                    <Matrix a="-2.83108520507813" d="-15.6290435791016" tx="-1603.4" ty="-724"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -127,7 +127,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-1.66090393066406" d="-31.2581176757813" tx="-79.45" ty="-121.7"/>
+                    <Matrix a="-1.660888671875" d="-31.2581176757813" tx="-79.45" ty="-121.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1096,31 +1096,25 @@ onClipEvent (enterFrame) {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-17081 479|-17740 479!-17740 479|-17740 659!-17740 659|-17081 659!-17081 659|-17081 479"/>
+                        <Edge fillStyle0="1" edges="!-17740 479|-17740 659!-17740 659|-17081 659!-17081 659|-17081 479!-17081 479|-17740 479"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="501.35" ty="-37"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="501.35" ty="-37"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-887" ty="23.95"/>
+                              <Matrix a="20" d="20" tx="-385.65" ty="-13.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-17081 479|-17740 479!-17740 479|-17740 659!-17740 659|-17081 659!-17081 659|-17081 479"/>
+                        <Edge fillStyle0="1" edges="!-7713 -81|-7054 -81!-7054 -81|-7054 -261!-7054 -261|-7713 -261!-7713 -261|-7713 -81"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1598,25 +1592,19 @@ onClipEvent (enterFrame) {
                   </filters>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-10" ty="2"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-10" ty="2"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-1639.4" ty="-686.55"/>
+                              <Matrix a="20" d="20" tx="-1649.4" ty="-684.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-30800 -13731|-32788 -13731!-32788 -13731|-32788 -13560!-32788 -13560|-30800 -13560!-30800 -13560|-30800 -13731"/>
+                        <Edge fillStyle0="1" edges="!-31000 -13691|-32988 -13691!-32988 -13691|-32988 -13520!-32988 -13520|-31000 -13520!-31000 -13520|-31000 -13691"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1730,7 +1718,7 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!1077 -1533|1077 -3640!1077 -3640|98 -4960!98 -4960|-1008 -3600!-1008 -3600|-1008 -1480!-1008 -1480|-1635 -880!-1635 -880|-1635 367!-1635 367|4655 367!4655 367|4655 -3400!4655 -3400|2817 -1533!2817 -1533|1077 -1533"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!1077 -3640|98 -4960!98 -4960|-1008 -3600!-1008 -3600|-1008 -1480!-1008 -1480|-1635 -880!-1635 -880|-1635 367!-1635 367|4655 367!4655 367|4655 -3400!4655 -3400|2817 -1533!2817 -1533|1077 -1533!1077 -1533|1077 -3640"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1761,9 +1749,6 @@ onClipEvent (enterFrame) {
                   </color>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="162.5" ty="131.05"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
                       <matrix>
@@ -1778,9 +1763,6 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="262.5" ty="131.05"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
                       <matrix>
@@ -1795,9 +1777,6 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="79.5" ty="26"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
                       <matrix>

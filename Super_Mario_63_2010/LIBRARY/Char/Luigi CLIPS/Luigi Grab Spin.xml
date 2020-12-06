@@ -98,9 +98,6 @@ _root.Mariosound.setVolume(_root.MarioVolume);
             <DOMFrame index="10" duration="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 1">
                       <matrix>
@@ -153,9 +150,6 @@ _root.Mariosound.setVolume(_root.MarioVolume);
             <DOMFrame index="30" duration="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="-0.9"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 1">
                       <matrix>
@@ -297,9 +291,6 @@ _root.Mariosound.setVolume(_root.MarioVolume);
             <DOMFrame index="0" duration="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="19" ty="3"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -331,9 +322,6 @@ _root.Mariosound.setVolume(_root.MarioVolume);
             <DOMFrame index="40" duration="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="-16.9" ty="3"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -362,9 +350,6 @@ _root.Mariosound.setVolume(_root.MarioVolume);
             <DOMFrame index="50" duration="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.632766723632813" tx="-13.4" ty="-2"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -402,9 +387,6 @@ _root.Mariosound.setVolume(_root.MarioVolume);
             <DOMFrame index="70" duration="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.632766723632813" tx="14.4" ty="-2"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>

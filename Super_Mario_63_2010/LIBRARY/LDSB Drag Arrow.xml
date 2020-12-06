@@ -61,7 +61,7 @@ onMouseUp = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!119.5 120|-120.5 120!-120.5 120|-120.5 -120!-120.5 -120|119.5 -120!119.5 -120|119.5 120"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!119.5 -120|119.5 120!119.5 120|-120.5 120!-120.5 120|-120.5 -120!-120.5 -120|119.5 -120"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="LDSB Drag Arrow Arrow" name="arr">

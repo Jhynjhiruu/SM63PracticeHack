@@ -451,7 +451,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="StageCam" selected="true">
                   <matrix>
-                    <Matrix a="1.12788391113281" d="1.127685546875" ty="-31.05"/>
+                    <Matrix a="1.12786865234375" d="1.127685546875" ty="-31.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -879,7 +879,7 @@ onEnterFrame = function () {
                 <CustomEase target="color">
                   <Point/>
                   <Point x="0.485317167459532"/>
-                  <Point x="0.566810535764259" y="-0.254118875403756"/>
+                  <Point x="0.566810535764259"/>
                   <Point x="0.669767441860465"/>
                   <Point x="0.743925730981895" y="0.1830379500312"/>
                   <Point x="0.858139534883721" y="0.534722222222222"/>
@@ -1008,7 +1008,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="Bowser Battle 3 Cinema Mario SlingStar" symbolType="graphic" firstFrame="4" loop="loop">
                   <matrix>
-                    <Matrix a="-0.517745971679688" b="1.93183898925781" c="-1.93183898925781" d="-0.517745971679688" tx="-464.95" ty="65.95"/>
+                    <Matrix a="-0.517745971679688" b="1.93182373046875" c="-1.93182373046875" d="-0.517745971679688" tx="-464.95" ty="65.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1018,7 +1018,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="384" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Bowser Battle 3 Cinema Mario SlingStar" selected="true" symbolType="graphic" firstFrame="15" loop="loop">
+                <DOMSymbolInstance libraryItemName="Bowser Battle 3 Cinema Mario SlingStar" symbolType="graphic" firstFrame="15" loop="loop">
                   <matrix>
                     <Matrix a="-4.24288940429688" b="4.24246215820313" c="-4.24246215820313" d="-4.24288940429688" tx="34" ty="303.55"/>
                   </matrix>
@@ -2166,7 +2166,7 @@ onEnterFrame = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!9535 -7718|9535 5557!9535 5557|-9658 5557!-9658 5557|-9658 -7718!-9658 -7718|9535 -7718"/>
+                    <Edge fillStyle1="1" edges="!9535 5557|-9658 5557!-9658 5557|-9658 -7718!-9658 -7718|9535 -7718!9535 -7718|9535 5557"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -2191,7 +2191,7 @@ onEnterFrame = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!9535 -7718|9535 5557!9535 5557|-9658 5557!-9658 5557|-9658 -7718!-9658 -7718|9535 -7718"/>
+                    <Edge fillStyle1="1" edges="!9535 5557|-9658 5557!-9658 5557|-9658 -7718!-9658 -7718|9535 -7718!9535 -7718|9535 5557"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -2205,7 +2205,7 @@ onEnterFrame = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!9535 -7718|9535 5557!9535 5557|-9658 5557!-9658 5557|-9658 -7718!-9658 -7718|9535 -7718"/>
+                    <Edge fillStyle1="1" edges="!9535 5557|-9658 5557!-9658 5557|-9658 -7718!-9658 -7718|9535 -7718!9535 -7718|9535 5557"/>
                   </edges>
                 </DOMShape>
               </elements>

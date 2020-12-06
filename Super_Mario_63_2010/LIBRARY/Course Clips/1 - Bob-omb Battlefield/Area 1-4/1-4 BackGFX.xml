@@ -66,7 +66,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp2">
                   <matrix>
-                    <Matrix a="0.684219360351563" d="10.6719055175781" tx="2075.35" ty="-95.3"/>
+                    <Matrix a="0.684219360351563" d="10.6718902587891" tx="2075.35" ty="-95.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -181,7 +181,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-4.57820129394531" d="-13.2388610839844" tx="1355.7" ty="-124.95"/>
+                    <Matrix a="-4.57818603515625" d="-13.2388610839844" tx="1355.7" ty="-124.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -286,7 +286,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="4.07844543457031" d="1.84384155273438" tx="163.95" ty="-9.85"/>
+                    <Matrix a="4.07843017578125" d="1.84384155273438" tx="163.95" ty="-9.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -315,7 +315,7 @@ onClipEvent (enterFrame) {
 ]]></script>
               </Actionscript>
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite Clip" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite Clip">
                   <matrix>
                     <Matrix tx="943.4" ty="-1406.45"/>
                   </matrix>

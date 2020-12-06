@@ -46,7 +46,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp1">
                   <matrix>
-                    <Matrix a="4.39358520507813" d="6.59669494628906" tx="474.35" ty="-448.6"/>
+                    <Matrix a="4.39358520507813" d="6.5966796875" tx="474.35" ty="-448.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1560,19 +1560,13 @@ onEnterFrame = function () {
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="14"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="14"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Wall 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-1172.5" ty="-25.8"/>
+                              <Matrix a="20" d="20" tx="-1158.5" ty="-25.8"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1587,27 +1581,21 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!-9818 -2780|-9818 468!-9818 468|-7320 8!-7320 8|-7320 -2780!-7320 -2780|-9818 -2780"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-9538 -2780|-9538 468!-9538 468|-7040 8!-7040 8|-7040 -2780!-7040 -2780|-9538 -2780"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="14"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="14"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor alpha="0.2"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-9818 -2780|-9818 8!-9818 8|-7320 8!-7320 8|-7320 -2780!-7320 -2780|-9818 -2780"/>
+                        <Edge fillStyle0="1" edges="!-9538 -2780|-9538 8!-9538 8|-7040 8!-7040 8|-7040 -2780!-7040 -2780|-9538 -2780"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1712,14 +1700,8 @@ onClipEvent (enterFrame) {
                 <DOMGroup>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-19.35" ty="-2.05"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-19.35" ty="-2.05"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <SolidColor color="#FFFFFF" alpha="0.101960784313725"/>
@@ -1735,67 +1717,67 @@ onClipEvent (enterFrame) {
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge fillStyle1="1" strokeStyle="1" edges="!77 -4697.5|1757 -4697!1757 -4697|1757 -4698!1757 -4698|5417 -4698!5417 -4698|5417 248!5417 248|-4802 248!-4802 248|-4802 -2065!-4802 -2065|-3641.5 -2065!-3641.5 -2065|-3641.5 -2965!-3641.5 -2965|-2471.5 -2965!-2471.5 -2965|-2471.5 -3865
-!-2471.5 -3865|-1324 -3865!-1324 -3865|-1324 -4697.5!-1324 -4697.5|-1121.5 -4697.5!-1121.5 -4697.5|-1121.5 -4698!-1121.5 -4698|77 -4698!77 -4698|77 -4697.5"/>
-                            <Edge cubics="!757 -4680(;757,-4680 757,-4679 757,-4679q757 -4680 757 -4679);"/>
-                            <Edge cubics="!757 -4914(;757,-4914 757,-4909 757,-4909q757 -4914 757 -4909);"/>
-                            <Edge cubics="!2121 -4679(;2121,-4679 2121,-4680 2121,-4680q2121 -4679 2121 -4680);"/>
-                            <Edge cubics="!2121 -4909(;2121,-4909 2121,-4914 2121,-4914q2121 -4909 2121 -4914);"/>
-                            <Edge cubics="!2323 -4679(;2323,-4679 2121,-4679 2121,-4679q2323 -4679 2121 -4679);"/>
-                            <Edge cubics="!2500 -4037(;2500,-4037 2500,-4909 2500,-4909q2500 -4037 2500 -4909);"/>
-                            <Edge cubics="!2500 -4909(;2500,-4909 2121,-4909 2121,-4909q2500 -4909 2121 -4909);"/>
-                            <Edge cubics="!2121 -4680(;2121,-4680 757,-4680 757,-4680q2121 -4680 757 -4680);"/>
-                            <Edge cubics="!2121 -4914(;2121,-4914 757,-4914 757,-4914q2121 -4914 757 -4914);"/>
-                            <Edge cubics="!4892 -3113(;4892,-3113 4892,-3126 4892,-3126q4892 -3113 4892 -3126);"/>
-                            <Edge cubics="!4906 -3113(;4906,-3113 4892,-3113 4892,-3113q4906 -3113 4892 -3113);"/>
-                            <Edge cubics="!4906 -2240(;4906,-2240 4906,-3113 4906,-3113q4906 -2240 4906 -3113);"/>
-                            <Edge cubics="!6107 -2240(;6107,-2240 4906,-2240 4906,-2240q6107 -2240 4906 -2240);"/>
-                            <Edge cubics="!4641 -2047(;4641,-2047 4641,-2947 4641,-2947q4641 -2047 4641 -2947);"/>
-                            <Edge cubics="!3471 -2947(;3471,-2947 3471,-3847 3471,-3847q3471 -2947 3471 -3847);"/>
-                            <Edge cubics="!4641 -2947(;4641,-2947 3471,-2947 3471,-2947q4641 -2947 3471 -2947);"/>
-                            <Edge cubics="!4892 -3126(;4892,-3126 3702,-3126 3702,-3126q4892 -3126 3702 -3126);"/>
-                            <Edge cubics="!5901 -1124(;5901,-1124 5901,-2047 5901,-2047q5901 -1124 5901 -2047);"/>
-                            <Edge cubics="!6107 -1337(;6107,-1337 6107,-2240 6107,-2240q6107 -1337 6107 -2240);"/>
-                            <Edge cubics="!5901 -2047(;5901,-2047 4641,-2047 4641,-2047q5901 -2047 4641 -2047);"/>
-                            <Edge cubics="!3702 -4037(;3702,-4037 2500,-4037 2500,-4037q3702 -4037 2500 -4037);"/>
-                            <Edge cubics="!3471 -3847(;3471,-3847 2323,-3847 2323,-3847q3471 -3847 2323 -3847);"/>
-                            <Edge cubics="!2323 -3847(;2323,-3847 2323,-4679 2323,-4679q2323 -3847 2323 -4679);"/>
-                            <Edge cubics="!3702 -3126(;3702,-3126 3702,-4037 3702,-4037q3702 -3126 3702 -4037);"/>
-                            <Edge cubics="!6990 -1124(;6990,-1124 6990,-1337 6990,-1337q6990 -1124 6990 -1337);"/>
-                            <Edge cubics="!6989 -13(;6989,-13 6990,-1124 6990,-1124q6989 -13 6990 -1124);"/>
-                            <Edge cubics="!6990 -1124(;6990,-1124 5901,-1124 5901,-1124q6990 -1124 5901 -1124);"/>
-                            <Edge cubics="!6990 -1337(;6990,-1337 6107,-1337 6107,-1337q6990 -1337 6107 -1337);"/>
-                            <Edge cubics="!-6990 -1124(;-6990,-1124 -6990,-1337 -6990,-1337q-6990 -1124 -6990 -1337);"/>
-                            <Edge cubics="!-6990 -1124(;-6990,-1124 -6990,-13 -6990,-13q-6990 -1124 -6990 -13);"/>
-                            <Edge cubics="!-2501 -4909(;-2501,-4909 -2501,-4037 -2501,-4037q-2501 -4909 -2501 -4037);"/>
-                            <Edge cubics="!-2324 -4679(;-2324,-4679 -2121,-4679 -2121,-4679q-2324 -4679 -2121 -4679);"/>
-                            <Edge cubics="!-2121 -4679(;-2121,-4679 -2121,-4680 -2121,-4680q-2121 -4679 -2121 -4680);"/>
-                            <Edge cubics="!-2121 -4914(;-2121,-4914 -2121,-4909 -2121,-4909q-2121 -4914 -2121 -4909);"/>
-                            <Edge cubics="!-2121 -4909(;-2121,-4909 -2501,-4909 -2501,-4909q-2121 -4909 -2501 -4909);"/>
-                            <Edge cubics="!-923 -4680(;-923,-4680 -923,-4679 -923,-4679q-923 -4680 -923 -4679);"/>
-                            <Edge cubics="!-923 -4914(;-923,-4914 -923,-4909 -923,-4909q-923 -4914 -923 -4909);"/>
-                            <Edge cubics="!-2121 -4680(;-2121,-4680 -923,-4680 -923,-4680q-2121 -4680 -923 -4680);"/>
-                            <Edge cubics="!-923 -4914(;-923,-4914 -2121,-4914 -2121,-4914q-923 -4914 -2121 -4914);"/>
-                            <Edge cubics="!-4641 -2047(;-4641,-2047 -4641,-2947 -4641,-2947q-4641 -2047 -4641 -2947);"/>
-                            <Edge cubics="!-3471 -2947(;-3471,-2947 -3471,-3847 -3471,-3847q-3471 -2947 -3471 -3847);"/>
-                            <Edge cubics="!-4641 -2947(;-4641,-2947 -3471,-2947 -3471,-2947q-4641 -2947 -3471 -2947);"/>
-                            <Edge cubics="!-4893 -3113(;-4893,-3113 -4906,-3113 -4906,-3113q-4893 -3113 -4906 -3113);"/>
-                            <Edge cubics="!-4893 -3126(;-4893,-3126 -4893,-3113 -4893,-3113q-4893 -3126 -4893 -3113);"/>
-                            <Edge cubics="!-4906 -3113(;-4906,-3113 -4906,-2240 -4906,-2240q-4906 -3113 -4906 -2240);"/>
-                            <Edge cubics="!-4906 -2240(;-4906,-2240 -6108,-2240 -6108,-2240q-4906 -2240 -6108 -2240);"/>
-                            <Edge cubics="!-5901 -2047(;-5901,-2047 -4641,-2047 -4641,-2047q-5901 -2047 -4641 -2047);"/>
-                            <Edge cubics="!-5901 -1124(;-5901,-1124 -5901,-2047 -5901,-2047q-5901 -1124 -5901 -2047);"/>
-                            <Edge cubics="!-6108 -2240(;-6108,-2240 -6108,-1337 -6108,-1337q-6108 -2240 -6108 -1337);"/>
-                            <Edge cubics="!-3702 -3126(;-3702,-3126 -4893,-3126 -4893,-3126q-3702 -3126 -4893 -3126);"/>
-                            <Edge cubics="!-2501 -4037(;-2501,-4037 -3702,-4037 -3702,-4037q-2501 -4037 -3702 -4037);"/>
-                            <Edge cubics="!-3471 -3847(;-3471,-3847 -2324,-3847 -2324,-3847q-3471 -3847 -2324 -3847);"/>
-                            <Edge cubics="!-2324 -3847(;-2324,-3847 -2324,-4679 -2324,-4679q-2324 -3847 -2324 -4679);"/>
-                            <Edge cubics="!-3702 -4037(;-3702,-4037 -3702,-3126 -3702,-3126q-3702 -4037 -3702 -3126);"/>
-                            <Edge cubics="!-6108 -1337(;-6108,-1337 -6990,-1337 -6990,-1337q-6108 -1337 -6990 -1337);"/>
-                            <Edge cubics="!-6990 -1124(;-6990,-1124 -5901,-1124 -5901,-1124q-6990 -1124 -5901 -1124);"/>
-                            <Edge cubics="!-923 -4679(;-923,-4679 757,-4679 757,-4679q-923 -4679 757 -4679);"/>
-                            <Edge cubics="!757 -4909(;757,-4909 -923,-4909 -923,-4909q757 -4909 -923 -4909);"/>
-                            <Edge cubics="!-6990 -13(;-6990,-13 6989,-13 6989,-13q-6990 -13 6989 -13);"/>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!1370 -4739|5030 -4739!5030 -4739|5030 207!5030 207|-5189 207!-5189 207|-5189 -2106!-5189 -2106|-4028 -2106!-4028 -2106|-4028 -3006!-4028 -3006|-2858 -3006!-2858 -3006|-2858 -3906!-2858 -3906|-1711 -3906!-1711 -3906|-1711 -4738!-1711
+ -4738|-1508 -4738!-1508 -4738|-1508 -4739!-1508 -4739|-310 -4739!-310 -4739|-310 -4738!-310 -4738|1370 -4738!1370 -4738|1370 -4739"/>
+                            <Edge cubics="!370 -4721(;370,-4721 370,-4720 370,-4720q370 -4721 370 -4720);"/>
+                            <Edge cubics="!370 -4955(;370,-4955 370,-4950 370,-4950q370 -4955 370 -4950);"/>
+                            <Edge cubics="!1734 -4720(;1734,-4720 1734,-4721 1734,-4721q1734 -4720 1734 -4721);"/>
+                            <Edge cubics="!1734 -4950(;1734,-4950 1734,-4955 1734,-4955q1734 -4950 1734 -4955);"/>
+                            <Edge cubics="!1936 -4720(;1936,-4720 1734,-4720 1734,-4720q1936 -4720 1734 -4720);"/>
+                            <Edge cubics="!2113 -4078(;2113,-4078 2113,-4950 2113,-4950q2113 -4078 2113 -4950);"/>
+                            <Edge cubics="!2113 -4950(;2113,-4950 1734,-4950 1734,-4950q2113 -4950 1734 -4950);"/>
+                            <Edge cubics="!1734 -4721(;1734,-4721 370,-4721 370,-4721q1734 -4721 370 -4721);"/>
+                            <Edge cubics="!1734 -4955(;1734,-4955 370,-4955 370,-4955q1734 -4955 370 -4955);"/>
+                            <Edge cubics="!4505 -3154(;4505,-3154 4505,-3167 4505,-3167q4505 -3154 4505 -3167);"/>
+                            <Edge cubics="!4519 -3154(;4519,-3154 4505,-3154 4505,-3154q4519 -3154 4505 -3154);"/>
+                            <Edge cubics="!4519 -2281(;4519,-2281 4519,-3154 4519,-3154q4519 -2281 4519 -3154);"/>
+                            <Edge cubics="!5720 -2281(;5720,-2281 4519,-2281 4519,-2281q5720 -2281 4519 -2281);"/>
+                            <Edge cubics="!4254 -2088(;4254,-2088 4254,-2988 4254,-2988q4254 -2088 4254 -2988);"/>
+                            <Edge cubics="!3084 -2988(;3084,-2988 3084,-3888 3084,-3888q3084 -2988 3084 -3888);"/>
+                            <Edge cubics="!4254 -2988(;4254,-2988 3084,-2988 3084,-2988q4254 -2988 3084 -2988);"/>
+                            <Edge cubics="!4505 -3167(;4505,-3167 3315,-3167 3315,-3167q4505 -3167 3315 -3167);"/>
+                            <Edge cubics="!5514 -1165(;5514,-1165 5514,-2088 5514,-2088q5514 -1165 5514 -2088);"/>
+                            <Edge cubics="!5720 -1378(;5720,-1378 5720,-2281 5720,-2281q5720 -1378 5720 -2281);"/>
+                            <Edge cubics="!5514 -2088(;5514,-2088 4254,-2088 4254,-2088q5514 -2088 4254 -2088);"/>
+                            <Edge cubics="!3315 -4078(;3315,-4078 2113,-4078 2113,-4078q3315 -4078 2113 -4078);"/>
+                            <Edge cubics="!3084 -3888(;3084,-3888 1936,-3888 1936,-3888q3084 -3888 1936 -3888);"/>
+                            <Edge cubics="!1936 -3888(;1936,-3888 1936,-4720 1936,-4720q1936 -3888 1936 -4720);"/>
+                            <Edge cubics="!3315 -3167(;3315,-3167 3315,-4078 3315,-4078q3315 -3167 3315 -4078);"/>
+                            <Edge cubics="!6603 -1165(;6603,-1165 6603,-1378 6603,-1378q6603 -1165 6603 -1378);"/>
+                            <Edge cubics="!6602 -54(;6602,-54 6603,-1165 6603,-1165q6602 -54 6603 -1165);"/>
+                            <Edge cubics="!6603 -1165(;6603,-1165 5514,-1165 5514,-1165q6603 -1165 5514 -1165);"/>
+                            <Edge cubics="!6603 -1378(;6603,-1378 5720,-1378 5720,-1378q6603 -1378 5720 -1378);"/>
+                            <Edge cubics="!-7377 -1165(;-7377,-1165 -7377,-1378 -7377,-1378q-7377 -1165 -7377 -1378);"/>
+                            <Edge cubics="!-7377 -1165(;-7377,-1165 -7377,-54 -7377,-54q-7377 -1165 -7377 -54);"/>
+                            <Edge cubics="!-2888 -4950(;-2888,-4950 -2888,-4078 -2888,-4078q-2888 -4950 -2888 -4078);"/>
+                            <Edge cubics="!-2711 -4720(;-2711,-4720 -2508,-4720 -2508,-4720q-2711 -4720 -2508 -4720);"/>
+                            <Edge cubics="!-2508 -4720(;-2508,-4720 -2508,-4721 -2508,-4721q-2508 -4720 -2508 -4721);"/>
+                            <Edge cubics="!-2508 -4955(;-2508,-4955 -2508,-4950 -2508,-4950q-2508 -4955 -2508 -4950);"/>
+                            <Edge cubics="!-2508 -4950(;-2508,-4950 -2888,-4950 -2888,-4950q-2508 -4950 -2888 -4950);"/>
+                            <Edge cubics="!-1310 -4721(;-1310,-4721 -1310,-4720 -1310,-4720q-1310 -4721 -1310 -4720);"/>
+                            <Edge cubics="!-1310 -4955(;-1310,-4955 -1310,-4950 -1310,-4950q-1310 -4955 -1310 -4950);"/>
+                            <Edge cubics="!-2508 -4721(;-2508,-4721 -1310,-4721 -1310,-4721q-2508 -4721 -1310 -4721);"/>
+                            <Edge cubics="!-1310 -4955(;-1310,-4955 -2508,-4955 -2508,-4955q-1310 -4955 -2508 -4955);"/>
+                            <Edge cubics="!-5028 -2088(;-5028,-2088 -5028,-2988 -5028,-2988q-5028 -2088 -5028 -2988);"/>
+                            <Edge cubics="!-3858 -2988(;-3858,-2988 -3858,-3888 -3858,-3888q-3858 -2988 -3858 -3888);"/>
+                            <Edge cubics="!-5028 -2988(;-5028,-2988 -3858,-2988 -3858,-2988q-5028 -2988 -3858 -2988);"/>
+                            <Edge cubics="!-5280 -3154(;-5280,-3154 -5293,-3154 -5293,-3154q-5280 -3154 -5293 -3154);"/>
+                            <Edge cubics="!-5280 -3167(;-5280,-3167 -5280,-3154 -5280,-3154q-5280 -3167 -5280 -3154);"/>
+                            <Edge cubics="!-5293 -3154(;-5293,-3154 -5293,-2281 -5293,-2281q-5293 -3154 -5293 -2281);"/>
+                            <Edge cubics="!-5293 -2281(;-5293,-2281 -6495,-2281 -6495,-2281q-5293 -2281 -6495 -2281);"/>
+                            <Edge cubics="!-6288 -2088(;-6288,-2088 -5028,-2088 -5028,-2088q-6288 -2088 -5028 -2088);"/>
+                            <Edge cubics="!-6288 -1165(;-6288,-1165 -6288,-2088 -6288,-2088q-6288 -1165 -6288 -2088);"/>
+                            <Edge cubics="!-6495 -2281(;-6495,-2281 -6495,-1378 -6495,-1378q-6495 -2281 -6495 -1378);"/>
+                            <Edge cubics="!-4089 -3167(;-4089,-3167 -5280,-3167 -5280,-3167q-4089 -3167 -5280 -3167);"/>
+                            <Edge cubics="!-2888 -4078(;-2888,-4078 -4089,-4078 -4089,-4078q-2888 -4078 -4089 -4078);"/>
+                            <Edge cubics="!-3858 -3888(;-3858,-3888 -2711,-3888 -2711,-3888q-3858 -3888 -2711 -3888);"/>
+                            <Edge cubics="!-2711 -3888(;-2711,-3888 -2711,-4720 -2711,-4720q-2711 -3888 -2711 -4720);"/>
+                            <Edge cubics="!-4089 -4078(;-4089,-4078 -4089,-3167 -4089,-3167q-4089 -4078 -4089 -3167);"/>
+                            <Edge cubics="!-6495 -1378(;-6495,-1378 -7377,-1378 -7377,-1378q-6495 -1378 -7377 -1378);"/>
+                            <Edge cubics="!-7377 -1165(;-7377,-1165 -6288,-1165 -6288,-1165q-7377 -1165 -6288 -1165);"/>
+                            <Edge cubics="!-1310 -4720(;-1310,-4720 370,-4720 370,-4720q-1310 -4720 370 -4720);"/>
+                            <Edge cubics="!370 -4950(;370,-4950 -1310,-4950 -1310,-4950q370 -4950 -1310 -4950);"/>
+                            <Edge cubics="!-7377 -54(;-7377,-54 6602,-54 6602,-54q-7377 -54 6602 -54);"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -1803,24 +1785,15 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="50"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="50"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="50"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Wood Block" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="72.35" ty="-83.65"/>
+                                  <Matrix a="20" d="20" tx="122.35" ty="-83.65"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
@@ -1836,35 +1809,29 @@ onClipEvent (enterFrame) {
                           </strokes>
                           <edges>
                             <Edge fillStyle1="1" strokeStyle="1" edges="
-!2886.5 -2410|2887 0!2887 0|1158 0!1158 0|1158 -2410!1158 -2410[#49D.58 #FFF53D.4D 1409 -3006!1409 -3006[#67E.F5 #FFF32B.1 2022 -3285!2022 -3285[#94D.23 #FFF32B.1 2634.5 -3006!2634.5 -3006[#B2E.EB #FFF53D.4B 2886.5 -2410"/>
+!3022 -3285[3381 -3285 3635 -3006!3635 -3006[3863 -2755 3887 -2410!3887 -2410|3887 0!3887 0|2158 0!2158 0|2158 -2410!2158 -2410[2181 -2755 2409 -3006!2409 -3006[2663 -3285 3022 -3285"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="50"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="50"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
-                              <SolidColor color="#7A5B30" alpha="0.501960784313725"/>
+                              <SolidColor color="#534424" alpha="0.501960784313725"/>
                             </FillStyle>
                             <FillStyle index="2">
-                              <SolidColor color="#43321B" alpha="0.501960784313725"/>
-                            </FillStyle>
-                            <FillStyle index="3">
-                              <SolidColor color="#B08646" alpha="0.501960784313725"/>
-                            </FillStyle>
-                            <FillStyle index="4">
                               <SolidColor color="#827264" alpha="0.701960784313725"/>
                             </FillStyle>
+                            <FillStyle index="3">
+                              <SolidColor color="#7A5B30" alpha="0.501960784313725"/>
+                            </FillStyle>
+                            <FillStyle index="4">
+                              <SolidColor color="#B08646" alpha="0.501960784313725"/>
+                            </FillStyle>
                             <FillStyle index="5">
-                              <SolidColor color="#534424" alpha="0.501960784313725"/>
+                              <SolidColor color="#43321B" alpha="0.501960784313725"/>
                             </FillStyle>
                           </fills>
                           <strokes>
@@ -1877,34 +1844,32 @@ onClipEvent (enterFrame) {
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge fillStyle1="5" strokeStyle="1" edges="
-!2886.5 -2410|2887 0!2887 0|1158 0!1158 0|1158 -2410!1158 -2410[#49D.58 #FFF53D.4D 1409 -3006!1409 -3006[#67E.F5 #FFF32B.1 2022 -3285!2022 -3285[#94D.23 #FFF32B.1 2634.5 -3006!2634.5 -3006[#B2E.EB #FFF53D.4B 2886.5 -2410"/>
-                            <Edge fillStyle0="5" fillStyle1="4" strokeStyle="1" edges="
-!1388 -1479.5|1388 -1679.5!1388 -1679.5|2648 -1679.5!2648 -1679.5|2648 -1479.5"/>
-                            <Edge fillStyle0="5" fillStyle1="1" strokeStyle="1" edges="
-!2648 -1479.5|2648 -1306"/>
-                            <Edge fillStyle0="5" fillStyle1="3" strokeStyle="1" edges="
-!2648 -1306|2648 -229.5!2648 -229.5|1588 -229.5"/>
-                            <Edge fillStyle0="5" fillStyle1="1" strokeStyle="1" edges="
-!1588 -229.5|1388 -229.5!1388 -229.5|1388 -403.5"/>
-                            <Edge fillStyle0="5" fillStyle1="2" strokeStyle="1" edges="
-!1388 -403.5|1388 -1479.5"/>
-                            <Edge fillStyle0="1" fillStyle1="2" edges="
-!1588 -403.5|1388 -403.5"/>
-                            <Edge fillStyle0="1" fillStyle1="3" edges="
-!1588 -229.5|1588 -403.5"/>
-                            <Edge fillStyle0="1" fillStyle1="2" edges="
-!2448 -1306|1588 -1306!1588 -1306|1588 -403.5"/>
-                            <Edge fillStyle0="1" fillStyle1="3" edges="
-!1588 -403.5|2448 -403.5!2448 -403.5|2448 -1306"/>
-                            <Edge fillStyle0="1" fillStyle1="2" edges="
-!2448 -1479.5|2448 -1306"/>
-                            <Edge fillStyle0="1" fillStyle1="3" edges="
-!2448 -1306|2648 -1306"/>
-                            <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="
-!2448 -1479.5|2648 -1479.5"/>
-                            <Edge fillStyle0="4" fillStyle1="2" strokeStyle="1" edges="
-!1388 -1479.5|2448 -1479.5"/>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="
+!3022 -3285[3381 -3285 3635 -3006!3635 -3006[3863 -2755 3887 -2410!3887 -2410|3887 0!3887 0|2158 0!2158 0|2158 -2410!2158 -2410[2181 -2755 2409 -3006!2409 -3006[2663 -3285 3022 -3285"/>
+                            <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
+!2388 -1479|2388 -1679!2388 -1679|3648 -1679!3648 -1679|3648 -1479"/>
+                            <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="
+!3648 -1479|3648 -1306"/>
+                            <Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="
+!3648 -1306|3648 -229!3648 -229|2588 -229"/>
+                            <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="
+!2588 -229|2388 -229!2388 -229|2388 -403"/>
+                            <Edge fillStyle0="1" fillStyle1="5" strokeStyle="1" edges="
+!2388 -403|2388 -1479"/>
+                            <Edge fillStyle0="3" fillStyle1="4" edges="
+!2588 -229|2588 -403"/>
+                            <Edge fillStyle0="3" fillStyle1="5" edges="
+!2588 -403|2388 -403!3448 -1306|2588 -1306!2588 -1306|2588 -403"/>
+                            <Edge fillStyle0="3" fillStyle1="4" edges="
+!2588 -403|3448 -403!3448 -403|3448 -1306"/>
+                            <Edge fillStyle0="3" fillStyle1="5" edges="
+!3448 -1479|3448 -1306"/>
+                            <Edge fillStyle0="3" fillStyle1="4" edges="
+!3448 -1306|3648 -1306"/>
+                            <Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="
+!3448 -1479|3648 -1479"/>
+                            <Edge fillStyle0="2" fillStyle1="5" strokeStyle="1" edges="
+!2388 -1479|3448 -1479"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2067,28 +2032,28 @@ onClipEvent (enterFrame) {
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="30" d="30" tx="369.25" ty="-384.45"/>
+                                  <Matrix a="-30" d="30" tx="372.25" ty="-384.45"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                             <FillStyle index="2">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="-30" d="30" tx="372.25" ty="-384.45"/>
+                                  <Matrix a="30" d="30" tx="-7.25" ty="-384.45"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                             <FillStyle index="3">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="30" d="30" tx="-7.25" ty="-384.45"/>
+                                  <Matrix a="30" d="30" tx="369.25" ty="-384.45"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                             <FillStyle index="4">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="-30" d="30" tx="-4.25" ty="-384.45"/>
+                                  <Matrix a="-30" d="30" tx="-379.25" ty="-384.45"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
@@ -2102,53 +2067,53 @@ onClipEvent (enterFrame) {
                             <FillStyle index="6">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="-30" d="30" tx="-379.25" ty="-384.45"/>
+                                  <Matrix a="30" d="30" tx="-763.25" ty="-383.6"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                             <FillStyle index="7">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="30" d="30" tx="-763.25" ty="-383.6"/>
+                                  <Matrix a="-30" d="30" tx="-4.25" ty="-384.45"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="2" edges="
-!3695 -67|4777 -9!4777 -9|7445 -9"/>
-                            <Edge fillStyle0="2" fillStyle1="1" edges="
-!7445 -9|7445 -7638"/>
-                            <Edge fillStyle0="2" edges="
-!7445 -7638|3695 -7638"/>
-                            <Edge fillStyle0="2" fillStyle1="3" edges="
-!3695 -7638|3695 -67"/>
                             <Edge fillStyle0="1" edges="
-!7445 -9|11225 -9!11225 -9|11225 -7638!11225 -7638|7445 -7638"/>
+!3695 -67S1|4777 -9!4777 -9|7445 -9"/>
+                            <Edge fillStyle0="1" fillStyle1="3" edges="
+!7445 -9S3|7445 -7638"/>
+                            <Edge fillStyle0="1" edges="
+!7445 -7638S1|3695 -7638"/>
+                            <Edge fillStyle0="1" fillStyle1="2" edges="
+!3695 -7638S3|3695 -67"/>
                             <Edge fillStyle0="3" edges="
-!-145 -9|1945 8!1945 8|3695 -67"/>
-                            <Edge fillStyle0="7" fillStyle1="6" edges="
-!-11425 -9|-11425 -7638"/>
-                            <Edge fillStyle0="7" edges="
-!-11425 -7638|-15205 -7638!-15205 -7638|-15205 8!-15205 8|-11425 8!-11425 8|-11425 -9"/>
+!7445 -9S1|11225 -9!11225 -9|11225 -7638!11225 -7638|7445 -7638"/>
+                            <Edge fillStyle0="2" edges="
+!-145 -9S1|1945 8!1945 8|3695 -67"/>
+                            <Edge fillStyle0="6" fillStyle1="4" edges="
+!-11425 -9S3|-11425 -7638"/>
                             <Edge fillStyle0="6" edges="
-!-7585 -7638|-11425 -7638"/>
-                            <Edge fillStyle0="6" fillStyle1="5" edges="
-!-7585 -9|-7585 -7638"/>
-                            <Edge fillStyle0="6" edges="
-!-11425 -9|-7585 -9"/>
+!-11425 -7638S1|-15205 -7638!-15205 -7638|-15205 8!-15205 8|-11425 8!-11425 8|-11425 -9"/>
                             <Edge fillStyle0="4" edges="
-!-3805 -9|-145 -9"/>
-                            <Edge fillStyle0="4" fillStyle1="3" edges="
-!-145 -9|-85.5 -7638"/>
-                            <Edge fillStyle0="4" edges="
-!-85.5 -7638|-3805 -7638"/>
+!-7585 -7638S1|-11425 -7638"/>
                             <Edge fillStyle0="4" fillStyle1="5" edges="
-!-3805 -7638|-3805 -9"/>
+!-7585 -9S3|-7585 -7638"/>
+                            <Edge fillStyle0="4" edges="
+!-11425 -9S1|-7585 -9"/>
+                            <Edge fillStyle0="7" edges="
+!-3805 -9S1|-145 -9"/>
+                            <Edge fillStyle0="7" fillStyle1="2" edges="
+!-145 -9S3|-85.5 -7638"/>
+                            <Edge fillStyle0="7" edges="
+!-85.5 -7638S1|-3805 -7638"/>
+                            <Edge fillStyle0="7" fillStyle1="5" edges="
+!-3805 -7638S3|-3805 -9"/>
                             <Edge fillStyle0="5" edges="
-!-7585 -9|-3805 -9!-3805 -7638|-7585 -7638"/>
-                            <Edge fillStyle0="3" edges="
-!3695 -7638|-85.5 -7638"/>
+!-7585 -9S1|-3805 -9!-3805 -7638|-7585 -7638"/>
+                            <Edge fillStyle0="2" edges="
+!3695 -7638S1|-85.5 -7638"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -2170,35 +2135,35 @@ onClipEvent (enterFrame) {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="35.9999084472656" d="35.9999084472656" tx="237.6" ty="-441.4"/>
+                              <Matrix a="35.9998931884766" d="35.9998931884766" tx="237.6" ty="-441.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-35.9999084472656" d="35.9999084472656" tx="235.8" ty="-441.4"/>
+                              <Matrix a="-35.9998931884766" d="35.9998931884766" tx="235.8" ty="-441.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-35.9999084472656" d="35.9999084472656" tx="241.2" ty="-441.4"/>
+                              <Matrix a="-35.9998931884766" d="35.9998931884766" tx="241.2" ty="-441.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="4">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="35.9999084472656" d="35.9999084472656" tx="-219.6" ty="-441.4"/>
+                              <Matrix a="35.9998931884766" d="35.9998931884766" tx="-219.6" ty="-441.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="5">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Night-time Sky Wall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-35.9999084472656" d="35.9999084472656" tx="-216" ty="-441.4"/>
+                              <Matrix a="-35.9998931884766" d="35.9998931884766" tx="-216" ty="-441.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -2240,9 +2205,9 @@ onClipEvent (enterFrame) {
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMGroup selected="true">
+                <DOMGroup>
                   <members>
-                    <DOMShape selected="true">
+                    <DOMShape>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor/>

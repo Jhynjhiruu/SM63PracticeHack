@@ -7,25 +7,19 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="8.15" ty="-550"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="8.15" ty="-550"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-16" ty="-16"/>
+                              <Matrix a="20" d="20" tx="-7.85" ty="-566"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-1923 10758|-1923 -320!-1923 -320|1597 -320!1597 -320|1597 10758!1597 10758|-1923 10758"/>
+                        <Edge fillStyle1="1" edges="!1760 -242|-1760 -242!-1760 -242|-1760 -11320!-1760 -11320|1760 -11320!1760 -11320|1760 -242"/>
                       </edges>
                     </DOMShape>
                   </members>

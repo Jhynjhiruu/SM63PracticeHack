@@ -70,7 +70,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 2 Clip (Small 1)">
                   <matrix>
-                    <Matrix a="1.38386535644531" d="1.484619140625" tx="3.4" ty="16.35"/>
+                    <Matrix a="1.38385009765625" d="1.484619140625" tx="3.4" ty="16.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -117,7 +117,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.20783996582031" b="-0.591583251953125" c="0.697296142578125" d="2.60232543945313" tx="-25.45" ty="-0.85"/>
+                    <Matrix a="2.20782470703125" b="-0.591583251953125" c="0.697296142578125" d="2.60232543945313" tx="-25.45" ty="-0.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -169,7 +169,7 @@ stop();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5500 -4000|5500 4000!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000"/>
+                    <Edge fillStyle1="1" edges="!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000!5500 -4000|5500 4000"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -192,7 +192,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.28572082519531" d="2.0625" tx="-35.45" ty="19.15"/>
+                    <Matrix a="2.28570556640625" d="2.0625" tx="-35.45" ty="19.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -203,7 +203,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.73219299316406" b="0.732086181640625" c="-0.604995727539063" d="2.25784301757813" tx="1.65" ty="1.7"/>
+                    <Matrix a="2.732177734375" b="0.732086181640625" c="-0.604995727539063" d="2.25784301757813" tx="1.65" ty="1.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -237,7 +237,7 @@ stop();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000!5500 -4000|5500 4000"/>
+                    <Edge fillStyle1="1" edges="!5500 -4000|5500 4000!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -251,7 +251,7 @@ stop();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5500 -4000|5500 4000!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000"/>
+                    <Edge fillStyle1="1" edges="!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000!5500 -4000|5500 4000"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -278,7 +278,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 2 Clip (Small 1)">
                   <matrix>
-                    <Matrix a="1.23390197753906" b="0.33062744140625" c="-0.460891723632813" d="1.7200927734375" tx="4.35" ty="18.35"/>
+                    <Matrix a="1.23388671875" b="0.33062744140625" c="-0.460891723632813" d="1.7200927734375" tx="4.35" ty="18.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -289,7 +289,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 2 Clip (Small 1)">
                   <matrix>
-                    <Matrix a="1.56161499023438" b="-0.901580810546875" c="0.890396118164063" d="1.54219055175781" tx="4.35" ty="-11.65"/>
+                    <Matrix a="1.56161499023438" b="-0.901580810546875" c="0.890396118164063" d="1.54217529296875" tx="4.35" ty="-11.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -300,7 +300,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.82856750488281" d="2.33749389648438" tx="1.65" ty="1.7"/>
+                    <Matrix a="2.82855224609375" d="2.33749389648438" tx="1.65" ty="1.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -336,7 +336,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.28572082519531" d="2.0625" tx="-11.45" ty="-1.85"/>
+                    <Matrix a="2.28570556640625" d="2.0625" tx="-11.45" ty="-1.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -381,9 +381,9 @@ stop();
             </DOMFrame>
             <DOMFrame index="16" duration="31" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)" selected="true">
+                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.28572082519531" d="2.0625" tx="-1.45" ty="1.15"/>
+                    <Matrix a="2.28570556640625" d="2.0625" tx="-1.45" ty="1.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -392,7 +392,7 @@ stop();
                     <Color alphaMultiplier="0.5"/>
                   </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)" selected="true">
+                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
                     <Matrix a="1.61625671386719" b="-1.61625671386719" c="1.45840454101563" d="1.45840454101563" tx="-21.45" ty="18.15"/>
                   </matrix>
@@ -403,9 +403,9 @@ stop();
                     <Color alphaMultiplier="0.5"/>
                   </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)" selected="true">
+                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.28585815429688" b="-2.28585815429688" c="2.06001281738281" d="2.06001281738281" tx="-21.45" ty="-11.85"/>
+                    <Matrix a="2.28585815429688" b="-2.28585815429688" c="2.05999755859375" d="2.05999755859375" tx="-21.45" ty="-11.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -450,9 +450,9 @@ stop();
                     <Color alphaMultiplier="0.5"/>
                   </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)" selected="true">
+                <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.28572082519531" d="2.0625" tx="-1.45" ty="11.15"/>
+                    <Matrix a="2.28570556640625" d="2.0625" tx="-1.45" ty="11.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -488,7 +488,7 @@ stop();
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 3 Clip (Small 2)">
                   <matrix>
-                    <Matrix a="2.28572082519531" d="2.0625" tx="-31.45" ty="1.15"/>
+                    <Matrix a="2.28570556640625" d="2.0625" tx="-31.45" ty="1.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -530,7 +530,7 @@ stop();
           <frames>
             <DOMFrame index="0" duration="59" keyMode="9728">
               <elements>
-                <DOMStaticText left="65.5" width="13" height="24.55" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="-98.55" ty="-11.6"/>
                   </matrix>
@@ -538,7 +538,7 @@ stop();
                     <DOMTextRun>
                       <characters>=</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" alpha="0.501960784313725" size="22" face="Matisse ITC"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="22" face="MatisseITC-Regular"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -554,7 +554,7 @@ stop();
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" size="32" bitmapSize="640" face="Matisse ITC" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" size="32" bitmapSize="640" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -562,7 +562,7 @@ stop();
                     <GlowFilter blurX="2" blurY="2" color="#666666" strength="4"/>
                   </filters>
                 </DOMDynamicText>
-                <DOMStaticText left="65.5" width="13" height="24.55" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="-100.55" ty="-13.6"/>
                   </matrix>
@@ -570,7 +570,7 @@ stop();
                     <DOMTextRun>
                       <characters>=</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="Matisse ITC" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -598,7 +598,7 @@ stop();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5500 -4000|5500 4000!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000"/>
+                    <Edge fillStyle1="1" edges="!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000!5500 -4000|5500 4000"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -623,7 +623,7 @@ stop();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000!5500 -4000|5500 4000"/>
+                    <Edge fillStyle1="1" edges="!5500 -4000|5500 4000!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -648,7 +648,7 @@ stop();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000!5500 -4000|5500 4000"/>
+                    <Edge fillStyle1="1" edges="!5500 -4000|5500 4000!5500 4000|-5500 4000!-5500 4000|-5500 -4000!-5500 -4000|5500 -4000"/>
                   </edges>
                 </DOMShape>
               </elements>

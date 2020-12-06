@@ -53,19 +53,13 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="197" ty="-11"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-592.2" y="-417.9"/>
+                    <Point x="-395.2" y="-428.9"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="197" ty="-11"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-592.2" y="-417.9"/>
+                        <Point x="-395.2" y="-428.9"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -77,25 +71,19 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!-11846 -8358.5S4|-11846 -4758.5"/>
+                        <Edge strokeStyle="1" edges="!-7906 -8578|-7906 -4978"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="1.33334350585938" tx="-270.7" ty="95.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-592.3" y="-417.95"/>
+                    <Point x="-863" y="-461.6"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="1.33334350585938" tx="-270.7" ty="95.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-592.3" y="-417.95"/>
+                        <Point x="-863" y="-461.6"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -107,7 +95,7 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!-11846 -8358.5S4|-11846 -4758.5"/>
+                        <Edge strokeStyle="1" edges="!-17260 -9231|-17260 -4431"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -159,7 +147,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-18.2177276611328" d="-31.3499603271484" tx="-629.45" ty="-664.9"/>
+                    <Matrix a="-18.2177124023438" d="-31.3499450683594" tx="-629.45" ty="-664.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -379,19 +367,13 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-600" y="-1110"/>
+                    <Point x="-590" y="-1110"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="10"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-600" y="-1110"/>
+                        <Point x="-590" y="-1110"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -403,8 +385,8 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!-6344 -16545[#FFDE11.5B #FFC886.79 -12001 -14201.5!-12001 -14201.5[#FFC42C.F5 #FFC886.79 -17658.5 -16545!-17658.5 -16545[#FFB1DF.03 #FFB638.D2 -20001 -22201!-20001 -22201[#FFB1DF.03 #FF9C54.FE -17658.5 -27858.5!-17658.5 -27858.5[#FFC42C.F5
- #FF8A07.18 -12001 -30201!-12001 -30201[#FFDE11.5B #FF8A07.18 -6344 -27858.5!-6344 -27858.5[#FFF05F.8D #FF9C54.FE -4000.5 -22201!-4000.5 -22201[#FFF05F.8D #FFB638.D2 -6344 -16545"/>
+                        <Edge strokeStyle="1" edges="!-6144 -16545[-8487 -14202 -11801 -14201!-11801 -14201[-15115 -14202 -17458 -16545!-17458 -16545[-19801 -18887 -19801 -22201!-19801 -22201[-19801 -25515 -17458 -27858!-17458 -27858[-15115 -30201 -11801 -30201!-11801 -30201[-8487 -30201
+ -6144 -27858!-6144 -27858[-3800 -25515 -3800 -22201!-3800 -22201[-3800 -18887 -6144 -16545"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -440,7 +422,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-22251 -1580|-22251 -480!-22251 -480|-20405 -480!-20405 -480|-20405 -2393!-20405 -2393|-21404 -2393!-21404 -2393|-21404 -1580!-21404 -1580|-22251 -1580"/>
+!-22251 -480|-20405 -480!-20405 -480|-20405 -2393!-20405 -2393|-21404 -2393!-21404 -2393|-21404 -1580!-21404 -1580|-22251 -1580!-22251 -1580|-22251 -480"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -517,14 +499,8 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="110" ty="-40"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="110" ty="-40"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal">
@@ -536,7 +512,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-7379 -2277|-7282 -2430"/>
+!-5179 -3077|-5082 -3230"/>
                       </edges>
                     </DOMShape>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat 64 Px">
@@ -557,19 +533,13 @@ onClipEvent (enterFrame) {
                       </color>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="46" ty="-40"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="46" ty="-40"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Machine Structure" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="-529.95" ty="-145.8"/>
+                                  <Matrix a="20" d="20" tx="-483.95" ty="-185.8"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
@@ -585,16 +555,16 @@ onClipEvent (enterFrame) {
                           </strokes>
                           <edges>
                             <Edge fillStyle0="1" strokeStyle="1" edges="
-!-11224.5 -2918|-11224.5 -2278!-11224.5 -2278|-6104.5 -2278!-6104.5 -2278|-6104.5 -2918"/>
+!-10304 -3718|-10304 -3078!-10304 -3078|-5184 -3078!-5184 -3078|-5184 -3718"/>
                             <Edge fillStyle0="1" edges="
-!-6104.5 -2918|-11224.5 -2918"/>
+!-5184 -3718|-10304 -3718"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-169.6"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-169.6"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -611,7 +581,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-177.85"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-177.85"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -628,7 +598,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-186.1"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-186.1"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -645,7 +615,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-161.85"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-257" ty="-161.85"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -782,14 +752,8 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-60" ty="-30"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-60" ty="-30"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal">
@@ -801,7 +765,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-5358 -8961|-5261 -9114"/>
+!-6558 -9561|-6461 -9714"/>
                       </edges>
                     </DOMShape>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat 64 Px">
@@ -822,19 +786,13 @@ onClipEvent (enterFrame) {
                       </color>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="4" ty="-30"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="4" ty="-30"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Machine Structure" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="-492.9" ty="-480"/>
+                                  <Matrix a="20" d="20" tx="-488.9" ty="-510"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
@@ -850,16 +808,16 @@ onClipEvent (enterFrame) {
                           </strokes>
                           <edges>
                             <Edge fillStyle0="1" strokeStyle="1" edges="
-!-9202.5 -9602|-9202.5 -8962!-9202.5 -8962|-6642.5 -8962!-6642.5 -8962|-6642.5 -9602"/>
+!-9122 -10202|-9122 -9562!-9122 -9562|-6562 -9562!-6562 -9562|-6562 -10202"/>
                             <Edge fillStyle0="1" edges="
-!-6642.5 -9602|-9202.5 -9602"/>
+!-6562 -10202|-9122 -10202"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-493.8"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-493.8"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -876,7 +834,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-502.05"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-502.05"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -893,7 +851,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-510.3"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-510.3"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -910,7 +868,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-486.05"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-325.95" ty="-486.05"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -945,14 +903,8 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-538" ty="-30.1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-538" ty="-30.1"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal">
@@ -964,7 +916,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-5358 -8961|-5261 -9114"/>
+!-16118 -9563|-16021 -9716"/>
                       </edges>
                     </DOMShape>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat 64 Px">
@@ -985,19 +937,13 @@ onClipEvent (enterFrame) {
                       </color>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-474" ty="-30.1"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-474" ty="-30.1"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Machine Structure" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="-492.9" ty="-480"/>
+                                  <Matrix a="20" d="20" tx="-966.9" ty="-510.1"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
@@ -1013,16 +959,16 @@ onClipEvent (enterFrame) {
                           </strokes>
                           <edges>
                             <Edge fillStyle0="1" strokeStyle="1" edges="
-!-9202.5 -9602|-9202.5 -8962!-9202.5 -8962|-6642.5 -8962!-6642.5 -8962|-6642.5 -9602"/>
+!-18682 -10204|-18682 -9564!-18682 -9564|-16122 -9564!-16122 -9564|-16122 -10204"/>
                             <Edge fillStyle0="1" edges="
-!-6642.5 -9602|-9202.5 -9602"/>
+!-16122 -10204|-18682 -10204"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-493.9"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-493.9"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1039,7 +985,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-502.15"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-502.15"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1056,7 +1002,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-510.4"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-510.4"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1073,7 +1019,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-486.15"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-803.95" ty="-486.15"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1154,7 +1100,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-15784 -2350|-14924 -2350!-14924 -2350|-14924 -3000!-14924 -3000|-15784 -3000!-15784 -3000|-15784 -2350"/>
+!-14924 -2350|-14924 -3000!-14924 -3000|-15784 -3000!-15784 -3000|-15784 -2350!-15784 -2350|-14924 -2350"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1289,19 +1235,13 @@ onClipEvent (enterFrame) {
                       </color>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-635.3" ty="-103.3"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-635.3" ty="-103.3"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Machine Structure" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="-492.9" ty="-480"/>
+                                  <Matrix a="20" d="20" tx="-1128.2" ty="-583.3"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
@@ -1317,16 +1257,16 @@ onClipEvent (enterFrame) {
                           </strokes>
                           <edges>
                             <Edge fillStyle0="1" strokeStyle="1" edges="
-!-9202.5 -9602|-9202.5 -8962!-9202.5 -8962|-6642.5 -8962!-6642.5 -8962|-6642.5 -9602"/>
+!-21908 -11668|-21908 -11028!-21908 -11028|-19348 -11028!-19348 -11028|-19348 -11668"/>
                             <Edge fillStyle0="1" edges="
-!-6642.5 -9602|-9202.5 -9602"/>
+!-19348 -11668|-21908 -11668"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-567.1"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-567.1"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1343,7 +1283,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-575.35"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-575.35"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1360,7 +1300,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-583.6"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-583.6"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1377,7 +1317,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-559.35"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-965.25" ty="-559.35"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1412,14 +1352,8 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-532" ty="-176.3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-532" ty="-176.3"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal">
@@ -1431,7 +1365,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-5358 -8961|-5261 -9114"/>
+!-15998 -12487|-15901 -12640"/>
                       </edges>
                     </DOMShape>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat 64 Px">
@@ -1452,19 +1386,13 @@ onClipEvent (enterFrame) {
                       </color>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-468" ty="-176.3"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-468" ty="-176.3"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Machine Structure" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="-492.9" ty="-480"/>
+                                  <Matrix a="20" d="20" tx="-960.9" ty="-656.3"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
@@ -1480,16 +1408,16 @@ onClipEvent (enterFrame) {
                           </strokes>
                           <edges>
                             <Edge fillStyle0="1" strokeStyle="1" edges="
-!-9202.5 -9602|-9202.5 -8962!-9202.5 -8962|-6642.5 -8962!-6642.5 -8962|-6642.5 -9602"/>
+!-18562 -13128|-18562 -12488!-18562 -12488|-16002 -12488!-16002 -12488|-16002 -13128"/>
                             <Edge fillStyle0="1" edges="
-!-6642.5 -9602|-9202.5 -9602"/>
+!-16002 -13128|-18562 -13128"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-640.1"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-640.1"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1506,7 +1434,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-648.35"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-648.35"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1523,7 +1451,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-656.6"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-656.6"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>
@@ -1540,7 +1468,7 @@ onClipEvent (enterFrame) {
                     </DOMSymbolInstance>
                     <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/Conveyor Belt Top Repeat (Small) 8 Px">
                       <matrix>
-                        <Matrix a="0" b="-1.03071594238281" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-632.35"/>
+                        <Matrix a="0" b="-1.03070068359375" c="0.675003051757813" d="-1.00120544433594" tx="-797.95" ty="-632.35"/>
                       </matrix>
                       <transformationPoint>
                         <Point/>

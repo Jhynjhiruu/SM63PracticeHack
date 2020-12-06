@@ -205,7 +205,7 @@ onClipEvent (enterFrame) {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ground x.1 (2)" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="20" tx="-764.5" ty="492.85"/>
+                              <Matrix a="-20" d="20" tx="-764.5" ty="1092.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -219,24 +219,24 @@ onClipEvent (enterFrame) {
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ground x.1 (2)" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="20" tx="-764.5" ty="1092.85"/>
+                              <Matrix a="-20" d="20" tx="-764.5" ty="492.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="3" edges="!6020 -21379|6300 -21979!6300 -21979|7277 -22211.5!7277 -22211.5|11636 -22240!11636 -22240|19119 -22260!19119 -22260|19759 -22140!19759 -22140|20219 -21777!20219 -21777|20475 -21117!20475 -21117|20575 -785!20575 -785|20395 -105!20395
- -105|20395 95!20395 95|19975 535!19975 535|19496 1514!19496 1514|12652.5 1514!12652.5 1514|12626 1330!12626 1330|11566 1420!11566 1420|10976 1120!10976 1120|9296 1020!9296 1020|8445 1514!8445 1514|7798 1514!7798 1514|7798 7423.5!7798
- 7423.5|25847 7423.5!25847 7423.5|25847 -31670!25847 -31670|-1719 -31670!-1719 -31670|-1799 -20296!-1799 -20296|5540 -20296!5540 -20296|6000 -20720!6000 -20720|6020 -21379"/>
+                        <Edge fillStyle0="1" edges="!6000 -20720|6020 -21379!6020 -21379|6300 -21979!6300 -21979|7277 -22211.5!7277 -22211.5|11636 -22240!11636 -22240|19119 -22260!19119 -22260|19759 -22140!19759 -22140|20219 -21777!20219 -21777|20475 -21117!20475 -21117|20575 -785!20575
+ -785|20395 -105!20395 -105|20395 95!20395 95|19975 535!19975 535|19496 1514!19496 1514|12652.5 1514!12652.5 1514|12626 1330!12626 1330|11566 1420!11566 1420|10976 1120!10976 1120|9296 1020!9296 1020|8445 1514!8445 1514|7798 1514!7798
+ 1514|7798 7423.5!7798 7423.5|25847 7423.5!25847 7423.5|25847 -31670!25847 -31670|-1719 -31670!-1719 -31670|-1799 -20296!-1799 -20296|5540 -20296!5540 -20296|6000 -20720"/>
                         <Edge fillStyle1="2" edges="
 !2349 -16641|2349 -10120!2349 -10120|2814 -9479!2814 -9479|13358 -9479!13358 -9479|13358 -19380!13358 -19380|13238 -20080!13238 -20080|13238 -20160!13238 -20160|13358 -20298!13358 -20298|14679 -20402!14679 -20402|15358 -20402!15358 -20402
 |15718 -20058!15718 -20058|15718 -19540!15718 -19540|15598 -19320!15598 -19320|15598 -7379!15598 -7379|15939 -7072!15939 -7072|15939 -2080!15939 -2080|15519 -2080!15519 -2080|15379 -2841!15379 -2841|14979 -3200!14979 -3200|10480 -3200
 !10480 -3200|10400 -3081!10400 -3081|10100 -3081!10100 -3081|9760 -3200!9760 -3200|8800 -3200!8800 -3200|8161 -2720!8161 -2720|7041 -2720!7041 -2720|6701 -3200!6701 -3200|5921 -3200!5921 -3200|5601 -2780!5601 -2780|5121 -2780!5121 -2780
 |4801 -3060!4801 -3060|4441 -3060!4441 -3060|4121 -3200!4121 -3200|2980 -3200!2980 -3200|2800 -2500!2800 -2500|2349 -2500!2349 -2500|2349 -2124!2349 -2124|-1829 -2124!-1829 -2124|-1829 -16834!-1829 -16834|2041 -16834!2041 -16834|2349
  -16641"/>
-                        <Edge fillStyle0="3" edges="
+                        <Edge fillStyle0="1" edges="
 !5668 1514|-3900.5 1514!-3900.5 1514|-3900 7423.5!-3900 7423.5|5668 7423.5!5668 7423.5|5668 1514"/>
-                        <Edge fillStyle1="3" edges="
+                        <Edge fillStyle1="1" edges="
 !25847 7424|25847 52749!25847 52749|-28617 52749!-28617 52749|-28617 31772!-28617 31772|-14898 31772!-14898 31772|-3900 23074!-3900 23074|-3900 7424!-3900 7424|5668 7424!5668 7424|5668 40358!5668 40358|5700 40422!5700 40422|5700 41318
 !5700 41318|1599 41318!1599 41318|1599 41538!1599 41538|859 41538!859 41538|589 41318!589 41318|55 40818!55 40818|-380 39598!-380 39598|-1360 39358!-1360 39358|-3140 39358!-3140 39358|-5399 39238!-5399 39238|-5939 38878!-5939 38878|-6399
  38758!-6399 38758|-6399 38558!-6399 38558|-8999 38558!-8999 38558|-9819 38853!-9819 38853|-13458 38853!-13458 38853|-14358 38969!-14358 38969|-15179 39517!-15179 39517|-15599 39517!-15599 39517|-16579 40338!-16579 40338|-16859 40338
@@ -245,13 +245,13 @@ onClipEvent (enterFrame) {
 !-17831 46496|-17951 47136!-17951 47136|-17951 50471!-17951 50471|-1939 50471!-1939 50471|-1779 50371!-1779 50371|-1440 50371!-1440 50371|3719 46492.5!3719 46492.5|3719 46493!3719 46493|3799 46178!3799 46178|4459 46178!4459 46178|10459
  46316!10459 46316|10899 46172.5!10899 46172.5|10899 46016!10899 46016|11378 46016!11378 46016|11878 45256!11878 45256|11878 42509!11878 42509|11418 42329!11418 42329|8039 42329!8039 42329|7798 42078!7798 42078|7798 31772!7798 31772|7824.5
  31772!7824.5 31772|7798 31771.5!7798 31771.5|7798 7424!7798 7424|25847 7424"/>
+                        <Edge fillStyle0="3" edges="
+!-6019 -15400|-5999 -15397.5!-5999 -15397.5|-5999 -15436!-5999 -15436|-6019 -15400"/>
                         <Edge fillStyle0="1" edges="
-!-5999 -15436|-6019 -15400!-6019 -15400|-5999 -15397.5!-5999 -15397.5|-5999 -15436"/>
-                        <Edge fillStyle0="3" edges="
 !10240 27036|8400 27036!8400 27036|8400 24578!8400 24578|10240 24578!10240 24578|10240 27036"/>
-                        <Edge fillStyle1="3" edges="
+                        <Edge fillStyle1="1" edges="
 !8741 37355[8741 #94D0.A9 8741 38838!8741 38838|9221 39038!9221 39038|10460 39038!10460 39038|10460 36778!10460 36778|9141 36778!9141 36778|8741 36995!8741 36995|8741 37355"/>
-                        <Edge fillStyle0="3" edges="
+                        <Edge fillStyle0="1" edges="
 !11039 49004|9259 49004!9259 49004|9259 47705!9259 47705|11039 47705!11039 47705|11039 49004"/>
                       </edges>
                     </DOMShape>
@@ -289,26 +289,20 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="67.45" ty="-1.25"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" tx="67.45" ty="-1.25"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="-10" tx="264.95" ty="81.2"/>
+                              <Matrix a="10" d="-10" tx="-197.5" ty="79.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="
-!5299 1624|-3947 1624!-3947 1624|-3947 1254!-3947 1254|5299 1254!5299 1254|5299 1624"/>
+                        <Edge fillStyle0="1" edges="
+!5296 1229|-3950 1229!-3950 1229|-3950 1599!-3950 1599|5296 1599!5296 1599|5296 1229"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -358,7 +352,7 @@ onClipEvent (enterFrame) {
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8896 1229S1|8182 1229!8182 1229|8182 1599!8182 1599|8896 1599!8896 1599|8896 1229"/>
+!8182 1229|8182 1599!8182 1599|8896 1599!8896 1599|8896 1229!8896 1229|8182 1229"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -377,7 +371,7 @@ onClipEvent (enterFrame) {
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!19693 1229S1|12466 1229!12466 1229|12466 1599!12466 1599|19473 1599!19473 1599|19693 1229"/>
+!19693 1229|12466 1229!12466 1229|12466 1599!12466 1599|19473 1599!19473 1599|19693 1229"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -451,26 +445,20 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="-40" ty="668.85"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" tx="-40" ty="668.85"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-410.1" ty="-781.3"/>
+                              <Matrix a="-10" d="10" tx="370.1" ty="-112.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="
-!1044 -15626|-2784 -15626!-2784 -15626|-2784 -15256!-2784 -15256|1044 -15256!1044 -15256|1044 -15626"/>
+                        <Edge fillStyle1="1" edges="
+!1984 -1879|-1844 -1879!-1844 -1879|-1844 -2249!-1844 -2249|1984 -2249!1984 -2249|1984 -1879"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -497,26 +485,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="-1" tx="45.2" ty="-1616"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="-1" tx="45.2" ty="-1616"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-410.1" ty="-781.3"/>
+                              <Matrix a="10" d="-10" tx="-364.9" ty="-834.7"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="
-!1044 -15626|-2784 -15626!-2784 -15626|-2784 -15256!-2784 -15256|1044 -15256!1044 -15256|1044 -15626"/>
+                        <Edge fillStyle1="1" edges="
+!-1880 -17064|1948 -17064!1948 -17064|1948 -16694!1948 -16694|-1880 -16694!-1880 -16694|-1880 -17064"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -603,51 +585,39 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="281.8" ty="1343.75"/>
+                              <Matrix a="-10" d="10" tx="281.8" ty="2063.75"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!5380 26875|1319 26875!1319 26875|1319 27245!1319 27245|5380 27245!5380 27245|5380 26875"/>
+!5380 41275|1319 41275!1319 41275|1319 41645!1319 41645|5380 41645!5380 41645|5380 41275"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="82.5" ty="1599.95"/>
+                              <Matrix a="10" d="-10" tx="82.5" ty="2319.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!4279 31629|4279 31999!4279 31999|10896 31999!10896 31999|10896 31629!10896 31629|4279 31629"/>
+!4279 46399|10896 46399!10896 46399|10896 46029!10896 46029|4279 46029!4279 46029|4279 46399"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -668,26 +638,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="871" ty="1385.15"/>
+                              <Matrix a="-10" d="10" tx="871" ty="2105.15"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11397 27703|8174 27703!8174 27703|8174 28073!8174 28073|11677 28073!11677 28073|11397 27703"/>
+!11397 42103|8174 42103!8174 42103|8174 42473!8174 42473|11677 42473!11677 42473|11397 42103"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -703,26 +667,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="10" c="-10" d="0" tx="605.7" ty="287.2"/>
+                              <Matrix a="0" b="10" c="-10" d="0" tx="605.7" ty="1007.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11744 22818|11744 30960!11744 30960|12114 30960!12114 30960|12114 22818!12114 22818|11744 22818"/>
+!11744 37218|11744 45360!11744 45360|12114 45360!12114 45360|12114 37218!12114 37218|11744 37218"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -768,26 +726,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="-48.2" ty="1236.65"/>
+                              <Matrix a="-10" d="10" tx="-48.2" ty="1956.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-964 24733|-2799 24733!-2799 24733|-2799 25103!-2799 25103|-964 25103!-964 25103|-964 24733"/>
+!-2799 39503|-964 39503!-964 39503|-964 39133!-964 39133|-2799 39133!-2799 39133|-2799 39503"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -798,101 +750,77 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="318.6" ty="1742.1"/>
+                              <Matrix a="10" d="-10" tx="318.6" ty="2462.1"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!13444 34472|9205 34472!9205 34472|9205 34842!9205 34842|13444 34842!13444 34842|13444 34472"/>
+!9205 49242|13444 49242!13444 49242|13444 48872!13444 48872|9205 48872!9205 48872|9205 49242"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="693.6" ty="1649.6"/>
+                              <Matrix a="-10" d="10" tx="693.6" ty="2369.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!12123 32992|9185 32992!9185 32992|9185 33362!9185 33362|12123 33362!12123 33362|12123 32992"/>
+!9185 47392|9185 47762!9185 47762|12123 47762!12123 47762|12123 47392!12123 47392|9185 47392"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="10" c="-10" d="0" tx="565.7" ty="1518.25"/>
+                              <Matrix a="0" b="10" c="-10" d="0" tx="565.7" ty="2238.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!10944 33277|10944 34577!10944 34577|11314 34577!11314 34577|11314 33277!11314 33277|10944 33277"/>
+!10944 47677|10944 48977!10944 48977|11314 48977!11314 48977|11314 47677!11314 47677|10944 47677"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" d="-1" tx="911.9" ty="4112.7"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" d="-1" tx="911.9" ty="4112.7"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="10" c="-10" d="0" tx="463.7" ty="1518.25"/>
+                              <Matrix a="0" b="-10" c="10" d="0" tx="448.2" ty="2594.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8904 33277|8904 34577!8904 34577|9274 34577!9274 34577|9274 33277!9274 33277|8904 33277"/>
+!8964 47677|8964 48977!8964 48977|9334 48977!9334 48977|9334 47677!9334 47677|8964 47677"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -918,26 +846,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="476.25" ty="1573.85"/>
+                              <Matrix a="20" d="20" tx="476.25" ty="2293.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!12823 31657|13689 31657!13689 31657|13689 31457!13689 31457[#33D0.FC #7AE3.A1 12823 31462!12823 31462|12823 31657"/>
+!13689 45857[13265 45860 12823 45862!12823 45862|12823 46057!12823 46057|13689 46057!13689 46057|13689 45857"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -967,51 +889,39 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="602.95" ty="561.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="602.95" ty="561.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="10" c="-10" d="0" tx="95.75" ty="1496.4"/>
+                              <Matrix a="0" b="10" c="-10" d="0" tx="698.7" ty="2057.75"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!1545 32840|1545 37499!1545 37499|1915 37499!1915 37499|1915 32840!1915 32840|1545 32840"/>
+!13604 44067|13604 48726!13604 48726|13974 48726!13974 48726|13974 44067!13974 44067|13604 44067"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="826.6" ty="1465.65"/>
+                              <Matrix a="-10" d="10" tx="826.6" ty="2185.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11845 29683|13523 29683!13523 29683|13523 29313!13523 29313|11845 29313!11845 29313|11845 29683"/>
+!13523 43713|11845 43713!11845 43713|11845 44083!11845 44083|13523 44083!13523 44083|13523 43713"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1022,26 +932,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1" ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="1" ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="-10" c="10" d="0" tx="595.2" ty="1861.85"/>
+                              <Matrix a="0" b="-10" c="10" d="0" tx="596.2" ty="2581.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11904 30937|11904 33077!11904 33077|12274 33077!12274 33077|12274 30937!12274 30937|11904 30937"/>
+!11924 45337|11924 47477!11924 47477|12294 47477!12294 47477|12294 45337!12294 45337|11924 45337"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1070,76 +974,58 @@ onClipEvent (enterFrame) {
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="292.85" ty="1241.65"/>
+                              <Matrix a="10" d="-10" tx="292.85" ty="1961.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!10640 24463|8881 24463!8881 24463|8881 24833!8881 24833|10640 24833!10640 24833|10640 24463"/>
+!8881 39233|10640 39233!10640 39233|10640 38863!10640 38863|8881 38863!8881 38863|8881 39233"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-25.7" ty="176.4"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-25.7" ty="176.4"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="693.6" ty="1649.6"/>
+                              <Matrix a="-10" d="10" tx="667.9" ty="1826"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!12123 32992|9185 32992!9185 32992|9185 33362!9185 33362|12123 33362!12123 33362|12123 32992"/>
+!8671 36890|11609 36890!11609 36890|11609 36520!11609 36520|8671 36520!8671 36520|8671 36890"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="-10" c="10" d="0" tx="422.5" ty="1363.85"/>
+                              <Matrix a="0" b="-10" c="10" d="0" tx="422.5" ty="2083.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8450 22725|8450 24365!8450 24365|8820 24365!8820 24365|8820 22725!8820 22725|8450 22725"/>
+!8450 37125|8450 38765!8450 38765|8820 38765!8820 38765|8820 37125!8820 37125|8450 37125"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1165,26 +1051,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="-10" c="10" d="0" tx="515.2" ty="1544.7"/>
+                              <Matrix a="0" b="-10" c="10" d="0" tx="515.2" ty="2264.7"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!10304 24594|10304 27814!10304 27814|10674 27814!10674 27814|10674 24594!10674 24594|10304 24594"/>
+!10304 38994|10304 42214!10304 42214|10674 42214!10674 42214|10674 38994!10674 38994|10304 38994"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1200,26 +1080,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="10" c="-10" d="0" tx="534.6" ty="1006.65"/>
+                              <Matrix a="0" b="10" c="-10" d="0" tx="534.6" ty="1726.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!10322 22745|10322 24345!10322 24345|10692 24345!10692 24345|10692 22745!10692 22745|10322 22745"/>
+!10322 37145|10322 38745!10322 38745|10692 38745!10692 38745|10692 37145!10692 37145|10322 37145"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1253,26 +1127,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-110" ty="716"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-110" ty="716"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="-48.2" ty="1236.65"/>
+                              <Matrix a="-10" d="10" tx="-158.2" ty="1952.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-964 24733|-2799 24733!-2799 24733|-2799 25103!-2799 25103|-964 25103!-964 25103|-964 24733"/>
+!-4999 39423|-3164 39423!-3164 39423|-3164 39053!-3164 39053|-4999 39053!-4999 39053|-4999 39423"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1293,26 +1161,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="-316.55" ty="1203.5"/>
+                              <Matrix a="-10" d="10" tx="-316.55" ty="1923.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-9086 24440|-6331 24440!-6331 24440|-6331 24070!-6331 24070|-9086 24070!-9086 24070|-9086 24440"/>
+!-6331 38470|-9086 38470!-9086 38470|-9086 38840!-9086 38840|-6331 38840!-6331 38840|-6331 38470"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1338,26 +1200,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="-484.55" ty="1212.5"/>
+                              <Matrix a="-10" d="10" tx="-484.55" ty="1932.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-9691 24250|-14026 24250!-14026 24250|-14026 24620!-14026 24620|-9691 24620!-9691 24620|-9691 24250"/>
+!-14026 39020|-9691 39020!-9691 39020|-9691 38650!-9691 38650|-14026 38650!-14026 38650|-14026 39020"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1418,26 +1274,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-630.65" ty="843.75"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-630.65" ty="843.75"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="-316.55" ty="1203.5"/>
+                              <Matrix a="-10" d="10" tx="-947.2" ty="2047.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-9086 24440|-6331 24440!-6331 24440|-6331 24070!-6331 24070|-9086 24070!-9086 24070|-9086 24440"/>
+!-21699 41315|-18944 41315!-18944 41315|-18944 40945!-18944 40945|-21699 40945!-21699 40945|-21699 41315"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1458,51 +1308,39 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-1668.15" ty="877.05"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-1668.15" ty="877.05"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="-10" c="10" d="0" tx="515.2" ty="1544.7"/>
+                              <Matrix a="0" b="-10" c="10" d="0" tx="-1152.95" ty="2421.75"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!10304 24594|10304 27814!10304 27814|10674 27814!10674 27814|10674 24594!10674 24594|10304 24594"/>
+!-23059 42135|-23059 45355!-23059 45355|-22689 45355!-22689 45355|-22689 42135!-22689 42135|-23059 42135"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="720"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="720"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="-1232.25" ty="1582.85"/>
+                              <Matrix a="10" d="-10" tx="-1232.25" ty="2302.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-22016 31657|-19058 31657!-19058 31657|-19058 31287!-19058 31287|-22016 31287!-22016 31287|-22016 31657"/>
+!-22016 46057|-19058 46057!-19058 46057|-19058 45687!-19058 45687|-22016 45687!-22016 45687|-22016 46057"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1577,26 +1415,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="80"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="80"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="811.05" ty="-1206.25"/>
+                              <Matrix a="-10" d="10" tx="811.05" ty="-1126.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!6975 -23755|19299 -23755!19299 -23755|19299 -24125!19299 -24125|6975 -24125!6975 -24125|6975 -23755"/>
+!6975 -22155|19299 -22155!19299 -22155|19299 -22525!19299 -22525|6975 -22525!6975 -22525|6975 -22155"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1632,26 +1464,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-70"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-70"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="618.15" ty="-941.2"/>
+                              <Matrix a="10" d="-10" tx="618.15" ty="-1011.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!14958 -19194|13679 -19194!13679 -19194|13679 -18824!13679 -18824|14958 -18824!14958 -18824|14958 -19194"/>
+!13679 -20224|14958 -20224!14958 -20224|14958 -20594!14958 -20594|13679 -20594!13679 -20594|13679 -20224"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1696,7 +1522,7 @@ onClipEvent (enterFrame) {
                         <Edge fillStyle0="2" edges="
 !2847 -2974|4427 -2974!4427 -2974|4427 -3344!4427 -3344|2847 -3344!2847 -3344|2847 -2974"/>
                         <Edge fillStyle0="1" edges="
-!5787 -2894|6887 -2894!6887 -2894|6887 -3264!6887 -3264|5787 -3264!5787 -3264|5787 -2894!8327 -3264|8327 -2894!8327 -2894|9106 -2894!9106 -2894|9106 -3264!9106 -3264|8327 -3264"/>
+!5787 -2894|6887 -2894!6887 -2894|6887 -3264!6887 -3264|5787 -3264!5787 -3264|5787 -2894!8327 -2894|9106 -2894!9106 -2894|9106 -3264!9106 -3264|8327 -3264!8327 -3264|8327 -2894"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1767,26 +1593,20 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-2.5" ty="-250"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-2.5" ty="-250"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="382.15" ty="-209.25"/>
+                              <Matrix a="10" d="-10" tx="379.65" ty="-459.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!12978 -4555|3019 -4555!3019 -4555|3019 -4185!3019 -4185|12978 -4185!12978 -4185|12978 -4555"/>
+!12928 -9555|2969 -9555!2969 -9555|2969 -9185!2969 -9185|12928 -9185!12928 -9185|12928 -9555"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2005,76 +1825,58 @@ onClipEvent (enterFrame) {
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1" ty="601"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="1" ty="601"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="375.75" ty="753.2"/>
+                              <Matrix a="20" d="20" tx="376.75" ty="1354.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11319 15046.5[#2B02.1C #3AC7.EB 10692 15049.5!10692 15049.5|10692 15244!10692 15244|11319 15244!11319 15244|11319 15046.5"/>
+!10712 27070|10712 27264!10712 27264|11339 27264!11339 27264|11339 27067!11339 27067[11030 27068 10712 27070"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="594.95" ty="437.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="594.95" ty="437.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="-346.15" ty="1270.3"/>
+                              <Matrix a="10" d="-10" tx="248.8" ty="1708.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-4076 25406|172 25406!172 25406|172 25036!172 25036|-4076 25036!-4076 25036|-4076 25406"/>
+!12071 33795|7823 33795!7823 33795|7823 34165!7823 34165|12071 34165!12071 34165|12071 33795"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-2.45" ty="601.8"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-2.45" ty="601.8"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="10" c="-10" d="0" tx="625.7" ty="-172.85"/>
+                              <Matrix a="0" b="10" c="-10" d="0" tx="623.25" ty="428.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!12144 12777|12144 21759!12144 21759|12514 21759!12514 21759|12514 12777!12514 12777|12144 12777"/>
+!12095 24813|12095 33795!12095 33795|12465 33795!12465 33795|12465 24813!12465 24813|12095 24813"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2090,51 +1892,39 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="600"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="600"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="-10" c="10" d="0" tx="518.25" ty="1874.95"/>
+                              <Matrix a="0" b="-10" c="10" d="0" tx="518.25" ty="2474.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!10365 15158|10365 20114!10365 20114|10735 20114!10735 20114|10735 15158!10735 15158|10365 15158"/>
+!10365 27158|10365 32114!10365 32114|10735 32114!10735 32114|10735 27158!10735 27158|10365 27158"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="600"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="600"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="846.85" ty="1002.75"/>
+                              <Matrix a="-10" d="10" tx="846.85" ty="1602.75"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!7922 20425|10491 20425!10491 20425|10491 20055!10491 20055|7922 20055!7922 20055|7922 20425"/>
+!10491 32055|7922 32055!7922 32055|7922 32425!7922 32425|10491 32425!10491 32425|10491 32055"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2145,76 +1935,58 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="600"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="600"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="173.3" ty="764"/>
+                              <Matrix a="10" d="-10" tx="173.3" ty="1364"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8211 15280|10411 15280!10411 15280|10411 14910!10411 14910|8211 14910!8211 14910|8211 15280"/>
+!10411 26910|8211 26910!8211 26910|8211 27280!8211 27280|10411 27280!10411 27280|10411 26910"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-2.45" ty="601.8"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-2.45" ty="601.8"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="-10" c="10" d="0" tx="411.05" ty="1624.2"/>
+                              <Matrix a="0" b="-10" c="10" d="0" tx="408.6" ty="2226"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8221 12778|8221 15099!8221 15099|8591 15099!8591 15099|8591 12778!8591 12778|8221 12778"/>
+!8172 24814|8172 27135!8172 27135|8542 27135!8542 27135|8542 24814!8542 24814|8172 24814"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-2.45" ty="601.8"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-2.45" ty="601.8"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="777.75" ty="613.7"/>
+                              <Matrix a="-10" d="10" tx="775.3" ty="1215.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8460 12644|12030 12644!12030 12644|12030 12274!12030 12274|8460 12274!8460 12274|8460 12644"/>
+!11981 24310|8411 24310!8411 24310|8411 24680!8411 24680|11981 24680!11981 24680|11981 24310"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2359,26 +2131,20 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" d="-1" tx="78.95" ty="2405.75"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" d="-1" tx="78.95" ty="2405.75"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="-346.15" ty="1270.3"/>
+                              <Matrix a="-10" d="10" tx="425.1" ty="1135.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-4076 25406|172 25406!172 25406|172 25036!172 25036|-4076 25036!-4076 25036|-4076 25406"/>
+!1407 23079|5655 23079!5655 23079|5655 22709!5655 22709|1407 22709!1407 22709|1407 23079"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2432,26 +2198,20 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" d="-1" tx="673.9" ty="2243.7"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" d="-1" tx="673.9" ty="2243.7"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="846.85" ty="1002.75"/>
+                              <Matrix a="10" d="-10" tx="-172.95" ty="1240.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!7922 20425|10491 20425!10491 20425|10491 20055!10491 20055|7922 20055!7922 20055|7922 20425"/>
+!5556 24449|2987 24449!2987 24449|2987 24819!2987 24819|5556 24819!5556 24819|5556 24449"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2462,76 +2222,58 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" d="-1" tx="673.9" ty="2143.7"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" d="-1" tx="673.9" ty="2143.7"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="173.3" ty="764"/>
+                              <Matrix a="-10" d="10" tx="500.6" ty="1379.7"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8211 15280|10411 15280!10411 15280|10411 14910!10411 14910|8211 14910!8211 14910|8211 15280"/>
+!3067 27594|3067 27964!3067 27964|5267 27964!5267 27964|5267 27594!5267 27594|3067 27594"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" d="-1" tx="676.35" ty="2141.9"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" d="-1" tx="676.35" ty="2141.9"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="-10" c="10" d="0" tx="411.05" ty="1624.2"/>
+                              <Matrix a="0" b="10" c="-10" d="0" tx="265.3" ty="517.7"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8221 12778|8221 15099!8221 15099|8591 15099!8591 15099|8591 12778!8591 12778|8221 12778"/>
+!4936 27739|4936 30060!4936 30060|5306 30060!5306 30060|5306 27739!5306 27739|4936 27739"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" d="-1" tx="676.35" ty="2141.9"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" d="-1" tx="676.35" ty="2141.9"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-10" d="10" tx="777.75" ty="613.7"/>
+                              <Matrix a="10" d="-10" tx="-101.4" ty="1528.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8460 12644|12030 12644!12030 12644|12030 12274!12030 12274|8460 12274!8460 12274|8460 12644"/>
+!1497 30564|5067 30564!5067 30564|5067 30194!5067 30194|1497 30194!1497 30194|1497 30564"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2562,76 +2304,58 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-470.9" ty="685.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-470.9" ty="685.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="375.75" ty="753.2"/>
+                              <Matrix a="20" d="20" tx="-95.15" ty="1438.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11319 15046.5[#2B02.1C #3AC7.EB 10692 15049.5!10692 15049.5|10692 15244!10692 15244|11319 15244!11319 15244|11319 15046.5"/>
+!1901 28760[1592 28761 1274 28763!1274 28763|1274 28957!1274 28957|1901 28957!1901 28957|1901 28760"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-426.7" ty="613.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-426.7" ty="613.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="375.75" ty="753.2"/>
+                              <Matrix a="20" d="20" tx="-50.95" ty="1366.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11319 15046.5[#2B02.1C #3AC7.EB 10692 15049.5!10692 15049.5|10692 15244!10692 15244|11319 15244!11319 15244|11319 15046.5"/>
+!2158 27517|2785 27517!2785 27517|2785 27320!2785 27320[2476 27321 2158 27323!2158 27323|2158 27517"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-468.55" ty="520.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-468.55" ty="520.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="375.75" ty="753.2"/>
+                              <Matrix a="20" d="20" tx="-92.8" ty="1273.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!11319 15046.5[#2B02.1C #3AC7.EB 10692 15049.5!10692 15049.5|10692 15244!10692 15244|11319 15244!11319 15244|11319 15046.5"/>
+!1948 25460[1639 25461 1321 25463!1321 25463|1321 25657!1321 25657|1948 25657!1948 25657|1948 25460"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2659,26 +2383,20 @@ onClipEvent (enterFrame) {
                   </filters>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="670.8" ty="3485.7"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1" d="0" tx="670.8" ty="3485.7"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="-1232.25" ty="1582.85"/>
+                              <Matrix a="0" b="10" c="10" d="0" tx="-912.05" ty="2253.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-22016 31657|-19058 31657!-19058 31657|-19058 31287!-19058 31287|-22016 31287!-22016 31287|-22016 31657"/>
+!-18241 47698|-18241 50656!-18241 50656|-17871 50656!-17871 50656|-17871 47698!-17871 47698|-18241 47698"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -2802,76 +2520,58 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="51.15" ty="-14.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="51.15" ty="-14.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="409.1" ty="79.95"/>
+                              <Matrix a="10" d="-10" tx="460.25" ty="65.3"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8896 1229S1|8182 1229!8182 1229|8182 1599!8182 1599|8896 1599!8896 1599|8896 1229"/>
+!9919 936|9205 936!9205 936|9205 1306!9205 1306|9919 1306!9919 1306|9919 936"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="107.65" ty="-8.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="107.65" ty="-8.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="409.1" ty="79.95"/>
+                              <Matrix a="10" d="-10" tx="516.75" ty="71.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8896 1229S1|8182 1229!8182 1229|8182 1599!8182 1599|8896 1599!8896 1599|8896 1229"/>
+!10335 1429|11049 1429!11049 1429|11049 1059!11049 1059|10335 1059!10335 1059|10335 1429"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="158.45" ty="3.85"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="158.45" ty="3.85"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/ Cave Ground/Cave Ceiling x1" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="-10" tx="409.1" ty="79.95"/>
+                              <Matrix a="10" d="-10" tx="567.55" ty="83.8"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!8896 1229S1|8182 1229!8182 1229|8182 1599!8182 1599|8896 1599!8896 1599|8896 1229"/>
+!11351 1306|11351 1676!11351 1676|12065 1676!12065 1676|12065 1306!12065 1306|11351 1306"/>
                       </edges>
                     </DOMShape>
                   </members>

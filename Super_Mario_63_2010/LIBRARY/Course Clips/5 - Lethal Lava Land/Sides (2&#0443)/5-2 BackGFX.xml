@@ -23,14 +23,8 @@
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-22.9" ty="134"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-22.9" ty="134"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal" weight="2">
@@ -42,21 +36,15 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!6902.5 -707.5S4[#18AD.6F #FFFAF3.5E 6317.5 -2121!6317.5 -2121[#18AD.6F #FFF47A.8E 6902.5 -3536!6902.5 -3536[#1D41.0E #FFEFE6.EF 8317.5 -4121!8317.5 -4121[#23B9.DF #FFEFE6.EF 9731 -3536!9731 -3536[#284D.7E #FFF47A.8E 10317.5 -2121!10317.5
- -2121[#284D.7E #FFFAF3.5E 9731 -707.5!9731 -707.5[#23B9.DF #FFFF86.FE 8317.5 -121!8317.5 -121[#1D41.0E #FFFF86.FE 6902.5 -707.5"/>
+!9273 -856[9859 -269 9860 559!9860 559[9859 1387 9273 1973!9273 1973[8688 2559 7860 2559!7860 2559[7031 2559 6445 1973!6445 1973[5859 1387 5860 559!5860 559[5859 -269 6445 -856!6445 -856[7031 -1441 7860 -1441!7860 -1441[8688 -1441 9273
+ -856"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.5" d="1.5" tx="-230.85" ty="187"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.5" d="1.5" tx="-230.85" ty="187"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal" weight="2">
@@ -68,8 +56,8 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!6902.5 -707.5S4[#18AD.6F #FFFAF3.5E 6317.5 -2121!6317.5 -2121[#18AD.6F #FFF47A.8E 6902.5 -3536!6902.5 -3536[#1D41.0E #FFEFE6.EF 8317.5 -4121!8317.5 -4121[#23B9.DF #FFEFE6.EF 9731 -3536!9731 -3536[#284D.7E #FFF47A.8E 10317.5 -2121!10317.5
- -2121[#284D.7E #FFFAF3.5E 9731 -707.5!9731 -707.5[#23B9.DF #FFFF86.FE 8317.5 -121!8317.5 -121[#1D41.0E #FFFF86.FE 6902.5 -707.5"/>
+!9980 -1564[10859 -683 10860 559!10860 559[10859 1801 9980 2680!9980 2680[9102 3559 7860 3559!7860 3559[6617 3559 5738 2680!5738 2680[4859 1801 4860 559!4860 559[4859 -683 5738 -1564!5738 -1564[6617 -2441 7860 -2441!7860 -2441[9102 -2441
+ 9980 -1564"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -135,7 +123,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp1">
                   <matrix>
-                    <Matrix a="2.0035400390625" d="62.5000762939453" tx="-105.8" ty="-482.1"/>
+                    <Matrix a="2.0035400390625" d="62.5000610351563" tx="-105.8" ty="-482.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -149,7 +137,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp2">
                   <matrix>
-                    <Matrix a="2.0035400390625" d="62.5000762939453" tx="2200.2" ty="-482.1"/>
+                    <Matrix a="2.0035400390625" d="62.5000610351563" tx="2200.2" ty="-482.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -200,7 +188,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="1.92500305175781" d="1.81271362304688" tx="824.8" ty="-72.75"/>
+                    <Matrix a="1.92498779296875" d="1.81271362304688" tx="824.8" ty="-72.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -818,19 +806,13 @@ onClipEvent (enterFrame) {
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="17.85" ty="31.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="17.85" ty="31.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-95.6" ty="-27.65"/>
+                              <Matrix a="20" d="20" tx="-77.75" ty="4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -846,7 +828,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!1597 -553|-1912 -553!-1912 -553|-1912 87!-1912 87|1597 87!1597 87|1597 -553"/>
+!1954 80|-1555 80!-1555 80|-1555 720!-1555 720|1954 720!1954 720|1954 80"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1283,19 +1265,10 @@ onClipEvent (enterFrame) {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
-!12478 -2880|11347 -2880!11347 -2880|11347 627!11347 627|12478 627"/>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!12478 627|18367 627!18367 627|18367 -3853!18367 -3853|15138 -3853!15138 -3853|14178 -2880!14178 -2880|12478 -2880"/>
+!14178 -2880|11347 -2880!11347 -2880|11347 627!11347 627|18367 627!18367 627|18367 -3853!18367 -3853|15138 -3853!15138 -3853|14178 -2880"/>
                       </edges>
                     </DOMShape>
                   </members>

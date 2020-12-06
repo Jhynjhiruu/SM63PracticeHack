@@ -107,7 +107,7 @@ _root.LoadCourseFromCode(_root.LoadedCode);
           <frames>
             <DOMFrame index="0" duration="4" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="LDP Transitio" name="trans" selected="true">
+                <DOMSymbolInstance libraryItemName="LDP Transitio" name="trans">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

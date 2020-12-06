@@ -201,7 +201,7 @@ onEnterFrame = null;
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5S2[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -292,19 +292,13 @@ onEnterFrame = null;
             <DOMFrame index="3" duration="25" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="68.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="68.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="-43.45"/>
+                              <Matrix a="0.0152587890625" d="0.03662109375" tx="0.55" ty="25.05"/>
                             </matrix>
                             <GradientEntry color="#373737" ratio="0"/>
                             <GradientEntry color="#1A1A1A" ratio="1"/>
@@ -321,7 +315,7 @@ onEnterFrame = null;
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -269.5S6[#FFFFE4.9A #93.FE -239 -269.5!-239 -269.5|-239 -1469.5!-239 -1469.5|261 -1469.5!261 -1469.5|261 -269.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 1101[-27 1518 -239 1101!-239 1101|-239 -99!-239 -99|261 -99!261 -99|261 1101"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -354,7 +348,7 @@ onEnterFrame = null;
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5S2[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!261 -349.5[#FFFFE4.9A #43.FE -239 -349.5!-239 -349.5|-239 -1549.5!-239 -1549.5|261 -1549.5!261 -1549.5|261 -349.5"/>
                       </edges>
                     </DOMShape>
                   </members>

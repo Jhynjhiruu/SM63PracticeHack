@@ -235,7 +235,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="2" duration="2" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Wing Code" selected="true">
+                <DOMSymbolInstance libraryItemName="Wing Code">
                   <matrix>
                     <Matrix a="-1" tx="0.1" ty="-12.6"/>
                   </matrix>
@@ -297,7 +297,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="Wing Code">
                   <matrix>
-                    <Matrix a="-1" b="1.52587890625e-005" c="1.52587890625e-005" d="1.00001525878906" tx="4.2" ty="-26.7"/>
+                    <Matrix a="-1" b="1.52587890625e-005" c="1.52587890625e-005" tx="4.2" ty="-26.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -400,7 +400,7 @@ onEnterFrame = function () {
         </DOMLayer>
         <DOMLayer name="Layer 1" color="#4FFF4F">
           <frames>
-            <DOMFrame index="0" keyMode="9728" acceleration="-100">
+            <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario Air (Rocket) 2">
                   <matrix>

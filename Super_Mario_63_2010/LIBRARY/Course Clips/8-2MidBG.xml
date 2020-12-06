@@ -21,7 +21,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!10275 3384|-9554 3384!-9554 3384|-9554 -341!-9554 -341|10275 -341!10275 -341|10275 3384"/>
+                        <Edge fillStyle1="1" edges="!-9554 -341|10275 -341!10275 -341|10275 3384!10275 3384|-9554 3384!-9554 3384|-9554 -341"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -92,7 +92,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
-                    <Matrix a="0.212997436523438" d="9.00593566894531" tx="8.8" ty="171.75"/>
+                    <Matrix a="0.212997436523438" d="9.00592041015625" tx="8.8" ty="171.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

@@ -7,19 +7,13 @@
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="0.707107543945313" tx="-506.05" ty="-237.75"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.05" y="-492.5"/>
+                    <Point x="-157.75" y="-585.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="0.707107543945313" tx="-506.05" ty="-237.75"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.05" y="-492.5"/>
+                        <Point x="-157.75" y="-585.95"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -31,25 +25,19 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!1500 -5860|0 -5860!0 -5860|0 -5849.5!0 -9849.5|0 -5860!0 -5860|-1500 -5860"/>
+                        <Edge strokeStyle="1" edges="!-4916 -7838|-5977 -8899!-5977 -8899|-5985 -8891!-3157 -11719|-5977 -8899!-5977 -8899|-7038 -9960"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="230.8" ty="207.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-492.5"/>
+                    <Point x="230.8" y="-284.6"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="230.8" ty="207.9"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point y="-492.5"/>
+                        <Point x="230.8" y="-284.6"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -61,25 +49,19 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!1500 -5860|0 -5860!0 -5860|0 -5849.5!0 -9849.5|0 -5860!0 -5860|-1500 -5860"/>
+                        <Edge strokeStyle="1" edges="!6116 -1702|4616 -1702!4616 -1702|4616 -1691!4616 -1702|3116 -1702!4616 -5691|4616 -1702"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.707107543945313" b="0.707107543945313" c="0.707107543945313" d="0.707107543945313" tx="620.35" ty="-237.75"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.05" y="-492.5"/>
+                    <Point x="272.05" y="-585.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.707107543945313" b="0.707107543945313" c="0.707107543945313" d="0.707107543945313" tx="620.35" ty="-237.75"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.05" y="-492.5"/>
+                        <Point x="272.05" y="-585.95"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -91,20 +73,14 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!1500 -5860|0 -5860!0 -5860|0 -5849.5!0 -9849.5|0 -5860!0 -5860|-1500 -5860"/>
+                        <Edge strokeStyle="1" edges="!9324 -9960S4|8263 -8899!8263 -8899|8271 -8891!5443 -11719|8263 -8899!7202 -7838|8263 -8899"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-2119.4" ty="-979.85"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-2119.4" ty="-979.85"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal" weight="2">
@@ -115,25 +91,19 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!31960 1428S4[#7DAA.51 #FFFC71.97 32953 -1041"/>
+                        <Edge strokeStyle="1" edges="!-10428 -18169[-10218 -20507 -9435 -20638"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.707107543945313" b="-0.707107543945313" c="0.707107543945313" d="0.707107543945313" tx="579.05" ty="63.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-492.5"/>
+                    <Point x="230.8" y="-284.6"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.707107543945313" b="-0.707107543945313" c="0.707107543945313" d="0.707107543945313" tx="579.05" ty="63.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point y="-492.5"/>
+                        <Point x="230.8" y="-284.6"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -145,25 +115,19 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!1500 -5860|0 -5860!0 -5860|0 -5849.5!0 -9849.5|0 -5860!0 -5860|-1500 -5860"/>
+                        <Edge strokeStyle="1" edges="!8498 -3932|7437 -2871!7437 -2871|7445 -2863!7437 -2871|6376 -1810!4617 -5691|7437 -2871"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="0.707107543945313" tx="-117.45" ty="63.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-492.5"/>
+                    <Point x="230.8" y="-284.6"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="0.707107543945313" tx="-117.45" ty="63.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point y="-492.5"/>
+                        <Point x="230.8" y="-284.6"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -175,20 +139,14 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!1500 -5860|0 -5860!0 -5860|0 -5849.5!0 -9849.5|0 -5860!0 -5860|-1500 -5860"/>
+                        <Edge strokeStyle="1" edges="!2856 -1810|1795 -2871!1795 -2871|1787 -2863!1795 -2871|734 -3932!4615 -5691|1795 -2871"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-313.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-313.95"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal" weight="2">
@@ -199,7 +157,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!8633 640S4[#2103.02 #765.CC 7511 2833!7511 2833[6346 3999 4697 3999!4697 3999[3049 3999 1883 2833!1883 2833[#46F.FF #825.FF 868 1140"/>
+                        <Edge strokeStyle="1" edges="!8633 -5639[8451 -4385 7511 -3446!7511 -3446[6346 -2280 4697 -2280!4697 -2280[3049 -2280 1883 -3446!1883 -3446[1136 -4193 868 -5139"/>
                       </edges>
                     </DOMShape>
                   </members>

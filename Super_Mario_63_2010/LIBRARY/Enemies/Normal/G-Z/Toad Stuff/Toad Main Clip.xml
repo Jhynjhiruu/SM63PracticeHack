@@ -238,9 +238,6 @@ if (_root.TotalStars<staramount && _root.CheatCastleUnlock !== true) {
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

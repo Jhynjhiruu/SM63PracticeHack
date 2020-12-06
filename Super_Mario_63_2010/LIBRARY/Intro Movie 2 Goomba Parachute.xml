@@ -7,11 +7,8 @@
             <DOMFrame index="0" duration="14" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9659423828125" b="-0.258804321289063" c="0.258819580078125" d="0.965927124023438" tx="7.75" ty="8.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.9"/>
+                    <Point y="-20"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
@@ -31,11 +28,8 @@
             <DOMFrame index="14" duration="17" tweenType="motion" keyMode="17921" acceleration="-70">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.999679565429688" b="-0.022705078125" c="0.022705078125" d="0.999664306640625" tx="0.7" ty="9.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.95"/>
+                    <Point y="-20.05"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
@@ -55,11 +49,8 @@
             <DOMFrame index="31" duration="4" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9659423828125" b="0.258834838867188" c="-0.258804321289063" d="0.965927124023438" tx="-7.75" ty="8.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.9"/>
+                    <Point y="-20"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
@@ -79,11 +70,8 @@
             <DOMFrame index="35" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.965072631835938" b="0.258834838867188" c="-0.255645751953125" d="0.965911865234375" tx="-8.55" ty="8.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.9"/>
+                    <Point x="-0.9" y="-20"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
@@ -103,11 +91,8 @@
             <DOMFrame index="36" duration="17" tweenType="motion" motionTweenScale="false" keyMode="17409" acceleration="100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9659423828125" b="0.258834838867188" c="-0.258804321289063" d="0.965927124023438" tx="-7.75" ty="8.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.9"/>
+                    <Point y="-20"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
@@ -127,11 +112,8 @@
             <DOMFrame index="53" duration="14" tweenType="motion" motionTweenScale="false" keyMode="17409" acceleration="-70">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.999679565429688" b="-0.022705078125" c="0.022705078125" d="0.999664306640625" tx="0.7" ty="9.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.95"/>
+                    <Point y="-20.05"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
@@ -151,11 +133,8 @@
             <DOMFrame index="67" duration="4" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9659423828125" b="-0.258804321289063" c="0.258819580078125" d="0.965927124023438" tx="7.75" ty="8.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.9"/>
+                    <Point y="-20"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">
@@ -175,11 +154,8 @@
             <DOMFrame index="71" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9659423828125" b="-0.255661010742188" c="0.25567626953125" d="0.965927124023438" tx="8" ty="8.9"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-29.9"/>
+                    <Point x="0.35" y="-20"/>
                   </transformationPoint>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Goomba/YI Style Goomba - 4">

@@ -13,9 +13,6 @@
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -31,9 +28,6 @@
                   <filters>
                     <AdjustColorFilter brightness="-30" contrast="10" saturation="-50" hue="-110"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

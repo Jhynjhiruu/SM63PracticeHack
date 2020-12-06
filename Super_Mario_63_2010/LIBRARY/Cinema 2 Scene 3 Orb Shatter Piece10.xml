@@ -21,19 +21,13 @@ onEnterFrame = function () {
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-25.3" ty="12.8"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-25.3" ty="12.8"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.04437255859375" d="0.04437255859375"/>
+                              <Matrix a="0.04437255859375" d="0.04437255859375" tx="-25.3" ty="12.8"/>
                             </matrix>
                             <GradientEntry color="#F8F2C2" alpha="0.0823529411764706" ratio="0"/>
                             <GradientEntry color="#FEF7BC" alpha="0.623529411764706" ratio="1"/>
@@ -50,9 +44,8 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!706.5 19.5S5[706.5 #9.B3 706.5 0!706.5 0[#2C2.74 #FFFEED.C7 524 -473.5!524 -473.5[#1FF.F7 -487.03125 499 -500!499 -500[#1E1.A2 #FFFDFA.A4 463.5 -533.5"/>
-                        <Edge fillStyle0="1" edges="!463.5 -533.5S1[#1C4.E1 #FFFDF5.5E 442.5 -512!442.5 -512[#17F.F6 -450.90625 331 -390!331 -390[#148.38 -386.78125 325.5 -383.5!325.5 -383.5[#13A.DA #FFFE8C.FF 305 -358.5!305 -358.5[#197.86 #FFFF15.02 470 -93!470 -93[#1ED.FF #FFFFD9.C3
- 503.5 20.5!503.5 20.5[#25C.22 16.75 706.5 19.5"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!201 276[201 266 201 256!201 256[200 -18 18 -217!18 -217[6 -231 -7 -244!-7 -244[-24 -261 -42 -277"/>
+                        <Edge fillStyle0="1" edges="!-42 -277[-53 -267 -63 -256!-63 -256[-122 -195 -175 -134!-175 -134[-178 -131 -180 -127!-180 -127[-191 -115 -201 -102!-201 -102[-98 21 -36 163!-36 163[-12 218 -2 277!-2 277[98 273 201 276"/>
                       </edges>
                     </DOMShape>
                   </members>

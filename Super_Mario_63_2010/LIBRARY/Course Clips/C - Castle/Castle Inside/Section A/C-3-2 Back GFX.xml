@@ -26,7 +26,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!13668 -3241|6689 -3241!6689 -3241|6689 -2601!6689 -2601|13048 -2601!13048 -2601|13048 -1294!13048 -1294|6658 -1294!6658 -1294|6658 -654!6658 -654|13668 -654!13668 -654|13668 -3241"/>
+                        <Edge fillStyle0="1" edges="!13048 -1294|6658 -1294!6658 -1294|6658 -654!6658 -654|13668 -654!13668 -654|13668 -3241!13668 -3241|6689 -3241!6689 -3241|6689 -2601!6689 -2601|13048 -2601!13048 -2601|13048 -1294"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -69,54 +69,39 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="206.45" ty="-0.55"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="206.45" ty="3.45"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="206.45" ty="3.45"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="Castle Wall Large" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="15" d="14.6866607666016" tx="47.1" ty="-166.5"/>
+                                  <Matrix a="15" d="14.6866607666016" tx="253.55" ty="-163.05"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!1901.5 -1540|-4985 -1540!-4985 -1540|-4985 -3330!-4985 -3330|1901.5 -3330.5!1901.5 -3330.5|1901.5 -1540"/>
+                            <Edge fillStyle1="1" edges="!6031 -1471|-856 -1471!-856 -1471|-856 -3261!-856 -3261|6031 -3261!6031 -3261|6031 -1471"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="206.45" ty="-0.55"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="206.45" ty="-0.55"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="Castle Wall Large" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="15" d="-14.6866607666016" tx="47.1" ty="16.05"/>
+                                  <Matrix a="15" d="-14.6866607666016" tx="253.55" ty="15.5"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!-4985 -1480|-4985 321!-4985 321|1901.5 321.5!1901.5 321.5|1901.5 -1480!1901.5 -1480|-4985 -1480"/>
+                            <Edge fillStyle0="1" edges="!-856 310|6031 311!6031 311|6031 -1491!6031 -1491|-856 -1491!-856 -1491|-856 310"/>
                           </edges>
                         </DOMShape>
                       </members>

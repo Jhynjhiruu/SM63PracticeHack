@@ -410,14 +410,11 @@ onMouseDown = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="Level Designer Windows/LDW - Info/LDW - Info BG BG" name="bg">
                   <matrix>
-                    <Matrix a="1.04396057128906" tx="0.85" ty="-2.35"/>
+                    <Matrix a="1.0439453125" tx="0.85" ty="-2.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="67.25" y="8.1"/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

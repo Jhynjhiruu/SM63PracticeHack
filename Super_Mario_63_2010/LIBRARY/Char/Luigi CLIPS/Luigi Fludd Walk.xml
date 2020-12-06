@@ -64,7 +64,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="10" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip">
                   <matrix>
                     <Matrix tx="4.5" ty="-19.5"/>
                   </matrix>
@@ -76,7 +76,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="20" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip">
                   <matrix>
                     <Matrix tx="4.5" ty="-18.5"/>
                   </matrix>
@@ -88,7 +88,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="30" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip">
                   <matrix>
                     <Matrix tx="4.5" ty="-19.5"/>
                   </matrix>
@@ -100,7 +100,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="40" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip">
                   <matrix>
                     <Matrix tx="4.5" ty="-20.5"/>
                   </matrix>
@@ -112,7 +112,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="50" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip">
                   <matrix>
                     <Matrix tx="4.5" ty="-19.5"/>
                   </matrix>
@@ -124,7 +124,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="60" duration="10" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Dynamic Fludd Nozzle Clip">
                   <matrix>
                     <Matrix tx="4.5" ty="-18.5"/>
                   </matrix>
@@ -169,8 +169,8 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" edges="!318 -88|318 150!318 150|-312 150!-312 150|-312 -88!-312 -88|318 -88"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!64 -4|64 82!64 82|46 82!46 82|46 102!46 102|-74 102!-74 102|-74 77!-74 77|-94 77!-94 77|-94 24!-94 24|-76 24!-76 24|-76 -4!-76 -4|64 -4"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!46 102|-74 102!-74 102|-74 77!-74 77|-94 77!-94 77|-94 24!-94 24|-76 24!-76 24|-76 -4!-76 -4|64 -4!64 -4|64 82!64 82|46 82!46 82|46 102"/>
+                    <Edge fillStyle1="1" edges="!318 150|-312 150!-312 150|-312 -88!-312 -88|318 -88!318 -88|318 150"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -200,9 +200,9 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" edges="!318 -90|318 150!318 150|-312 150!-312 150|-312 -90!-312 -90|318 -90"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!-50 110|-50 85!-50 85|-70 85!-70 85|-70 32!-70 32|-52 32!-52 32|-52 0!-52 0|88 0!88 0|88 90!88 90|70 90!70 90|70 110!70 110|10 110"/>
                     <Edge fillStyle0="1" strokeStyle="2" edges="!10 110|-50 110"/>
+                    <Edge fillStyle1="1" edges="!318 150|-312 150!-312 150|-312 -90!-312 -90|318 -90!318 -90|318 150"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -232,13 +232,13 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!83 -27S7|108 -27!108 -27|108 2"/>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!108 2S7|123 2"/>
                     <Edge fillStyle0="1" strokeStyle="2" edges="!25 20S5|25 -27!25 -27|83 -27"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!83 -27S5|83 2!83 2|108 2!88 102|75 102!75 102|75 124!75 124|-15 124!-15 124|-15 99!-15 99|-50 99!-50 99|-50 42!-50 42|-32 42!-32 42|-32 20!-32 20|25 20"/>
-                    <Edge fillStyle0="1" strokeStyle="2" edges="!108 80S5|90 80!90 80|88 102"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!108 20S5|108 80"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!83 -27S7|108 -27!108 -27|108 2"/>
                     <Edge fillStyle0="1" strokeStyle="2" edges="!108 2S5|108 20"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!108 20S5|108 80"/>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="!108 80S5|90 80!90 80|88 102"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!88 102S5|75 102!75 102|75 124!75 124|-15 124!-15 124|-15 99!-15 99|-50 99!-50 99|-50 42!-50 42|-32 42!-32 42|-32 20!-32 20|25 20!83 -27|83 2!83 2|108 2"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!108 2S7|123 2"/>
                     <Edge fillStyle1="1" edges="!405 175S2|-402 175!-402 175|-402 -100!-402 -100|405 -100!405 -100|405 175"/>
                   </edges>
                 </DOMShape>
@@ -512,10 +512,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="
-!-686 220S4|-702 220!-702 220|-702 -300!-702 -300|-686 -300"/>
                     <Edge fillStyle1="1" edges="
 !-130 -300S2|-130 220!-130 220|-630 220!-630 220|-630 -300!-630 -300|-130 -300"/>
+                    <Edge strokeStyle="1" edges="
+!-686 220S4|-702 220!-702 220|-702 -300!-702 -300|-686 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -538,10 +538,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="
-!-686 220|-702 220!-702 220|-702 -300!-702 -300|-686 -300"/>
                     <Edge fillStyle1="1" edges="
 !-110 -300|-110 220!-110 220|-610 220!-610 220|-610 -300!-610 -300|-110 -300"/>
+                    <Edge strokeStyle="1" edges="
+!-686 220|-702 220!-702 220|-702 -300!-702 -300|-686 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -564,10 +564,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" edges="
-!-110 -300|-110 220!-110 220|-610 220!-610 220|-610 -300!-610 -300|-110 -300"/>
                     <Edge strokeStyle="1" edges="
 !-666 220|-682 220!-682 220|-682 -300!-682 -300|-666 -300"/>
+                    <Edge fillStyle1="1" edges="
+!-110 -300|-110 220!-110 220|-610 220!-610 220|-610 -300!-610 -300|-110 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -590,10 +590,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="
-!-726 220|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                     <Edge fillStyle1="1" edges="
 !-110 -300|-110 220!-110 220|-610 220!-610 220|-610 -300!-610 -300|-110 -300"/>
+                    <Edge strokeStyle="1" edges="
+!-726 220|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -616,10 +616,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="
-!-726 220S4|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                     <Edge fillStyle1="1" edges="
 !-130 -300S2|-130 220!-130 220|-630 220!-630 220|-630 -300!-630 -300|-130 -300"/>
+                    <Edge strokeStyle="1" edges="
+!-726 220S4|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -642,10 +642,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="
-!-726 220S4|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                     <Edge fillStyle1="1" edges="
 !-130 -300S2|-130 220!-130 220|-630 220!-630 220|-630 -300!-630 -300|-130 -300"/>
+                    <Edge strokeStyle="1" edges="
+!-726 220S4|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -668,10 +668,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" edges="
-!-150 -300S2|-150 220!-150 220|-650 220!-650 220|-650 -300!-650 -300|-150 -300"/>
                     <Edge strokeStyle="1" edges="
 !-746 220S4|-762 220!-762 220|-762 -300!-762 -300|-746 -300"/>
+                    <Edge fillStyle1="1" edges="
+!-150 -300S2|-150 220!-150 220|-650 220!-650 220|-650 -300!-650 -300|-150 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -694,10 +694,10 @@ onEnterFrame = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="
-!-726 220S4|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                     <Edge fillStyle1="1" edges="
 !-130 -300S2|-130 220!-130 220|-630 220!-630 220|-630 -300!-630 -300|-130 -300"/>
+                    <Edge strokeStyle="1" edges="
+!-726 220S4|-742 220!-742 220|-742 -300!-742 -300|-726 -300"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -744,7 +744,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="40" duration="10" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="      Char/  BITS Fludd/Fludd Handle - Side">
+                <DOMBitmapInstance libraryItemName="      Char/  BITS Fludd/Fludd Handle - Side">
                   <matrix>
                     <Matrix a="-1" tx="8.5" ty="-6"/>
                   </matrix>
@@ -947,7 +947,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="70" duration="10" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="      Char/  Luigi CLIPS/ Luigi BITs/Overworld - Luigi 3 - 8">
+                <DOMBitmapInstance libraryItemName="      Char/  Luigi CLIPS/ Luigi BITs/Overworld - Luigi 3 - 8">
                   <matrix>
                     <Matrix a="-1" tx="5.5" ty="-21.5"/>
                   </matrix>

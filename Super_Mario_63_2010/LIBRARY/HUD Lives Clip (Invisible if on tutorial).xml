@@ -22,7 +22,7 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" alpha="0.501960784313725" size="16" bitmapSize="320" face="Matisse ITC"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="16" bitmapSize="320" face="MatisseITC-Regular"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -30,7 +30,7 @@
                     <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
                   </filters>
                 </DOMDynamicText>
-                <DOMStaticText left="65.5" width="13" height="24.55" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="-81.55" ty="-12.6"/>
                   </matrix>
@@ -38,7 +38,7 @@
                     <DOMTextRun>
                       <characters>=</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" alpha="0.501960784313725" size="22" face="Matisse ITC"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" alpha="0.498039215686275" size="22" face="MatisseITC-Regular"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -54,7 +54,7 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" size="16" bitmapSize="320" face="Matisse ITC" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" size="16" bitmapSize="320" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -62,7 +62,7 @@
                     <GlowFilter blurX="2" blurY="2" color="#000000" strength="4"/>
                   </filters>
                 </DOMDynamicText>
-                <DOMStaticText left="65.5" width="13" height="24.55" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText left="66.2" width="11.6" height="27.25" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="-83.55" ty="-14.6"/>
                   </matrix>
@@ -70,7 +70,7 @@
                     <DOMTextRun>
                       <characters>=</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="Matisse ITC" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

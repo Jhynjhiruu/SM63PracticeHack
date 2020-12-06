@@ -183,19 +183,10 @@ onEnterFrame = null;
             <DOMFrame index="54" duration="15" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix tx="-87.1" ty="-9.55"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-262.4" ty="-19"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-262.4" ty="-19"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -206,20 +197,14 @@ onEnterFrame = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+                            <Edge strokeStyle="1" edges="!-5353 -386S4|-5243 -568!-5243 -568|-5130 -386!-5130 -386|-5353 -386"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-262.4" ty="-19"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-262.4" ty="-19"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -230,20 +215,14 @@ onEnterFrame = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+                            <Edge strokeStyle="1" edges="!-5060 -193S4|-5240 -193!-5240 -193|-5240 -373!-5240 -373|-5060 -373!-5060 -373|-5060 -193"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-262.4" ty="-19"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-262.4" ty="-19"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -254,8 +233,8 @@ onEnterFrame = null;
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+                            <Edge strokeStyle="1" edges="!-5255 -283S4[-5256 -246 -5282 -220!-5282 -220[-5308 -193 -5345 -193!-5345 -193[-5383 -193 -5409 -220!-5409 -220[-5436 -246 -5435 -283!-5435 -283[-5436 -321 -5409 -347!-5409 -347[-5383 -374 -5345 -373!-5345 -373[-5308 -374 -5282 -347
+!-5282 -347[-5256 -321 -5255 -283"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -267,19 +246,10 @@ onEnterFrame = null;
             <DOMFrame index="69" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="34.8" ty="163.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-140.5" ty="154"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-140.5" ty="154"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -291,20 +261,14 @@ onEnterFrame = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!-2915 3074S4|-2805 2892!-2805 2892|-2692 3074!-2692 3074|-2915 3074"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-140.5" ty="154"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-140.5" ty="154"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -316,20 +280,14 @@ onEnterFrame = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!-2622 3267S4|-2802 3267!-2802 3267|-2802 3087!-2802 3087|-2622 3087!-2622 3087|-2622 3267"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-140.5" ty="154"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-140.5" ty="154"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -341,8 +299,8 @@ onEnterFrame = null;
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!-2817 3177S4[-2818 3214 -2844 3240!-2844 3240[-2870 3267 -2907 3267!-2907 3267[-2945 3267 -2971 3240!-2971 3240[-2998 3214 -2997 3177!-2997 3177[-2998 3139 -2971 3113!-2971 3113[-2945 3086 -2907 3087!-2907 3087[-2870 3086 -2844 3113
+!-2844 3113[-2818 3139 -2817 3177"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -742,7 +700,7 @@ onEnterFrame = null;
         </DOMLayer>
         <DOMLayer name="Layer 1" color="#4FFF4F" parentLayerIndex="8">
           <frames>
-            <DOMFrame index="0" keyMode="9728" acceleration="-40">
+            <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 9 - Secret Stars/ 9-07 Kamek (Garden Battle)/9-07 Kamek Flying Idle">
                   <matrix>
@@ -1027,9 +985,6 @@ onEnterFrame = null;
                   <filters>
                     <BlurFilter blurX="0" blurY="0"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -1054,9 +1009,6 @@ onEnterFrame = null;
                   <filters>
                     <BlurFilter blurX="0" blurY="0"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

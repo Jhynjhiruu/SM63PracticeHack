@@ -57,7 +57,7 @@ onEnterFrame = function () {
 ]]></script>
               </Actionscript>
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ 3 - Hazy Maze Cave/3-6 Haze Box" name="box" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 3 - Hazy Maze Cave/3-6 Haze Box" name="box">
                   <matrix>
                     <Matrix tx="1536.05" ty="797"/>
                   </matrix>
@@ -178,7 +178,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="   Effects/Water/Water Code">
                   <matrix>
-                    <Matrix d="1.00416564941406" tx="-180" ty="569.9"/>
+                    <Matrix d="1.004150390625" tx="-180" ty="569.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -201,7 +201,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="   Effects/Water/Water Code">
                   <matrix>
-                    <Matrix d="1.00416564941406" tx="1639.45" ty="657.9"/>
+                    <Matrix d="1.004150390625" tx="1639.45" ty="657.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

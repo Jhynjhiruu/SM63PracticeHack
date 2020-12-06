@@ -113,7 +113,7 @@ onMouseDown = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!320 -320|320 317!320 317|-320 317!-320 317|-320 -320!-320 -320|320 -320"/>
+                    <Edge fillStyle1="1" edges="!320 317|-320 317!-320 317|-320 -320!-320 -320|320 -320!320 -320|320 317"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="   Enemies/Normal/ G-Z/ Koopa/Koopa - Green - Shell - 1">
@@ -139,7 +139,7 @@ onMouseDown = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!305 0|-320 0!-320 0|-320 -320!-320 -320|305 -320!305 -320|305 0"/>
+                        <Edge fillStyle1="1" edges="!-320 -320|305 -320!305 -320|305 0!305 0|-320 0!-320 0|-320 -320"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -161,7 +161,7 @@ onMouseDown = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-320 -320.5S2|320 -320.5!320 -320.5|320 319.5!320 319.5|-320 319.5!-320 319.5|-320 -320.5"/>
+                        <Edge fillStyle1="1" edges="!320 -320.5|320 319.5!320 319.5|-320 319.5!-320 319.5|-320 -320.5!-320 -320.5|320 -320.5"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -215,7 +215,7 @@ onMouseDown = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!320 -320.5S2|320 319.5!320 319.5|-320 319.5!-320 319.5|-320 -320.5!-320 -320.5|320 -320.5"/>
+                    <Edge fillStyle1="1" edges="!320 319.5S2|-320 319.5!-320 319.5|-320 -320.5!-320 -320.5|320 -320.5!320 -320.5|320 319.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -235,7 +235,7 @@ onMouseDown = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!320 -320.5|320 319.5!320 319.5|-320 319.5!-320 319.5|-320 -320.5!-320 -320.5|320 -320.5"/>
+                    <Edge fillStyle1="1" edges="!320 319.5|-320 319.5!-320 319.5|-320 -320.5!-320 -320.5|320 -320.5!320 -320.5|320 319.5"/>
                   </edges>
                 </DOMShape>
               </elements>

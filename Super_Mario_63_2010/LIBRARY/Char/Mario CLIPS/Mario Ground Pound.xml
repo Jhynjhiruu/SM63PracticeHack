@@ -196,7 +196,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="9" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix tx="-1.15" ty="-9.65"/>
                   </matrix>
@@ -208,7 +208,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="12" duration="14" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix tx="-1.4" ty="-5.15"/>
                   </matrix>
@@ -262,7 +262,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="38" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix a="0.86602783203125" b="-0.5" c="0.5" d="0.86602783203125" tx="-1.1" ty="-9.95"/>
                   </matrix>
@@ -299,7 +299,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="2" duration="7" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" keyMode="17921" acceleration="-60">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="      Char/  BITS Mario/Mario (none) Hurt Fall Back -2">
+                <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) Hurt Fall Back -2">
                   <matrix>
                     <Matrix a="-1" tx="13.6" ty="-31.15"/>
                   </matrix>

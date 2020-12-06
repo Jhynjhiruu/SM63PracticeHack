@@ -11,7 +11,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="0" b="2.64234924316406" c="-6.24952697753906" d="0" tx="507.1" ty="-14.1"/>
+                    <Matrix a="0" b="2.642333984375" c="-6.24951171875" d="0" tx="507.1" ty="-14.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -41,19 +41,13 @@ onClipEvent (enterFrame) {
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="42.55" ty="-738.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="42.55" ty="-738.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-16" ty="-16"/>
+                              <Matrix a="20" d="20" tx="26.55" ty="-754.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -68,25 +62,19 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-3699 -320|320 -320!320 -320|320 320!320 320|-3699 320!-3699 320|-3699 -320"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!1171 -14459|-2848 -14459!-2848 -14459|-2848 -15099!-2848 -15099|1171 -15099!1171 -15099|1171 -14459"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="292.2" ty="-738.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="292.2" ty="-738.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-16" ty="-16"/>
+                              <Matrix a="20" d="20" tx="276.2" ty="-754.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -101,7 +89,7 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-3699 -320|320 -320!320 -320|320 320!320 320|-3699 320!-3699 320|-3699 -320"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!6164 -14459|2145 -14459!2145 -14459|2145 -15099!2145 -15099|6164 -15099!6164 -15099|6164 -14459"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -158,7 +146,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="0" b="1.66090393066406" c="-22.4667663574219" d="0" tx="-633.5" ty="-772.5"/>
+                    <Matrix a="0" b="1.660888671875" c="-22.4667663574219" d="0" tx="-633.5" ty="-772.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -178,7 +166,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp1">
                   <matrix>
-                    <Matrix a="0" b="1.66090393066406" c="-22.4667663574219" d="0" tx="500" ty="42"/>
+                    <Matrix a="0" b="1.660888671875" c="-22.4667663574219" d="0" tx="500" ty="42"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -217,7 +205,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" selected="true">
                   <matrix>
-                    <Matrix a="0" b="1.66090393066406" c="-22.4667663574219" d="0" tx="465.05" ty="-110.95"/>
+                    <Matrix a="0" b="1.660888671875" c="-22.4667663574219" d="0" tx="465.05" ty="-110.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1288,49 +1276,37 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="297.95" ty="-1375.95"/>
+                              <Matrix a="20" d="20" tx="297.95" ty="-1376.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!9578 -25178|8258 -25178!8258 -25178|8258 -25346!8258 -25346|9578 -25346!9578 -25346|9578 -25178"/>
+                        <Edge fillStyle1="1" edges="!9578 -25198|8258 -25198!8258 -25198|8258 -25366!8258 -25366|9578 -25366!9578 -25366|9578 -25198"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-634.4" ty="-15.2"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-634.4" ty="-15.2"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="297.95" ty="-1375.95"/>
+                              <Matrix a="20" d="20" tx="-336.45" ty="-1391.15"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!9578 -25178|8258 -25178!8258 -25178|8258 -25346!8258 -25346|9578 -25346!9578 -25346|9578 -25178"/>
+                        <Edge fillStyle1="1" edges="!-4430 -25650|-3110 -25650!-3110 -25650|-3110 -25482!-3110 -25482|-4430 -25482!-4430 -25482|-4430 -25650"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1358,49 +1334,49 @@ onClipEvent (enterFrame) {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-706.6" ty="-1557.55"/>
+                              <Matrix a="20" d="20" tx="-692.6" ty="-1503.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-185" ty="-1503.55"/>
+                              <Matrix a="20" d="20" tx="-516.95" ty="-1503.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="-20" tx="734.7" ty="-1240.45"/>
+                              <Matrix a="-20" d="-20" tx="223.95" ty="-1240.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="4">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="-20" tx="559.05" ty="-1240.45"/>
+                              <Matrix a="20" d="20" tx="-706.6" ty="-1557.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="5">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-692.6" ty="-1503.55"/>
+                              <Matrix a="-20" d="-20" tx="734.7" ty="-1240.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="6">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-516.95" ty="-1503.55"/>
+                              <Matrix a="-20" d="-20" tx="559.05" ty="-1240.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="7">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="-20" tx="223.95" ty="-1240.5"/>
+                              <Matrix a="20" d="20" tx="-185" ty="-1503.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1415,21 +1391,21 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="5" fillStyle1="6" edges="!-4719 -24198|-3766.5 -25150"/>
-                        <Edge fillStyle0="5" strokeStyle="1" edges="!-3766.5 -25150|-5523 -26906.5!-5523 -26906.5|-8232 -24198"/>
-                        <Edge fillStyle0="5" edges="!-8232 -24198|-4719 -24198"/>
-                        <Edge fillStyle1="7" strokeStyle="1" edges="!-1141 -30683|-3850 -27974.5!-3850 -27974.5|-6558.5 -30683"/>
-                        <Edge fillStyle1="7" edges="!-6558.5 -30683|-1141 -30683"/>
-                        <Edge fillStyle1="6" strokeStyle="1" edges="!-3766.5 -25150|-2010 -26906.5!-2010 -26906.5|698.5 -24198"/>
-                        <Edge fillStyle1="6" edges="!698.5 -24198|-4719 -24198"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-10252 -28911|-14132 -28911!-14132 -28911|-14132 -31151!-14132 -31151|-10252 -31151!-10252 -31151|-10252 -28911"/>
-                        <Edge fillStyle0="3" strokeStyle="1" edges="!4608.5 -29730|6365 -27973.5!6365 -27973.5|9074 -30682"/>
-                        <Edge fillStyle0="3" edges="!9074 -30682|5561 -30682"/>
-                        <Edge fillStyle0="3" fillStyle1="4" edges="!5561 -30682|4608.5 -29730"/>
-                        <Edge fillStyle0="4" strokeStyle="1" edges="!143.5 -30682|2852 -27973.5!2852 -27973.5|4608.5 -29730"/>
-                        <Edge fillStyle1="2" strokeStyle="1" edges="!1920 -24198|4629 -26906.5!4629 -26906.5|7337.5 -24198"/>
-                        <Edge fillStyle1="2" edges="!7337.5 -24198|1920 -24198"/>
-                        <Edge fillStyle0="4" edges="!5561 -30682|143.5 -30682"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!-4719 -24198|-3766.5 -25150"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-3766.5 -25150|-5523 -26906.5!-5523 -26906.5|-8232 -24198"/>
+                        <Edge fillStyle0="1" edges="!-8232 -24198|-4719 -24198"/>
+                        <Edge fillStyle1="3" strokeStyle="1" edges="!-1141 -30683|-3850 -27974.5!-3850 -27974.5|-6558.5 -30683"/>
+                        <Edge fillStyle1="3" edges="!-6558.5 -30683|-1141 -30683"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!-3766.5 -25150|-2010 -26906.5!-2010 -26906.5|698.5 -24198"/>
+                        <Edge fillStyle1="2" edges="!698.5 -24198|-4719 -24198"/>
+                        <Edge fillStyle1="4" strokeStyle="1" edges="!-10252 -28911|-14132 -28911!-14132 -28911|-14132 -31151!-14132 -31151|-10252 -31151!-10252 -31151|-10252 -28911"/>
+                        <Edge fillStyle0="5" strokeStyle="1" edges="!4608.5 -29730|6365 -27973.5!6365 -27973.5|9074 -30682"/>
+                        <Edge fillStyle0="5" edges="!9074 -30682|5561 -30682"/>
+                        <Edge fillStyle0="5" fillStyle1="6" edges="!5561 -30682|4608.5 -29730"/>
+                        <Edge fillStyle0="6" strokeStyle="1" edges="!143.5 -30682|2852 -27973.5!2852 -27973.5|4608.5 -29730"/>
+                        <Edge fillStyle1="7" strokeStyle="1" edges="!1920 -24198|4629 -26906.5!4629 -26906.5|7337.5 -24198"/>
+                        <Edge fillStyle1="7" edges="!7337.5 -24198|1920 -24198"/>
+                        <Edge fillStyle0="6" edges="!5561 -30682|143.5 -30682"/>
                       </edges>
                     </DOMShape>
                   </members>

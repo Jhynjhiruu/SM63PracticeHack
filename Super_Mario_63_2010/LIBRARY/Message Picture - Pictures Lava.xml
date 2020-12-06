@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1109 -1340|1109 580!1109 580|-1310 580!-1310 580|-1310 -1340!-1310 -1340|1109 -1340"/>
+                    <Edge fillStyle1="1" edges="!1109 580|-1310 580!-1310 580|-1310 -1340!-1310 -1340|1109 -1340!1109 -1340|1109 580"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -25,9 +25,6 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-315.4" ty="-38.95"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
@@ -46,21 +43,15 @@
                       </transformationPoint>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-315.4" ty="-38.95"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-315.4" ty="-38.95"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <SolidColor color="#BD0000"/>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!9878 792|1192 792!1192 792|1192 1772!1192 1772|9878 1772!9878 1772|9878 792"/>
+                            <Edge fillStyle0="1" edges="!3570 13|-5116 13!-5116 13|-5116 993!-5116 993|3570 993!3570 993|3570 13"/>
                           </edges>
                         </DOMShape>
                       </members>

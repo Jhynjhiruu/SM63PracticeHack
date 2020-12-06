@@ -64,9 +64,6 @@ onEnterFrame = function () {
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-720.75" ty="-94.45"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
@@ -93,21 +90,15 @@ onEnterFrame = function () {
                       </transformationPoint>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-720.75" ty="-94.45"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-720.75" ty="-94.45"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <SolidColor color="#BD0000"/>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!22193.5 1945|6597 1945!6597 1945|6597 2925!6597 2925|22194.5 2925!22194.5 2925|22193.5 1945"/>
+                            <Edge fillStyle0="1" edges="!7779 56|-7818 56!-7818 56|-7818 1036!-7818 1036|7780 1036!7780 1036|7779 56"/>
                           </edges>
                         </DOMShape>
                       </members>

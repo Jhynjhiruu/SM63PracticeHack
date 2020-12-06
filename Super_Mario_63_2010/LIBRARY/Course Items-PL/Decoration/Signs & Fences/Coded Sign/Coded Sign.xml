@@ -149,9 +149,9 @@ _root.playpause = false;
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="!-60 -466|-320 -466!-320 -466|-320 -1066!-320 -1066|320 -1066!320 -1066|320 -466!320 -466|60 -466"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!60 -466|60 -15!60 -15|-60 -15!-60 -15|-60 -466"/>
-                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-60 -466|60 -466"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-60 -466|-320 -466!-320 -466|-320 -1066!-320 -1066|320 -1066!320 -1066|320 -466!320 -466|60 -466"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!60 -466|-60 -466"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Decoration/ Signs &amp; Fences/ Coded Sign/Sign Image Clip">
@@ -186,7 +186,7 @@ _root.playpause = false;
           <frames>
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="box" selected="true">
+                <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="box">
                   <matrix>
                     <Matrix a="0.283218383789063" d="0.937484741210938" ty="-0.25"/>
                   </matrix>

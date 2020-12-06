@@ -28,7 +28,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText width="258.6" height="55.85" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText width="228.05" height="61.9" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="-114" ty="-100.05"/>
                   </matrix>
@@ -36,12 +36,12 @@
                     <DOMTextRun>
                       <characters>Game Over</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" size="50" face="Matisse ITC" fillColor="#FF0000"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="50" face="MatisseITC-Regular" fillColor="#FF0000"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText width="68.25" height="19" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText width="61.75" height="21.05" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="-190.95" ty="-10.35"/>
                   </matrix>
@@ -49,12 +49,12 @@
                     <DOMTextRun>
                       <characters>Continue</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" size="17" face="Matisse ITC" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="17" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText width="31.35" height="19" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText width="26.6" height="21.05" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="144.15" ty="-9.55"/>
                   </matrix>
@@ -62,7 +62,7 @@
                     <DOMTextRun>
                       <characters>Quit</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" size="17" face="Matisse ITC" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="17" face="MatisseITC-Regular" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

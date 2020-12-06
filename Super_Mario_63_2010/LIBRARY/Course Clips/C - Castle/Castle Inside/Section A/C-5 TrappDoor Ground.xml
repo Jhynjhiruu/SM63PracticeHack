@@ -20,7 +20,7 @@ if (_root.newstar == true) {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2029 -81|2029 259!2029 259|-2029 259!-2029 259|-2029 -81!-2029 -81|2029 -81"/>
+                    <Edge fillStyle1="1" edges="!2029 259|-2029 259!-2029 259|-2029 -81!-2029 -81|2029 -81!2029 -81|2029 259"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -60,19 +60,13 @@ play();
             <DOMFrame index="0" duration="9" tweenType="motion" keyMode="17921" acceleration="52">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" ty="-0.05"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-101" y="-3.35"/>
+                    <Point x="101" y="-3.4"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" ty="-0.05"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-101" y="-3.35"/>
+                        <Point x="101" y="-3.4"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -89,7 +83,7 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!20 -68|20 66!20 66|2020 66!2020 66|2020 -68!2020 -68|20 -68"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -99,19 +93,13 @@ play();
             <DOMFrame index="9" duration="2" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.225860595703125" b="0.973419189453125" c="0.973419189453125" d="0.225860595703125" tx="81.45" ty="95.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-101" y="-3.35"/>
+                    <Point x="101" y="-3.4"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.225860595703125" b="0.973419189453125" c="0.973419189453125" d="0.225860595703125" tx="81.45" ty="95.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-101" y="-3.35"/>
+                        <Point x="101" y="-3.4"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -128,7 +116,7 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!2020 -68|1569 1879!1569 1879|1699 1909!1699 1909|2150 -38!2150 -38|2020 -68"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -138,19 +126,13 @@ play();
             <DOMFrame index="11" duration="6" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.135757446289063" b="0.99029541015625" c="0.99029541015625" d="0.135757446289063" tx="90.65" ty="97.05"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-100.95" y="-3.4"/>
+                    <Point x="101" y="-3.4"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.135757446289063" b="0.99029541015625" c="0.99029541015625" d="0.135757446289063" tx="90.65" ty="97.05"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-100.95" y="-3.4"/>
+                        <Point x="101" y="-3.4"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -167,7 +149,7 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!2021 -68|1750 1912!1750 1912|1882 1930!1882 1930|2153 -50!2153 -50|2021 -68"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -177,19 +159,13 @@ play();
             <DOMFrame index="17" duration="19" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.5" b="0.86602783203125" c="0.86602783203125" d="0.5" tx="53.45" ty="85.75"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-101" y="-3.4"/>
+                    <Point x="101" y="-3.4"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.5" b="0.86602783203125" c="0.86602783203125" d="0.5" tx="53.45" ty="85.75"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-101" y="-3.4"/>
+                        <Point x="101" y="-3.4"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -206,29 +182,23 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!1137 1732|2137 0!2137 0|2021 -67!2021 -67|1021 1665!1021 1665|1137 1732"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
               </elements>
             </DOMFrame>
-            <DOMFrame index="36" duration="2" keyMode="9728" acceleration="-50">
+            <DOMFrame index="36" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="1" d="0" tx="104.45" ty="97.6"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-101" y="-3.45"/>
+                    <Point x="101" y="-3.4"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="1" d="0" tx="104.45" ty="97.6"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-101" y="-3.45"/>
+                        <Point x="101" y="-3.4"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -245,7 +215,7 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!2022 -68|2022 1932!2022 1932|2156 1932!2156 1932|2156 -68!2156 -68|2022 -68"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -292,17 +262,11 @@ play();
             <DOMFrame index="9" duration="2" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.225860595703125" b="0.973419189453125" c="-0.973419189453125" d="0.225860595703125" tx="-81.45" ty="95.7"/>
-                  </matrix>
                   <transformationPoint>
                     <Point x="-101" y="-3.35"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.225860595703125" b="0.973419189453125" c="-0.973419189453125" d="0.225860595703125" tx="-81.45" ty="95.7"/>
-                      </matrix>
                       <transformationPoint>
                         <Point x="-101" y="-3.35"/>
                       </transformationPoint>
@@ -321,7 +285,7 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2020 -67|-1569 1880!-1569 1880|-1699 1910!-1699 1910|-2150 -37!-2150 -37|-2020 -67"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -331,19 +295,13 @@ play();
             <DOMFrame index="11" duration="6" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.135757446289063" b="0.99029541015625" c="-0.99029541015625" d="0.135757446289063" tx="-90.65" ty="97.1"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-100.95" y="-3.4"/>
+                    <Point x="-101" y="-3.35"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.135757446289063" b="0.99029541015625" c="-0.99029541015625" d="0.135757446289063" tx="-90.65" ty="97.1"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-100.95" y="-3.4"/>
+                        <Point x="-101" y="-3.35"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -360,7 +318,7 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2021 -67|-1750 1913!-1750 1913|-1882 1931!-1882 1931|-2153 -49!-2153 -49|-2021 -67"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -370,19 +328,13 @@ play();
             <DOMFrame index="17" duration="19" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="-53.35" ty="85.8"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-101" y="-3.35"/>
+                    <Point x="-100.95" y="-3.35"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="-53.35" ty="85.8"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-101" y="-3.35"/>
+                        <Point x="-100.95" y="-3.35"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -399,29 +351,23 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1135 1733|-2135 1!-2135 1|-2019 -66!-2019 -66|-1019 1666!-1019 1666|-1135 1733"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
               </elements>
             </DOMFrame>
-            <DOMFrame index="36" duration="2" keyMode="9728" acceleration="-50">
+            <DOMFrame index="36" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="-104.25" ty="97.7"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-101" y="-3.35"/>
+                    <Point x="-100.9" y="-3.3"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1" d="0" tx="-104.25" ty="97.7"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-101" y="-3.35"/>
+                        <Point x="-100.9" y="-3.3"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -438,7 +384,7 @@ play();
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-20 -67|-20 67!-20 67|-2020 67!-2020 67|-2020 -67!-2020 -67|-20 -67"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2018 -66|-2018 1934!-2018 1934|-2152 1934!-2152 1934|-2152 -66!-2152 -66|-2018 -66"/>
                       </edges>
                     </DOMShape>
                   </members>

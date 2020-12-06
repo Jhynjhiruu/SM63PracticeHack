@@ -68,7 +68,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Wing Code" selected="true">
                   <matrix>
-                    <Matrix a="-1.52587890625e-005" b="-1.00001525878906" c="-1" d="0" tx="10.7" ty="2.75"/>
+                    <Matrix a="-1.52587890625e-005" b="-1" c="-1" d="0" tx="10.7" ty="2.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="6.1" y="8.9"/>
@@ -80,7 +80,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Wing Code">
                   <matrix>
-                    <Matrix a="-1.00001525878906" b="1.52587890625e-005" tx="7.9" ty="-12.25"/>
+                    <Matrix a="-1" b="1.52587890625e-005" tx="7.9" ty="-12.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="6.1" y="8.9"/>

@@ -62,7 +62,7 @@ gotoAndStop(2);
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 -320|319.5 320!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320!319.5 -320|319.5 320"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Coin: Star Folder/Star Coin GFX">
@@ -93,7 +93,7 @@ gotoAndStop(2);
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320!319.5 -320|319.5 320"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 -320|319.5 320!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Coin: Star Folder/Star Coin GFX">

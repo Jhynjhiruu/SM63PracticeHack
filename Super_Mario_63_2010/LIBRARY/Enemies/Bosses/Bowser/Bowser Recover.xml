@@ -149,9 +149,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="19" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="-20.5" ty="4.45"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -180,9 +177,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="20" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="-18.35" ty="10.35"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -211,9 +205,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="21" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.9659423828125" b="0.258834838867188" c="-0.258819580078125" d="0.9659423828125" tx="-7.55" ty="16.2"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -242,28 +233,25 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="22" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-2.45" ty="15.9"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
-                        <Matrix a="-1" d="1.00001525878906" tx="-12.3" ty="-17.55"/>
+                        <Matrix a="-1" tx="-12.3" ty="-17.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Body - 16">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-19" ty="-32.4"/>
+                        <Matrix b="1.52587890625e-005" tx="-19" ty="-32.4"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 20">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-2.75" ty="-16.55"/>
+                        <Matrix b="1.52587890625e-005" tx="-2.75" ty="-16.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Head - 1">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-36.85" ty="-38.8"/>
+                        <Matrix b="1.52587890625e-005" tx="-36.85" ty="-38.8"/>
                       </matrix>
                     </DOMBitmapInstance>
                   </members>
@@ -273,28 +261,25 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="23" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-3.45" ty="17.9"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
-                        <Matrix a="-1" d="1.00001525878906" tx="-13.3" ty="-15.55"/>
+                        <Matrix a="-1" tx="-13.3" ty="-15.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Body - 16">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-20" ty="-30.4"/>
+                        <Matrix b="1.52587890625e-005" tx="-20" ty="-30.4"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 20">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-3.75" ty="-14.55"/>
+                        <Matrix b="1.52587890625e-005" tx="-3.75" ty="-14.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Head - 1">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-37.85" ty="-36.8"/>
+                        <Matrix b="1.52587890625e-005" tx="-37.85" ty="-36.8"/>
                       </matrix>
                     </DOMBitmapInstance>
                   </members>
@@ -304,28 +289,25 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="24" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-4.45" ty="19.9"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
-                        <Matrix a="-1" d="1.00001525878906" tx="-14.3" ty="-13.55"/>
+                        <Matrix a="-1" tx="-14.3" ty="-13.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Body - 16">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-21" ty="-28.4"/>
+                        <Matrix b="1.52587890625e-005" tx="-21" ty="-28.4"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 20">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-4.75" ty="-12.55"/>
+                        <Matrix b="1.52587890625e-005" tx="-4.75" ty="-12.55"/>
                       </matrix>
                     </DOMBitmapInstance>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Head - 1">
                       <matrix>
-                        <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-38.85" ty="-34.8"/>
+                        <Matrix b="1.52587890625e-005" tx="-38.85" ty="-34.8"/>
                       </matrix>
                     </DOMBitmapInstance>
                   </members>
@@ -335,9 +317,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="25" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-2"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 2">
                       <matrix>
@@ -378,9 +357,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="29" duration="7" tweenType="motion" keyMode="17921" acceleration="30">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="9.4" ty="60.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>
@@ -409,9 +385,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="36" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-0.179458618164063" d="0" tx="11.1" ty="60.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>
@@ -440,9 +413,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="37" duration="6" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="0.121917724609375" d="0" tx="11.7" ty="60.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>
@@ -471,9 +441,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="43" duration="5" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="0.917800903320313" d="0" tx="13.3" ty="60.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>
@@ -502,9 +469,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="48" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="0.205474853515625" d="0" tx="11.85" ty="40.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>
@@ -533,9 +497,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="49" duration="4" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-0.1483154296875" d="0" tx="11.1" ty="40.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>
@@ -564,9 +525,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="53" duration="14" tweenType="motion" keyMode="17921" acceleration="30">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1" d="0" tx="9.4" ty="25.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>
@@ -595,9 +553,6 @@ _root.Course.FrontGFX.defeated = true;
             <DOMFrame index="67" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-0.108230590820313" d="0.3822021484375" tx="11.15" ty="-28.75"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 12">
                       <matrix>

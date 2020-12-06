@@ -134,7 +134,7 @@ gotoAndStop("repeat");
         </DOMLayer>
         <DOMLayer name="Layer 4" color="#FF4FFF">
           <frames>
-            <DOMFrame index="0" duration="12" keyMode="9728" acceleration="100">
+            <DOMFrame index="0" duration="12" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 8 - Storyline Stars/ 8 - Tutorials/8-E2-1 Thwomp Elevator">
                   <transformationPoint>
@@ -296,7 +296,7 @@ gotoAndStop("repeat");
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1104" duration="2" keyMode="9728" acceleration="100">
+            <DOMFrame index="1104" duration="2" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 8 - Storyline Stars/ 8 - Tutorials/8-E2-1 Thwomp Elevator">
                   <matrix>

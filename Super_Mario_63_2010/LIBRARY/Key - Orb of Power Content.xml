@@ -46,9 +46,6 @@
                   <filters>
                     <BlurFilter blurX="2" blurY="2"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -67,7 +64,7 @@
                   </transformationPoint>
                   <filters>
                     <GlowFilter color="#000000"/>
-                    <BevelFilter blurX="2" blurY="2" angle="222.000006830189" distance="2" highlightColor="#880000" strength="0.56"/>
+                    <BevelFilter blurX="2" blurY="2" angle="221.999993169811" distance="2" highlightColor="#880000" strength="0.56"/>
                   </filters>
                 </DOMSymbolInstance>
               </elements>

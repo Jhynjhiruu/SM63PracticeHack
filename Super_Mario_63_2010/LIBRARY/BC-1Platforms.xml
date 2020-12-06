@@ -7,19 +7,13 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="1.25485229492188" tx="-40" ty="-39.15"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-2303.55" y="212"/>
+                    <Point x="-2343.55" y="226.9"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="1.25485229492188" tx="-40" ty="-39.15"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-2303.55" y="212"/>
+                        <Point x="-2343.55" y="226.9"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -27,25 +21,19 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-44911 -10282S2|-44911 18765!-44911 18765|-47231 18765!-47231 18765|-47231 -10282!-47231 -10282|-44911 -10282"/>
+                        <Edge fillStyle1="1" edges="!-45711 -13685|-45711 22764!-45711 22764|-48031 22764!-48031 22764|-48031 -13685!-48031 -13685|-45711 -13685"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="0.793411254882813" tx="2647.55" ty="-276.3"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-2303.55" y="212.05"/>
+                    <Point x="344" y="-108.05"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="0.793411254882813" tx="2647.55" ty="-276.3"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-2303.55" y="212.05"/>
+                        <Point x="344" y="-108.05"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -53,25 +41,19 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-44911 -10282S2|-44911 18765!-44911 18765|-47231 18765!-47231 18765|-47231 -10282!-47231 -10282|-44911 -10282"/>
+                        <Edge fillStyle1="1" edges="!8040 -13684|8040 9362!8040 9362|5720 9362!5720 9362|5720 -13684!5720 -13684|8040 -13684"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0" b="1" c="-1.869140625" d="0" tx="-558.95" ty="1677.35"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-2303.5" y="211.95"/>
+                    <Point x="-955.1" y="-626.15"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0" b="1" c="-1.869140625" d="0" tx="-558.95" ty="1677.35"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-2303.5" y="211.95"/>
+                        <Point x="-955.1" y="-626.15"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -79,7 +61,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-44911 -10282S2|-44911 18765!-44911 18765|-47231 18765!-47231 18765|-47231 -10282!-47231 -10282|-44911 -10282"/>
+                        <Edge fillStyle1="1" edges="!8040 -11364|-46253 -11364!-46253 -11364|-46253 -13684!-46253 -13684|8040 -13684!8040 -13684|8040 -11364"/>
                       </edges>
                     </DOMShape>
                   </members>

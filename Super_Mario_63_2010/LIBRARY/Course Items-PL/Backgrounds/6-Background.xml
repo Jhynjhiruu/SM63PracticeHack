@@ -11,13 +11,6 @@
                     <DOMShape>
                       <fills>
                         <FillStyle index="1">
-                          <BitmapFill bitmapPath="tall Tall mountain () background" bitmapIsClipped="false">
-                            <matrix>
-                              <Matrix a="20" d="20" tx="-230" ty="-102.65"/>
-                            </matrix>
-                          </BitmapFill>
-                        </FillStyle>
-                        <FillStyle index="2">
                           <LinearGradient>
                             <matrix>
                               <Matrix a="0" b="-0.089111328125" c="0.274658203125" d="0" ty="-80.3"/>
@@ -26,11 +19,18 @@
                             <GradientEntry color="#1010AB" ratio="1"/>
                           </LinearGradient>
                         </FillStyle>
+                        <FillStyle index="2">
+                          <BitmapFill bitmapPath="tall Tall mountain () background" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="20" d="20" tx="-230" ty="-102.65"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="2" edges="!-4500 -146|-4500 -3066!-4500 -3066|4500 -3066!4500 -3066|4500 -146"/>
-                        <Edge fillStyle1="1" edges="!4500 -146|4500 3067!4500 3067|-4500 3067!-4500 3067|-4500 -146"/>
-                        <Edge fillStyle0="1" fillStyle1="2" edges="!4500 -146|-4500 -146"/>
+                        <Edge fillStyle1="1" edges="!-4500 -146|-4500 -3066!-4500 -3066|4500 -3066!4500 -3066|4500 -146"/>
+                        <Edge fillStyle1="2" edges="!4500 -146|4500 3067!4500 3067|-4500 3067!-4500 3067|-4500 -146"/>
+                        <Edge fillStyle0="2" fillStyle1="1" edges="!4500 -146|-4500 -146"/>
                       </edges>
                     </DOMShape>
                   </members>

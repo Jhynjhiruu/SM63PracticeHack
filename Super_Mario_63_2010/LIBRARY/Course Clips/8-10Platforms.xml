@@ -40,14 +40,8 @@
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="90"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="90"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#00FF00"/>
@@ -55,7 +49,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!8155 -33618S2|12117 -33618!12117 -33618|12117 -32638!12117 -32638|8155 -32638!8155 -32638|8155 -33618"/>
+!12117 -31818|12117 -30838!12117 -30838|8155 -30838!8155 -30838|8155 -31818!8155 -31818|12117 -31818"/>
                       </edges>
                     </DOMShape>
                   </members>

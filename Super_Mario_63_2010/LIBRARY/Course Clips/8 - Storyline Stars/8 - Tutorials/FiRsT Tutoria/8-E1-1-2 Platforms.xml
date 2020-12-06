@@ -7,41 +7,29 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="50"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="50"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#00FF00"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-2382 -8238S2|-2382 1719!-2382 1719|-3042 1719!-3042 1719|-3042 -8238!-3042 -8238|-2382 -8238"/>
+                        <Edge fillStyle1="1" edges="!-1382 -8238|-1382 1719!-1382 1719|-2042 1719!-2042 1719|-2042 -8238!-2042 -8238|-1382 -8238"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1924"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="1924"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#00FF00"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-2382 -8238S2|-2382 1719!-2382 1719|-3042 1719!-3042 1719|-3042 -8238!-3042 -8238|-2382 -8238"/>
+                        <Edge fillStyle1="1" edges="!36098 -8238|36098 1719!36098 1719|35438 1719!35438 1719|35438 -8238!35438 -8238|36098 -8238"/>
                       </edges>
                     </DOMShape>
                   </members>

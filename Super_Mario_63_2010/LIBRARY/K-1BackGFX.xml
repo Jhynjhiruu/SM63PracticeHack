@@ -26,7 +26,7 @@
                   <edges>
                     <Edge strokeStyle="1" edges="!3559 -19123|3559 -27098"/>
                     <Edge strokeStyle="2" edges="!5998 -19339[#32C0.BA #FFCCDD.EE 16350 -16956!16350 -16956[#4CFB.31 #FFAEA9.FA 22516 -20639"/>
-                    <Edge strokeStyle="1" edges="!25531 -1243|25531 -9218!11389 -2290|11389 -10265!43907 -14925|43907 -22900!30568 -14685|30568 -22660!22808 -12399|22808 -20374"/>
+                    <Edge strokeStyle="1" edges="!25531 -1243|25531 -9218!11389 -2290|11389 -10265!22808 -12399|22808 -20374!30568 -14685|30568 -22660!43907 -14925|43907 -22900"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -100,7 +100,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-1.54237365722656" d="-7.66838073730469" tx="1254.6" ty="102.2"/>
+                    <Matrix a="-1.5423583984375" d="-7.66838073730469" tx="1254.6" ty="102.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -121,7 +121,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="6.30006408691406" d="15.6290588378906" tx="1290.75" ty="-466.9"/>
+                    <Matrix a="6.300048828125" d="15.6290435791016" tx="1290.75" ty="-466.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -160,7 +160,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-26.2595367431641" d="-32.9722442626953" tx="2053.35" ty="-827.85"/>
+                    <Matrix a="-26.2595367431641" d="-32.9722290039063" tx="2053.35" ty="-827.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -227,7 +227,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="15.7348175048828" d="3.94210815429688" tx="2144.2" ty="-893.6"/>
+                    <Matrix a="15.7348022460938" d="3.94210815429688" tx="2144.2" ty="-893.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -243,7 +243,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp1">
                   <matrix>
-                    <Matrix a="13.2087097167969" d="12.4993743896484" tx="139.4" ty="-1476.4"/>
+                    <Matrix a="13.2087097167969" d="12.4993591308594" tx="139.4" ty="-1476.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

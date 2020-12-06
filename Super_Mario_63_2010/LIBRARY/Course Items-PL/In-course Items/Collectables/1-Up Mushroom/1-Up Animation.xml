@@ -34,7 +34,7 @@
           <frames>
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ 1-Up Mushroom/1-Up Light Effect" name="light" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ 1-Up Mushroom/1-Up Light Effect" name="light">
                   <matrix>
                     <Matrix tx="0.05" ty="-0.1"/>
                   </matrix>
@@ -53,7 +53,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ 1-Up Mushroom/1 up Glow" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ 1-Up Mushroom/1 up Glow">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

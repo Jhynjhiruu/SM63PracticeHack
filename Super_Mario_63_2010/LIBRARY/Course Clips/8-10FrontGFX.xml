@@ -218,14 +218,8 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="862.55" ty="-140.7"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="862.55" ty="-140.7"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#BD0000"/>
@@ -233,7 +227,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-3010.5 2179|-14330 2179!-14330 2179|-14330 729!-14330 729|-3010.5 729!-3010.5 729|-3010.5 2179"/>
+!14241 -635|2921 -635!2921 -635|2921 -2085!2921 -2085|14241 -2085!14241 -2085|14241 -635"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -255,14 +249,8 @@
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="3" ty="-12"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="3" ty="-12"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -274,8 +262,8 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!8884.5 -10387.5S4[#2574.02 #FFDA2C.03 9588 -8690!9588 -8690[#2574.02 -7696 8884.5 -6993.5!8884.5 -6993.5[8182 #FFE76E.03 7188 -6290!7188 -6290[#1832.03 #FFE76E.03 5490.5 -6993.5!5490.5 -6993.5[#12B4.01 -7696 4788 -8690!4788 -8690[#12B4.01
- #FFDA2C.03 5490.5 -10387.5!5490.5 -10387.5[#1832.03 #FFD4AE.01 7188 -11090!7188 -11090[8182 #FFD4AE.01 8884.5 -10387.5"/>
+!9648 -8930[9648 -7936 8945 -7233!8945 -7233[8242 -6530 7248 -6530!7248 -6530[6254 -6530 5551 -7233!5551 -7233[4848 -7936 4848 -8930!4848 -8930[4848 -9924 5551 -10627!5551 -10627[6254 -11330 7248 -11330!7248 -11330[8242 -11330 8945 -10627
+!8945 -10627[9648 -9924 9648 -8930"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -300,14 +288,8 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="121.95" ty="43"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="121.95" ty="43"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -319,7 +301,7 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!7330.5 -3900.5S4|3333 -7899.5"/>
+!9770 -3040|5772 -7039"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -361,14 +343,8 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-10"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-10"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -380,25 +356,19 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-1491 -16880|-9491 -16880!7509 -16880|-491 -16880!-1491 -15280|-9491 -15280!7509 -15280|-491 -15280"/>
+!-1491 -17080|-9491 -17080!7509 -17080|-491 -17080!-1491 -15480|-9491 -15480!7509 -15480|-491 -15480"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.35511779785156" tx="212.7" ty="-8"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-316" y="-606.65"/>
+                    <Point x="-215.5" y="-614.65"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.35511779785156" tx="212.7" ty="-8"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-316" y="-606.65"/>
+                        <Point x="-215.5" y="-614.65"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -407,7 +377,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-660.5 -11660|-11980 -11660!-11980 -11660|-11980 -12606!-11980 -12606|-660.5 -12606!-660.5 -12606|-660.5 -11660"/>
+!3360 -11820|-11980 -11820!-11980 -11820|-11980 -12766!-11980 -12766|3360 -12766!3360 -12766|3360 -11820"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -437,14 +407,8 @@
                   </transformationPoint>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-86.95" ty="72.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-86.95" ty="72.95"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -456,8 +420,8 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-7823.5 -2093S4[#FFE04B.FB #FFF8F8.51 -8530 -1799.5!-8530 -1799.5[#FFDD0F.BC #FFF8F8.51 -9237.5 -2093!-9237.5 -2093[#FFDAC5.E6 #FFF6AE.7B -9530 -2799.5!-9530 -2799.5[#FFDAC5.E6 #FFF372.3B -9237.5 -3507!-9237.5 -3507[#FFDD0F.BC #FFF128.65
- -8530 -3799.5!-8530 -3799.5[#FFE04B.FB #FFF128.65 -7823.5 -3507!-7823.5 -3507[#FFE295.D1 #FFF372.3B -7530 -2799.5!-7530 -2799.5[#FFE295.D1 #FFF6AE.7B -7823.5 -2093"/>
+!-10269 -2340[-9855 -2341 -9562 -2048!-9562 -2048[-9269 -1755 -9269 -1340!-9269 -1340[-9269 -927 -9562 -634!-9562 -634[-9855 -341 -10269 -340!-10269 -340[-10683 -341 -10976 -634!-10976 -634[-11269 -927 -11269 -1340!-11269 -1340[-11269
+ -1755 -10976 -2048!-10976 -2048[-10683 -2341 -10269 -2340"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -483,14 +447,8 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-93.95" ty="-103.05"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-93.95" ty="-103.05"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -502,21 +460,15 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-7823.5 -2093S4[#FFE04B.FB #FFF8F8.51 -8530 -1799.5!-8530 -1799.5[#FFDD0F.BC #FFF8F8.51 -9237.5 -2093!-9237.5 -2093[#FFDAC5.E6 #FFF6AE.7B -9530 -2799.5!-9530 -2799.5[#FFDAC5.E6 #FFF372.3B -9237.5 -3507!-9237.5 -3507[#FFDD0F.BC #FFF128.65
- -8530 -3799.5!-8530 -3799.5[#FFE04B.FB #FFF128.65 -7823.5 -3507!-7823.5 -3507[#FFE295.D1 #FFF372.3B -7530 -2799.5!-7530 -2799.5[#FFE295.D1 #FFF6AE.7B -7823.5 -2093"/>
+!-9702 -4154[-9995 -3861 -10409 -3860!-10409 -3860[-10823 -3861 -11116 -4154!-11116 -4154[-11409 -4447 -11409 -4860!-11409 -4860[-11409 -5275 -11116 -5568!-11116 -5568[-10823 -5861 -10409 -5860!-10409 -5860[-9995 -5861 -9702 -5568!-9702
+ -5568[-9409 -5275 -9409 -4860!-9409 -4860[-9409 -4447 -9702 -4154"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="7" ty="44"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="7" ty="44"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -528,20 +480,14 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-8530 -6540S4|-8530 -8540"/>
+!-8390 -5660|-8390 -7660"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="57" ty="44"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="57" ty="44"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -553,7 +499,7 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!-8530 -6540S4|-8530 -8540"/>
+!-7390 -5660|-7390 -7660"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -853,19 +799,13 @@
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="2.13948059082031" tx="842.1" ty="-401.3"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-316" y="-606.65"/>
+                    <Point x="166.05" y="-1007.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="2.13948059082031" tx="842.1" ty="-401.3"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-316" y="-606.65"/>
+                        <Point x="166.05" y="-1007.95"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -874,7 +814,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-660.5 -11660|-11980 -11660!-11980 -11660|-11980 -12606!-11980 -12606|-660.5 -12606!-660.5 -12606|-660.5 -11660"/>
+!15430 -19686|-8789 -19686!-8789 -19686|-8789 -20632!-8789 -20632|15430 -20632!15430 -20632|15430 -19686"/>
                       </edges>
                     </DOMShape>
                   </members>

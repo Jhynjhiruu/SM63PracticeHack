@@ -81,18 +81,10 @@ onMouseDown = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" edges="!-136 -240|-143 -240"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="!-143 -240|-143 117"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!-143 117|-38 62!-38 62|67 240!67 240|132 210!132 210|23.5 29.5!23.5 29.5|142.5 -34!142.5 -34|-136 -240"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-143 -240|-143 117!-143 117|-38 62!-38 62|67 240!67 240|132 210!132 210|23.5 29.5!23.5 29.5|142.5 -34!142.5 -34|-136 -240"/>
                       </edges>
                     </DOMShape>
                   </members>

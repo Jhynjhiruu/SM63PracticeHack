@@ -202,7 +202,7 @@ stop();
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="1.00001525878906" tx="-3.3" ty="-8.9"/>
+                    <Matrix tx="-3.3" ty="-8.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

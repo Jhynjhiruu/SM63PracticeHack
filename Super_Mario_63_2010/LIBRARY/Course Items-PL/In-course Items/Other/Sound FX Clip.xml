@@ -84,7 +84,7 @@ if (_root.CreditsQuiet !== true) {
                     <DOMTextRun>
                       <characters>Sound FX</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="16" face="Arial Baltic" fillColor="#0066FF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="16" face="Arial Baltic" fillColor="#0066FF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

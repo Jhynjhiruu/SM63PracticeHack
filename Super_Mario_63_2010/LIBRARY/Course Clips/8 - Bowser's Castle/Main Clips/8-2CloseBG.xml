@@ -107,7 +107,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
                     <Matrix a="0.212997436523438" d="5.67228698730469" tx="110.8" ty="372.7"/>
                   </matrix>
@@ -184,9 +184,6 @@
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="100" ty="-200"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
                       <matrix>
@@ -299,9 +296,6 @@
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-636.95" ty="-38.7"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
                       <matrix>
@@ -461,14 +455,8 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="100" ty="-200"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="100" ty="-200"/>
-                      </matrix>
                       <members>
                         <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/YI Window Stained Glass">
                           <matrix>

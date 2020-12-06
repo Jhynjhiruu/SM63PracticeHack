@@ -171,7 +171,7 @@ _root.Course.Char.attack = false;
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="      Char/  Luigi CLIPS/ Luigi BITs/Luigi (None) - Dive">
+                <DOMBitmapInstance libraryItemName="      Char/  Luigi CLIPS/ Luigi BITs/Luigi (None) - Dive">
                   <matrix>
                     <Matrix a="-0.86602783203125" b="-0.5" c="-0.5" d="0.86602783203125" tx="21.25" ty="-3.1"/>
                   </matrix>
@@ -180,7 +180,7 @@ _root.Course.Char.attack = false;
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="      Char/  Luigi CLIPS/ Luigi BITs/Overworld - Luigi 3 - 2">
+                <DOMBitmapInstance libraryItemName="      Char/  Luigi CLIPS/ Luigi BITs/Overworld - Luigi 3 - 2">
                   <matrix>
                     <Matrix a="-0.86602783203125" b="0.5" c="0.5" d="0.86602783203125" tx="-1.2" ty="-23.55"/>
                   </matrix>

@@ -86,7 +86,7 @@ _root.Course.FrontGFX.attachMovie("MarioDeathGFX", "MarioDeathGFX"+_root.Course.
             <DOMFrame index="29" duration="2" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="31" keyMode="9728" acceleration="-100">
+            <DOMFrame index="31" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Mario CLIPS/Mario Fiant GFX Clip">
                   <matrix>

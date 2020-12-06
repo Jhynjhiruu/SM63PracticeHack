@@ -59,7 +59,7 @@ onEnterFrame = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!660 -495|660 495!660 495|-660 495!-660 495|-660 -495!-660 -495|660 -495"/>
+                    <Edge fillStyle1="1" edges="!660 495|-660 495!-660 495|-660 -495!-660 -495|660 -495!660 -495|660 495"/>
                   </edges>
                 </DOMShape>
               </elements>

@@ -7,19 +7,10 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix tx="47.95" ty="-92.95"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-0.05" ty="0.05"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-0.05" ty="0.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -30,20 +21,14 @@
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+                            <Edge strokeStyle="1" edges="!117 -5|-106 -5!-106 -5|4 -187!4 -187|117 -5"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-0.05" ty="0.05"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-0.05" ty="0.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -54,20 +39,14 @@
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+                            <Edge strokeStyle="1" edges="!187 188|7 188!7 188|7 8!7 8|187 8!187 8|187 188"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-0.05" ty="0.05"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-0.05" ty="0.05"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -78,8 +57,7 @@
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+                            <Edge strokeStyle="1" edges="!-8 98[-9 135 -35 161!-35 161[-61 188 -98 188!-98 188[-136 188 -162 161!-162 161[-189 135 -188 98!-188 98[-189 60 -162 34!-162 34[-136 7 -98 8!-98 8[-61 7 -35 34!-35 34[-9 60 -8 98"/>
                           </edges>
                         </DOMShape>
                       </members>

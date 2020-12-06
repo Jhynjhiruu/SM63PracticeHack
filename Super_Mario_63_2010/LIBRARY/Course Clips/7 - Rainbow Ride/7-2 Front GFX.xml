@@ -136,14 +136,8 @@
                   </filters>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="56" ty="-33"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="56" ty="-33"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -154,7 +148,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!19706.5 -1640S4|21306.5 -1640"/>
+                        <Edge strokeStyle="1" edges="!20827 -2300|22427 -2300"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -242,28 +236,21 @@
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="!6831 -1580|6831 4841!6831 4841|5581 4841!5581 4841|5581 5461!5581 5461|6831 5461!6831 5461|6831 13125!6831 13125|9720 13125!9720 13125|9720 12483!9720 12483|7411 12483!7411 12483|7411 -10603!7411 -10603|6281 -11716!6281 -11716|5200 -10593
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!6831 -1580|6831 4841!6831 4841|5581 4841!5581 4841|5581 5461!5581 5461|6831 5461!6831 5461|6831 13125!6831 13125|9720 13125!9720 13125|9720 12483!9720 12483|7411 12483!7411 12483|7411 -10603!7411 -10603|6281 -11716!6281 -11716|5200 -10593
 !5200 -10593|5200 -6662!5200 -6662|6458 -6662!6458 -6662|6458 -5022!6458 -5022|5200 -5022"/>
                         <Edge fillStyle0="1" edges="
 !5200 -5022|5200 -3381"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
 !5200 -3381|5200 -1580!5200 -1580|6819.5 -1580!6819.5 -1580|6831 -1589!6831 -1589|6831 -1580"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
 !6831 -1580|6921 -940"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
 !6180 2280|4910 2280!4910 2280|4910 42!4910 42|-1810 42!-1810 42|-1810 662!-1810 662|4250 662!4250 662|4250 13182!4250 13182|4910 13182!4910 13182|4910 7722!4910 7722|6140 7722!6140 7722|6140 7042!6140 7042|4910 7042!4910 7042|4910 2921
 !4910 2921|6180 2921!6180 2921|6180 2280"/>
                         <Edge fillStyle1="2" strokeStyle="1" edges="
-!11700 13125|11700 12465!11700 12465|12680 12465!12680 12465|12680 13125!12680 13125|11700 13125"/>
+!11700 12465|12680 12465!12680 12465|12680 13125!12680 13125|11700 13125!11700 13125|11700 12465"/>
                       </edges>
                     </DOMShape>
                   </members>

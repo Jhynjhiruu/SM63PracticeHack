@@ -25,10 +25,10 @@
                 </DOMStaticText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1" duration="4" keyMode="9728" acceleration="100">
+            <DOMFrame index="1" duration="4" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="5" keyMode="9728" acceleration="100">
+            <DOMFrame index="5" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[stop();
 ]]></script>
@@ -36,7 +36,7 @@
               <elements>
                 <DOMDynamicText left="56.5" width="342.85" height="211.25" antiAliasThickness="68" isSelectable="false" variableName="mtext" renderAsHTML="true" lineType="multiline">
                   <matrix>
-                    <Matrix a="1.00013732910156" d="1.00022888183594" tx="-2.85" ty="30.7"/>
+                    <Matrix a="1.0001220703125" d="1.00022888183594" tx="-2.85" ty="30.7"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>

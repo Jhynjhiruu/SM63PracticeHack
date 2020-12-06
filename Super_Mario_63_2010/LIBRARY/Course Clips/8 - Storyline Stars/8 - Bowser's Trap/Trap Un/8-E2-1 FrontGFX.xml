@@ -353,19 +353,13 @@
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-0.75" ty="-0.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-0.75" ty="-0.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Greengoop" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="4.8077392578125" d="4.8077392578125" tx="653.8" ty="-345.75"/>
+                              <Matrix a="4.8077392578125" d="4.8077392578125" tx="653.05" ty="-346.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -380,8 +374,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!13082.5 -6767.5S6[#32FD.16 #FFE573.42 13053 -6838!13053 -6838[#32FD.16 #FFE520.7D 13082.5 -6909!13082.5 -6909[#3337.BD #FFE4E5.D6 13153 -6938!13153 -6938[#338A.42 #FFE4E5.D6 13223.5 -6909!13223.5 -6909[#33C4.E9 #FFE520.7D 13253 -6838
-!13253 -6838[#33C4.E9 #FFE573.42 13223.5 -6767.5!13223.5 -6767.5[#338A.42 #FFE5AD.E9 13153 -6738!13153 -6738[#3337.BD #FFE5AD.E9 13082.5 -6767.5"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!13038 -6848[13038 -6890 13068 -6919!13068 -6919[13097 -6948 13138 -6948!13138 -6948[13179 -6948 13209 -6919!13209 -6919[13238 -6890 13238 -6848!13238 -6848[13238 -6807 13209 -6777!13209 -6777[13179 -6748 13138 -6748!13138 -6748[13097
+ -6748 13068 -6777!13068 -6777[13038 -6807 13038 -6848"/>
                       </edges>
                     </DOMShape>
                   </members>

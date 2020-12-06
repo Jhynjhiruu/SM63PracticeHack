@@ -82,7 +82,7 @@ onMouseDown = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!615 -285|615 285!615 285|-615 285!-615 285|-615 -285!-615 -285|615 -285"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!615 285|-615 285!-615 285|-615 -285!-615 -285|615 -285!615 -285|615 285"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="Level Designer Windows/LDW - Reset Delete Text" name="txt">

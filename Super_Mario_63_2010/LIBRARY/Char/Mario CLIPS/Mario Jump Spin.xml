@@ -256,9 +256,6 @@ onEnterFrame = function () {
             <DOMFrame index="0" duration="5" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="14.95" ty="4.05"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -297,9 +294,6 @@ onEnterFrame = function () {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="16.95" ty="3.05"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -328,17 +322,11 @@ onEnterFrame = function () {
             <DOMFrame index="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="3" ty="10"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.3" y="-12.7"/>
+                    <Point x="2.7" y="-2.7"/>
                   </transformationPoint>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="17.95" ty="-4.95"/>
-                      </matrix>
                       <members>
                         <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                           <matrix>
@@ -379,9 +367,6 @@ onEnterFrame = function () {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="15" ty="-5.7"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -410,9 +395,6 @@ onEnterFrame = function () {
             <DOMFrame index="13" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.438323974609375" b="0.894699096679688" c="-0.894699096679688" d="-0.438323974609375" tx="-9.35" ty="1.5"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -441,9 +423,6 @@ onEnterFrame = function () {
             <DOMFrame index="14" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.872055053710938" b="0.483901977539063" c="-0.483901977539063" d="-0.872055053710938" tx="-12.85" ty="-2.65"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -487,9 +466,6 @@ onEnterFrame = function () {
             <DOMFrame index="18" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.959030151367188" b="0.27117919921875" c="-0.27117919921875" d="-0.959030151367188" tx="-14.85" ty="0.4"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -518,9 +494,6 @@ onEnterFrame = function () {
             <DOMFrame index="20" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.498641967773438" b="0.860214233398438" c="-0.860214233398438" d="-0.498641967773438" tx="-9.6" ty="-1.25"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>
@@ -549,9 +522,6 @@ onEnterFrame = function () {
             <DOMFrame index="22" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.52008056640625" b="-1.44096374511719" c="0.842147827148438" d="0.854156494140625" tx="1.5" ty="-78.95"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 23">
                       <matrix>

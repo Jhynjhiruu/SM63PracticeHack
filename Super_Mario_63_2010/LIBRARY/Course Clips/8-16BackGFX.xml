@@ -16,6 +16,7 @@ _root.SaveFluddR = false;
 _root.SaveFluddT = false;
 _root.Fluddpow = ""
 _root.Playinglevel = 0;
+_root.event.onTrueBowserStart();
 ]]></script>
               </Actionscript>
               <elements/>
@@ -59,7 +60,8 @@ onEnterFrame = function () {
 			// transtion
 		}
 		if (endcount>11) {
-			_root.gotoAndStop("Ending");
+            _root.event.onTrueBowserEnd();
+            //_root.gotoAndStop("Ending");
 			_root.RemoveCourse();
 		}
 		endcount++;
@@ -136,7 +138,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="falloff">
                   <matrix>
-                    <Matrix a="78.5019683837891" d="4.28022766113281" ty="256.45"/>
+                    <Matrix a="78.5019683837891" d="4.28021240234375" ty="256.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

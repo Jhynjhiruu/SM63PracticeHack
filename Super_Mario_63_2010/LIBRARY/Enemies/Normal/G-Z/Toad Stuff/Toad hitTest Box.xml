@@ -7,21 +7,15 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.679611206054688"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.679611206054688"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#0000FF" alpha="0"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-515 -340|515 -340!515 -340|515 340!515 340|-515 340!-515 340|-515 -340"/>
+                        <Edge fillStyle1="1" edges="!350 -340|350 340!350 340|-350 340!-350 340|-350 -340!-350 -340|350 -340"/>
                       </edges>
                     </DOMShape>
                   </members>

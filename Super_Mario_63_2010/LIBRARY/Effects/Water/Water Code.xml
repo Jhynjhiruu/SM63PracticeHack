@@ -202,7 +202,7 @@ mc._y = SH/4;
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" left="42.55" width="58.9" height="24.55" autoExpand="true" antiAliasThickness="68" isSelectable="false">
+                <DOMStaticText selected="true" left="46.75" width="50.5" height="31.6" autoExpand="true" antiAliasThickness="68" isSelectable="false">
                   <matrix>
                     <Matrix tx="-72" ty="-15.95"/>
                   </matrix>
@@ -210,7 +210,7 @@ mc._y = SH/4;
                     <DOMTextRun>
                       <characters>Water</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="JazzText" fillColor="#0066FF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bold="true" size="22" face="JazzText-Regular" fillColor="#0066FF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

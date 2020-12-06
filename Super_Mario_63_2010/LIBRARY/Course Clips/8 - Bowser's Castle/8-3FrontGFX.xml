@@ -33,13 +33,6 @@
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="!1757 -3120|3017 -3120!3017 -3120|3017 1380!3017 1380|1757 1380!1757 1380|1757 2040!1757 2040|-2102 2040!-2102 2040|-2102 1380!-2102 1380|-3382 1380!-3382 1380|-3382 80!-3382 80|-4042 80!-4042 80|-4042 740!-4042 740|-5353 740!-5353 740
@@ -52,7 +45,7 @@
  3866!5026 3866|5026 -6073"/>
                         <Edge fillStyle0="2" strokeStyle="1" edges="
 !-35420 -5600|-35420 -3760!-35420 -3760|-41182 -3760!-41182 -3760|-41182 -3120!-41182 -3120|-34883 -3120!-34883 -3120|-34883 -5600!-34883 -5600|-35420 -5600"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
 !-45980 -4080|-45980 -3740!-45980 -3740|-45633 -3740!-45633 -3740|-45633 -3120!-45633 -3120|-44393 -3120!-44393 -3120|-44374.5 -200!-44374.5 -200|-44020 79!-44020 79|-43720 79!-43720 79|-43720 -1200!-43720 -1200|-42462 -1200!-42462 -1200
 |-42462 -5010!-42462 -5010|-43090 -5010!-43090 -5010|-43700 -4400!-43700 -4400|-45640 -4400!-45640 -4400|-45980 -4080"/>
                       </edges>
@@ -87,7 +80,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
                     <Matrix a="0.425979614257813" d="2.90020751953125" tx="-1168.45" ty="142.9"/>
                   </matrix>
@@ -103,20 +96,14 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="1.92520141601563" tx="312.3" ty="-20"/>
-                  </matrix>
+                <DOMGroup>
                   <transformationPoint>
-                    <Point x="-766.05" y="130.65"/>
+                    <Point x="-1162.5" y="110.65"/>
                   </transformationPoint>
                   <members>
-                    <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="1.92520141601563" tx="312.3" ty="-20"/>
-                      </matrix>
+                    <DOMShape>
                       <transformationPoint>
-                        <Point x="-766.05" y="130.65"/>
+                        <Point x="-1162.5" y="110.65"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -125,12 +112,12 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-5021 3338|-25620 3338!-25620 3338|-25620 1888!-25620 1888|-5021 1888!-5021 1888|-5021 3338"/>
+!-3420 2938|-43078 2938!-43078 2938|-43078 1488!-43078 1488|-3420 1488!-3420 1488|-3420 2938"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-435.05" ty="68.45"/>
                   </matrix>
@@ -138,7 +125,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-691.05" ty="68.45"/>
                   </matrix>
@@ -146,7 +133,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-946.45" ty="68.45"/>
                   </matrix>
@@ -154,7 +141,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-1202.45" ty="68.45"/>
                   </matrix>
@@ -162,7 +149,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-1458.45" ty="68.45"/>
                   </matrix>
@@ -170,7 +157,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-1713.85" ty="68.45"/>
                   </matrix>
@@ -178,7 +165,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-1969.85" ty="68.45"/>
                   </matrix>
@@ -186,7 +173,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                   <matrix>
                     <Matrix tx="-2225.85" ty="68.45"/>
                   </matrix>
@@ -328,14 +315,8 @@
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.714279174804688" d="0.714279174804688" tx="-1822.6" ty="620.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.714279174804688" d="0.714279174804688" tx="-1822.6" ty="620.35"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <DashedStroke scaleMode="normal" weight="2">
@@ -347,8 +328,8 @@
                       </strokes>
                       <edges>
                         <Edge strokeStyle="1" edges="
-!11255.5 -16642.5S4[#2D92.29 #FFC098.15 11666 -15651.5!11666 -15651.5[#2D92.29 #FFC520.A7 11255.5 -14662.5!11255.5 -14662.5[#2A5E.23 #FFC854.46 10266 -14251.5!10266 -14251.5[#25D6.2B #FFC854.46 9275.5 -14662.5!9275.5 -14662.5[#22A2.25
- #FFC520.A7 8866 -15651.5!8866 -15651.5[#22A2.25 #FFC098.15 9275.5 -16642.5!9275.5 -16642.5[#25D6.2B #FFBD64.76 10266 -17051.5!10266 -17051.5[#2A5E.23 #FFBD64.76 11255.5 -16642.5"/>
+!-28412 520[-28119 813 -28119 1228!-28119 1228[-28119 1642 -28412 1934!-28412 1934[-28705 2227 -29119 2228!-29119 2228[-29533 2227 -29826 1934!-29826 1934[-30119 1642 -30119 1228!-30119 1228[-30119 813 -29826 520!-29826 520[-29533 227
+ -29119 228!-29119 228[-28705 227 -28412 520"/>
                       </edges>
                     </DOMShape>
                   </members>

@@ -712,19 +712,13 @@ onClipEvent (enterFrame) {
                   </color>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.04994201660156" tx="40.55" ty="-67.4"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-1131.3" y="784.2"/>
+                    <Point x="-1147.25" y="716.8"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.04994201660156" tx="40.55" ty="-67.4"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-1131.3" y="784.2"/>
+                        <Point x="-1147.25" y="716.8"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -733,25 +727,19 @@ onClipEvent (enterFrame) {
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!6221 17005S2|-51473 17005!-51473 17005|-51473 14364!-51473 14364|6221 14364!6221 14364|6221 17005"/>
+!7343 15657|-53232 15657!-53232 15657|-53232 13016!-53232 13016|7343 13016!7343 13016|7343 15657"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="1.82606506347656" ty="-586.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="369" y="250.1"/>
+                    <Point x="369" y="-129.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="1.82606506347656" ty="-586.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="369" y="250.1"/>
+                        <Point x="369" y="-129.95"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -760,25 +748,19 @@ onClipEvent (enterFrame) {
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!9261 -4200S2|9261 14204!9261 14204|5500 14204!5500 14204|5500 -4200!5500 -4200|9261 -4200"/>
+!9261 -19402|9261 14204!9261 14204|5500 14204!5500 14204|5500 -19402!5500 -19402|9261 -19402"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="1.82606506347656" tx="-2976.65" ty="-612.75"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="369" y="250.1"/>
+                    <Point x="-2607.65" y="-156.05"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="1.82606506347656" tx="-2976.65" ty="-612.75"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="369" y="250.1"/>
+                        <Point x="-2607.65" y="-156.05"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -787,25 +769,19 @@ onClipEvent (enterFrame) {
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!9261 -4200S2|9261 14204!9261 14204|5500 14204!5500 14204|5500 -4200!5500 -4200|9261 -4200"/>
+!-50272 -19924|-50272 13682!-50272 13682|-54033 13682!-54033 13682|-54033 -19924!-54033 -19924|-50272 -19924"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.04994201660156" tx="88.8" ty="-1650.4"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-1131.3" y="784.2"/>
+                    <Point x="-1099" y="-866.2"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.04994201660156" tx="88.8" ty="-1650.4"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-1131.3" y="784.2"/>
+                        <Point x="-1099" y="-866.2"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -814,7 +790,7 @@ onClipEvent (enterFrame) {
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!6221 17005S2|-51473 17005!-51473 17005|-51473 14364!-51473 14364|6221 14364!6221 14364|6221 17005"/>
+!8308 -16003|-52267 -16003!-52267 -16003|-52267 -18644!-52267 -18644|8308 -18644!8308 -18644|8308 -16003"/>
                       </edges>
                     </DOMShape>
                   </members>

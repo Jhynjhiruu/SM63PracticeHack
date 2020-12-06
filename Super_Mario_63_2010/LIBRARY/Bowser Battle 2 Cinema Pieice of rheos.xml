@@ -7,19 +7,13 @@
             <DOMFrame index="0" duration="64" tweenType="motion" motionTweenRotate="counter-clockwise" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.910003662109375" b="-0.413848876953125" c="0.413864135742188" d="0.910003662109375" tx="54.15" ty="-69.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.910003662109375" b="-0.413848876953125" c="0.413864135742188" d="0.910003662109375" tx="54.15" ty="-69.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="19.990234375" b="0.53466796875" c="-0.53466796875" d="19.990234375" tx="-93.55" ty="38.4"/>
+                              <Matrix a="18.4124755859375" b="-7.786376953125" c="7.78668212890625" d="18.4124603271484" tx="-15.1" ty="3.7"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -34,8 +28,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1624 1144|-492.5 1174!-492.5 1174|-508 1754!-508 1754|-1847 1718!-1847 1718|-2018 1609.5"/>
-                        <Edge fillStyle1="1" edges="!-2018 1609.5|-2005 1605!-2005 1605[-1990 1587 -1960 1575!-1960 1575[-1789 1523 -1630 1440!-1630 1440[-1654 1416 -1692 1394!-1692 1394[-1754 1357 -1800 1305!-1800 1305[-1798 1305 -1796 1303!-1796 1303[#FFF967.19 #4D9.B5 -1624 1144"/>
+                        <Edge fillStyle1="1" edges="!-87 901|-78 892!-78 892[-71 869 -49 845!-49 845[85 727 196 586!196 586[164 575 120 570!120 570[49 562 -15 534!-15 534[-13 533 -12 530!-12 530[60 430 78 314"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!78 314|1121 -127!1121 -127|1347 407!1347 407|113 928!113 928|-87 901"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -45,19 +39,13 @@
             <DOMFrame index="64" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-207.25" ty="-72.45"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-207.25" ty="-72.45"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="19.990234375" b="0.53466796875" c="-0.53466796875" d="19.990234375" tx="-93.55" ty="38.4"/>
+                              <Matrix a="19.990234375" b="0.53466796875" c="-0.53466796875" d="19.990234375" tx="-300.8" ty="-34.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -72,8 +60,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1624 1144|-492.5 1174!-492.5 1174|-508 1754!-508 1754|-1847 1718!-1847 1718|-2018 1609.5"/>
-                        <Edge fillStyle1="1" edges="!-2018 1609.5|-2005 1605!-2005 1605[-1990 1587 -1960 1575!-1960 1575[-1789 1523 -1630 1440!-1630 1440[-1654 1416 -1692 1394!-1692 1394[-1754 1357 -1800 1305!-1800 1305[-1798 1305 -1796 1303!-1796 1303[#FFF967.19 #4D9.B5 -1624 1144"/>
+                        <Edge fillStyle1="1" edges="!-6163 161|-6150 156!-6150 156[-6135 138 -6105 126!-6105 126[-5934 74 -5775 -9!-5775 -9[-5799 -33 -5837 -55!-5837 -55[-5899 -92 -5945 -144!-5945 -144[-5943 -144 -5941 -146!-5941 -146[-5834 -207 -5769 -305"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-5769 -305|-4637 -275!-4637 -275|-4653 305!-4653 305|-5992 269!-5992 269|-6163 161"/>
                       </edges>
                     </DOMShape>
                   </members>

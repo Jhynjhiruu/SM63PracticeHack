@@ -124,7 +124,7 @@ onEnterFrame = function () {
           <frames>
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix tx="1.5" ty="-4.65"/>
                   </matrix>
@@ -136,7 +136,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix tx="1.5" ty="-3.65"/>
                   </matrix>
@@ -148,7 +148,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="4" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix tx="1.5" ty="-4.65"/>
                   </matrix>
@@ -372,7 +372,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side">
                   <matrix>
                     <Matrix tx="4.45" ty="-17.95"/>
                   </matrix>
@@ -384,7 +384,7 @@ onEnterFrame = function () {
             </DOMFrame>
             <DOMFrame index="4" duration="3" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side">
                   <matrix>
                     <Matrix tx="4.45" ty="-18.95"/>
                   </matrix>

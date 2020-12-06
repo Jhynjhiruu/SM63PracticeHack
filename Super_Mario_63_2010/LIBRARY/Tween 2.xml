@@ -7,30 +7,21 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix tx="-11" ty="-9"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-11" ty="-9"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-11" ty="-9"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="Matrix 16x32" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="-39.3" ty="-1"/>
+                                  <Matrix a="20" d="20" tx="-50.3" ty="-10"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!3810 2105S2|-3370 2105!-3370 2105|-3370 -1745!-3370 -1745|3810 -1745!3810 -1745|3810 2105"/>
+                            <Edge fillStyle1="1" edges="!-3590 -1925S2|3590 -1925!3590 -1925|3590 1925!3590 1925|-3590 1925!-3590 1925|-3590 -1925"/>
                           </edges>
                         </DOMShape>
                       </members>

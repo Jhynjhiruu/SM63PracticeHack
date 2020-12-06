@@ -160,9 +160,6 @@ onEnterFrame = null;
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -374,9 +371,6 @@ onEnterFrame = null;
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -403,9 +397,6 @@ onEnterFrame = null;
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Explosion 2 Clip (Small 1)">
                   <matrix>
@@ -624,9 +615,6 @@ onEnterFrame = null;
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -817,19 +805,13 @@ onEnterFrame = null;
             <DOMFrame index="97" duration="32" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.919906616210938" b="0.390960693359375" c="-0.390960693359375" d="0.919906616210938" tx="52.4" ty="43.3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.919906616210938" b="0.390960693359375" c="-0.390960693359375" d="0.919906616210938" tx="52.4" ty="43.3"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="18.3981323242188" b="7.8192138671875" c="-7.8192138671875" d="18.3981323242188" tx="-89.2" ty="129.9"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -845,15 +827,14 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!645.5 -1003[#2AE.E #FFFC4C.84 728 -891!728 -891[750 -860 760 -820!760 -820|820 -800!820 -800[1086 -325 1364 138!1364 138[1390 180 1420 220!1420 220|1420 300!1420 300|1433 313"/>
+!1547 1979[1106 1466 796 846!796 846[717 817 657 753!657 753[446 526 161 385!161 385[-158 212 -344 -51!-344 -51[-382 -170 -324 -304!-324 -304[-313 -329 -299 -358!-299 -358[-271 -422 -245 -487!-245 -487|-67 -650!-67 -650[-49 -643 -31 -643
+!-31 -643[-26 -644 -19 -649!-19 -649[4 -664 31 -666!31 -666[66 -669 90 -713!90 -713[201 -676 313 -640!313 -640[434 -601 560 -566!560 -566[719 -519 881 -480"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!1433 313|894.5 829"/>
+!881 -480|814 -323!814 -323|2034 196"/>
                         <Edge fillStyle1="1" edges="
-!894.5 829[#120.42 #211.11 -240 80!-240 80[-324 85 -404 49!-404 49[-687 -77 -1005 -96!-1005 -96[-1366 -130 -1640 -300!-1640 -300[-1722 -395 -1721 -540!-1721 -540[-1721 -567 -1720 -600!-1720 -600[-1719 -670 -1720 -740!-1720 -740|-1620
- -960!-1620 -960[-1600 -960 -1584 -968!-1584 -968[-1580 -970 -1575 -977!-1575 -977[-1560 -1000 -1536 -1012!-1536 -1012[-1504 -1029 -1500 -1080!-1500 -1080[#FFFA98.BE #FFFBBF.F -1266.5 -1099!-1266.5 -1099[#FFFB8D.7F #FFFBA8.C3 -1010.5
- -1127!-1010.5 -1127[#FFFCB2.C2 #FFFB84.9 -680 -1174"/>
+!2034 196[2050 264 2066 331!2066 331[2074 368 2068 409!2068 409|2115 451!2115 451[2174 992 2249 1526!2249 1526[2257 1575 2268 1623!2268 1623|2237 1697!2237 1697|2244 1714"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!-680 -1174|-680 -1003!-680 -1003|645.5 -1003"/>
+!2244 1714|1547 1979"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -868,19 +849,13 @@ onEnterFrame = null;
             <DOMFrame index="129" duration="42" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="0.50848388671875" b="0.858718872070313" c="-0.858718872070313" d="0.50848388671875" tx="84.65" ty="111.95"/>
-                  </matrix>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="0.50848388671875" b="0.858718872070313" c="-0.858718872070313" d="0.50848388671875" tx="84.65" ty="111.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="10.169677734375" b="17.1743774414063" c="-17.1743774414063" d="10.169677734375" tx="-80.5" ty="97.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -896,15 +871,14 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!645.5 -1003[#2AE.E #FFFC4C.84 728 -891!728 -891[750 -860 760 -820!760 -820|820 -800!820 -800[1086 -325 1364 138!1364 138[1390 180 1420 220!1420 220|1420 300!1420 300|1433 313"/>
+!1436 3430S2[1385 2755 1502 2074!1502 2074[1455 2004 1446 1917!1446 1917[1410 1610 1264 1327!1264 1327[1110 1000 1117 678!1117 678[1156 559 1282 486!1282 486[1305 473 1333 457!1333 457[1394 422 1453 386!1453 386|1693 360!1693 360[1703
+ 377 1719 387!1719 387[1723 389 1731 390!1731 390[1759 391 1781 405!1781 405[1812 424 1857 402!1857 402[1924 498 1993 593!1993 593[2068 696 2147 799!2147 799[2248 930 2355 1058"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!1433 313|894.5 829"/>
+!2355 1058S6|2208 1145!2208 1145|2882 2284"/>
                         <Edge fillStyle1="1" edges="
-!894.5 829[#120.42 #211.11 -240 80!-240 80[-324 85 -404 49!-404 49[-687 -77 -1005 -96!-1005 -96[-1366 -130 -1640 -300!-1640 -300[-1722 -395 -1721 -540!-1721 -540[-1721 -567 -1720 -600!-1720 -600[-1719 -670 -1720 -740!-1720 -740|-1620
- -960!-1620 -960[-1600 -960 -1584 -968!-1584 -968[-1580 -970 -1575 -977!-1575 -977[-1560 -1000 -1536 -1012!-1536 -1012[-1504 -1029 -1500 -1080!-1500 -1080[#FFFA98.BE #FFFBBF.F -1266.5 -1099!-1266.5 -1099[#FFFB8D.7F #FFFBA8.C3 -1010.5
- -1127!-1010.5 -1127[#FFFCB2.C2 #FFFB84.9 -680 -1174"/>
+!2882 2284S2[2855 2347 2828 2411!2828 2411[2812 2446 2783 2475!2783 2475|2797 2536!2797 2536[2524 3007 2268 3480!2268 3480[2245 3525 2226 3570!2226 3570|2157 3611!2157 3611|2153 3629"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!-680 -1174|-680 -1003!-680 -1003|645.5 -1003"/>
+!2153 3629S6|1436 3430"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -919,19 +893,13 @@ onEnterFrame = null;
             <DOMFrame index="171" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.176513671875" b="0.9805908203125" c="-0.9805908203125" d="-0.176513671875" tx="116.85" ty="223.3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.176513671875" b="0.9805908203125" c="-0.9805908203125" d="-0.176513671875" tx="116.85" ty="223.3"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-3.5302734375" b="19.61181640625" c="-19.61181640625" d="-3.5302734375" tx="1.3" ty="104.8"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -947,15 +915,14 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!645.5 -1003[#2AE.E #FFFC4C.84 728 -891!728 -891[750 -860 760 -820!760 -820|820 -800!820 -800[1086 -325 1364 138!1364 138[1390 180 1420 220!1420 220|1420 300!1420 300|1433 313"/>
+!1366 5198[1767 4655 2301 4217!2301 4217[2311 4133 2360 4061!2360 4061[2534 3806 2608 3498!2608 3498[2705 3150 2920 2911!2920 2911[3028 2847 3171 2873!3171 2873[3197 2878 3229 2885!3229 2885[3297 2898 3367 2910!3367 2910|3564 3046!3564
+ 3046[3560 3066 3566 3084!3566 3084[3567 3088 3573 3094!3573 3094[3593 3113 3600 3139!3600 3139[3611 3173 3661 3186!3661 3186[3648 3302 3638 3419!3638 3419[3627 3545 3620 3675!3620 3675[3611 3839 3608 4006"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!1433 313|894.5 829"/>
+!3608 4006|3441 3976!3441 3976|3207 5276"/>
                         <Edge fillStyle1="1" edges="
-!894.5 829[#120.42 #211.11 -240 80!-240 80[-324 85 -404 49!-404 49[-687 -77 -1005 -96!-1005 -96[-1366 -130 -1640 -300!-1640 -300[-1722 -395 -1721 -540!-1721 -540[-1721 -567 -1720 -600!-1720 -600[-1719 -670 -1720 -740!-1720 -740|-1620
- -960!-1620 -960[-1600 -960 -1584 -968!-1584 -968[-1580 -970 -1575 -977!-1575 -977[-1560 -1000 -1536 -1012!-1536 -1012[-1504 -1029 -1500 -1080!-1500 -1080[#FFFA98.BE #FFFBBF.F -1266.5 -1099!-1266.5 -1099[#FFFB8D.7F #FFFBA8.C3 -1010.5
- -1127!-1010.5 -1127[#FFFCB2.C2 #FFFB84.9 -680 -1174"/>
+!3207 5276[3145 5307 3082 5337!3082 5337[3048 5353 3007 5356!3007 5356|2976 5411!2976 5411[2464 5588 1961 5780!1961 5780[1915 5797 1870 5819!1870 5819|1792 5805!1792 5805|1777 5816"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!-680 -1174|-680 -1003!-680 -1003|645.5 -1003"/>
+!1777 5816|1366 5198"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1002,9 +969,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!645.5 -1003S1[#2AE.E #FFFC4C.84 728 -891!728 -891[750 -860 760 -820!760 -820|820 -800!820 -800[1086 -325 1364 138!1364 138[1390 180 1420 220!1420 220|1420 300!1420 300|1433 313"/>
+!645.5 -1003[#2AE.E #FFFC4C.84 728 -891!728 -891[750 -860 760 -820!760 -820|820 -800!820 -800[1086 -325 1364 138!1364 138[1390 180 1420 220!1420 220|1420 300!1420 300|1433 313"/>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!1433 313S5|1930 -163!1930 -163|1930 -1003!1930 -1003|645.5 -1003"/>
+!1433 313|1930 -163!1930 -163|1930 -1003!1930 -1003|645.5 -1003"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1014,19 +981,13 @@ onEnterFrame = null;
             <DOMFrame index="87" duration="50" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.258804321289063" b="0.965927124023438" c="-0.965927124023438" d="-0.258804321289063" tx="157.55" ty="46.25"/>
-                  </matrix>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.258804321289063" b="0.965927124023438" c="-0.965927124023438" d="-0.258804321289063" tx="157.55" ty="46.25"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-5.17608642578125" b="19.3185424804688" c="-19.3185424804688" d="-5.17608642578125" tx="51.9" ty="-81.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1042,9 +1003,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!645.5 -1003S1[#2AE.E #FFFC4C.84 728 -891!728 -891[750 -860 760 -820!760 -820|820 -800!820 -800[1086 -325 1364 138!1364 138[1390 180 1420 220!1420 220|1420 300!1420 300|1433 313"/>
+!3953 1809S1[3888 1834 3824 1859!3824 1859[3788 1872 3746 1871!3746 1871|3712 1924!3712 1924[3184 2058 2665 2207!2665 2207[2617 2221 2570 2240!2570 2240|2493 2219!2493 2219|2478 2228"/>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!1433 313S5|1930 -163!1930 -163|1930 -1003!1930 -1003|645.5 -1003"/>
+!2478 2228S5|2809 2831!2809 2831|3621 3049!3621 3049|3953 1809"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1054,19 +1015,13 @@ onEnterFrame = null;
             <DOMFrame index="137" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.70709228515625" b="0.707122802734375" c="-0.707107543945313" d="-0.70709228515625" tx="215.9" ty="99.25"/>
-                  </matrix>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.70709228515625" b="0.707122802734375" c="-0.707107543945313" d="-0.70709228515625" tx="215.9" ty="99.25"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-14.141845703125" b="14.1424560546875" c="-14.1421508789063" d="-14.141845703125" tx="188.55" ty="-64.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1082,9 +1037,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!645.5 -1003S1[#2AE.E #FFFC4C.84 728 -891!728 -891[750 -860 760 -820!760 -820|820 -800!820 -800[1086 -325 1364 138!1364 138[1390 180 1420 220!1420 220|1420 300!1420 300|1433 313"/>
+!4570 3151S1[4502 3141 4433 3130!4433 3130[4396 3123 4361 3102!4361 3102|4304 3131!4304 3131[3780 2983 3256 2852!3256 2852[3208 2841 3158 2833!3158 2833|3102 2777!3102 2777|3084 2777"/>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!1433 313S5|1930 -163!1930 -163|1930 -1003!1930 -1003|645.5 -1003"/>
+!3084 2777S5|3068 3465!3068 3465|3662 4059!3662 4059|4570 3151"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1126,9 +1081,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-680 -1174|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-1930 -1061.5[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1171,9 +1126,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-680 -1174|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-1930 -1061.5[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1188,25 +1143,19 @@ onEnterFrame = null;
             <DOMFrame index="83" duration="15" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.96405029296875" b="0.259170532226563" c="-0.259170532226563" d="0.96405029296875" tx="-16.75" ty="23.05"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-96.55" y="-53"/>
+                    <Point x="-96.1" y="-53.05"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.96405029296875" b="0.259170532226563" c="-0.259170532226563" d="0.96405029296875" tx="-16.75" ty="23.05"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-96.55" y="-53"/>
+                        <Point x="-96.1" y="-53.05"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="19.281005859375" b="5.18341064453125" c="-5.18341064453125" d="19.281005859375" tx="-144.85" ty="128.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1222,9 +1171,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-687 -847|-404 -1897!-404 -1897|-767 -2780!-767 -2780|-1615 -2201!-1615 -2201|-1921 -1062"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-1921 -1062[-1314 -912 -687 -847"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1239,25 +1188,19 @@ onEnterFrame = null;
             <DOMFrame index="98" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="-84.2" ty="57.05"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-96.45" y="-53.05"/>
+                    <Point x="-86.5" y="-53"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="-84.2" ty="57.05"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-96.45" y="-53.05"/>
+                        <Point x="-86.5" y="-53"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="-249.55" ty="41.1"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1273,9 +1216,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-1007 -35S5|-64 -579!-64 -579|304 -1461!304 -1461|-706 -1651!-706 -1651|-1730 -1060"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-1730 -1060S1[-1406 -525 -1007 -35"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1290,25 +1233,19 @@ onEnterFrame = null;
             <DOMFrame index="99" duration="6" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="-84.2" ty="57.05"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-34" y="-58.7"/>
+                    <Point x="-50.35" y="-1.75"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="0.5" b="0.86602783203125" c="-0.86602783203125" d="0.5" tx="-84.2" ty="57.05"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-34" y="-58.7"/>
+                        <Point x="-50.35" y="-1.75"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="-249.55" ty="41.1"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1324,9 +1261,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-1007 -35S5|-64 -579!-64 -579|304 -1461!304 -1461|-706 -1651!-706 -1651|-1730 -1060"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-1730 -1060S1[-1406 -525 -1007 -35"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1341,25 +1278,19 @@ onEnterFrame = null;
             <DOMFrame index="105" duration="12" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="0.134109497070313" b="0.98980712890625" c="-0.98980712890625" d="0.134109497070313" tx="-103.85" ty="39.75"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-34" y="-58.65"/>
+                    <Point x="-50.35" y="-1.75"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="0.134109497070313" b="0.98980712890625" c="-0.98980712890625" d="0.134109497070313" tx="-103.85" ty="39.75"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-34" y="-58.65"/>
+                        <Point x="-50.35" y="-1.75"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="2.68218994140625" b="19.796142578125" c="-19.796142578125" d="2.68218994140625" tx="-250.6" ty="-37.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1375,9 +1306,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-1006 -35S5|72 -181!72 -181|746 -857!746 -857|-116 -1416!-116 -1416|-1286 -1257"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-1286 -1257S1[-1189 -640 -1006 -35"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1392,25 +1323,19 @@ onEnterFrame = null;
             <DOMFrame index="117" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.259323120117188" b="0.964141845703125" c="-0.964141845703125" d="-0.259323120117188" tx="-113.7" ty="21.8"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-34" y="-58.65"/>
+                    <Point x="-48.35" y="4.25"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.259323120117188" b="0.964141845703125" c="-0.964141845703125" d="-0.259323120117188" tx="-113.7" ty="21.8"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-34" y="-58.65"/>
+                        <Point x="-48.35" y="4.25"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-5.18646240234375" b="19.2828369140625" c="-19.2828369140625" d="-5.18646240234375" tx="-219.05" ty="-106.3"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1426,9 +1351,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-966 84S5|84 367!84 367|968 5!968 5|389 -843!389 -843|-751 -1150"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-751 -1150S1[-901 -542 -966 84"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1443,25 +1368,19 @@ onEnterFrame = null;
             <DOMFrame index="118" duration="12" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.259323120117188" b="0.964141845703125" c="-0.964141845703125" d="-0.259323120117188" tx="-113.7" ty="21.8"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-32.75" y="-111.85"/>
+                    <Point x="2.65" y="19.25"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.259323120117188" b="0.964141845703125" c="-0.964141845703125" d="-0.259323120117188" tx="-113.7" ty="21.8"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-32.75" y="-111.85"/>
+                        <Point x="2.65" y="19.25"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-5.18646240234375" b="19.2828369140625" c="-19.2828369140625" d="-5.18646240234375" tx="-219.05" ty="-106.3"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1477,9 +1396,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-966 84S5|84 367!84 367|968 5!968 5|389 -843!389 -843|-751 -1150"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!-751 -1150S1[-901 -542 -966 84"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1494,25 +1413,19 @@ onEnterFrame = null;
             <DOMFrame index="130" duration="26" tweenType="motion" keyMode="17921" acceleration="66">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.706680297851563" b="0.703262329101563" c="-0.703262329101563" d="-0.706680297851563" tx="-100.15" ty="-15.8"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-32.7" y="-111.9"/>
+                    <Point x="1.65" y="40.3"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.706680297851563" b="0.703262329101563" c="-0.703262329101563" d="-0.706680297851563" tx="-100.15" ty="-15.8"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-32.7" y="-111.9"/>
+                        <Point x="1.65" y="40.3"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-14.1336059570313" b="14.0652465820313" c="-14.0652465820313" d="-14.1336059570313" tx="-127.05" ty="-179.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1528,9 +1441,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!-696 36|69 805!69 805|1013 934!1013 934|938 -88!938 -88|107 -923"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!107 -923[-326 -474 -696 36"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1545,25 +1458,19 @@ onEnterFrame = null;
             <DOMFrame index="156" duration="39" tweenType="motion" keyMode="17921" acceleration="44">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.992645263671875" b="0.0736236572265625" c="-0.0736236572265625" d="-0.992645263671875" tx="-20.05" ty="18.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-32.75" y="-111.85"/>
+                    <Point x="20.7" y="127.25"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.992645263671875" b="0.0736236572265625" c="-0.0736236572265625" d="-0.992645263671875" tx="-20.05" ty="18.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-32.75" y="-111.85"/>
+                        <Point x="20.7" y="127.25"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-19.8529052734375" b="1.47247314453125" c="-1.47247314453125" d="-19.8529052734375" tx="65.8" ty="-122.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1578,10 +1485,10 @@ onEnterFrame = null;
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!1593 1284S1[972 1343 360 1488"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!360 1488S5|441 2569!441 2569|1073 3281!1073 3281|1680 2458!1680 2458|1593 1284"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1596,25 +1503,19 @@ onEnterFrame = null;
             <DOMFrame index="195" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.992645263671875" b="0.0736236572265625" c="-0.0736236572265625" d="-0.992645263671875" tx="-14.05" ty="90.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-32.75" y="-111.85"/>
+                    <Point x="26.7" y="199.15"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.992645263671875" b="0.0736236572265625" c="-0.0736236572265625" d="-0.992645263671875" tx="-14.05" ty="90.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-32.75" y="-111.85"/>
+                        <Point x="26.7" y="199.15"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="-19.8529052734375" b="1.47247314453125" c="-1.47247314453125" d="-19.8529052734375" tx="71.8" ty="-50.75"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1630,9 +1531,9 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!-680 -1174S5|-680 -2263!-680 -2263|-1260 -3023!-1260 -3023|-1930 -2243!-1930 -2243|-1930 -1061.5"/>
+!480 2926S5|561 4007!561 4007|1193 4719!1193 4719|1800 3896!1800 3896|1713 2722"/>
                         <Edge fillStyle0="1" edges="
-!-1930 -1061.5S1[#FFFAE7.A7 #FFFBCE.5E -680 -1174"/>
+!1713 2722S1[1092 2781 480 2926"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1724,11 +1625,11 @@ onEnterFrame = null;
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-1930 -1061.5S2[#FFF905.07 #FFFBD7.BA -1644 -1071.5!-1644 -1071.5[#FFF9D4.F9 #FFFBCD.1F -1514 -1079!-1514 -1079[#FFFA1D.02 #FFFBC8.86 -1500 -1080!-1500 -1080[-1504 -1029 -1536 -1012!-1536 -1012[-1560 -1000 -1575 -977!-1575 -977[-1580
- -970 -1584 -968!-1584 -968[-1600 -960 -1620 -960!-1620 -960|-1720 -740!-1720 -740[-1719 -670 -1720 -600!-1720 -600[-1721 -567 -1721 -540!-1721 -540[-1722 -395 -1640 -300!-1640 -300[-1366 -130 -1005 -96!-1005 -96[-687 -77 -404 49!-404
- 49[-324 85 -240 80!-240 80[#120.42 #211.11 894.5 829"/>
+!-1930 -1061.5[#FFF905.07 #FFFBD7.BA -1644 -1071.5!-1644 -1071.5[#FFF9D4.F9 #FFFBCD.1F -1514 -1079!-1514 -1079[#FFFA1D.02 #FFFBC8.86 -1500 -1080!-1500 -1080[-1504 -1029 -1536 -1012!-1536 -1012[-1560 -1000 -1575 -977!-1575 -977[-1580 -970
+ -1584 -968!-1584 -968[-1600 -960 -1620 -960!-1620 -960|-1720 -740!-1720 -740[-1719 -670 -1720 -600!-1720 -600[-1721 -567 -1721 -540!-1721 -540[-1722 -395 -1640 -300!-1640 -300[-1366 -130 -1005 -96!-1005 -96[-687 -77 -404 49!-404 49[-324
+ 85 -240 80!-240 80[#120.42 #211.11 894.5 829"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!894.5 829S6|740 977!740 977|740 3024!740 3024|-1930 3024!-1930 3024|-1930 -1061.5"/>
+!894.5 829|740 977!740 977|740 3024!740 3024|-1930 3024!-1930 3024|-1930 -1061.5"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">
@@ -1800,17 +1701,11 @@ onEnterFrame = null;
             <DOMFrame index="177" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="0.067352294921875" b="-0.9962158203125" c="0.9962158203125" d="0.067352294921875" tx="-116.1" ty="177.9"/>
-                  </matrix>
                   <transformationPoint>
                     <Point x="37" y="151.2"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="0.067352294921875" b="-0.9962158203125" c="0.9962158203125" d="0.067352294921875" tx="-116.1" ty="177.9"/>
-                      </matrix>
                       <transformationPoint>
                         <Point x="37" y="151.2"/>
                       </transformationPoint>
@@ -1818,7 +1713,7 @@ onEnterFrame = null;
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Grey Brick Small" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-96.5" ty="135.2"/>
+                              <Matrix a="1.3470458984375" b="-19.92431640625" c="19.92431640625" d="1.3470458984375" tx="12.1" ty="283.15"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1833,12 +1728,12 @@ onEnterFrame = null;
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" edges="
-!-1930 -1061.5S2[#FFF905.07 #FFFBD7.BA -1644 -1071.5!-1644 -1071.5[#FFF9D4.F9 #FFFBCD.1F -1514 -1079!-1514 -1079[#FFFA1D.02 #FFFBC8.86 -1500 -1080!-1500 -1080[-1504 -1029 -1536 -1012!-1536 -1012[-1560 -1000 -1575 -977!-1575 -977[-1580
- -970 -1584 -968!-1584 -968[-1600 -960 -1620 -960!-1620 -960|-1720 -740!-1720 -740[-1719 -670 -1720 -600!-1720 -600[-1721 -567 -1721 -540!-1721 -540[-1722 -395 -1640 -300!-1640 -300[-1366 -130 -1005 -96!-1005 -96[-687 -77 -404 49!-404
- 49[-324 85 -240 80!-240 80[#120.42 #211.11 894.5 829"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!894.5 829S6|740 977!740 977|740 3024!740 3024|-1930 3024!-1930 3024|-1930 -1061.5"/>
+!-1436 2722S6|-1299 2887!-1299 2887|741 3025!741 3025|561 5685!561 5685|-3509 5410"/>
+                        <Edge fillStyle1="1" edges="
+!-3509 5410S2[-3502 5266 -3500 5124!-3500 5124[-3499 5059 -3499 4993!-3499 4993[-3498 4986 -3499 4979!-3499 4979[-3448 4987 -3433 5020!-3433 5020[-3423 5045 -3401 5061!-3401 5061[-3394 5067 -3393 5071!-3393 5071[-3386 5087 -3387 5107
+!-3387 5107|-3175 5221!-3175 5221[-3105 5225 -3036 5231!-3036 5231[-3003 5234 -2976 5236!-2976 5236[-2832 5246 -2731 5172!-2731 5172[-2544 4910 -2486 4553!-2486 4553[-2445 4237 -2300 3963!-2300 3963[-2259 3887 -2258 3802!-2258 3802[-1776
+ 3307 -1436 2722"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">

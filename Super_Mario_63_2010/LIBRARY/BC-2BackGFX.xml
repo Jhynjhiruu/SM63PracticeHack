@@ -38,7 +38,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp1">
                   <matrix>
-                    <Matrix a="2.49267578125" d="46.4599151611328" tx="-2560.15" ty="162.85"/>
+                    <Matrix a="2.49267578125" d="46.4598999023438" tx="-2560.15" ty="162.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -66,7 +66,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="4.16995239257813" d="4.13093566894531" tx="-1283.95" ty="284.4"/>
+                    <Matrix a="4.16995239257813" d="4.13092041015625" tx="-1283.95" ty="284.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -117,7 +117,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="6.94264221191406" d="3.13262939453125" tx="-1235.3" ty="95.45"/>
+                    <Matrix a="6.942626953125" d="3.13262939453125" tx="-1235.3" ty="95.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

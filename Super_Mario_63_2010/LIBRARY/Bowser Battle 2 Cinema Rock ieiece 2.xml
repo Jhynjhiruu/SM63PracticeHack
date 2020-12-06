@@ -7,19 +7,13 @@
             <DOMFrame index="0" duration="39" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-37.45" ty="0.45"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-37.45" ty="0.45"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="93.8" ty="42.5"/>
+                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="56.35" ty="42.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -34,8 +28,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!1124 363|1150 359.5!1150 359.5|895 -382!895 -382|833 -369.5!833 -369.5|348.5 -309!348.5 -309|438.5 147!438.5 147|427.5 159"/>
-                        <Edge fillStyle0="1" edges="!427.5 159|558.5 203!558.5 203[#231.5A #CA.88 564 202!564 202[740 160 931 258!931 258[#404.21 #135.7D 1124 363"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!375 372|401 369!401 369|146 -373!146 -373|84 -360!84 -360|-400 -300!-400 -300|-310 156!-310 156|-321 168"/>
+                        <Edge fillStyle0="1" edges="!-321 168|-190 212!-190 212[-188 212 -185 211!-185 211[-9 169 182 267!182 267[279 318 375 372"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -45,19 +39,13 @@
             <DOMFrame index="39" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" d="-1" tx="327.45" ty="-0.55"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" d="-1" tx="327.45" ty="-0.55"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" b="17.320556640625" c="-17.320556640625" d="10" tx="93.8" ty="42.5"/>
+                              <Matrix a="-10" b="-17.320556640625" c="17.320556640625" d="-10" tx="233.65" ty="-43.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -72,8 +60,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!1124 363|1150 359.5!1150 359.5|895 -382!895 -382|833 -369.5!833 -369.5|348.5 -309!348.5 -309|438.5 147!438.5 147|427.5 159"/>
-                        <Edge fillStyle0="1" edges="!427.5 159|558.5 203!558.5 203[#231.5A #CA.88 564 202!564 202[740 160 931 258!931 258[#404.21 #135.7D 1124 363"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!5425 -374|5399 -371!5399 -371|5654 371!5654 371|5716 358!5716 358|6200 298!6200 298|6110 -158!6110 -158|6121 -170"/>
+                        <Edge fillStyle0="1" edges="!6121 -170|5990 -214!5990 -214[5988 -214 5985 -213!5985 -213[5809 -171 5618 -269!5618 -269[5521 -320 5425 -374"/>
                       </edges>
                     </DOMShape>
                   </members>

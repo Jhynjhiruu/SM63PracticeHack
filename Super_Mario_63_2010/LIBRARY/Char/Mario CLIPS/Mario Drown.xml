@@ -189,9 +189,6 @@ stop();
             <DOMFrame index="46" duration="62" tweenType="motion" keyMode="17921" acceleration="-50">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.965927124023438" b="0.258819580078125" c="-0.258819580078125" d="0.965927124023438" tx="-3.9" ty="0.3"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side" selected="true">
                       <matrix>
@@ -221,9 +218,6 @@ stop();
             <DOMFrame index="108" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.965927124023438" b="-0.258804321289063" c="0.258819580078125" d="0.965927124023438" tx="2.8" ty="-2.25"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side" selected="true">
                       <matrix>

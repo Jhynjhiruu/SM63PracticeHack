@@ -23,19 +23,13 @@
                   </edges>
                 </DOMShape>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="1.08854675292969" ty="-2.1"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-58.6" y="-221.85"/>
+                    <Point x="-58.6" y="-243.6"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="1.08854675292969" ty="-2.1"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-58.6" y="-221.85"/>
+                        <Point x="-58.6" y="-243.6"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
@@ -44,20 +38,14 @@
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-1362 -9344|-1362 470!-1362 470|-982 470!-982 470|-982 -9344!-982 -9344|-1362 -9344"/>
+!-1362 -10213|-1362 470!-1362 470|-982 470!-982 470|-982 -10213!-982 -10213|-1362 -10213"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-40"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="-40"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#00FF00"/>
@@ -65,7 +53,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!39358 -9102.5|39358 470!39358 470|39738 470!39738 470|39738 -9102.5!39738 -9102.5|39358 -9102.5"/>
+!39358 -9902|39358 -330!39358 -330|39738 -330!39738 -330|39738 -9902!39738 -9902|39358 -9902"/>
                       </edges>
                     </DOMShape>
                   </members>

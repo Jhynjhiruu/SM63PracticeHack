@@ -7,21 +7,15 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="30" ty="30"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="30" ty="30"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#BD0000"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!16654.5 141|-16652.5 141!-16652.5 141|-16652 3044!-16652 3044|16655 3044!16655 3044|16654.5 141"/>
+                        <Edge fillStyle0="1" edges="!17255 741|-16052 741!-16052 741|-16052 3644!-16052 3644|17255 3644!17255 3644|17255 741"/>
                       </edges>
                     </DOMShape>
                     <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
@@ -152,7 +146,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!17256 -685|17256 3641!17256 3641|-16052 3641!-16052 3641|-16052 -685!-16052 -685|17256 -685"/>
+                        <Edge fillStyle1="1" edges="!17256 3641|-16052 3641!-16052 3641|-16052 -685!-16052 -685|17256 -685!17256 -685|17256 3641"/>
                       </edges>
                     </DOMShape>
                   </members>

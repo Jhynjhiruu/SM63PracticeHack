@@ -236,19 +236,13 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-17"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-17"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brown-Red Stone" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="23.8836975097656" b="1.10446166992188" c="-1.10411071777344" d="23.8835906982422" tx="125.05" ty="297.85"/>
+                              <Matrix a="23.8836822509766" b="1.10446166992188" c="-1.10411071777344" d="23.8835906982422" tx="108.05" ty="297.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -263,8 +257,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!4693.5 6780|4864 3738!4864 3738|6941 3818!6941 3818|6940.5 4024.5!6940.5 4024.5|6940 4025!6940 4025|6842 6780"/>
-                        <Edge fillStyle1="1" edges="!6842 6780|4693.5 6780"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!4354 6780|4524 3738!4524 3738|6601 3818!6601 3818|6601 4025!6601 4025|6600 4025!6600 4025|6502 6780"/>
+                        <Edge fillStyle1="1" edges="!6502 6780|4354 6780"/>
                       </edges>
                     </DOMShape>
                   </members>

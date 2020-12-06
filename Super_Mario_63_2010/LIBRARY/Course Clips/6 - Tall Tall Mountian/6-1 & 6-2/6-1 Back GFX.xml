@@ -91,14 +91,8 @@ onClipEvent (enterFrame) {
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1" ty="-6.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="1" ty="-6.5"/>
-                      </matrix>
                       <strokes>
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal" weight="2">
@@ -109,8 +103,8 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!40546 -1162.5S4[#A0AC.26 #FFFDBF.A7 41132 252!41132 252[#A0AC.26 #438.A4 40546 1666!40546 1666[#9C18.A5 #8CC.26 39132 2252!39132 2252[#959F.A8 #8CC.26 37717.5 1666!37717.5 1666[#910C.26 #438.A4 37132 252!37132 252[#910C.26 #FFFDBF.A7
- 37717.5 -1162.5!37717.5 -1162.5[#959F.A8 #FFF92C.26 39132 -1748!39132 -1748[#9C18.A5 #FFF92C.26 40546 -1162.5"/>
+                        <Edge strokeStyle="1" edges="!40566 -1292[41152 -706 41152 122!41152 122[41152 951 40566 1536!40566 1536[39981 2122 39152 2122!39152 2122[38324 2122 37738 1536!37738 1536[37152 951 37152 122!37152 122[37152 -706 37738 -1292!37738 -1292[38324 -1878 39152 -1878!39152
+ -1878[39981 -1878 40566 -1292"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -177,7 +171,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp2">
                   <matrix>
-                    <Matrix a="57.5158843994141" d="6.25013732910156" tx="844.4" ty="-684.4"/>
+                    <Matrix a="57.5158843994141" d="6.2501220703125" tx="844.4" ty="-684.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -783,26 +777,20 @@ onEnterFrame = function () {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="39" ty="-12.1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="39" ty="-12.1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Vines Repeat" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="676.3" ty="-130.15"/>
+                              <Matrix a="20" d="20" tx="715.3" ty="-142.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!14166 -2603|14166 -843!14166 -843|13526 -843!13526 -843|13526 -2603!13526 -2603|14166 -2603"/>
+!14946 -1085|14306 -1085!14306 -1085|14306 -2845!14306 -2845|14946 -2845!14946 -2845|14946 -1085"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -818,9 +806,6 @@ onEnterFrame = function () {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="11"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushroom Side">
                       <matrix>
@@ -846,24 +831,24 @@ onEnterFrame = function () {
                 </DOMGroup>
                 <DOMGroup>
                   <members>
-                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushy Repeat">
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushy Repeat">
                       <matrix>
                         <Matrix tx="1952.1" ty="20.95"/>
                       </matrix>
                     </DOMBitmapInstance>
-                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushy Repeat">
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushy Repeat">
                       <matrix>
                         <Matrix tx="1952.1" ty="76.95"/>
                       </matrix>
                     </DOMBitmapInstance>
-                    <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushy Repeat">
+                    <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushy Repeat">
                       <matrix>
                         <Matrix tx="1952.1" ty="130.95"/>
                       </matrix>
                     </DOMBitmapInstance>
-                    <DOMGroup selected="true">
+                    <DOMGroup>
                       <members>
-                        <DOMShape selected="true">
+                        <DOMShape>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="  Course Items-PL/ Decoration/ Vegetation/ Jungle/YI Mushy Top" bitmapIsClipped="false">
@@ -875,7 +860,7 @@ onEnterFrame = function () {
                           </fills>
                           <edges>
                             <Edge fillStyle1="1" edges="
-!39748 536S2|38628 536!38628 536|38628 280!38628 280|39748 280!39748 280|39748 536"/>
+!39748 536|38628 536!38628 536|38628 280!38628 280|39748 280!39748 280|39748 536"/>
                           </edges>
                         </DOMShape>
                       </members>

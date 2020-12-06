@@ -19,7 +19,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!31960 1428S4[#7DAA.51 #FFFC71.97 32953 -1041"/>
+                        <Edge strokeStyle="1" edges="!31960 1428[#7DAA.51 #FFFC71.97 32953 -1041"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -99,7 +99,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="1.22364807128906" d="1.36181640625" tx="716.45" ty="18.45"/>
+                    <Matrix a="1.2236328125" d="1.36181640625" tx="716.45" ty="18.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -115,7 +115,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="1.22364807128906" d="1.36181640625" tx="1080.4" ty="210.45"/>
+                    <Matrix a="1.2236328125" d="1.36181640625" tx="1080.4" ty="210.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

@@ -152,7 +152,7 @@ onEnterFrame = function () {
         </DOMLayer>
         <DOMLayer name="Layer 2" color="#9933CC">
           <frames>
-            <DOMFrame index="0" duration="2" keyMode="9728" acceleration="100">
+            <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Common Coded PL/ Green PL/Green PL Clip" name="pl">
                   <transformationPoint>

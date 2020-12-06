@@ -8,7 +8,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
-                    <Matrix a="0.339813232421875" b="-0.000396728515625" d="3.90419006347656" ty="166.45"/>
+                    <Matrix a="0.339813232421875" b="-0.000396728515625" d="3.9041748046875" ty="166.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -23,26 +23,17 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="40"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix ty="40"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix ty="40"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <SolidColor color="#BD0000"/>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!17075.5 579|-15841.5 579!-15841.5 579|-15841 3039!-15841 3039|17076 3039!17076 3039|17075.5 579"/>
+                            <Edge fillStyle0="1" edges="!17076 1379|-15841 1379!-15841 1379|-15841 3839!-15841 3839|17076 3839!17076 3839|17076 1379"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -122,33 +113,27 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="40"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="40"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="231.95" ty="-14.5"/>
+                              <Matrix a="10" d="10" tx="231.95" ty="25.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-186.45" ty="-6"/>
+                              <Matrix a="10" d="10" tx="-26.6" ty="26.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-26.6" ty="-13.15"/>
+                              <Matrix a="10" d="10" tx="-186.45" ty="34"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -163,30 +148,23 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="3" strokeStyle="1" edges="!428 -410|428 70!428 70|908 70!908 70|908 -100!908 -100|578 -100!578 -100|578 -260!578 -260|908 -260!908 -260|908 -580!908 -580|108 -580!108 -580|108 -913!108 -913|-212 -913!-212 -913|-212 70!-212 70|-532 380!-532 380|-532 607!-532 607
-|908 607!908 607|908 240!908 240|-52 240!-52 240|-52 70!-52 70|108 70!108 70|108 -410!108 -410|428 -410"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="
-!5058 -1890|5058 580!5058 580|4639 580!4639 580|4639 -1890!4639 -1890|4878 -2240!4878 -2240|5058 -1890"/>
-                        <Edge fillStyle0="2" strokeStyle="1" edges="
-!-3490 -2070|-3729 -1720!-3729 -1720|-3729 750!-3729 750|-3310 750!-3310 750|-3310 -1720!-3310 -1720|-3490 -2070"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!5058 -1090|5058 1380!5058 1380|4639 1380!4639 1380|4639 -1090!4639 -1090|4878 -1440!4878 -1440|5058 -1090"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="!908 700|578 700!578 700|578 540!578 540|908 540!908 540|908 220!908 220|108 220!108 220|108 -113!108 -113|-212 -113!-212 -113|-212 870!-212 870|-532 1180!-532 1180|-532 1407!-532 1407|908 1407!908 1407|908 1040!908 1040|-52 1040!-52
+ 1040|-52 870!-52 870|108 870!108 870|108 390!108 390|428 390!428 390|428 870!428 870|908 870!908 870|908 700"/>
+                        <Edge fillStyle0="3" strokeStyle="1" edges="
+!-3729 -920|-3729 1550!-3729 1550|-3310 1550!-3310 1550|-3310 -920!-3310 -920|-3490 -1270!-3490 -1270|-3729 -920"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="332.95" ty="42"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="332.95" ty="42"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="15" d="15" tx="-54.25" ty="10.4"/>
+                              <Matrix a="15" d="15" tx="278.7" ty="52.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -202,7 +180,7 @@
                       </strokes>
                       <edges>
                         <Edge fillStyle0="1" strokeStyle="1" edges="
-!598 -1044|-2 -1044!-2 -1044|-2 -350!-2 -350|-1085 -350!-1085 -350|-1085 -60!-1085 -60|248 -60!248 -60|248 688.5!248 688.5|1239.5 688.5!1239.5 688.5|598 -300!598 -300|598 -1044"/>
+!6657 -204|6657 490!6657 490|5574 490!5574 490|5574 780!5574 780|6907 780!6907 780|6907 1529!6907 1529|7899 1529!7899 1529|7257 540!7257 540|7257 -204!7257 -204|6657 -204"/>
                       </edges>
                     </DOMShape>
                   </members>

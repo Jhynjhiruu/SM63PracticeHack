@@ -265,14 +265,13 @@ Refresh = function () {
                   </strokes>
                   <edges>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!1620 -600|1620 -200"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!1620 -200|2479.5 -200"/>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!2479.5 -200|2479.5 -600"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!2479.5 -600|1620 -600!1620 -600|-440 -600"/>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-440 -600|-440 -200"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!-440 -200|1620 -200"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!2479.5 -600|4418.5 -600!4418.5 -600|4418.5 -200!4418.5 -200|2479.5 -200!-3660 -200|-4419.5 -200!-4419.5 -200|-4419.5 -600!-4419.5 -600|-3660 -600!-3660 -600|-440 -600"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1620 -200|-440 -200"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-440 -200|-440 -600"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-440 -600|1620 -600!1620 -600|2479.5 -600"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!2479.5 -600|2479.5 -200"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2479.5 -200|1620 -200!2479.5 -600|4418.5 -600!4418.5 -600|4418.5 -200!4418.5 -200|2479.5 -200!-3660 -200|-4419.5 -200!-4419.5 -200|-4419.5 -600!-4419.5 -600|-3660 -600"/>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-3660 -600|-3660 -200"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!-440 -200|-3660 -200"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-440 -200|-3660 -200!-3660 -600|-440 -600"/>
                     <Edge cubics="!1620 -600(1620,-600;1620,-600 1620,-200 1620,-200q1620 -600 1620 -200)1620,-200;"/>
                     <Edge cubics="!2480 -200(;2480,-200 2480,-600 2480,-600q2480 -200 2480 -600);"/>
                     <Edge cubics="!1620 -200(;1620,-200 2480,-200 2480,-200q1620 -200 2480 -200);"/>

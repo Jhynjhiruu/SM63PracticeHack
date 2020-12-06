@@ -145,7 +145,7 @@ _root.gotoAndStop("Courseframe");
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4879 3179S2|-4620 3179!-4620 3179|-4620 -3080!-4620 -3080|4879 -3080!4879 -3080|4879 3179"/>
+                    <Edge fillStyle1="1" edges="!4879 -3080S2|4879 3179!4879 3179|-4620 3179!-4620 3179|-4620 -3080!-4620 -3080|4879 -3080"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -176,7 +176,7 @@ _root.gotoAndStop("Courseframe");
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4879 -3080S2|4879 3179!4879 3179|-4620 3179!-4620 3179|-4620 -3080!-4620 -3080|4879 -3080"/>
+                    <Edge fillStyle1="1" edges="!4879 3179S2|-4620 3179!-4620 3179|-4620 -3080!-4620 -3080|4879 -3080!4879 -3080|4879 3179"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -196,7 +196,7 @@ _root.gotoAndStop("Courseframe");
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4879 -3080S2|4879 3179!4879 3179|-4620 3179!-4620 3179|-4620 -3080!-4620 -3080|4879 -3080"/>
+                    <Edge fillStyle1="1" edges="!4879 3179S2|-4620 3179!-4620 3179|-4620 -3080!-4620 -3080|4879 -3080!4879 -3080|4879 3179"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -286,7 +286,7 @@ _root.gotoAndStop("Courseframe");
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4739 3139|-4600 3139!-4600 3139|-4600 -3060!-4600 -3060|4739 -3060!4739 -3060|4739 3139"/>
+                    <Edge fillStyle1="1" edges="!4739 -3060|4739 3139!4739 3139|-4600 3139!-4600 3139|-4600 -3060!-4600 -3060|4739 -3060"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -311,7 +311,7 @@ _root.gotoAndStop("Courseframe");
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4739 -3060|4739 3139!4739 3139|-4600 3139!-4600 3139|-4600 -3060!-4600 -3060|4739 -3060"/>
+                    <Edge fillStyle1="1" edges="!4739 3139|-4600 3139!-4600 3139|-4600 -3060!-4600 -3060|4739 -3060!4739 -3060|4739 3139"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -356,9 +356,6 @@ _root.gotoAndStop("Courseframe");
             <DOMFrame index="0" duration="31" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/9-08 Cinema Clip Background" name="BG">
-                  <matrix>
-                    <Matrix a="1.00001525878906"/>
-                  </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

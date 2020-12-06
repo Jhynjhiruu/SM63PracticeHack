@@ -32,8 +32,8 @@
                   </fills>
                   <edges>
                     <Edge fillStyle1="2" edges="!-1257 -3243|7143 -3243!7143 -3243|7143 -2207!7143 -2207|-1257 -2207"/>
-                    <Edge fillStyle1="1" edges="!-1257 -2207|-7257 -2207!-7257 -2207|-7257 -3243!-7257 -3243|-1257 -3243"/>
                     <Edge fillStyle0="1" fillStyle1="2" edges="!-1257 -2207|-1257 -3243"/>
+                    <Edge fillStyle0="1" edges="!-1257 -3243|-7257 -3243!-7257 -3243|-7257 -2207!-7257 -2207|-1257 -2207"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="Galaxy BG">

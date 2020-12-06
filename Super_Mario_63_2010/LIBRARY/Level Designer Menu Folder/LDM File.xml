@@ -158,9 +158,9 @@ onMouseDown = function () {
             </DOMFrame>
             <DOMFrame index="2" duration="3" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="Level Designer Menu Folder/LDMB Bevel BG" selected="true">
+                <DOMSymbolInstance libraryItemName="Level Designer Menu Folder/LDMB Bevel BG">
                   <matrix>
-                    <Matrix a="1.09999084472656" d="1.09999084472656" tx="-0.75" ty="-0.5"/>
+                    <Matrix a="1.0999755859375" d="1.0999755859375" tx="-0.75" ty="-0.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.05"/>
@@ -175,7 +175,7 @@ onMouseDown = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="Level Designer Menu Folder/LDMB Bevel BG">
                   <matrix>
-                    <Matrix a="1.09999084472656" d="1.09999084472656" tx="-0.75" ty="-0.5"/>
+                    <Matrix a="1.0999755859375" d="1.0999755859375" tx="-0.75" ty="-0.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.05"/>

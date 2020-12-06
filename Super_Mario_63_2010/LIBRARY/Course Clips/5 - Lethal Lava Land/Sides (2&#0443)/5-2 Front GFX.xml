@@ -21,7 +21,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
-                    <Matrix a="0.500717163085938" d="2.05451965332031" tx="1018.5" ty="55.65"/>
+                    <Matrix a="0.500717163085938" d="2.05450439453125" tx="1018.5" ty="55.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -36,19 +36,13 @@
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Stone" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="537.3" ty="6.35"/>
+                              <Matrix a="20" d="20" tx="538.3" ty="6.35"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -63,7 +57,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!18425 1187|10746 1187!10746 1187|10746 127!10746 127|18425 127!18425 127|18425 1187"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!18445 1187|10766 1187!10766 1187|10766 127!10766 127|18445 127!18445 127|18445 1187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -77,21 +71,15 @@
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="186.5" ty="-160"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="186.5" ty="-160"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#BD0000"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!45940.5 3900|-10240 3900!-10240 3900|-10240 4300!-10240 4300|45941.5 4300!45941.5 4300|45940.5 3900"/>
+                        <Edge fillStyle0="1" edges="!49671 700|-6510 700!-6510 700|-6510 1100!-6510 1100|49672 1100!49672 1100|49671 700"/>
                       </edges>
                     </DOMShape>
                     <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">

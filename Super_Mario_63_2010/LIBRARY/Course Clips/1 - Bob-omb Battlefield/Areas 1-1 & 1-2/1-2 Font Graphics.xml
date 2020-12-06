@@ -16,7 +16,7 @@ if (_root.Starnum == 3) {
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star FrontGFX" name="ss2" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star FrontGFX" name="ss2">
                   <matrix>
                     <Matrix a="0.772735595703125" b="-0.206680297851563" c="0.20745849609375" d="0.772857666015625" tx="1600" ty="-330"/>
                   </matrix>
@@ -40,8 +40,8 @@ if (_root.Starnum == 3) {
                   </fills>
                   <edges>
                     <Edge fillStyle1="1" edges="!39107 -2711|38127 -2711!38127 -2711|38127 -4091!38127 -4091|38354 -4091!38354 -4091|38354 -4081!38354 -4081|38879 -4081!38879 -4081|38879 -4091!38879 -4091|39107 -4091!39107 -4091|39107 -2711"/>
-                    <Edge fillStyle0="1" edges="!38856 -3731[38835 -3733 38831 -3751!38831 -3751[38827 -3771 38846 -3778!38846 -3778[38851 -3780 38856 -3781!38856 -3781[38873 -3777 38879 -3761!38879 -3761[38881 -3757 38881 -3754!38881 -3754[38877 -3746 38872 -3740!38872 -3740[38870
- -3736 38866 -3734!38866 -3734[38861 -3732 38856 -3731!38759 -3181[38761 -3177 38761 -3174!38761 -3174[38757 -3166 38752 -3160!38752 -3160[38750 -3156 38746 -3154!38746 -3154[38741 -3152 38736 -3151!38736 -3151[38715 -3153 38711 -3171
+                    <Edge fillStyle0="1" edges="!38831 -3751[38827 -3771 38846 -3778!38846 -3778[38851 -3780 38856 -3781!38856 -3781[38873 -3777 38879 -3761!38879 -3761[38881 -3757 38881 -3754!38881 -3754[38877 -3746 38872 -3740!38872 -3740[38870 -3736 38866 -3734!38866 -3734[38861
+ -3732 38856 -3731!38856 -3731[38835 -3733 38831 -3751!38759 -3181[38761 -3177 38761 -3174!38761 -3174[38757 -3166 38752 -3160!38752 -3160[38750 -3156 38746 -3154!38746 -3154[38741 -3152 38736 -3151!38736 -3151[38715 -3153 38711 -3171
 !38711 -3171[38707 -3191 38726 -3198!38726 -3198[38731 -3200 38736 -3201!38736 -3201[38753 -3197 38759 -3181!38256 -2771[38235 -2773 38231 -2791!38231 -2791[38227 -2811 38246 -2818!38246 -2818[38251 -2820 38256 -2821!38256 -2821[38273
  -2817 38280 -2801!38280 -2801[38281 -2797 38281 -2794!38281 -2794[38277 -2786 38272 -2780!38272 -2780[38270 -2776 38266 -2774!38266 -2774[38261 -2772 38256 -2771"/>
                   </edges>
@@ -143,26 +143,20 @@ if (_root.Starnum == 3) {
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="2423"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" tx="2423"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Wall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="20" tx="1244.6" ty="17.1"/>
+                              <Matrix a="20" d="20" tx="1178.4" ty="17.1"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="
-!24576 342|24576 1352!24576 1352|24861 1352!24861 1352|24861 342!24861 342|24576 342"/>
+                        <Edge fillStyle1="1" edges="
+!23884 342|23884 1352!23884 1352|23599 1352!23599 1352|23599 342!23599 342|23884 342"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -178,26 +172,20 @@ if (_root.Starnum == 3) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-1"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-1"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="19.3185424804688" b="-5.1763916015625" c="5.1763916015625" d="19.3185424804688" tx="505" ty="135.9"/>
+                              <Matrix a="19.3185424804688" b="-5.1763916015625" c="5.1763916015625" d="19.3185424804688" tx="504" ty="135.9"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!18887 1005|21297 349.5!21297 349.5|21297 -277!21297 -277|18887 369!18887 369|18887 1005"/>
+!18867 1005|21277 350!21277 350|21277 -277!21277 -277|18867 369!18867 369|18867 1005"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -235,7 +223,7 @@ if (_root.Starnum == 3) {
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!6968 1197.5|6973.5 1153!6973.5 1153|6968 1152.5!6968 1152.5|6968 1197.5!4298 820|2384 582!2384 582|2340.5 1196!2340.5 1196|4298 1430.5!4298 1430.5|4298 820"/>
+!6973.5 1153|6968 1152.5!6968 1152.5|6968 1197.5!6968 1197.5|6973.5 1153!4298 820|2384 582!2384 582|2340.5 1196!2340.5 1196|4298 1430.5!4298 1430.5|4298 820"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -302,7 +290,7 @@ if (_root.Starnum == 3) {
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!18717 410|18166 410!18166 410|18166 1024.5!18166 1024.5|18717 1023!18717 1023|18717 410"/>
+!18166 410|18166 1024.5!18166 1024.5|18717 1023!18717 1023|18717 410!18717 410|18166 410"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -321,7 +309,7 @@ if (_root.Starnum == 3) {
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!18876.5 290|18697 549!18697 549|18697 916.5!18697 916.5|18815 984.5!18815 984.5|18987 686.5!18987 686.5|18987 290!18987 290|18876.5 290"/>
+!18697 549|18697 916.5!18697 916.5|18815 984.5!18815 984.5|18987 686.5!18987 686.5|18987 290!18987 290|18876.5 290!18876.5 290|18697 549"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -346,26 +334,20 @@ if (_root.Starnum == 3) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-26.5" ty="0.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-26.5" ty="0.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="19.3185424804688" b="-5.1763916015625" c="5.1763916015625" d="19.3185424804688" tx="857.95" ty="44.15"/>
+                              <Matrix a="19.3185424804688" b="-5.1763916015625" c="5.1763916015625" d="19.3185424804688" tx="831.45" ty="44.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!26166 -890|29026 -1668!29026 -1668|29026 -2291.5!29026 -2291.5|26166 -1525!26166 -1525|26166 -890"/>
+!28496 -2281|25636 -1515!25636 -1515|25636 -880!25636 -880|28496 -1658!28496 -1658|28496 -2281"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -381,26 +363,20 @@ if (_root.Starnum == 3) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="532.5" ty="-144.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="532.5" ty="-144.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="464.75" ty="20.25"/>
+                              <Matrix a="20" d="20" tx="997.25" ty="-124.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!18717 410|18166 410!18166 410|18166 1024.5!18166 1024.5|18717 1023!18717 1023|18717 410"/>
+!28816 -1865|29367 -1867!29367 -1867|29367 -2480!29367 -2480|28816 -2480!28816 -2480|28816 -1865"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -416,26 +392,20 @@ if (_root.Starnum == 3) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-9" ty="2"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-9" ty="2"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="1057.75" ty="-121.25"/>
+                              <Matrix a="20" d="20" tx="1048.75" ty="-119.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!40148 -2420|30055 -2420!30055 -2420|30055 -1806!30055 -1806|32835 -1818.5!32835 -1818.5|40148 -1826!40148 -1826|40148 -2420"/>
+!39968 -2380|29875 -2380!29875 -2380|29875 -1766!29875 -1766|32655 -1778!32655 -1778|39968 -1786!39968 -1786|39968 -2380"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -446,26 +416,20 @@ if (_root.Starnum == 3) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="201.7" ty="24.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="201.7" ty="24.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="1367.05" ty="-151.6"/>
+                              <Matrix a="20" d="20" tx="1568.75" ty="-127.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!39984 -3027|36241 -3027!36241 -3027|36241 -2413!36241 -2413|39984 -2426.5!39984 -2426.5|39984 -3027"/>
+!40275 -1926|44018 -1939!44018 -1939|44018 -2540!44018 -2540|40275 -2540!40275 -2540|40275 -1926"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -515,26 +479,20 @@ if (_root.Starnum == 3) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="10"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="10"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="19.9639892578125" b="0.199783325195313" c="-0.199783325195313" d="19.9639892578125" tx="693.05" ty="51.15"/>
+                              <Matrix a="19.9639892578125" b="0.199783325195313" c="-0.199783325195313" d="19.9639892578125" tx="693.05" ty="61.15"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!24586 1133.5|23936 1134!23936 1134[#5D7A.7C 1434 23946 1734!23946 1734|24586 1734!24586 1734|24586 1133.5"/>
+!24586 1334|23936 1334!23936 1334[23930 1634 23946 1934!23946 1934|24586 1934!24586 1934|24586 1334"/>
                       </edges>
                     </DOMShape>
                   </members>

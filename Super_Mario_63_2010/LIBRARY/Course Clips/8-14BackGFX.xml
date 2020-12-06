@@ -669,7 +669,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 8 - Storyline Stars/8-E5-3 Sling Star Path">
                   <matrix>
-                    <Matrix a="1.00119018554688" d="1.00288391113281" tx="-600.45" ty="182.35"/>
+                    <Matrix a="1.00119018554688" d="1.00286865234375" tx="-600.45" ty="182.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.05"/>
@@ -951,97 +951,73 @@ onClipEvent (enterFrame) {
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-10" ty="-11"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-10" ty="-11"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/YI Ice Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-521.2" ty="-785.5"/>
+                              <Matrix a="20" d="20" tx="-531.2" ty="-796.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-11061 -15710|-11713 -15710!-11713 -15710|-11713 -15070!-11713 -15070|-11061 -15070!-11061 -15070|-11061 -15710"/>
+                        <Edge fillStyle0="1" edges="!-11913 -15930|-11913 -15290!-11913 -15290|-11261 -15290!-11261 -15290|-11261 -15930!-11261 -15930|-11913 -15930"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="86.6" ty="-129.9"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="86.6" ty="-129.9"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/YI Ice Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-521.2" ty="-785.5"/>
+                              <Matrix a="20" d="20" tx="-434.6" ty="-915.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-11061 -15710|-11713 -15710!-11713 -15710|-11713 -15070!-11713 -15070|-11061 -15070!-11061 -15070|-11061 -15710"/>
+                        <Edge fillStyle0="1" edges="!-9981 -17668|-9329 -17668!-9329 -17668|-9329 -18308!-9329 -18308|-9981 -18308!-9981 -18308|-9981 -17668"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="278.75" ty="-197.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="278.75" ty="-197.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/YI Ice Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-521.2" ty="-785.5"/>
+                              <Matrix a="20" d="20" tx="-242.45" ty="-983.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-11061 -15710|-11713 -15710!-11713 -15710|-11713 -15070!-11713 -15070|-11061 -15070!-11061 -15070|-11061 -15710"/>
+                        <Edge fillStyle0="1" edges="!-5486 -19669|-6138 -19669!-6138 -19669|-6138 -19029!-6138 -19029|-5486 -19029!-5486 -19029|-5486 -19669"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="643.75" ty="-197.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="643.75" ty="-197.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/YI Ice Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-521.2" ty="-785.5"/>
+                              <Matrix a="20" d="20" tx="122.55" ty="-983.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-11061 -15710|-11713 -15710!-11713 -15710|-11713 -15070!-11713 -15070|-11061 -15070!-11061 -15070|-11061 -15710"/>
+                        <Edge fillStyle0="1" edges="!1814 -19669|1162 -19669!1162 -19669|1162 -19029!1162 -19029|1814 -19029!1814 -19029|1814 -19669"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1097,7 +1073,7 @@ onClipEvent (enterFrame) {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!11057 -19989|7823 -19989!7823 -19989|7823 -19349!7823 -19349|11057 -19349!11057 -19349|11057 -19989"/>
+                        <Edge fillStyle0="1" edges="!7823 -19989|7823 -19349!7823 -19349|11057 -19349!11057 -19349|11057 -19989!11057 -19989|7823 -19989"/>
                       </edges>
                     </DOMShape>
                   </members>

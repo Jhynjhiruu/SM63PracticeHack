@@ -53,8 +53,8 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!40 85S1[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 -760!162 -760|-198 -760!-198 -760|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90!-177 -90[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75
-!-35 -75[6 -40 40 80!40 80|40 85"/>
+                        <Edge fillStyle0="1" edges="!69 16S1[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 -760!162 -760|-198 -760!-198 -760|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90!-177 -90[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40
+ 80!40 80|40 85!40 85[41 69 69 16"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -64,33 +64,27 @@ onEnterFrame = function () {
             <DOMFrame index="3" duration="2" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.91192626953125" b="0.407363891601563" c="-0.407363891601563" d="0.91192626953125" tx="-12.2" ty="-2.25"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.85" y="-29.65"/>
+                    <Point x="-0.9" y="-29.65"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.91192626953125" b="0.407363891601563" c="-0.407363891601563" d="0.91192626953125" tx="-12.2" ty="-2.25"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.85" y="-29.65"/>
+                        <Point x="-0.9" y="-29.65"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="-8.14727783203125" b="18.238525390625" c="-18.238525390625" d="-8.14727783203125" tx="10.7" ty="-33.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!40 85S1[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 -760!162 -760|-198 -760!-198 -760|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90!-177 -90[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75
-!-35 -75[6 -40 40 80!40 80|40 85"/>
+!-360 -54[-349 -79 -245 -127!-245 -127[-223 -79 -241 44!-241 44|-243 49!-243 49[-235 35 -188 -2!-188 -2[-143 -38 -135 -56!-135 -56[-122 -45 -96 21!-96 21|214 -672!214 -672|-115 -819!-115 -819|-392 -199!-392 -199[-377 -203 -368 -199!-368
+ -199[-353 -192 -353 -155!-353 -155[-353 -152 -360 -54"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -100,33 +94,27 @@ onEnterFrame = function () {
             <DOMFrame index="5" duration="5" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.586074829101563" b="0.808746337890625" c="-0.808746337890625" d="0.586074829101563" tx="-34.85" ty="-12.85"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.9" y="-29.65"/>
+                    <Point x="-11.4" y="-30.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.586074829101563" b="0.808746337890625" c="-0.808746337890625" d="0.586074829101563" tx="-34.85" ty="-12.85"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.9" y="-29.65"/>
+                        <Point x="-11.4" y="-30.95"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="-16.1749267578125" b="11.7214965820313" c="-11.7214965820313" d="-16.1749267578125" tx="0.65" ty="-28.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!40 85S1[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 -760!162 -760|-198 -760!-198 -760|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90!-177 -90[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75
-!-35 -75[6 -40 40 80!40 80|40 85"/>
+!-793 -323[-771 -339 -657 -329!-657 -329[-661 -275 -739 -178!-739 -178|-743 -175!-743 -175[-729 -184 -670 -192!-670 -192[-613 -201 -597 -212!-597 -212[-591 -195 -602 -126!-602 -126|13 -571!13 -571|-198 -862!-198 -862|-748 -464!-748 -464
+[-733 -460 -728 -453!-728 -453[-718 -439 -737 -407!-737 -407[-738 -404 -793 -323"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -136,33 +124,27 @@ onEnterFrame = function () {
             <DOMFrame index="10" duration="6" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.268463134765625" b="0.961639404296875" c="-0.961624145507813" d="-0.268463134765625" tx="-60.25" ty="-35.25"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.95" y="-29.7"/>
+                    <Point x="-31.45" y="-28.2"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.268463134765625" b="0.961639404296875" c="-0.961624145507813" d="-0.268463134765625" tx="-60.25" ty="-35.25"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.95" y="-29.7"/>
+                        <Point x="-31.45" y="-28.2"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="-19.2324829101563" b="-5.3692626953125" c="5.3692626953125" d="-19.2327880859375" tx="-25.85" ty="-17.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!40 85S1[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 -760!162 -760|-198 -760!-198 -760|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90!-177 -90[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75
-!-35 -75[6 -40 40 80!40 80|40 85"/>
+!-1248 -549S1|-517 -345!-517 -345|-421 -691!-421 -691|-1075 -874!-1075 -874[-1068 -860 -1070 -851!-1070 -851[-1075 -835 -1112 -829!-1112 -829[-1115 -829 -1213 -822!-1213 -822[-1187 -814 -1124 -719!-1124 -719[-1169 -688 -1293 -688!-1293
+ -688[#FFFB03.F5 #FFFD58.D2 -1239 -643!-1239 -643[-1197 -605 -1178 -599!-1178 -599[-1187 -584 -1248 -549"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -172,33 +154,27 @@ onEnterFrame = function () {
             <DOMFrame index="16" duration="14" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.71331787109375" b="0.698577880859375" c="-0.69854736328125" d="-0.71331787109375" tx="-79.05" ty="-27.4"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.9" y="-29.65"/>
+                    <Point x="-57.7" y="-6.9"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.71331787109375" b="0.698577880859375" c="-0.69854736328125" d="-0.71331787109375" tx="-79.05" ty="-27.4"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.9" y="-29.65"/>
+                        <Point x="-57.7" y="-6.9"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="-13.970947265625" b="-14.266357421875" c="14.266357421875" d="-13.9715576171875" tx="-58.3" ty="5.35"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!40 85S1[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 -760!162 -760|-198 -760!-198 -760|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90!-177 -90[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75
-!-35 -75[6 -40 40 80!40 80|40 85"/>
+!-1641 -511[-1625 -457 -1611 -443!-1611 -443[-1626 -434 -1697 -435!-1697 -435|-1166 107!-1166 107|-909 -144!-909 -144|-1384 -629!-1384 -629[-1385 -614 -1392 -608!-1392 -608[-1404 -596 -1439 -609!-1439 -609[-1441 -611 -1531 -654!-1531
+ -654[-1511 -634 -1504 -519!-1504 -519[-1557 -515 -1666 -577!-1666 -577[#FFF988.2E #FFFDCF.4E -1641 -511"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -208,33 +184,27 @@ onEnterFrame = function () {
             <DOMFrame index="30" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.268463134765625" b="-0.961639404296875" c="0.961639404296875" d="0.26849365234375" tx="-120.75" ty="82.45"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.85" y="-29.65"/>
+                    <Point x="-149.5" y="75.3"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.268463134765625" b="-0.961639404296875" c="0.961639404296875" d="0.26849365234375" tx="-120.75" ty="82.45"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.85" y="-29.65"/>
+                        <Point x="-149.5" y="75.3"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="19.2327880859375" b="5.369873046875" c="-5.3692626953125" d="19.2327880859375" tx="-155.15" ty="64.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!40 85S1[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 -760!162 -760|-198 -760!-198 -760|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90!-177 -90[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75
-!-35 -75[6 -40 40 80!40 80|40 85"/>
+!-3199 1635|-2545 1818!-2545 1818[-2552 1804 -2550 1795!-2550 1795[-2545 1779 -2508 1773!-2508 1773[-2505 1773 -2407 1766!-2407 1766[-2433 1758 -2496 1663!-2496 1663[-2451 1632 -2327 1632!-2327 1632[#FFF6D8.0C #657.2F -2381 1587!-2381
+ 1587[-2423 1549 -2442 1543!-2442 1543[-2433 1528 -2372 1493!-2372 1493|-3103 1289!-3103 1289|-3199 1635"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -279,8 +249,8 @@ onEnterFrame = function () {
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-145 -56S2[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40 80!40 80|40 85!40 85[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 880!162 880|-198 880!-198 880|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90
-!-177 -90[-160 -90 -145 -56"/>
+!-177 -90S2[-160 -90 -145 -56!-145 -56[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40 80!40 80|40 85!40 85[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 880!162 880|-198 880!-198 880|-198 -80!-198
+ -80[#FFFF46.1D -90 -177 -90"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -290,17 +260,11 @@ onEnterFrame = function () {
             <DOMFrame index="3" duration="2" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.936813354492188" b="-0.346755981445313" c="0.346755981445313" d="0.936813354492188" tx="-13.05" ty="2.05"/>
-                  </matrix>
                   <transformationPoint>
                     <Point x="-0.9" y="37.5"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.936813354492188" b="-0.346755981445313" c="0.346755981445313" d="0.936813354492188" tx="-13.05" ty="2.05"/>
-                      </matrix>
                       <transformationPoint>
                         <Point x="-0.9" y="37.5"/>
                       </transformationPoint>
@@ -308,15 +272,15 @@ onEnterFrame = function () {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="6.93511962890625" b="18.7362670898438" c="-18.7362670898438" d="6.93511962890625" tx="-18.65" ty="-36.35"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-145 -56S2[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40 80!40 80|40 85!40 85[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 880!162 880|-198 880!-198 880|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90
-!-177 -90[-160 -90 -145 -56"/>
+!-109 -15|196 809!196 809|-141 934!-141 934|-474 35!-474 35[-466 21 -458 18!-458 18[-442 12 -416 39!-416 39[-414 41 -350 116!-350 116[-360 90 -320 -17!-320 -17[-269 2 -196 102!-196 102|-195.5 104!-195.5 104[#FFFF39.D1 #56.8F -190 32!-190
+ 32[-184 -25 -191 -44!-191 -44[-173 -45 -109 -15"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -326,33 +290,27 @@ onEnterFrame = function () {
             <DOMFrame index="5" duration="5" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.637939453125" b="-0.768692016601563" c="0.768707275390625" d="0.637939453125" tx="-38.3" ty="12.45"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.9" y="37.45"/>
+                    <Point x="-10.1" y="37.05"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.637939453125" b="-0.768692016601563" c="0.768707275390625" d="0.637939453125" tx="-38.3" ty="12.45"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.9" y="37.45"/>
+                        <Point x="-10.1" y="37.05"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="15.3741455078125" b="12.7587890625" c="-12.7587890625" d="15.3738403320313" tx="-62.35" ty="-18.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-145 -56S2[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40 80!40 80|40 85!40 85[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 880!162 880|-198 880!-198 880|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90
-!-177 -90[-160 -90 -145 -56"/>
+!-747 141[-733 131 -663 124!-663 124|13 685!13 685|-216 962!-216 962|-953 350!-953 350[-954 335 -948 328!-948 328[-937 315 -902 324!-902 324[-899 326 -805 360!-805 360[-827 342 -846 228!-846 228[-793 218 -679 269!-679 269|-675 272!-675
+ 272[-687 261 -710 206!-710 206[-732 154 -747 141"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -362,33 +320,27 @@ onEnterFrame = function () {
             <DOMFrame index="10" duration="6" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="-0.248367309570313" b="-0.965896606445313" c="0.965911865234375" d="-0.248382568359375" tx="-68" ty="32.2"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.95" y="37.5"/>
+                    <Point x="-31.55" y="23.8"/>
                   </transformationPoint>
                   <members>
                     <DOMShape selected="true">
-                      <matrix>
-                        <Matrix a="-0.248367309570313" b="-0.965896606445313" c="0.965911865234375" d="-0.248382568359375" tx="-68" ty="32.2"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.95" y="37.5"/>
+                        <Point x="-31.55" y="23.8"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="19.3182373046875" b="-4.9676513671875" c="4.96734619140625" d="19.3179321289063" tx="-106.7" ty="33.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-145 -56S2[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40 80!40 80|40 85!40 85[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 880!162 880|-198 880!-198 880|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90
-!-177 -90[-160 -90 -145 -56"/>
+!-461 616S2|-1388 855!-1388 855[-1401 846 -1403 837!-1403 837[-1407 821 -1378 798!-1378 798[-1375 796 -1294 740!-1294 740[-1321 747 -1423 697!-1423 697[-1400 648 -1293 585!-1293 585|-1288.5 584!-1288.5 584[#FFFAE8.81 #24A.E2 -1362 573
+!-1362 573[-1418 561 -1437 566!-1437 566[-1436 548 -1400 488!-1400 488|-550 269!-550 269|-461 616"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -398,33 +350,27 @@ onEnterFrame = function () {
             <DOMFrame index="16" duration="14" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.698028564453125" b="-0.712295532226563" c="0.712310791015625" d="-0.69805908203125" tx="-93.65" ty="58.85"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.95" y="37.5"/>
+                    <Point x="-66.3" y="33.35"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.698028564453125" b="-0.712295532226563" c="0.712310791015625" d="-0.69805908203125" tx="-93.65" ty="58.85"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.95" y="37.5"/>
+                        <Point x="-66.3" y="33.35"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="14.2462158203125" b="-13.961181640625" c="13.9605712890625" d="14.2459106445313" tx="-126.35" ty="79.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-145 -56S2[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40 80!40 80|40 85!40 85[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 880!162 880|-198 880!-198 880|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90
-!-177 -90[-160 -90 -145 -56"/>
+!-1108 704|-1792 1374!-1792 1374[-1807 1372 -1813 1366!-1813 1366[-1825 1354 -1812 1319!-1812 1319[-1810 1317 -1768 1227!-1768 1227[-1787 1247 -1902 1254!-1902 1254[-1905 1201 -1844 1093!-1844 1093|-1841 1090.5!-1841 1090.5[#FFF8C1.6D
+ #44C.78 -1910 1117!-1910 1117[-1964 1133 -1978 1147!-1978 1147[-1987 1132 -1986 1062!-1986 1062|-1359 448!-1359 448|-1108 704"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -434,33 +380,27 @@ onEnterFrame = function () {
             <DOMFrame index="30" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.99725341796875" b="-0.0100860595703125" c="0.0100860595703125" d="-0.997283935546875" tx="-105.75" ty="129.75"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.85" y="37.55"/>
+                    <Point x="-104.5" y="92.3"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.99725341796875" b="-0.0100860595703125" c="0.0100860595703125" d="-0.997283935546875" tx="-105.75" ty="129.75"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.85" y="37.55"/>
+                        <Point x="-104.5" y="92.3"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Coded PL Bits/YI Log Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="0" b="20" c="-20" d="0" tx="8.1" ty="-38"/>
+                              <Matrix a="0.20172119140625" b="-19.9456787109375" c="19.945068359375" d="0.20172119140625" tx="-114.25" ty="167.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-145 -56S2[-144 -53 -110 40!-110 40[-110 12 -35 -75!-35 -75[6 -40 40 80!40 80|40 85!40 85[41 69 69 16!69 16[95 -35 95 -55!95 -55[#70.34 #FFFFCD.87 162 0!162 0|162 880!162 880|-198 880!-198 880|-198 -80!-198 -80[#FFFF46.1D -90 -177 -90
-!-177 -90[-160 -90 -145 -56"/>
+!-1909 1719|-1919 2677!-1919 2677[-1931 2687 -1939 2687!-1939 2687[-1956 2687 -1971 2652!-1971 2652[-1972 2649 -2005 2556!-2005 2556[-2005 2584 -2081 2670!-2081 2670[-2121 2635 -2154 2515!-2154 2515|-2154 2510!-2154 2510[-2155 2526 -2184
+ 2578!-2184 2578[-2210 2629 -2211 2649!-2211 2649[-2228 2644 -2277 2593!-2277 2593|-2268 1715!-2268 1715|-1909 1719"/>
                       </edges>
                     </DOMShape>
                   </members>

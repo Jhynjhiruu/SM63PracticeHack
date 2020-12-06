@@ -208,9 +208,6 @@ stop();
 }
 ]]></script>
                   </Actionscript>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="LDW - Save-Load/LDW - Save Save No" name="no">
                   <matrix>
@@ -225,9 +222,6 @@ stop();
 }
 ]]></script>
                   </Actionscript>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -237,16 +231,13 @@ stop();
           <frames>
             <DOMFrame index="0" duration="20" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="LDW - Save-Load/LDW - Save Save To" name="saveto" selected="true">
+                <DOMSymbolInstance libraryItemName="LDW - Save-Load/LDW - Save Save To" name="saveto">
                   <matrix>
                     <Matrix ty="0.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

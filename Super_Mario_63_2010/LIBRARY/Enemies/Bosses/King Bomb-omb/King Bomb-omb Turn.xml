@@ -140,7 +140,7 @@ _parent.gotoAndStop(1);
                 </DOMBitmapInstance>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/King Bomb-omb/King Bomb-omb - Mustache">
                   <matrix>
-                    <Matrix a="1.16072082519531" tx="-19.45" ty="-6.6"/>
+                    <Matrix a="1.16070556640625" tx="-19.45" ty="-6.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="14" y="9"/>
@@ -229,54 +229,39 @@ _parent.gotoAndStop(1);
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-2.5"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-49.3" ty="-25.75"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-49.3" ty="-25.75"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="   Enemies/Bosses/King Bomb-omb/King Bomb-omb - Mustache" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="38.6" ty="19.5"/>
+                                  <Matrix a="20" d="20" tx="-10.7" ty="-6.25"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!979 750S1|1332 750!1332 750|1332 390!1332 390|979 390!979 390|979 750"/>
+                            <Edge fillStyle0="1" edges="!346 -125S1|-7 -125!-7 -125|-7 235!-7 235|346 235!346 235|346 -125"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix a="-1" tx="48.7" ty="-25.75"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix a="-1" tx="48.7" ty="-25.75"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <BitmapFill bitmapPath="   Enemies/Bosses/King Bomb-omb/King Bomb-omb - Mustache" bitmapIsClipped="false">
                                 <matrix>
-                                  <Matrix a="20" d="20" tx="38.6" ty="19.5"/>
+                                  <Matrix a="-20" d="20" tx="10.1" ty="-6.25"/>
                                 </matrix>
                               </BitmapFill>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!979 750S1|1332 750!1332 750|1332 390!1332 390|979 390!979 390|979 750"/>
+                            <Edge fillStyle1="1" edges="!-5 -125S2|-5 235!-5 235|-358 235!-358 235|-358 -125!-358 -125|-5 -125"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -327,7 +312,7 @@ _parent.gotoAndStop(1);
                 </DOMBitmapInstance>
                 <DOMBitmapInstance libraryItemName="   Enemies/Bosses/King Bomb-omb/King Bomb-omb - Mustache">
                   <matrix>
-                    <Matrix a="-1.16072082519531" tx="20.45" ty="-6.6"/>
+                    <Matrix a="-1.16070556640625" tx="20.45" ty="-6.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="14" y="9"/>

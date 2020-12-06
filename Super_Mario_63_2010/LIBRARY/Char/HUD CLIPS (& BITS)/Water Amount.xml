@@ -32,7 +32,7 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.501960784313725" size="29" bitmapSize="580" face="Arial-BoldMT" fillColor="#666666"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" size="29" bitmapSize="580" face="Arial-BoldMT" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -45,7 +45,7 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.701960784313725" size="29" bitmapSize="580" face="Arial-BoldMT" fillColor="#AEAEAE"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.698039215686274" size="29" bitmapSize="580" face="Arial-BoldMT" fillColor="#AEAEAE"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -98,7 +98,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!10 -360S2|10 360!10 360|-10 360!-10 360|-10 -360!-10 -360|10 -360"/>
+                    <Edge fillStyle1="1" edges="!10 360S2|-10 360!-10 360|-10 -360!-10 -360|10 -360!10 -360|10 360"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -110,7 +110,7 @@
                     <FillStyle index="1">
                       <LinearGradient>
                         <matrix>
-                          <Matrix a="0.06103515625" d="0.02197265625" tx="50"/>
+                          <Matrix a="0.0610198974609375" d="0.02197265625" tx="50"/>
                         </matrix>
                         <GradientEntry color="#6FA9FF" ratio="0"/>
                         <GradientEntry color="#01017E" ratio="1"/>

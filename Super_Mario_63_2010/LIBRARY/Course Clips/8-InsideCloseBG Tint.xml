@@ -40,8 +40,8 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!-10727 -1468.5|-6877 -1468!-6877 -1468|-6877 -1148!-6877 -1148|-10727 -1148.5!-10727 -1148.5|-10727 -1468.5"/>
                     <Edge fillStyle0="2" strokeStyle="2" edges="!13358 4325|10884 4324.5!10884 4324.5|10884 4644.5!10884 4644.5|13438 4645!13438 4645|13358 4325"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-10727 -1468.5|-6877 -1468!-6877 -1468|-6877 -1148!-6877 -1148|-10727 -1148.5!-10727 -1148.5|-10727 -1468.5"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Bloak">
@@ -105,73 +105,55 @@
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-7.5"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-7.5"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-444.35" ty="-90.4"/>
+                              <Matrix a="10" d="10" tx="-451.85" ty="-90.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-8167 -1965|-8887 -1965!-8887 -1965|-8887 -1488!-8887 -1488|-8167 -1488!-8167 -1488|-8167 -1965"/>
+                        <Edge fillStyle0="1" edges="!-8317 -1965|-9037 -1965!-9037 -1965|-9037 -1488!-9037 -1488|-8317 -1488!-8317 -1488|-8317 -1965"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-77.3"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-77.3"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-444.35" ty="-90.4"/>
+                              <Matrix a="10" d="10" tx="-521.65" ty="-90.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-8167 -1965|-8887 -1965!-8887 -1965|-8887 -1488!-8887 -1488|-8167 -1488!-8167 -1488|-8167 -1965"/>
+                        <Edge fillStyle0="1" edges="!-10433 -1488|-9713 -1488!-9713 -1488|-9713 -1965!-9713 -1965|-10433 -1965!-10433 -1965|-10433 -1488"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="59.45"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="59.45"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-444.35" ty="-90.4"/>
+                              <Matrix a="10" d="10" tx="-384.9" ty="-90.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-8167 -1965|-8887 -1965!-8887 -1965|-8887 -1488!-8887 -1488|-8167 -1488!-8167 -1488|-8167 -1965"/>
+                        <Edge fillStyle0="1" edges="!-6978 -1965|-7698 -1965!-7698 -1965|-7698 -1488!-7698 -1488|-6978 -1488!-6978 -1488|-6978 -1965"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -277,73 +259,55 @@
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1063.05" ty="289.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="1063.05" ty="289.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-444.35" ty="-90.4"/>
+                              <Matrix a="10" d="10" tx="618.7" ty="199.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-8167 -1965|-8887 -1965!-8887 -1965|-8887 -1488!-8887 -1488|-8167 -1488!-8167 -1488|-8167 -1965"/>
+                        <Edge fillStyle0="1" edges="!13094 3828|12374 3828!12374 3828|12374 4305!12374 4305|13094 4305!13094 4305|13094 3828"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="1003.25" ty="289.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="1003.25" ty="289.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-444.35" ty="-90.4"/>
+                              <Matrix a="10" d="10" tx="558.9" ty="199.25"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-8167 -1965|-8887 -1965!-8887 -1965|-8887 -1488!-8887 -1488|-8167 -1488!-8167 -1488|-8167 -1965"/>
+                        <Edge fillStyle0="1" edges="!11178 3828|11178 4305!11178 4305|11898 4305!11898 4305|11898 3828!11898 3828|11178 3828"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="942.8" ty="664.25"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="942.8" ty="664.25"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="10" d="10" tx="-444.35" ty="-90.4"/>
+                              <Matrix a="10" d="10" tx="498.45" ty="573.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-8167 -1965|-8887 -1965!-8887 -1965|-8887 -1488!-8887 -1488|-8167 -1488!-8167 -1488|-8167 -1965"/>
+                        <Edge fillStyle0="1" edges="!9969 11797|10689 11797!10689 11797|10689 11320!10689 11320|9969 11320!9969 11320|9969 11797"/>
                       </edges>
                     </DOMShape>
                   </members>

@@ -95,7 +95,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp2">
                   <matrix>
-                    <Matrix a="2.49267578125" d="46.4599151611328" tx="1454.35" ty="-293.15"/>
+                    <Matrix a="2.49267578125" d="46.4598999023438" tx="1454.35" ty="-293.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -109,7 +109,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp1">
                   <matrix>
-                    <Matrix a="2.49267578125" d="18.7488555908203" tx="1458.3" ty="-841.2"/>
+                    <Matrix a="2.49267578125" d="18.7488403320313" tx="1458.3" ty="-841.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -123,7 +123,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp3">
                   <matrix>
-                    <Matrix a="2.49267578125" d="46.4599151611328" tx="-1026.3" ty="-836.3"/>
+                    <Matrix a="2.49267578125" d="46.4598999023438" tx="-1026.3" ty="-836.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -137,7 +137,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp4">
                   <matrix>
-                    <Matrix a="13.2087097167969" d="6.24952697753906" tx="-447.5" ty="-2378.45"/>
+                    <Matrix a="13.2087097167969" d="6.24951171875" tx="-447.5" ty="-2378.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1017,25 +1017,19 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!7280 -6360|8240 -6360!8240 -6360|8240 -5280!8240 -5280|7280 -5280!7280 -5280|7280 -6360"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!8240 -6360|8240 -5280!8240 -5280|7280 -5280!7280 -5280|7280 -6360!7280 -6360|8240 -6360"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="30"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="30"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Rocks &amp; Blocks (Tiled)/BluerockMosaic" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="680.35" ty="-259.95"/>
+                              <Matrix a="20" d="20" tx="710.35" ty="-259.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1050,7 +1044,7 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!16786 -4559|11947 -4559!11947 -4559|11107 -5199!11107 -5199|17446 -5199!17446 -5199|16786 -4559"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!17386 -4559|12547 -4559!12547 -4559|11707 -5199!11707 -5199|18046 -5199!18046 -5199|17386 -4559"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1102,25 +1096,19 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!15329 199|15929 199!15929 199|15929 1399!15929 1399|15329 1399!15329 1399|15329 199"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!15929 199|15929 1399!15929 1399|15329 1399!15329 1399|15329 199!15329 199|15929 199"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="10"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="10"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Rocks &amp; Blocks (Tiled)/BluerockMosaic" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="943.65" ty="-38.05"/>
+                              <Matrix a="20" d="20" tx="943.65" ty="-28.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1135,7 +1123,7 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!18937 -391|18328 -391!18328 -391|18328 439!18328 439|19587 439!19587 439|19587 -950!19587 -950|18937 -950!18937 -950|18937 -391"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!18937 -191|18328 -191!18328 -191|18328 639!18328 639|19587 639!19587 639|19587 -750!19587 -750|18937 -750!18937 -750|18937 -191"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1194,23 +1182,23 @@ onEnterFrame = function () {
                     <DOMShape>
                       <fills>
                         <FillStyle index="1">
-                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Rocks &amp; Blocks (Tiled)/BluerockMosaic" bitmapIsClipped="false">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Marble Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="548.75" ty="-975"/>
+                              <Matrix a="20" d="20" tx="842.95" ty="-1628.9"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Rocks &amp; Blocks (Tiled)/BluerockMosaic" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="730.85" ty="-1171.9"/>
+                              <Matrix a="20" d="20" tx="548.75" ty="-975"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
-                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Marble Brick" bitmapIsClipped="false">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Rocks &amp; Blocks (Tiled)/BluerockMosaic" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="842.95" ty="-1628.9"/>
+                              <Matrix a="20" d="20" tx="730.85" ty="-1171.9"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1223,23 +1211,16 @@ onEnterFrame = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="3" strokeStyle="1" edges="!16077 -32558|16077 -31258!16077 -31258|15517 -31258!15517 -31258|15517 -32558!15517 -32558|16077 -32558!14677 -32558|14677 -31258!14677 -31258|14117 -31258!14117 -31258|14117 -32558!14117 -32558|14677 -32558"/>
-                        <Edge fillStyle0="3" strokeStyle="2" edges="!17196 -32078|16877 -32078!16877 -32078|16877 -31378!16877 -31378|18016 -26858!18016 -26858|19316 -26858!19316 -26858|20197 -31318!20197 -31318|20197 -32098!20197 -32098|19856 -32098!19856 -32098|19856 -32558!19856 -32558|17196 -32558
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!16077 -32558|16077 -31258!16077 -31258|15517 -31258!15517 -31258|15517 -32558!15517 -32558|16077 -32558!14677 -32558|14677 -31258!14677 -31258|14117 -31258!14117 -31258|14117 -32558!14117 -32558|14677 -32558"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!17196 -32078|16877 -32078!16877 -32078|16877 -31378!16877 -31378|18016 -26858!18016 -26858|19316 -26858!19316 -26858|20197 -31318!20197 -31318|20197 -32098!20197 -32098|19856 -32098!19856 -32098|19856 -32558!19856 -32558|17196 -32558
 !17196 -32558|17196 -32078"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" strokeStyle="1" edges="
 !11757 -21819|11757 -20919!11757 -20919|10957 -20919!10957 -20919|10957 -19940!10957 -19940|10210 -19940!10210 -19940|10210 -18860!10210 -18860|12910 -18860!12910 -18860|12910 -21819!12910 -21819|11757 -21819"/>
-                        <Edge fillStyle0="3" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
 !18496 -27764|17727 -31393!17727 -31393|19367 -31393!19367 -31393|18766 -27764!18766 -27764|18496 -27764"/>
-                        <Edge fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle1="3" strokeStyle="1" edges="
 !15457 -24198|15457 -22038!15457 -22038|14417 -22038!14417 -22038|14417 -24198!14417 -24198|15457 -24198"/>
                       </edges>
                     </DOMShape>
@@ -1684,7 +1665,7 @@ onEnterFrame = function () {
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Falling Log Code (graphics)" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Falling Log Code (graphics)">
                   <matrix>
                     <Matrix tx="810" ty="-1169"/>
                   </matrix>
@@ -1751,7 +1732,7 @@ onEnterFrame = function () {
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!6920 -19197|7880 -19197!7880 -19197|7880 -18557!7880 -18557|6920 -18557!6920 -18557|6920 -19197"/>
+!7880 -19197|7880 -18557!7880 -18557|6920 -18557!6920 -18557|6920 -19197!6920 -19197|7880 -19197"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1788,25 +1769,19 @@ onEnterFrame = function () {
                         <Edge fillStyle1="1" strokeStyle="1" edges="
 !12548 -18957|10548 -18957!10548 -18957|10548 -19597!10548 -19597|12548 -19597!12548 -19597|12548 -18957"/>
                         <Edge fillStyle1="2" strokeStyle="1" edges="
-!15620 -24929|14080 -24929!14080 -24929|14080 -26209!14080 -26209|15620 -26209!15620 -26209|15620 -24929"/>
+!14080 -24929|14080 -26209!14080 -26209|15620 -26209!15620 -26209|15620 -24929!15620 -24929|14080 -24929"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-60.35" ty="27.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-60.35" ty="27.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Rocks &amp; Blocks (Tiled)/BluerockMosaic" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="667.7" ty="-1102"/>
+                              <Matrix a="20" d="20" tx="607.35" ty="-1074.05"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -1822,7 +1797,7 @@ onEnterFrame = function () {
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!12809 -22040|13549 -22040!13549 -22040|13549 -20914!13549 -20914|12809 -20914!12809 -20914|12809 -22040"/>
+!12342 -21481|12342 -20355!12342 -20355|11602 -20355!11602 -20355|11602 -21481!11602 -21481|12342 -21481"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -1850,7 +1825,7 @@ onEnterFrame = function () {
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!1100 -28249|3380 -28249!3380 -28249|3380 -27609!3380 -27609|1100 -27609!1100 -27609|1100 -28249"/>
+!3380 -28249|3380 -27609!3380 -27609|1100 -27609!1100 -27609|1100 -28249!1100 -28249|3380 -28249"/>
                       </edges>
                     </DOMShape>
                   </members>

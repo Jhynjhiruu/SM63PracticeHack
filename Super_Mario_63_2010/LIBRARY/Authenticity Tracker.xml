@@ -31,7 +31,7 @@ trace(passed);
 */
 
 
-url2 = _root._url;
+/*url2 = _root._url;
 url = url2.split('.');
 passed = "Originally obtained from Runouw.com";
 for (i=0; i<url.length; i++) {
@@ -43,7 +43,9 @@ for (i=0; i<url.length; i++) {
 }
 if (url2.charAt(8).toLowerCase() == "c") {
 	passed = "Running off of computer. Originally obtained from Runouw.com";
-}
+}*/
+
+passed = "Game by Runouw\nPractice hack by Sekanor, Jhynjhiruu, Creyon";
 trace(passed);
 
 ]]></script>

@@ -9,19 +9,13 @@
                 <DOMGroup>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix a="1.36566162109375" tx="-502.25"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="493" y="133.1"/>
+                        <Point x="171" y="133.1"/>
                       </transformationPoint>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix a="1.36566162109375" tx="-502.25"/>
-                          </matrix>
                           <transformationPoint>
-                            <Point x="493" y="133.1"/>
+                            <Point x="171" y="133.1"/>
                           </transformationPoint>
                           <fills>
                             <FillStyle index="1">
@@ -29,7 +23,7 @@
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!25283 2442|-5563 2482!-5563 2482|-5563 2882!-5563 2882|25283 2882!25283 2882|25283 2442"/>
+                            <Edge fillStyle0="1" edges="!24483 2442|-17642 2482!-17642 2482|-17642 2882!-17642 2882|24483 2882!24483 2882|24483 2442"/>
                           </edges>
                         </DOMShape>
                       </members>

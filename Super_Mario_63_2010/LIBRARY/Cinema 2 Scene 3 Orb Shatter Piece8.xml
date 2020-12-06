@@ -21,19 +21,13 @@ onEnterFrame = function () {
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-22" ty="-5.45"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-22" ty="-5.45"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.04437255859375" d="0.04437255859375"/>
+                              <Matrix a="0.04437255859375" d="0.04437255859375" tx="-22" ty="-5.45"/>
                             </matrix>
                             <GradientEntry color="#F8F2C2" alpha="0.0823529411764706" ratio="0"/>
                             <GradientEntry color="#FEF7BC" alpha="0.623529411764706" ratio="1"/>
@@ -50,8 +44,8 @@ onEnterFrame = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!683 186S5[#2C0.28 #6A.A6 706.5 19.5"/>
-                        <Edge fillStyle0="1" edges="!706.5 19.5S1[#1DC.9C #D.53 256 39!256 39[#D5.19 #2C.B8 172 50!172 50[#F1.73 #68.68 269.5 199!269.5 199|670 195!670 195|683 186"/>
+                        <Edge fillStyle0="1" edges="!267 -89[37 -96 -184 -70!-184 -70[-227 -64 -268 -59!-268 -59[-199 -5 -170 90!-170 90|230 86!230 86|243 77"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!243 77[264 -2 267 -89"/>
                       </edges>
                     </DOMShape>
                   </members>

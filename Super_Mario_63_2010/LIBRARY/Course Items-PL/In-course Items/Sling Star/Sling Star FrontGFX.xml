@@ -38,7 +38,7 @@ onEnterFrame = null;
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2001.5 -10|2001.5 930!2001.5 930|-1998.5 930!-1998.5 930|-1998.5 -10!-1998.5 -10|2001.5 -10"/>
+                    <Edge fillStyle1="1" edges="!2001.5 930|-1998.5 930!-1998.5 930|-1998.5 -10!-1998.5 -10|2001.5 -10!2001.5 -10|2001.5 930"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -83,7 +83,7 @@ onEnterFrame = null;
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2001 -4S2|2001 936!2001 936|-1999 936!-1999 936|-1999 -4!-1999 -4|2001 -4"/>
+                    <Edge fillStyle1="1" edges="!2001 936S2|-1999 936!-1999 936|-1999 -4!-1999 -4|2001 -4!2001 -4|2001 936"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -133,7 +133,7 @@ onEnterFrame = null;
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2001.5 -418|2001.5 522!2001.5 522|-1998.5 522!-1998.5 522|-1998.5 -418!-1998.5 -418|2001.5 -418"/>
+                    <Edge fillStyle1="1" edges="!2001.5 522|-1998.5 522!-1998.5 522|-1998.5 -418!-1998.5 -418|2001.5 -418!2001.5 -418|2001.5 522"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -158,7 +158,7 @@ onEnterFrame = null;
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2001.5 -216|2001.5 724!2001.5 724|-1998.5 724!-1998.5 724|-1998.5 -216!-1998.5 -216|2001.5 -216"/>
+                    <Edge fillStyle1="1" edges="!2001.5 724|-1998.5 724!-1998.5 724|-1998.5 -216!-1998.5 -216|2001.5 -216!2001.5 -216|2001.5 724"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -172,7 +172,7 @@ onEnterFrame = null;
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2001.5 -16|2001.5 924!2001.5 924|-1998.5 924!-1998.5 924|-1998.5 -16!-1998.5 -16|2001.5 -16"/>
+                    <Edge fillStyle1="1" edges="!2001.5 924|-1998.5 924!-1998.5 924|-1998.5 -16!-1998.5 -16|2001.5 -16!2001.5 -16|2001.5 924"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -231,7 +231,7 @@ onEnterFrame = null;
             </DOMFrame>
             <DOMFrame index="22" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star 2 Animation" name="star2" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star 2 Animation" name="star2">
                   <matrix>
                     <Matrix a="0.660552978515625" d="0.30841064453125"/>
                   </matrix>

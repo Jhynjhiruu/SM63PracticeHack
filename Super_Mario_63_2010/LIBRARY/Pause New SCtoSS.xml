@@ -62,7 +62,7 @@ gotoAndStop(2);
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320!319.5 -320|319.5 320"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 -320|319.5 320!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite">
@@ -90,7 +90,7 @@ gotoAndStop(2);
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 -320|319.5 320!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 320|-320.5 320!-320.5 320|-320.5 -320!-320.5 -320|319.5 -320!319.5 -320|319.5 320"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Collectables/ Starry Stuff/Shine Sprite Blue 2">

@@ -11,7 +11,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="Explosion 5 Clip (Circle Explosion)">
                   <matrix>
-                    <Matrix a="1.91993713378906" d="1.91993713378906" tx="0.1" ty="-7.65"/>
+                    <Matrix a="1.919921875" d="1.919921875" tx="0.1" ty="-7.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -120,7 +120,7 @@
                     <Color alphaMultiplier="0.75"/>
                   </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Explosion 5 Clip (Circle Explosion)" selected="true">
+                <DOMSymbolInstance libraryItemName="Explosion 5 Clip (Circle Explosion)">
                   <matrix>
                     <Matrix a="3" d="3" tx="0.1" ty="-8.65"/>
                   </matrix>

@@ -32,22 +32,22 @@
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Backgrounds/NSMB Cave BG (Back)" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="30" tx="-285.25" ty="-153.1"/>
+                              <Matrix a="30" d="-30" tx="-285.25" ty="275.9"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Backgrounds/NSMB Cave BG (Back)" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="-30" tx="-285.25" ty="275.9"/>
+                              <Matrix a="30" d="30" tx="-285.25" ty="-153.1"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-5110 1198|-5110 -3042!-5110 -3042|5110 -3042!5110 -3042|5110 1198"/>
-                        <Edge fillStyle1="2" edges="!5110 1198|5110 3042!5110 3042|-5110 3042!-5110 3042|-5110 1198"/>
-                        <Edge fillStyle0="2" fillStyle1="1" edges="!5110 1198|-5110 1198"/>
+                        <Edge fillStyle1="2" edges="!-5110 1198|-5110 -3042!-5110 -3042|5110 -3042!5110 -3042|5110 1198"/>
+                        <Edge fillStyle1="1" edges="!5110 1198|5110 3042!5110 3042|-5110 3042!-5110 3042|-5110 1198"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!5110 1198|-5110 1198"/>
                       </edges>
                     </DOMShape>
                   </members>

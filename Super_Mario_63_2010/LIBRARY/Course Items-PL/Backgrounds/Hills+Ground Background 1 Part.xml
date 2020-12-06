@@ -7,25 +7,19 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-18.7" ty="104"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-18.7" ty="104"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Backgrounds/BG Hills Tree Repeat" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-4.05" ty="31.95"/>
+                              <Matrix a="20" d="20" tx="-22.75" ty="135.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!11647 1399|-10899.5 1399!-10899.5 1399|-10899.5 639!-10899.5 639|11647 639!11647 639|11647 1399"/>
+                        <Edge fillStyle1="1" edges="!11273 3479|-11273 3479!-11273 3479|-11273 2719!-11273 2719|11273 2719!11273 2719|11273 3479"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -49,9 +43,6 @@
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
-                          <SolidColor color="#005300"/>
-                        </FillStyle>
-                        <FillStyle index="2">
                           <LinearGradient>
                             <matrix>
                               <Matrix a="0" b="-0.0176239013671875" c="0.10986328125" d="0" tx="47.75" ty="231.45"/>
@@ -61,6 +52,9 @@
                             <GradientEntry color="#035402" ratio="0.619607843137255"/>
                             <GradientEntry color="#305820" ratio="1"/>
                           </LinearGradient>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <SolidColor color="#005300"/>
                         </FillStyle>
                         <FillStyle index="3">
                           <LinearGradient>
@@ -93,15 +87,15 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="2" edges="!11279.5 4934.5|11279.5 4324"/>
-                        <Edge fillStyle0="2" fillStyle1="3" edges="!11279.5 4324|-8050 4324"/>
-                        <Edge fillStyle0="2" fillStyle1="4" edges="!-8050 4324|-8050 4934.5"/>
-                        <Edge fillStyle0="2" fillStyle1="1" edges="!-8050 4934.5|11279.5 4934.5"/>
-                        <Edge fillStyle0="1" edges="!-11280 4934.5|-11280 5660.5!-11280 5660.5|11279.5 5660.5!11279.5 5660.5|11279.5 4934.5"/>
+                        <Edge fillStyle0="1" edges="!11279.5 4934.5|11279.5 4324"/>
+                        <Edge fillStyle0="1" fillStyle1="3" edges="!11279.5 4324|-8050 4324"/>
+                        <Edge fillStyle0="1" fillStyle1="4" edges="!-8050 4324|-8050 4934.5"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!-8050 4934.5|11279.5 4934.5"/>
+                        <Edge fillStyle0="2" edges="!-11280 4934.5|-11280 5660.5!-11280 5660.5|11279.5 5660.5!11279.5 5660.5|11279.5 4934.5"/>
                         <Edge fillStyle0="3" edges="!11279.5 4324|11279.5 3432.5!11279.5 3432.5|-8050 3432.5"/>
                         <Edge fillStyle0="3" fillStyle1="5" edges="!-8050 3432.5|-8050 4324"/>
                         <Edge fillStyle0="4" edges="!-11280 4324|-11280 4934.5"/>
-                        <Edge fillStyle0="4" fillStyle1="1" edges="!-11280 4934.5|-8050 4934.5"/>
+                        <Edge fillStyle0="4" fillStyle1="2" edges="!-11280 4934.5|-8050 4934.5"/>
                         <Edge fillStyle0="5" fillStyle1="4" edges="!-11280 4324|-8050 4324"/>
                         <Edge fillStyle0="5" edges="!-8050 3432.5|-11280 3432.5!-11280 3432.5|-11280 4324"/>
                       </edges>

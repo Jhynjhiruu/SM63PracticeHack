@@ -143,14 +143,14 @@
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="14.1421508789063" b="14.1421508789063" c="-14.1421508789063" d="14.1421508789063" tx="-101.65" ty="-593.4"/>
+                              <Matrix a="14.1421508789063" b="14.1421508789063" c="-14.1421508789063" d="14.1421508789063" tx="-25.8" ty="-738.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="14.1421508789063" b="14.1421508789063" c="-14.1421508789063" d="14.1421508789063" tx="-25.8" ty="-738.85"/>
+                              <Matrix a="14.1421508789063" b="14.1421508789063" c="-14.1421508789063" d="14.1421508789063" tx="-101.65" ty="-593.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -165,8 +165,8 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="2" strokeStyle="1" edges="!1957 -15572|1347 -15572!1347 -15572|1347 -13212!1347 -13212|1957 -13212!1957 -13212|1957 -15572"/>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1347 -15572|-1347 -13212!-1347 -13212|-1957 -13212!-1957 -13212|-1957 -15572!-1957 -15572|-1347 -15572"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!1347 -15572|1347 -13212!1347 -13212|1957 -13212!1957 -13212|1957 -15572!1957 -15572|1347 -15572"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!-1347 -13212|-1957 -13212!-1957 -13212|-1957 -15572!-1957 -15572|-1347 -15572!-1347 -15572|-1347 -13212"/>
                       </edges>
                     </DOMShape>
                   </members>

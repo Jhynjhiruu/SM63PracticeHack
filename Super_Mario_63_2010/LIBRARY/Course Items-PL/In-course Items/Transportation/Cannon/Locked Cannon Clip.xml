@@ -80,7 +80,7 @@ _parent.play();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!322 92.5S2|-318 92.5!-318 92.5|-318 -147.5!-318 -147.5|322 -147.5!322 -147.5|322 92.5"/>
+                    <Edge fillStyle1="1" edges="!322 -147.5S2|322 92.5!322 92.5|-318 92.5!-318 92.5|-318 -147.5!-318 -147.5|322 -147.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -94,7 +94,7 @@ _parent.play();
           <frames>
             <DOMFrame index="0" duration="41" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Cannon/Cannontop">
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Cannon/Cannontop">
                   <matrix>
                     <Matrix d="0.25" tx="-16" ty="-6"/>
                   </matrix>
@@ -154,7 +154,7 @@ _parent.play();
             </DOMFrame>
             <DOMFrame index="101" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Cannon/Cannontop">
+                <DOMBitmapInstance libraryItemName="  Course Items-PL/ In-course Items/ Transportation/ Cannon/Cannontop">
                   <matrix>
                     <Matrix d="0.25" tx="-48.5" ty="-1.5"/>
                   </matrix>

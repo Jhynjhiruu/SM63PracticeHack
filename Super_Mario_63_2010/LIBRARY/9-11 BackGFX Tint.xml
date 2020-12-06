@@ -33,40 +33,25 @@
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="2" edges="!-1630.5 -12887.5[-4140.875 #FFD7F7.CE -6146.5 -12931!-6146.5 -12931|-5536 -13435.5!-5536 -13435.5[#FFF001.D8 #FFD425.96 -2272.5 -13339.5!-2272.5 -13339.5|-1630.5 -12887.5!-11279 -11579[#FFE1A6.88 #FFD364.8D -6879 -12999!-6879 -12999
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-1630.5 -12887.5[-4140.875 #FFD7F7.CE -6146.5 -12931!-6146.5 -12931|-5536 -13435.5!-5536 -13435.5[#FFF001.D8 #FFD425.96 -2272.5 -13339.5!-2272.5 -13339.5|-1630.5 -12887.5!-11279 -11579[#FFE1A6.88 #FFD364.8D -6879 -12999!-6879 -12999
 |-7359 -10819!-7359 -10819|-11279 -10819!-11279 -10819|-11279 -11579"/>
-                        <Edge fillStyle1="2" strokeStyle="2" edges="
-!-8480.5 -3951.5[#FFE2B2.DF #FFEF4C.DA -7501 -6400!-7501 -6400|-7501 -7719!-7501 -7719[#FFCCCA.95 #FFE0B6.32 -12521 -1099!-12521 -1099|-13421 -1099!-13421 -1099[#FFCA31.24 #FFDC4D.51 -7501 -8819!-7501 -8819|-7501 -10799!-7501 -10799|-6661
- -10799!-6661 -10799|-6661 -6220!-6661 -6220[#FFE58A.96 #FFF1FD.62 -7645 -3405.5"/>
                         <Edge fillStyle1="2" strokeStyle="1" edges="
-!-7645 -3405.5[#FFDEBB.5E #FFF367.8C -8441 0!-8441 0|-9401 0!-9401 0[#FFDB0C.21 #FFF1D3.E7 -8480.5 -3951.5"/>
+!-6661 -10799|-6661 -6220!-6661 -6220[#FFE58A.96 #FFF1FD.62 -7645 -3405.5!-7645 -3405.5[#FFDEBB.5E #FFF367.8C -8441 0!-8441 0|-9401 0!-9401 0[#FFDB0C.21 #FFF1D3.E7 -8480.5 -3951.5!-8480.5 -3951.5[#FFE2B2.DF #FFEF4C.DA -7501 -6400!-7501
+ -6400|-7501 -7719!-7501 -7719[#FFCCCA.95 #FFE0B6.32 -12521 -1099!-12521 -1099|-13421 -1099!-13421 -1099[#FFCA31.24 #FFDC4D.51 -7501 -8819!-7501 -8819|-7501 -10799!-7501 -10799|-6661 -10799"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.737884521484375" b="0.672500610351563" c="-0.672500610351563" d="0.737884521484375" tx="-617.1" ty="-265.75"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.737884521484375" b="0.672500610351563" c="-0.672500610351563" d="0.737884521484375" tx="-617.1" ty="-265.75"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-37.65" ty="-675.6"/>
+                              <Matrix a="14.7576904296875" b="13.4500122070313" c="-13.4500122070313" d="14.7576904296875" tx="-190.55" ty="-789.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -82,7 +67,7 @@
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!2437 -17412S6|2437 -12872!2437 -12872|-753 -12872!-753 -12872|-753 -17412!-753 -17412|2437 -17412"/>
+!1166 -16524|-1888 -13174!-1888 -13174|-4242 -15319!-4242 -15319|-1188 -18669!-1188 -18669|1166 -16524"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Decoration/Other/Haunted Window">

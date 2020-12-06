@@ -239,7 +239,7 @@ stop();]]></script>
           <frames>
             <DOMFrame index="0" duration="71" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625030517578125" d="0.624923706054688" ty="1080"/>
                   </matrix>
@@ -265,7 +265,7 @@ stop();]]></script>
               <elements>
                 <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
-                    <Matrix a="1.11946105957031" d="1.1192626953125" ty="-221.15"/>
+                    <Matrix a="1.11944580078125" d="1.1192626953125" ty="-221.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -323,7 +323,7 @@ stop();]]></script>
             </DOMFrame>
             <DOMFrame index="200" duration="31" tweenType="motion" keyMode="17921" acceleration="-100">
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625030517578125" d="0.624923706054688" tx="30" ty="-280"/>
                   </matrix>
@@ -391,7 +391,7 @@ stop();]]></script>
                 </CustomEase>
               </tweens>
               <elements>
-                <DOMSymbolInstance libraryItemName="StageCam" selected="true">
+                <DOMSymbolInstance libraryItemName="StageCam">
                   <matrix>
                     <Matrix a="0.625030517578125" d="0.624923706054688" tx="60" ty="-260"/>
                   </matrix>
@@ -490,9 +490,6 @@ stop();]]></script>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -564,7 +561,7 @@ stop();]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="128" keyMode="9984">
+            <DOMFrame index="128" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Bowser Battle 3 Cinema Mario SlingStar" symbolType="graphic" loop="loop">
                   <matrix>
@@ -588,7 +585,7 @@ stop();]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="148" keyMode="9984">
+            <DOMFrame index="148" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Bowser Battle 3 Cinema Mario jump Arc2" symbolType="graphic" firstFrame="19" loop="loop">
                   <matrix>
@@ -600,7 +597,7 @@ stop();]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="149" duration="2" keyMode="9984">
+            <DOMFrame index="149" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) - Falling - 2">
                   <matrix>
@@ -609,7 +606,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="151" duration="3" keyMode="9984">
+            <DOMFrame index="151" duration="3" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) - Falling - 1">
                   <matrix>
@@ -618,7 +615,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="154" duration="21" keyMode="9984">
+            <DOMFrame index="154" duration="21" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) - Angry - 1">
                   <matrix>
@@ -627,7 +624,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="175" duration="25" keyMode="9984">
+            <DOMFrame index="175" duration="25" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) - Angry - 2">
                   <matrix>
@@ -636,7 +633,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="200" duration="56" keyMode="9984">
+            <DOMFrame index="200" duration="56" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) Land - 1">
                   <matrix>
@@ -645,7 +642,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="256" duration="17" keyMode="9984">
+            <DOMFrame index="256" duration="17" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) - Angry - 1">
                   <matrix>
@@ -654,7 +651,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="273" duration="7" keyMode="9984">
+            <DOMFrame index="273" duration="7" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Overworld - Mario 3 - 7">
                   <matrix>
@@ -663,7 +660,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="280" duration="2" keyMode="9984">
+            <DOMFrame index="280" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance selected="true" libraryItemName="      Char/  BITS Mario/Mario (none) - Jumping - 2">
                   <matrix>
@@ -672,7 +669,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="282" duration="2" keyMode="9984">
+            <DOMFrame index="282" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Mario (none) - Jumping - 1">
                   <matrix>
@@ -690,7 +687,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="303" keyMode="9984">
+            <DOMFrame index="303" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Overworld - Mario Jump - 3">
                   <matrix>
@@ -711,7 +708,7 @@ stop();]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="320" keyMode="9984">
+            <DOMFrame index="320" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Bowset Battle 3 Cinema Mario Spin" symbolType="graphic" firstFrame="16" loop="play once">
                   <matrix>
@@ -732,7 +729,7 @@ stop();]]></script>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="331" duration="2" keyMode="9984">
+            <DOMFrame index="331" duration="2" keyMode="9728">
               <elements>
                 <DOMBitmapInstance libraryItemName="      Char/  BITS Mario/Overworld - Mario Jump - 3">
                   <matrix>
@@ -748,19 +745,13 @@ stop();]]></script>
             <DOMFrame index="0" duration="333" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="542.65"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="542.65"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Large Red Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-36.15" ty="-680.6"/>
+                              <Matrix a="20" d="20" tx="-36.15" ty="-137.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -775,7 +766,7 @@ stop();]]></script>
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!-2042 -15198|-2042 23257!-2042 23257|2043 23257!2043 23257|2043 -15198!2043 -15198|-2042 -15198"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-2042 -4345|-2042 34110!-2042 34110|2043 34110!2043 34110|2043 -4345!2043 -4345|-2042 -4345"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -842,9 +833,6 @@ stop();]]></script>
             <DOMFrame index="247" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="726.3" ty="-423.95"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Arm - 10">
                       <matrix>
@@ -873,9 +861,6 @@ stop();]]></script>
             <DOMFrame index="249" duration="3" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="366.3" ty="-423.45"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Bosses/Bowser/Bits/Bowser Body - 2">
                       <matrix>

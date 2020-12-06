@@ -45,25 +45,30 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-11891 -4541|-11891 -10471!-11891 -10471|-4401 -10471!-4401 -10471|-4401 -4541!-4401 -4541|-11891 -4541"/>
+                        <Edge fillStyle1="1" edges="!-11891 -10471|-4401 -10471!-4401 -10471|-4401 -4541!-4401 -4541|-11891 -4541!-11891 -4541|-11891 -10471"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="30"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="30"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0" b="0.13458251953125" c="-0.13458251953125" d="0" tx="80.45" ty="-369.3"/>
+                            </matrix>
+                            <GradientEntry alpha="0" ratio="0"/>
+                            <GradientEntry alpha="0.752941176470588" ratio="0.517647058823529"/>
+                            <GradientEntry ratio="0.870588235294118"/>
+                            <GradientEntry ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                        <FillStyle index="2">
                           <RadialGradient>
                             <matrix>
-                              <Matrix a="0.0634765625" d="0.0435791015625" tx="40" ty="-213"/>
+                              <Matrix a="0.0634765625" d="0.0435791015625" tx="70" ty="-213"/>
                             </matrix>
                             <GradientEntry alpha="0" ratio="0"/>
                             <GradientEntry alpha="0.752941176470588" ratio="0.517647058823529"/>
@@ -72,22 +77,11 @@
                             <GradientEntry ratio="1"/>
                           </RadialGradient>
                         </FillStyle>
-                        <FillStyle index="2">
-                          <LinearGradient>
-                            <matrix>
-                              <Matrix a="0" b="0.13458251953125" c="-0.13458251953125" d="0" tx="50.45" ty="-369.3"/>
-                            </matrix>
-                            <GradientEntry alpha="0" ratio="0"/>
-                            <GradientEntry alpha="0.752941176470588" ratio="0.517647058823529"/>
-                            <GradientEntry ratio="0.870588235294118"/>
-                            <GradientEntry ratio="1"/>
-                          </LinearGradient>
-                        </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="2" fillStyle1="1" edges="!-163 -4221|297 -5240!297 -5240|1297 -5240!1297 -5240|1857 -4221"/>
-                        <Edge fillStyle0="2" edges="!1857 -4221|4734 -4221!4734 -4221|4734 -9691!4734 -9691|-2756 -9691!-2756 -9691|-2756 -4221!-2756 -4221|-163 -4221"/>
-                        <Edge fillStyle1="1" edges="!1857 -4221|-163 -4221"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!437 -4221|897 -5240!897 -5240|1897 -5240!1897 -5240|2457 -4221"/>
+                        <Edge fillStyle0="1" edges="!2457 -4221|5334 -4221!5334 -4221|5334 -9691!5334 -9691|-2156 -9691!-2156 -9691|-2156 -4221!-2156 -4221|437 -4221"/>
+                        <Edge fillStyle1="2" edges="!2457 -4221|437 -4221"/>
                       </edges>
                     </DOMShape>
                   </members>

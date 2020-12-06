@@ -13,22 +13,22 @@
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="Galaxy BG" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-302.85" ty="95.95"/>
+                              <Matrix a="20" d="20" tx="-62.85" ty="95.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="Galaxy BG" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-62.85" ty="95.95"/>
+                              <Matrix a="20" d="20" tx="-302.85" ty="95.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="2" edges="!1143 1919|7143 1919!7143 1919|7143 2992!7143 2992|1143 2992"/>
-                        <Edge fillStyle1="1" edges="!1143 2992|-7257 2992!-7257 2992|-7257 1919!-7257 1919|1143 1919"/>
-                        <Edge fillStyle0="2" fillStyle1="1" edges="!1143 1919|1143 2992"/>
+                        <Edge fillStyle1="1" edges="!1143 1919|7143 1919!7143 1919|7143 2992!7143 2992|1143 2992"/>
+                        <Edge fillStyle1="2" edges="!1143 2992|-7257 2992!-7257 2992|-7257 1919!-7257 1919|1143 1919"/>
+                        <Edge fillStyle0="1" fillStyle1="2" edges="!1143 1919|1143 2992"/>
                       </edges>
                     </DOMShape>
                     <DOMBitmapInstance libraryItemName="Galaxy BG">

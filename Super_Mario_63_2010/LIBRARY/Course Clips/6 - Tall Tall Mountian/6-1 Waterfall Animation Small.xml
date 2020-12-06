@@ -47,9 +47,9 @@
           <frames>
             <DOMFrame index="0" duration="13" tweenType="motion" motionTweenRotate="none" motionTweenScale="false" keyMode="16385">
               <elements>
-                <DOMGroup selected="true">
+                <DOMGroup>
                   <members>
-                    <DOMShape selected="true">
+                    <DOMShape>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Decoration/Other/Small Waterfall" bitmapIsClipped="false">
@@ -60,7 +60,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!700 5594|-700 5594!-700 5594|-700 -4406!-700 -4406|700 -4406!700 -4406|700 5594"/>
+                        <Edge fillStyle1="1" edges="!-700 -4406|700 -4406!700 -4406|700 5594!700 5594|-700 5594!-700 5594|-700 -4406"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -70,25 +70,19 @@
             <DOMFrame index="13" tweenType="motion" motionTweenRotate="none" motionTweenScale="false" keyMode="16385">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="59.45"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix ty="59.45"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Decoration/Other/Small Waterfall" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="40" d="40" tx="-220.65" ty="234.05"/>
+                              <Matrix a="40" d="40" tx="-220.65" ty="293.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!700 -4406|700 5594!700 5594|-700 5594!-700 5594|-700 -4406!-700 -4406|700 -4406"/>
+                        <Edge fillStyle1="1" edges="!700 6783|-700 6783!-700 6783|-700 -3217!-700 -3217|700 -3217!700 -3217|700 6783"/>
                       </edges>
                     </DOMShape>
                   </members>

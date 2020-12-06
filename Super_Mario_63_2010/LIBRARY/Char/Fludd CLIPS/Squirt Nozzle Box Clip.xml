@@ -125,7 +125,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-320 -187S1|-320 400!-320 400|-247 400!-247 400|-247 -187!-247 -187|-320 -187"/>
+                        <Edge fillStyle0="1" edges="!-320 -187|-320 400!-320 400|-247 400!-247 400|-247 -187!-247 -187|-320 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -153,7 +153,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-320 -187S1|-320 400!-320 400|-247 400!-247 400|-247 -187!-247 -187|-320 -187"/>
+                        <Edge fillStyle0="1" edges="!-320 -187|-320 400!-320 400|-247 400!-247 400|-247 -187!-247 -187|-320 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -163,17 +163,11 @@ onEnterFrame = function () {
             <DOMFrame index="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.014007568359375" b="-0.999847412109375" c="0.999847412109375" d="0.014007568359375" tx="-34.3" ty="3.85"/>
-                  </matrix>
                   <transformationPoint>
                     <Point x="-15.2" y="19.3"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.014007568359375" b="-0.999847412109375" c="0.999847412109375" d="0.014007568359375" tx="-34.3" ty="3.85"/>
-                      </matrix>
                       <transformationPoint>
                         <Point x="-15.2" y="19.3"/>
                       </transformationPoint>
@@ -181,13 +175,13 @@ onEnterFrame = function () {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="      Char/  BITS Fludd/Squirt Nozzle Box" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-16" ty="-20"/>
+                              <Matrix a="0.2801513671875" b="-19.9969482421875" c="19.9969482421875" d="0.2801513671875" tx="-54.5" ty="19.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!-320 -187S1|-320 400!-320 400|-247 400!-247 400|-247 -187!-247 -187|-320 -187"/>
+                        <Edge fillStyle0="1" edges="!-289 330|-876 321!-876 321|-877 394!-877 394|-290 403!-290 403|-289 330"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -216,7 +210,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!233 -187S1|233 400!233 400|320 400!320 400|320 -187!320 -187|233 -187"/>
+                        <Edge fillStyle0="1" edges="!233 -187|233 400!233 400|320 400!320 400|320 -187!320 -187|233 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -244,7 +238,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!233 -187S1|233 400!233 400|320 400!320 400|320 -187!320 -187|233 -187"/>
+                        <Edge fillStyle0="1" edges="!233 -187|233 400!233 400|320 400!320 400|320 -187!320 -187|233 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -254,17 +248,11 @@ onEnterFrame = function () {
             <DOMFrame index="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.0010833740234375" b="0.999984741210938" c="-0.999984741210938" d="-0.0010833740234375" tx="34.1" ty="4.5"/>
-                  </matrix>
                   <transformationPoint>
                     <Point x="14.8" y="19.3"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.0010833740234375" b="0.999984741210938" c="-0.999984741210938" d="-0.0010833740234375" tx="34.1" ty="4.5"/>
-                      </matrix>
                       <transformationPoint>
                         <Point x="14.8" y="19.3"/>
                       </transformationPoint>
@@ -272,13 +260,13 @@ onEnterFrame = function () {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="      Char/  BITS Fludd/Squirt Nozzle Box" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-16" ty="-20"/>
+                              <Matrix a="-0.02166748046875" b="19.9996948242188" c="-19.9996948242188" d="-0.02166748046875" tx="54.1" ty="-11.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!233 -187S1|233 400!233 400|320 400!320 400|320 -187!320 -187|233 -187"/>
+                        <Edge fillStyle0="1" edges="!869 323|282 323!282 323|282 410!282 410|869 410!869 410|869 323"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -307,7 +295,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!233 -187S1|-247 -187!-247 -187|-247 400!-247 400|233 400!233 400|233 -187"/>
+                        <Edge fillStyle0="1" edges="!233 -187|-247 -187!-247 -187|-247 400!-247 400|233 400!233 400|233 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -329,7 +317,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!233 -187S1|-247 -187!-247 -187|-247 400!-247 400|233 400!233 400|233 -187"/>
+                        <Edge fillStyle0="1" edges="!233 -187|-247 -187!-247 -187|-247 400!-247 400|233 400!233 400|233 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -339,31 +327,25 @@ onEnterFrame = function () {
             <DOMFrame index="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="0.13629150390625" ty="17.25"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.35" y="5.15"/>
+                    <Point x="-0.35" y="17.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="0.13629150390625" ty="17.25"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.35" y="5.15"/>
+                        <Point x="-0.35" y="17.95"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="      Char/  BITS Fludd/Squirt Nozzle Box" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-16" ty="-20"/>
+                              <Matrix a="20" d="2.725830078125" tx="-16" ty="14.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!233 -187S1|-247 -187!-247 -187|-247 400!-247 400|233 400!233 400|233 -187"/>
+                        <Edge fillStyle0="1" edges="!233 320|-247 320!-247 320|-247 400!-247 400|233 400!233 400|233 320"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -392,7 +374,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!320 -187S2|-320 -187!-320 -187|-320 -400!-320 -400|320 -400!320 -400|320 -187"/>
+                        <Edge fillStyle1="1" edges="!320 -187|-320 -187!-320 -187|-320 -400!-320 -400|320 -400!320 -400|320 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -414,7 +396,7 @@ onEnterFrame = function () {
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!320 -187S2|-320 -187!-320 -187|-320 -400!-320 -400|320 -400!320 -400|320 -187"/>
+                        <Edge fillStyle1="1" edges="!320 -187|-320 -187!-320 -187|-320 -400!-320 -400|320 -400!320 -400|320 -187"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -424,31 +406,25 @@ onEnterFrame = function () {
             <DOMFrame index="10" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="0.375579833984375" ty="17.5"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point y="-14.65"/>
+                    <Point y="12"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="0.375579833984375" ty="17.5"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point y="-14.65"/>
+                        <Point y="12"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="      Char/  BITS Fludd/Squirt Nozzle Box" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-16" ty="-20"/>
+                              <Matrix a="20" d="7.5115966796875" tx="-16" ty="10"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!320 -187S2|-320 -187!-320 -187|-320 -400!-320 -400|320 -400!320 -400|320 -187"/>
+                        <Edge fillStyle1="1" edges="!320 280|-320 280!-320 280|-320 200!-320 200|320 200!320 200|320 280"/>
                       </edges>
                     </DOMShape>
                   </members>

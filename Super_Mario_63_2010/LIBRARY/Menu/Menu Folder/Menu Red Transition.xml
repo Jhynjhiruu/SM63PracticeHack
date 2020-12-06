@@ -133,7 +133,7 @@ NoF = function () {
         </DOMLayer>
         <DOMLayer name="Text" color="#FFFF4F" locked="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" keyMode="9728" acceleration="-58">
+            <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="1" duration="8" tweenType="motion" keyMode="17921" acceleration="-100">
@@ -263,7 +263,7 @@ NoF = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4500 2999.5|-4500 2999.5!-4500 2999.5|-4500 -3000.5!-4500 -3000.5|4500 -3000.5!4500 -3000.5|4500 2999.5"/>
+                    <Edge fillStyle1="1" edges="!4500 -3000.5|4500 2999.5!4500 2999.5|-4500 2999.5!-4500 2999.5|-4500 -3000.5!-4500 -3000.5|4500 -3000.5"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -288,7 +288,7 @@ NoF = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4500 2999.5|-4500 2999.5!-4500 2999.5|-4500 -3000.5!-4500 -3000.5|4500 -3000.5!4500 -3000.5|4500 2999.5"/>
+                    <Edge fillStyle1="1" edges="!4500 -3000.5|4500 2999.5!4500 2999.5|-4500 2999.5!-4500 2999.5|-4500 -3000.5!-4500 -3000.5|4500 -3000.5"/>
                   </edges>
                 </DOMShape>
               </elements>

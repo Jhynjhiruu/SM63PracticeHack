@@ -63,9 +63,6 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="30"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
                       <matrix>
@@ -106,9 +103,6 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.791671752929688" d="1.25" tx="-189.5" ty="42.25"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar">
                       <matrix>
@@ -123,19 +117,13 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="30"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="30"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Classic Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-480.6" ty="55.85"/>
+                              <Matrix a="20" d="20" tx="-450.6" ty="55.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -151,7 +139,7 @@
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!-4662 1437|-9292 1437!-9292 1437|-9292 1117!-9292 1117|-4662 1117!-4662 1117|-4662 1437"/>
+!-4062 1437|-8692 1437!-8692 1437|-8692 1117!-8692 1117|-4062 1117!-4062 1117|-4062 1437"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -650,55 +638,48 @@ OEF = null;
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-6202 -2884.5[#FFE7C4.01 -2884.5 -6206 -2884.5!-6206 -2884.5[#FFE6B8.CA #FFF4BB.5B -6659 -2698!-6659 -2698[#FFE543.4F #FFF630.A2 -6846 -2248"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-6846 -2248|-6202 -2248!-6202 -2248|-6202 -2884.5"/>
                         <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
 !-6846.5 -1598|-6846.5 -2244!-6846.5 -2244|-6846 -2244!-6846 -2244|-6846 -2244.5!-6846 -2244.5[-6846 -2246.25 -6846 -2248"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
 !-6852 -1598|-6846.5 -1598"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-6846.5 -1598|-6846.5 -964!-6846.5 -964|-6202 -964"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-6202 -964|-6202 -1598!-6202 -1598|-6846.5 -1598"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-4202 -2884.5[#FFEF94.01 -2884.5 -4206 -2884.5!-4206 -2884.5[#FFEE88.CA #FFF4BB.5B -4659 -2698!-4659 -2698[#FFED13.4F #FFF630.A2 -4846 -2248"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-4846 -2248|-4202 -2248!-4202 -2248|-4202 -2884.5"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-4846 -2248[-4846 -2246.25 -4846 -2244.5!-4846 -2244.5|-4846 -2244!-4846 -2244|-4846.5 -2244!-4846.5 -2244|-4846.5 -1598"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-4846.5 -1598|-4202 -1598!-4202 -1598|-4202 -2248"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-3566.5 -1598|-3566.5 -2217!-3566.5 -2217[-3566 #FFF749.96 -3566 -2244!-3566 -2244|-3566 -2244.5!-3566 -2244.5[-3566 -2246.25 -3566 -2248"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-3566 -2248|-4202 -2248"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-3566 -2248[#FFF210.F2 #FFF630.A2 -3753.5 -2698!-3753.5 -2698[#FFF09C.E3 #FFF4BC.C4 -4202 -2884.5!-5566 -2248[#FFEA40.F2 #FFF630.A2 -5753.5 -2698!-5753.5 -2698[#FFE8CC.E3 #FFF4BC.C4 -6202 -2884.5!-5566.5 -1598|-5566.5 -2217!-5566.5 -2217
 [-5566 #FFF749.96 -5566 -2244!-5566 -2244|-5566 -2244.5!-5566 -2244.5[-5566 -2246.25 -5566 -2248"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-5566 -2248|-6202 -2248!-6202 -2248|-6202 -1598!-6202 -1598|-5566.5 -1598"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
 !-6202 -964|-6202 -958"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-6202 -964|-5566.5 -964!-5566.5 -964|-5566.5 -1598"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
 !-4846.5 -1598|-4852 -1598"/>
                         <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
 !-4202 -964|-4846.5 -964!-4846.5 -964|-4846.5 -1598"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
 !-4202 -964|-4202 -958"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-3566.5 -1598|-4202 -1598!-4202 -1598|-4202 -964"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-4202 -964|-3566.5 -964!-3566.5 -964|-3566.5 -1598"/>
@@ -706,17 +687,17 @@ OEF = null;
 !-2846.5 -1598|-2846.5 -2244!-2846.5 -2244|-2846 -2244!-2846 -2244|-2846 -2244.5!-2846 -2244.5[-2846 -2246.25 -2846 -2248!-2846 -2248[#FFF4E3.4F #FFF630.A2 -2659 -2698!-2659 -2698[#FFF658.CA #FFF4BB.5B -2206 -2884.5!-2206 -2884.5[#FFF764.01
  -2884.5 -2202 -2884.5!-2202 -2884.5[#FFF86C.E3 #FFF4BC.C4 -1753.5 -2698!-1753.5 -2698[#FFF9E0.F2 #FFF630.A2 -1566 -2248!-1566 -2248[-1566 -2246.25 -1566 -2244.5!-1566 -2244.5|-1566 -2244!-1566 -2244[-1566 #FFF749.96 -1566.5 -2217!-1566.5
  -2217|-1566.5 -1598!-1566.5 -1598|-1566.5 -964!-1566.5 -964|-2202 -964"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
 !-2202 -964|-2202 -958"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-2846 -2248|-2202 -2248!-2202 -2248|-2202 -2884.5"/>
-                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
 !-2846.5 -1598|-2852 -1598"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-1566.5 -1598|-2202 -1598!-2202 -1598|-2202 -964"/>
                         <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
 !-2202 -964|-2846.5 -964!-2846.5 -964|-2846.5 -1598"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="
 !-2846.5 -1598|-2202 -1598!-2202 -1598|-2202 -2248!-2202 -2248|-1566 -2248"/>
                         <Edge fillStyle0="1" edges="
 !-3202 340|2050.5 340!2050.5 340|1987 -3373!1987 -3373|-8252 -3373!-8252 -3373|-8352 1287!-8352 1287|-4062 1287!-4062 1287|-3202 340"/>
@@ -739,10 +720,10 @@ OEF = null;
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="
-!15022 7162|-15465 7162!-15465 7162|-15465 -14843!-15465 -14843|15022 -14843!15022 -14843|15022 7162"/>
                     <Edge fillStyle0="1" edges="
 !-7463 -3161|-1142 -3161!-1142 -3161|-1142 -680!-1142 -680|-7463 -680!-7463 -680|-7463 -3161"/>
+                    <Edge fillStyle1="1" edges="
+!15022 -14843|15022 7162!15022 7162|-15465 7162!-15465 7162|-15465 -14843!-15465 -14843|15022 -14843"/>
                   </edges>
                 </DOMShape>
               </elements>

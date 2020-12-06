@@ -45,9 +45,6 @@
             <DOMFrame index="9" duration="10" tweenType="motion" keyMode="17921" acceleration="-100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-0.25"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Shy-Guy/Shy Guy - Red - Fly">
                       <matrix>
@@ -69,9 +66,6 @@
             <DOMFrame index="19" duration="10" tweenType="motion" keyMode="17921" acceleration="100">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="2.5"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Shy-Guy/Shy Guy - Red - Fly">
                       <matrix>
@@ -114,9 +108,6 @@
             <DOMFrame index="39" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix ty="-2.5"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance selected="true" libraryItemName="   Enemies/Normal/ G-Z/ Shy-Guy/Shy Guy - Red - Fly">
                       <matrix>

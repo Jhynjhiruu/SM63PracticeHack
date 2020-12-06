@@ -102,21 +102,13 @@ onMouseDown = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal">
-                            <fill>
-                              <SolidColor color="#666666"/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="!-207.5 24|34 -196!34 -196|290 -196"/>
-                        <Edge fillStyle1="2" strokeStyle="1" edges="!290 -196|151 54!151 54|-54 224"/>
-                        <Edge fillStyle1="2" strokeStyle="2" edges="!-54 224|-295.5 224!-295.5 224|-207.5 24"/>
-                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!-207.5 24|34 14"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="!34 14|-54 224"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!290 -196|151 54!151 54|-54 224!-54 224|-295.5 224!-295.5 224|-207.5 24"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!290 -196|34 14"/>
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!34 14|-54 224"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-207.5 24|34 14"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -141,7 +133,7 @@ onMouseDown = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 319.5|-320.5 319.5!-320.5 319.5|-320.5 -320.5!-320.5 -320.5|319.5 -320.5!319.5 -320.5|319.5 319.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!319.5 -320.5|319.5 319.5!319.5 319.5|-320.5 319.5!-320.5 319.5|-320.5 -320.5!-320.5 -320.5|319.5 -320.5"/>
                   </edges>
                 </DOMShape>
                 <DOMGroup>
@@ -181,21 +173,13 @@ onMouseDown = function () {
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal">
-                            <fill>
-                              <SolidColor color="#666666"/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="!-207.5 24|34 -196!34 -196|290 -196"/>
-                        <Edge fillStyle1="2" strokeStyle="1" edges="!290 -196|151 54!151 54|-54 224"/>
-                        <Edge fillStyle1="2" strokeStyle="2" edges="!-54 224|-295.5 224!-295.5 224|-207.5 24"/>
-                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!-207.5 24|34 14"/>
-                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="!34 14|-54 224"/>
+                        <Edge fillStyle1="2" strokeStyle="1" edges="!290 -196|151 54!151 54|-54 224!-54 224|-295.5 224!-295.5 224|-207.5 24"/>
                         <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!290 -196|34 14"/>
+                        <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!34 14|-54 224"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-207.5 24|34 14"/>
                       </edges>
                     </DOMShape>
                   </members>

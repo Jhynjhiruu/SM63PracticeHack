@@ -311,7 +311,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Mario CLIPS/Mario Wait WaterBlast" name="water">
                   <matrix>
-                    <Matrix a="1.00001525878906" c="1.52587890625e-005" d="-1.00001525878906" tx="18" ty="-21.9"/>
+                    <Matrix c="1.52587890625e-005" d="-1" tx="18" ty="-21.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -411,7 +411,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
-                    <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="-1.5" ty="2.7"/>
+                    <Matrix b="1.52587890625e-005" tx="-1.5" ty="2.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -596,7 +596,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side">
                   <matrix>
-                    <Matrix a="1.00001525878906" b="1.52587890625e-005" d="1.00001525878906" tx="1.35" ty="-9.45"/>
+                    <Matrix b="1.52587890625e-005" tx="1.35" ty="-9.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

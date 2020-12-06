@@ -22,25 +22,19 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="0.75" ty="-2"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="0.75" ty="-2"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="      Char/  BITS Fludd/Fludd Handle - Side" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="20" tx="11.9" ty="-3"/>
+                              <Matrix a="-20" d="20" tx="12.65" ty="-5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!100 57|100 -60!100 -60|-175 -60!-175 -60|-175 140!-175 140|145 140!145 140|145 57!145 57|100 57"/>
+                        <Edge fillStyle0="1" edges="!160 17|115 17!115 17|115 -100!115 -100|-160 -100!-160 -100|-160 100!-160 100|160 100!160 100|160 17"/>
                       </edges>
                     </DOMShape>
                   </members>

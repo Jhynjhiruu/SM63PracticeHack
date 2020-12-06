@@ -33,7 +33,7 @@
                 <morphHintsList/>
               </MorphShape>
               <elements>
-                <DOMShape selected="true" isFloating="true">
+                <DOMShape isFloating="true">
                   <fills>
                     <FillStyle index="1">
                       <RadialGradient>
@@ -77,7 +77,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580!1105 -580|1105 580"/>
+                    <Edge fillStyle1="1" edges="!1105 -580|1105 580!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -139,7 +139,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580!1105 -580|1105 580"/>
+                    <Edge fillStyle1="1" edges="!1105 -580|1105 580!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580"/>
                   </edges>
                 </DOMShape>
               </elements>

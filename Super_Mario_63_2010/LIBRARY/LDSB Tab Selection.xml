@@ -181,25 +181,19 @@ onMouseDown = function () {
             <DOMFrame index="2" duration="5" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.0458526611328125" d="-0.4310302734375" tx="66.55" ty="-32.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="70.9" y="-22.5"/>
+                    <Point x="69.8" y="-22.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.0458526611328125" d="-0.4310302734375" tx="66.55" ty="-32.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="70.9" y="-22.5"/>
+                        <Point x="69.8" y="-22.95"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
-                          <RadialGradient focalPointRatio="-0.607843137254902">
+                          <RadialGradient focalPointRatio="-0.603921568627451">
                             <matrix>
-                              <Matrix a="0.25762939453125" d="0.470474243164063" tx="-19.45" ty="-76.5"/>
+                              <Matrix a="0.011810302734375" d="-0.202789306640625" tx="65.65" ty="0.3"/>
                             </matrix>
                             <GradientEntry color="#CCCCCC" alpha="0.501960784313725" ratio="0"/>
                             <GradientEntry color="#AEAEAE" alpha="0.501960784313725" ratio="1"/>
@@ -216,7 +210,7 @@ onMouseDown = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!1395 -466|-5605 -466!-5605 -466|-5605 -2786.5!-5605 -2786.5|1395 -2786.5!1395 -2786.5|1395 -466"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!1074 -452|1074 548!1074 548|1395 548!1395 548|1395 -452!1395 -452|1074 -452"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -226,25 +220,19 @@ onMouseDown = function () {
             <DOMFrame index="7" duration="6" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix d="-1" tx="46.5" ty="-45"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="70.5" y="-22.5"/>
+                    <Point x="117" y="-22.5"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix d="-1" tx="46.5" ty="-45"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="70.5" y="-22.5"/>
+                        <Point x="117" y="-22.5"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
-                          <RadialGradient focalPointRatio="-0.607843137254902">
+                          <RadialGradient focalPointRatio="-0.603921568627451">
                             <matrix>
-                              <Matrix a="0.25762939453125" d="0.470474243164063" tx="-19.45" ty="-76.5"/>
+                              <Matrix a="0.25762939453125" d="-0.470474243164063" tx="27.05" ty="31.5"/>
                             </matrix>
                             <GradientEntry color="#CCCCCC" alpha="0.501960784313725" ratio="0"/>
                             <GradientEntry color="#AEAEAE" alpha="0.501960784313725" ratio="1"/>
@@ -261,7 +249,7 @@ onMouseDown = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!1395 -466|-5605 -466!-5605 -466|-5605 -2786.5!-5605 -2786.5|1395 -2786.5!1395 -2786.5|1395 -466"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!2325 -434|-4675 -434!-4675 -434|-4675 1886!-4675 1886|2325 1886!2325 1886|2325 -434"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -271,25 +259,19 @@ onMouseDown = function () {
             <DOMFrame index="13" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.0458526611328125" d="-0.4310302734375" tx="66.55" ty="-32.65"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="70.9" y="-22.5"/>
+                    <Point x="69.8" y="-22.95"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.0458526611328125" d="-0.4310302734375" tx="66.55" ty="-32.65"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="70.9" y="-22.5"/>
+                        <Point x="69.8" y="-22.95"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
-                          <RadialGradient focalPointRatio="-0.607843137254902">
+                          <RadialGradient focalPointRatio="-0.603921568627451">
                             <matrix>
-                              <Matrix a="0.25762939453125" d="0.470474243164063" tx="-19.45" ty="-76.5"/>
+                              <Matrix a="0.011810302734375" d="-0.202789306640625" tx="65.65" ty="0.3"/>
                             </matrix>
                             <GradientEntry color="#CCCCCC" alpha="0.501960784313725" ratio="0"/>
                             <GradientEntry color="#AEAEAE" alpha="0.501960784313725" ratio="1"/>
@@ -306,7 +288,7 @@ onMouseDown = function () {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!1395 -466|-5605 -466!-5605 -466|-5605 -2786.5!-5605 -2786.5|1395 -2786.5!1395 -2786.5|1395 -466"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!1074 -452|1074 548!1074 548|1395 548!1395 548|1395 -452!1395 -452|1074 -452"/>
                       </edges>
                     </DOMShape>
                   </members>

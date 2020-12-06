@@ -7,9 +7,6 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-70"/>
-                  </matrix>
                   <members>
                     <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
@@ -28,21 +25,15 @@
                       </transformationPoint>
                     </DOMSymbolInstance>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="-70"/>
-                      </matrix>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix tx="-70"/>
-                          </matrix>
                           <fills>
                             <FillStyle index="1">
                               <SolidColor color="#BD0000"/>
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!7652 113|-6314 113!-6314 113|-6314 1093!-6314 1093|7652 1093!7652 1093|7652 113"/>
+                            <Edge fillStyle0="1" edges="!6252 113|-7714 113!-7714 113|-7714 1093!-7714 1093|6252 1093!6252 1093|6252 113"/>
                           </edges>
                         </DOMShape>
                       </members>

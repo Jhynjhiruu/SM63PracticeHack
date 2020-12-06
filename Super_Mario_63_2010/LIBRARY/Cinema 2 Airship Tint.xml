@@ -41,9 +41,9 @@
                   </strokes>
                   <edges>
                     <Edge fillStyle1="1" strokeStyle="2" edges="!-848 -2952|162 -2952!162 -2952|162 -412!162 -412|-998 -412!-998 -412|-998 -612"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!-998 -612|-2198 -612!-2198 -612|-2198 -4802!-2198 -4802|-848 -4802!-848 -4802|-848 -2952"/>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="!-8157 -2712|-6297 -2712!-6297 -2712|-5397 -152!-5397 -152|-9457 -152!-9457 -152|-9117 -3192!-9117 -3192|-8157 -2712"/>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-998 -612|-848 -612"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-8157 -2712|-6297 -2712!-6297 -2712|-5397 -152!-5397 -152|-9457 -152!-9457 -152|-9117 -3192!-9117 -3192|-8157 -2712"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-998 -612|-2198 -612!-2198 -612|-2198 -4802!-2198 -4802|-848 -4802!-848 -4802|-848 -2952"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -91,21 +91,21 @@
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Stones" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-564.6" ty="-306.6"/>
+                              <Matrix a="20" d="20" tx="-621.8" ty="-543.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Stones" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-1158.7" ty="-317.65"/>
+                              <Matrix a="20" d="20" tx="-564.6" ty="-306.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Stones" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-621.8" ty="-543.55"/>
+                              <Matrix a="20" d="20" tx="-1158.7" ty="-317.65"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -118,27 +118,18 @@
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="3" strokeStyle="2" edges="!-12076 -14971|-12956 -13511!-12956 -13511|-12956 -10111!-12956 -10111|-13564 -9355!-13564 -9355|-13564 -7891!-13564 -7891|-10689 -7891!-10689 -7891|-10689 -9411!-10689 -9411|-11256 -10091!-11256 -10091|-11256 -13471!-11256 -13471|-12076
- -14971"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
-!-7797 -3372|-7797 -1353!-7797 -1353|-7277 -1353!-7277 -1353|-7277 -3092!-7277 -3092|-4517 -913!-4517 -913|-3497 -913!-3497 -913|-4390 -1578!-4390 -1578|-2157 -3892!-2157 -3892|-2157 -4792!-2157 -4792|-4860 -1989!-4860 -1989|-10116 -6012
-!-10116 -6012|-10276 -5312"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="
-!-10276 -5312|-7797 -3372"/>
-                        <Edge strokeStyle="2" edges="
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!-12956 -13511|-12956 -10111!-12956 -10111|-13564 -9355!-13564 -9355|-13564 -7891!-13564 -7891|-10689 -7891!-10689 -7891|-10689 -9411!-10689 -9411|-11256 -10091!-11256 -10091|-11256 -13471!-11256 -13471|-12076 -14971!-12076 -14971|-12956
+ -13511"/>
+                        <Edge fillStyle0="2" strokeStyle="1" edges="
+!-10276 -5312|-7797 -3372!-7797 -3372|-7797 -1353!-7797 -1353|-7277 -1353!-7277 -1353|-7277 -3092!-7277 -3092|-4517 -913!-4517 -913|-3497 -913!-3497 -913|-4390 -1578!-4390 -1578|-2157 -3892!-2157 -3892|-2157 -4792!-2157 -4792|-4860 -1989
+!-4860 -1989|-10116 -6012!-10116 -6012|-10276 -5312"/>
+                        <Edge strokeStyle="1" edges="
 !-7797 -1353|-7917 -1353"/>
-                        <Edge fillStyle1="2" strokeStyle="1" edges="
+                        <Edge fillStyle1="3" strokeStyle="1" edges="
 !-15839 -3146.5|-14039 -5013!-14039 -5013|-14039 -4113!-14039 -4113|-15839 -2247.5"/>
-                        <Edge fillStyle1="2" edges="
+                        <Edge fillStyle1="3" edges="
 !-15839 -2247.5|-15839 -3146.5"/>
                       </edges>
                     </DOMShape>

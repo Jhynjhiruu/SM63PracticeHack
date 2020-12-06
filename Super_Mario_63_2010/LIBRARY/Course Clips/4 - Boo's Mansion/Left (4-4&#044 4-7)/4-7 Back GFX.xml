@@ -75,7 +75,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="3.29444885253906" d="2.58648681640625" tx="40.75" ty="-823.7"/>
+                    <Matrix a="3.29443359375" d="2.58648681640625" tx="40.75" ty="-823.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -171,7 +171,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="191" ty="-671.5"/>
+                    <Matrix c="1.52587890625e-005" tx="191" ty="-671.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -334,7 +334,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="439.45" ty="-1050.5"/>
+                    <Matrix c="1.52587890625e-005" tx="439.45" ty="-1050.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -352,7 +352,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="639.45" ty="-1050.5"/>
+                    <Matrix c="1.52587890625e-005" tx="639.45" ty="-1050.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -370,7 +370,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="323.75" ty="-1327.95"/>
+                    <Matrix c="1.52587890625e-005" tx="323.75" ty="-1327.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -388,7 +388,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="453.75" ty="-1317.95"/>
+                    <Matrix c="1.52587890625e-005" tx="453.75" ty="-1317.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -406,7 +406,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="583.75" ty="-1307.95"/>
+                    <Matrix c="1.52587890625e-005" tx="583.75" ty="-1307.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -424,7 +424,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="713.75" ty="-1297.95"/>
+                    <Matrix c="1.52587890625e-005" tx="713.75" ty="-1297.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -442,7 +442,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="843.75" ty="-1287.95"/>
+                    <Matrix c="1.52587890625e-005" tx="843.75" ty="-1287.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -710,25 +710,19 @@ onClipEvent (enterFrame) {
                   </Actionscript>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-126.5" ty="-991.95"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-126.5" ty="-991.95"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Various Platforms/ Non-Coded PL/ Crag/Stone PL x2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="212.55" ty="237.45"/>
+                              <Matrix a="20" d="20" tx="86.05" ty="-754.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="1" edges="!5916 4749[#1444.8B 4749 4763 4749!4763 4749|4763 4929!4763 4929|5916 4929!5916 4929|5916 4749"/>
+                        <Edge fillStyle0="1" edges="!3386 -15090[2659 -15090 2233 -15090!2233 -15090|2233 -14910!2233 -14910|3386 -14910!3386 -14910|3386 -15090"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -913,15 +907,15 @@ onClipEvent (enterFrame) {
 !18959 -8899|18607 -8892.5!18607 -8892.5|18607 -8887.5!18607 -8887.5|18959 -8887"/>
                     <Edge fillStyle0="2" strokeStyle="2" edges="
 !18959 -8887|18959 381!18959 381|13358 381"/>
-                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="
-!13358 381|13358 6862"/>
-                    <Edge fillStyle0="2" strokeStyle="2" edges="
-!13358 6862|24000 6862!24000 6862|24000 -29384!24000 -29384|-7606 -29384!-7606 -29384|-7606 -20182"/>
-                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="
-!-7606 -20182|-1685 -20182"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="
-!-1685 -20182|-1699 -16777!-1699 -16777[#FFF95D.48 #FFBEA8.FF -1698.5 -16677!-1698.5 -16677[#FFF95C.24 #FFC197.02 -1701 -15277!-1701 -15277|2179 -15277!2179 -15277|2179 -13377!2179 -13377|-1701 -13377!-1701 -13377|-1666 -10855!-1666 -10855
-|-4521 -10855!-4521 -10855|-4521 -8058!-4521 -8058|-1685 -8058!-1685 -8058|-1685 381!-1685 381|13358 381"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!13358 381|-1685 381!-1685 381|-1685 -8058!-1685 -8058|-4521 -8058!-4521 -8058|-4521 -10855!-4521 -10855|-1666 -10855!-1666 -10855|-1701 -13377!-1701 -13377|2179 -13377!2179 -13377|2179 -15277!2179 -15277|-1701 -15277!-1701 -15277[#FFF95C.24
+ #FFC197.02 -1698.5 -16677!-1698.5 -16677[#FFF95D.48 #FFBEA8.FF -1699 -16777!-1699 -16777|-1685 -20182"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="
+!-1685 -20182|-7606 -20182"/>
+                    <Edge fillStyle1="2" strokeStyle="2" edges="
+!-7606 -20182|-7606 -29384!-7606 -29384|24000 -29384!24000 -29384|24000 6862!24000 6862|13358 6862"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="
+!13358 6862|13358 381"/>
                     <Edge fillStyle0="1" edges="
 !-7606 6862|-7527 6862"/>
                     <Edge fillStyle0="1" strokeStyle="2" edges="
@@ -939,21 +933,21 @@ onClipEvent (enterFrame) {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Haunted Brick Tile 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="1644.95" ty="-476.3"/>
+                              <Matrix a="20" d="20" tx="2002.9" ty="-554.3"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Haunted Brick Tile 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="1450.95" ty="-476.3"/>
+                              <Matrix a="20" d="20" tx="1644.95" ty="-476.3"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Haunted Brick Tile 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="2002.9" ty="-554.3"/>
+                              <Matrix a="20" d="20" tx="1450.95" ty="-476.3"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -968,11 +962,11 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="3" strokeStyle="1" edges="
-!16128 -8830|15071 -8830!15071 -8830|15071 -9510!15071 -9510|16128 -9510!16128 -9510|16128 -8830"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!8969 -7950|8969 -7270!8969 -7270|7912 -7270!7912 -7270|7912 -7950!7912 -7950|8969 -7950"/>
+!15071 -8830|15071 -9510!15071 -9510|16128 -9510!16128 -9510|16128 -8830!16128 -8830|15071 -8830"/>
                         <Edge fillStyle1="2" strokeStyle="1" edges="
+!8969 -7950|8969 -7270!8969 -7270|7912 -7270!7912 -7270|7912 -7950!7912 -7950|8969 -7950"/>
+                        <Edge fillStyle1="3" strokeStyle="1" edges="
 !5089 -7950|5089 -7270!5089 -7270|4032 -7270!4032 -7270|4032 -7950!4032 -7950|5089 -7950"/>
                       </edges>
                     </DOMShape>

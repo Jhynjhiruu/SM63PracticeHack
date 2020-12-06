@@ -32,28 +32,22 @@
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-0.6" ty="4.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-0.6" ty="4.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor alpha="0.4"/>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-970 -919S2|950 -919!950 -919|950 1341!950 1341|-970 1341!-970 1341|-970 -919"/>
+                        <Edge fillStyle1="1" edges="!938 -832|938 1428!938 1428|-982 1428!-982 1428|-982 -832!-982 -832|938 -832"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
-                <DOMGroup selected="true">
+                <DOMGroup>
                   <members>
-                    <DOMShape selected="true">
+                    <DOMShape>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor alpha="0.250980392156863"/>
@@ -67,33 +61,13 @@
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
-                        <StrokeStyle index="2">
-                          <SolidStroke scaleMode="normal" weight="2">
-                            <fill>
-                              <SolidColor/>
-                            </fill>
-                          </SolidStroke>
-                        </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="!11591 -4693|11591 7251.5!11591 7251.5[11591 #1CAD.E5 11631 7342!11631 7342|13150 7342!13150 7342[13190 #1CAD.E5 13190 7251.5!13190 7251.5|13190 -4693!13190 -4693|16469 -4693!16469 -4693[16509 -4693 16509 -4733!16509 -4733|16509 -5852
-!16509 -5852[16509 -5892 16469 -5892!16469 -5892|13190 -5892!13190 -5892|13190 -25622.5!13190 -25622.5[13190 #FF9ABA.9D 13150 -25925.5!13150 -25925.5|11631 -25925.5!11631 -25925.5[11591 #FF9ABA.9D 11591 -25622.5!11591 -25622.5|11591 -14692"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="
-!11591 -14692|-9282 -14692"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
-!-9282 -14692|-9282 -23503.5!-9282 -23503.5[-9282 #FFA301.DD -9322 -23806!-9322 -23806|-10441 -23806!-10441 -23806[-10481 #FFA301.DD -10481 -23503.5!-10481 -23503.5|-10481 -5892!-10481 -5892|-13920 -5892!-13920 -5892[-13960 -5892 -13960
- -5852!-13960 -5852|-13960 -4733!-13960 -4733[-13960 -4693 -13920 -4693!-13920 -4693|-10481 -4693!-10481 -4693|-10481 7071!-10481 7071[-10481 #1BF9.65 -10441 7161.5!-10441 7161.5|-9322 7161.5!-9322 7161.5[-9282 #1BF9.65 -9282 7071!-9282
- 7071|-9282 -4693"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="
-!-9282 -4693|11591 -4693"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
-!11591 -13493|11591 -5892"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="
-!11591 -5892|-9282 -5892"/>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="
-!-9282 -5892|-9282 -13493"/>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="
-!-9282 -13493|11591 -13493"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!11591 -25622.5|11591 -14692!11591 -14692|-9282 -14692!-9282 -14692|-9282 -23503.5!-9282 -23503.5[-9282 #FFA301.DD -9322 -23806!-9322 -23806|-10441 -23806!-10441 -23806[-10481 #FFA301.DD -10481 -23503.5!-10481 -23503.5|-10481 -5892!-10481
+ -5892|-13920 -5892!-13920 -5892[-13960 -5892 -13960 -5852!-13960 -5852|-13960 -4733!-13960 -4733[-13960 -4693 -13920 -4693!-13920 -4693|-10481 -4693!-10481 -4693|-10481 7071!-10481 7071[-10481 #1BF9.65 -10441 7161.5!-10441 7161.5|-9322
+ 7161.5!-9322 7161.5[-9282 #1BF9.65 -9282 7071!-9282 7071|-9282 -4693!-9282 -4693|11591 -4693!11591 -4693|11591 7251.5!11591 7251.5[11591 #1CAD.E5 11631 7342!11631 7342|13150 7342!13150 7342[13190 #1CAD.E5 13190 7251.5!13190 7251.5|13190
+ -4693!13190 -4693|16469 -4693!16469 -4693[16509 -4693 16509 -4733!16509 -4733|16509 -5852!16509 -5852[16509 -5892 16469 -5892!16469 -5892|13190 -5892!13190 -5892|13190 -25622.5!13190 -25622.5[13190 #FF9ABA.9D 13150 -25925.5!13150 -25925.5
+|11631 -25925.5!11631 -25925.5[11591 #FF9ABA.9D 11591 -25622.5!11591 -5892|-9282 -5892!-9282 -5892|-9282 -13493!-9282 -13493|11591 -13493!11591 -13493|11591 -5892"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -107,47 +81,41 @@
             <DOMFrame index="0" duration="2" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="52" ty="-698"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="52" ty="-698"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="15.2212524414063" d="6.03778076171875" tx="-304.45" ty="1323.85"/>
+                              <Matrix a="20" d="20" tx="-211.1" ty="407.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="15.2212524414063" d="15.2212524414063" tx="-302.45" ty="1340.1"/>
+                              <Matrix a="15.2212524414063" b="11.1360473632813" d="15.2212524414063" tx="-268.45" ty="833"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="15.2212524414063" b="11.1360626220703" d="15.2212524414063" tx="-320.45" ty="1531"/>
+                              <Matrix a="15.2212524414063" d="6.03778076171875" tx="-252.45" ty="625.85"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="4">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-263.1" ty="1105.4"/>
+                              <Matrix a="15.2212524414063" b="-7.0789794921875" d="15.2212524414063" tx="-268.45" ty="1082.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="5">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Tick  Tetra Cube" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="15.2212524414063" b="-7.07899475097656" d="15.2212524414063" tx="-320.45" ty="1780.6"/>
+                              <Matrix a="15.2212524414063" d="15.2212524414063" tx="-250.45" ty="642.1"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -162,36 +130,36 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="4" strokeStyle="1" edges="
-!14596 -19072|-14596 -19072!-14596 -19072|-14596 21351!-14596 21351|14596 21351!14596 21351|14596 -19072"/>
                         <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
-!-1878 13386|-1878 13385.5!-1878 13385.5|-246 13385.5!-246 13385.5|-246 13386"/>
-                        <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="
-!-246 13386|-107 13126"/>
-                        <Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="
-!-107 13126|-2006 13126"/>
-                        <Edge fillStyle0="1" fillStyle1="5" strokeStyle="1" edges="
-!-2006 13126|-1878 13386"/>
-                        <Edge fillStyle0="4" fillStyle1="3" strokeStyle="1" edges="
-!-107 13126|-102 13126!-102 13126|-102 15374"/>
-                        <Edge fillStyle0="4" fillStyle1="4" strokeStyle="1" edges="
-!-102 15374|-91 15389"/>
-                        <Edge fillStyle0="5" fillStyle1="4" strokeStyle="1" edges="
-!-2006 13126|-2022 13126!-2022 13126|-2022 15367.5"/>
-                        <Edge fillStyle0="5" fillStyle1="1" strokeStyle="1" edges="
-!-2022 15367.5|-1878 15306.5"/>
+!933 -834|938 -834!938 -834|938 1414"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!938 1414|949 1429"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="
+!794 -574|933 -834"/>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="
+!933 -834|-966 -834"/>
+                        <Edge fillStyle0="3" fillStyle1="4" strokeStyle="1" edges="
+!-966 -834|-838 -574"/>
+                        <Edge fillStyle0="3" fillStyle1="5" strokeStyle="1" edges="
+!-838 -574|794 -574"/>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="
+!-982 1408|-982 1426!-982 1426|938 1426!938 1426|938 1414"/>
+                        <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="
+!938 1414|794 1347"/>
+                        <Edge fillStyle0="3" fillStyle1="5" strokeStyle="1" edges="
+!794 1347|-838 1347"/>
+                        <Edge fillStyle0="3" fillStyle1="4" strokeStyle="1" edges="
+!-838 1347|-982 1408"/>
                         <Edge fillStyle0="5" fillStyle1="2" strokeStyle="1" edges="
-!-1878 15306.5|-1878 13386"/>
-                        <Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="
-!-2022 15367.5|-2022 15386!-2022 15386|-102 15386!-102 15386|-102 15374"/>
-                        <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="
-!-102 15374|-246 15306.5"/>
-                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="
-!-246 15306.5|-1878 15306.5"/>
-                        <Edge fillStyle0="4" fillStyle1="4" strokeStyle="1" edges="
-!-2022 15367.5|-2041 15389"/>
-                        <Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="
-!-246 15306.5|-246 13386"/>
+!794 1347|794 -574"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="
+!15636 -33032|-13556 -33032!-13556 -33032|-13556 7391!-13556 7391|15636 7391!15636 7391|15636 -33032"/>
+                        <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="
+!-966 -834|-982 -834!-982 -834|-982 1408"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-982 1408|-1001 1429"/>
+                        <Edge fillStyle0="4" fillStyle1="5" strokeStyle="1" edges="
+!-838 1347|-838 -574"/>
                       </edges>
                     </DOMShape>
                   </members>

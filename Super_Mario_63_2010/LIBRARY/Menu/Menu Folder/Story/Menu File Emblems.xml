@@ -282,7 +282,7 @@ _root.m.filem.Mode = "";
             </DOMFrame>
             <DOMFrame index="12" duration="21" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName=" Menu/Menu Folder/ Story/Menu File Emblems Stars" selected="true">
+                <DOMSymbolInstance libraryItemName=" Menu/Menu Folder/ Story/Menu File Emblems Stars">
                   <matrix>
                     <Matrix tx="38.1" ty="33.45"/>
                   </matrix>
@@ -292,9 +292,6 @@ _root.m.filem.Mode = "";
                   <filters>
                     <AdjustColorFilter saturation="-75"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

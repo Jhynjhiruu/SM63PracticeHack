@@ -72,7 +72,7 @@ onMouseDown = function () {
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1198 340.5|-1201.5 340.5!-1201.5 340.5|-1201.5 -359.5!-1201.5 -359.5|1198 -359.5!1198 -359.5|1198 340.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1198 -359.5|1198 340.5!1198 340.5|-1201.5 340.5!-1201.5 340.5|-1201.5 -359.5!-1201.5 -359.5|1198 -359.5"/>
                   </edges>
                 </DOMShape>
               </elements>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
                     <Matrix a="0.920852661132813" d="4.57318115234375" tx="-1921.2" ty="190.35"/>
                   </matrix>
@@ -41,19 +41,13 @@
                 <DOMGroup>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix a="1.41531372070313" tx="-1769.35" ty="33.05"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-158.4" y="135"/>
+                        <Point x="-1993.55" y="168.05"/>
                       </transformationPoint>
                       <members>
                         <DOMShape>
-                          <matrix>
-                            <Matrix a="1.41531372070313" tx="-1769.35" ty="33.05"/>
-                          </matrix>
                           <transformationPoint>
-                            <Point x="-158.4" y="135"/>
+                            <Point x="-1993.55" y="168.05"/>
                           </transformationPoint>
                           <fills>
                             <FillStyle index="1">
@@ -61,7 +55,7 @@
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle0="1" edges="!26156.5 2500|-32492 2500!-32492 2500|-32493 2900!-32493 2900|26156 2900!26156 2900|26156.5 2500"/>
+                            <Edge fillStyle0="1" edges="!1633 3161|-81373 3161!-81373 3161|-81375 3561!-81375 3561|1632 3561!1632 3561|1633 3161"/>
                           </edges>
                         </DOMShape>
                       </members>

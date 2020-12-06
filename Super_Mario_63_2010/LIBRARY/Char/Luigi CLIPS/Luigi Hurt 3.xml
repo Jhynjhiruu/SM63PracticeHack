@@ -141,7 +141,7 @@ stop();
             </DOMFrame>
             <DOMFrame index="4" duration="2" tweenType="motion" keyMode="17921">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix a="0.965927124023438" b="-0.258804321289063" c="0.258819580078125" d="0.965927124023438" tx="-5.15" ty="-12.45"/>
                   </matrix>
@@ -203,7 +203,7 @@ stop();
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
-                    <Matrix a="1.00001525878906" d="1.00001525878906" tx="-3.3" ty="-8.9"/>
+                    <Matrix tx="-3.3" ty="-8.9"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -213,7 +213,7 @@ stop();
             </DOMFrame>
             <DOMFrame index="23" duration="47" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side Front">
                   <matrix>
                     <Matrix a="0.258819580078125" b="-0.965927124023438" c="0.965927124023438" d="0.258819580078125" tx="-5.85" ty="-5.65"/>
                   </matrix>
@@ -419,7 +419,7 @@ stop();
             </DOMFrame>
             <DOMFrame index="23" duration="47" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side" selected="true">
+                <DOMSymbolInstance libraryItemName="      Char/  Fludd CLIPS/Fludd Side">
                   <matrix>
                     <Matrix a="0.258834838867188" b="-0.965927124023438" c="0.965927124023438" d="0.258834838867188" tx="-16.7" ty="-11.05"/>
                   </matrix>

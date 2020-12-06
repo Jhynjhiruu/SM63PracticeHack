@@ -138,7 +138,7 @@ _root.Course.Char.attack = false;
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="falloff">
                   <matrix>
-                    <Matrix a="78.5019683837891" d="4.28022766113281" ty="256.45"/>
+                    <Matrix a="78.5019683837891" d="4.28021240234375" ty="256.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -232,7 +232,7 @@ _root.Course.Char.attack = false;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="3" duration="16" keyMode="9728" acceleration="-100">
+            <DOMFrame index="3" duration="16" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="   Enemies/Bosses/Bowser/Bowser Key A" name="key">
                   <matrix>

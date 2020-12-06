@@ -31,14 +31,8 @@ onEnterFrame = function () {
                 <DOMGroup>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-175.3" ty="-9.45"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-175.3" ty="-9.45"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -49,20 +43,14 @@ onEnterFrame = function () {
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+                            <Edge strokeStyle="1" edges="!-3611 -195S4|-3501 -377!-3501 -377|-3388 -195!-3388 -195|-3611 -195"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-175.3" ty="-9.45"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-175.3" ty="-9.45"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -73,20 +61,14 @@ onEnterFrame = function () {
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+                            <Edge strokeStyle="1" edges="!-3318 -2S4|-3498 -2!-3498 -2|-3498 -182!-3498 -182|-3318 -182!-3318 -182|-3318 -2"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="-175.3" ty="-9.45"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix tx="-175.3" ty="-9.45"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -97,8 +79,8 @@ onEnterFrame = function () {
                             </StrokeStyle>
                           </strokes>
                           <edges>
-                            <Edge strokeStyle="1" edges="!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+                            <Edge strokeStyle="1" edges="!-3513 -92S4[-3514 -55 -3540 -29!-3540 -29[-3566 -2 -3603 -2!-3603 -2[-3641 -2 -3667 -29!-3667 -29[-3694 -55 -3693 -92!-3693 -92[-3694 -130 -3667 -156!-3667 -156[-3641 -183 -3603 -182!-3603 -182[-3566 -183 -3540 -156!-3540 -156[-3514
+ -130 -3513 -92"/>
                           </edges>
                         </DOMShape>
                       </members>
@@ -110,19 +92,10 @@ onEnterFrame = function () {
             <DOMFrame index="69" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="234.3" ty="173.35"/>
-                  </matrix>
                   <members>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="87.2" ty="77.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="87.2" ty="77.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -134,20 +107,14 @@ onEnterFrame = function () {
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!118 -6|-105 -6.5!-105 -6.5|5 -188!5 -188|118 -6"/>
+!1656 1493S4|1842 1390!1842 1390|1849 1604!1849 1604|1656 1493"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="87.2" ty="77.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="87.2" ty="77.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -159,20 +126,14 @@ onEnterFrame = function () {
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!187.5 6.5|187.5 186.5!187.5 186.5|7.5 186.5!7.5 186.5|7.5 6.5!7.5 6.5|187.5 6.5"/>
+!1814 1806S4|1658 1716!1658 1716|1748 1560!1748 1560|1904 1650!1904 1650|1814 1806"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
                     <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="87.2" ty="77.5"/>
-                      </matrix>
                       <members>
                         <DOMShape selected="true">
-                          <matrix>
-                            <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="87.2" ty="77.5"/>
-                          </matrix>
                           <strokes>
                             <StrokeStyle index="1">
                               <SolidStroke scaleMode="normal" weight="2">
@@ -184,8 +145,8 @@ onEnterFrame = function () {
                           </strokes>
                           <edges>
                             <Edge strokeStyle="1" edges="
-!-34.5 32.5[-7.65625 #3B.39 -7.5 96.5!-7.5 96.5[-7.65625 #85.D6 -34.5 160!-34.5 160[#FFFFC3.96 #BA.98 -97.5 186.5!-97.5 186.5[#FFFF79.39 #BA.98 -161.5 160!-161.5 160[#FFFF44.77 #85.D6 -187.5 96.5!-187.5 96.5[#FFFF44.77 #3B.39 -161.5 32.5
-!-161.5 32.5[#FFFF79.39 #6.77 -97.5 6.5!-97.5 6.5[#FFFFC3.96 #6.77 -34.5 32.5"/>
+!1690 1631S4[1670 1662 1635 1672!1635 1672[1599 1682 1567 1664!1567 1664[1534 1645 1525 1609!1525 1609[1514 1572 1534 1541!1534 1541[1552 1507 1589 1499!1589 1499[1624 1488 1657 1508!1657 1508[1689 1525 1699 1562!1699 1562[1708 1597 1690
+ 1631"/>
                           </edges>
                         </DOMShape>
                       </members>

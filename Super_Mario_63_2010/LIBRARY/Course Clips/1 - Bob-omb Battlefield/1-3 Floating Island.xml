@@ -27,14 +27,14 @@
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-77.25" ty="-41.7"/>
+                              <Matrix a="-20" d="20" tx="82.6" ty="-38.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="4">
                           <BitmapFill bitmapPath="  Course Items-PL/ Ground/YI Jungle/YI Jungle Ground 2" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-20" d="20" tx="82.6" ty="-38.2"/>
+                              <Matrix a="20" d="20" tx="-77.25" ty="-41.7"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -65,7 +65,7 @@
                         <Edge fillStyle1="1" edges="!2509 507|2540 507!2491 477|2489 507"/>
                         <Edge fillStyle1="1" strokeStyle="1" edges="!2489 507|2385 649!2385 649|2175 439!2175 439|1985 699!1985 699|1645 339!1645 339|1505 639!1505 639|1235 449!1235 449|1075 669!1075 669|805 419!805 419|526 689!526 689|-44 269!-44 269|-264 679!-264 679|-514 559!-514 559|-754 729!-754
  729|-1064 479!-1064 479|-1524 332.5!-1524 332.5|-1524 479!-1524 479|-1734 699!-1734 699|-1954 409!-1954 409|-2134 669!-2134 669|-2406.5 471.5"/>
-                        <Edge fillStyle1="3" strokeStyle="1" edges="
+                        <Edge fillStyle1="4" strokeStyle="1" edges="
 !-2406.5 471.5|-2414 478.5"/>
                         <Edge fillStyle1="5" edges="
 !-2414 478.5|-2414 479"/>
@@ -73,7 +73,7 @@
 !-2414 479|-2599.5 661"/>
                         <Edge fillStyle1="5" edges="
 !-2599.5 661|-2628 685"/>
-                        <Edge fillStyle1="4" edges="
+                        <Edge fillStyle1="3" edges="
 !-2628 685|-2643 692"/>
                         <Edge fillStyle1="5" edges="
 !-2643 692|-2659 700"/>
@@ -83,19 +83,19 @@
 !-2673 707|-2674 -373"/>
                         <Edge fillStyle1="1" edges="
 !-2674 -373|-2628 -399"/>
-                        <Edge fillStyle1="4" edges="
+                        <Edge fillStyle1="3" edges="
 !-2628 -399|-2628 -426!-2628 -426|-2627 -426"/>
-                        <Edge fillStyle0="4" fillStyle1="1" edges="
-!-2628 -399|-2627 -426"/>
                         <Edge fillStyle0="3" fillStyle1="1" edges="
+!-2628 -399|-2627 -426"/>
+                        <Edge fillStyle0="4" fillStyle1="1" edges="
 !-2403 468|-2403 -253!-2403 -253|-2414 -253"/>
-                        <Edge fillStyle0="3" fillStyle1="5" edges="
+                        <Edge fillStyle0="4" fillStyle1="5" edges="
 !-2414 -253|-2414 478.5"/>
                         <Edge fillStyle0="5" fillStyle1="1" edges="
 !-2414 -253|-2674 -373"/>
-                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="
+                        <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="
 !-2406.5 471.5|-2403 468"/>
-                        <Edge fillStyle0="4" fillStyle1="5" edges="
+                        <Edge fillStyle0="3" fillStyle1="5" edges="
 !-2628 685|-2628 684.5!-2628 684.5|-2643 692"/>
                         <Edge fillStyle0="5" fillStyle1="5" strokeStyle="1" edges="
 !-2599.5 661|-2673 707"/>

@@ -48,16 +48,17 @@
                   </strokes>
                   <edges>
                     <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!10539 352|10918 352"/>
-                    <Edge fillStyle0="3" strokeStyle="1" edges="!10918 352|11358 12!11358 12|4890 -12!4890 -12|5319 352"/>
-                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!5319 352|5719 352"/>
-                    <Edge fillStyle0="3" strokeStyle="1" edges="!5719 352|10539 352"/>
-                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!10539 2308|10918 2308"/>
-                    <Edge fillStyle0="2" strokeStyle="2" edges="!10918 2308|10918 352!10539 352|10539 2308"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!10918 2308|11358 2648!11358 2648|4890 2672!4890 2672|5319 2308"/>
-                    <Edge fillStyle1="2" strokeStyle="2" edges="!5319 2308|5319 352"/>
-                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!5319 2308|5719 2308"/>
+                    <Edge fillStyle1="2" strokeStyle="2" edges="!10918 352|10918 2308"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!10918 2308|10539 2308"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!10539 2308|5719 2308"/>
                     <Edge fillStyle0="2" strokeStyle="2" edges="!5719 2308|5719 352"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!5719 2308|10539 2308"/>
+                    <Edge fillStyle0="3" strokeStyle="1" edges="!5719 352|10539 352"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!10918 2308|11358 2648!11358 2648|4890 2672!4890 2672|5319 2308"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!5319 2308|5719 2308"/>
+                    <Edge fillStyle0="2" strokeStyle="2" edges="!10539 352|10539 2308"/>
+                    <Edge fillStyle0="3" strokeStyle="1" edges="!10918 352|11358 12!11358 12|4890 -12!4890 -12|5319 352"/>
+                    <Edge fillStyle0="2" strokeStyle="2" edges="!5319 352|5319 2308"/>
+                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!5319 352|5719 352"/>
                   </edges>
                 </DOMShape>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Vegetation/ Regular/YI Spiked Tree">
@@ -97,26 +98,20 @@
                   </color>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="50.4" ty="12"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="50.4" ty="12"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/Other Tiles/Mesh Fence Large" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="799.95" ty="-432.95"/>
+                              <Matrix a="20" d="20" tx="850.35" ty="-420.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Bricks &amp; Woods/Faded Brick" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="708.3" ty="-398.6"/>
+                              <Matrix a="20" d="20" tx="758.7" ty="-386.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -125,22 +120,22 @@
                         <StrokeStyle index="1">
                           <SolidStroke scaleMode="normal" weight="2">
                             <fill>
-                              <SolidColor/>
+                              <SolidColor color="#5C635B"/>
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
                         <StrokeStyle index="2">
                           <SolidStroke scaleMode="normal" weight="2">
                             <fill>
-                              <SolidColor color="#5C635B"/>
+                              <SolidColor/>
                             </fill>
                           </SolidStroke>
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="2" edges="!14718 -8019|14718 -9619!14718 -9619|13138 -9619!13138 -9619|13138 -8019"/>
-                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!13138 -8019|14718 -8019"/>
-                        <Edge fillStyle0="2" strokeStyle="1" edges="!13138 -8019|12478 -8019!12478 -8019|12478 -7672!12478 -7672|14718 -7672!14718 -7672|14718 -8019"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!15726 -7779|15726 -9379!15726 -9379|14146 -9379!14146 -9379|14146 -7779"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!14146 -7779|15726 -7779"/>
+                        <Edge fillStyle0="2" strokeStyle="2" edges="!14146 -7779|13486 -7779!13486 -7779|13486 -7432!13486 -7432|15726 -7432!15726 -7432|15726 -7779"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -295,14 +290,14 @@
                         <FillStyle index="5">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="2532.2" ty="-395.55"/>
+                              <Matrix a="20" d="20" tx="2563.2" ty="-332.6"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="6">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Ancient &amp; Clock &amp; Haunted/Ancient Wall Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="2563.2" ty="-332.6"/>
+                              <Matrix a="20" d="20" tx="2532.2" ty="-395.55"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -324,10 +319,10 @@
                         <Edge fillStyle1="3" strokeStyle="1" edges="
 !57274 -8299|57274 -7679!57274 -7679|55837 -7679!55837 -7679|56457 -8299!56457 -8299|57274 -8299"/>
                         <Edge fillStyle1="4" strokeStyle="1" edges="
-!57234 -4480|57234 -3860!57234 -3860|52015 -3860!52015 -3860|52635 -4480!52635 -4480|57234 -4480"/>
-                        <Edge fillStyle0="6" strokeStyle="1" edges="
+!57234 -3860|52015 -3860!52015 -3860|52635 -4480!52635 -4480|57234 -4480!57234 -4480|57234 -3860"/>
+                        <Edge fillStyle0="5" strokeStyle="1" edges="
 !61754 -7000|61114 -7000!61114 -7000|61114 -5780!61114 -5780|63814 -5780!63814 -5780|63194 -6400!63194 -6400|61754 -6400!61754 -6400|61754 -7000"/>
-                        <Edge fillStyle1="5" strokeStyle="1" edges="
+                        <Edge fillStyle1="6" strokeStyle="1" edges="
 !59814 -7039|58574 -7039!58574 -7039|58574 -7659!58574 -7659|59814 -7659!59814 -7659|59814 -7039"/>
                         <Edge fillStyle1="4" strokeStyle="1" edges="
 !59794 -4480|59794 -3860!59794 -3860|58554 -3860!58554 -3860|58554 -4480!58554 -4480|59794 -4480"/>

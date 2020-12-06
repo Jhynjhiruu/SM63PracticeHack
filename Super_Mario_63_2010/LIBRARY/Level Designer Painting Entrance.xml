@@ -23,7 +23,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="box">
                   <matrix>
-                    <Matrix a="1.41603088378906" d="0.956253051757813" tx="-0.75" ty="61.8"/>
+                    <Matrix a="1.416015625" d="0.956253051757813" tx="-0.75" ty="61.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -88,7 +88,7 @@ _root.StartLevelDesigner(num);
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!652 635|-623 635!-623 635|-623 -640!-623 -640|652 -640!652 -640|652 635"/>
+                    <Edge fillStyle1="1" edges="!652 -640|652 635!652 635|-623 635!-623 635|-623 -640!-623 -640|652 -640"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -148,7 +148,7 @@ _root.StartLevelDesigner(num);
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!700 -660.5|700 699.5!700 699.5|-660 699.5!-660 699.5|-660 -660.5!-660 -660.5|700 -660.5"/>
+                    <Edge fillStyle1="1" edges="!700 699.5|-660 699.5!-660 699.5|-660 -660.5!-660 -660.5|700 -660.5!700 -660.5|700 699.5"/>
                   </edges>
                 </DOMShape>
               </elements>

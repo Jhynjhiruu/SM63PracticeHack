@@ -7,24 +7,15 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="272.7"/>
-                  </matrix>
                   <members>
-                    <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix a="2.58502197265625" d="2" tx="-46.6" ty="248"/>
-                      </matrix>
+                    <DOMGroup>
                       <transformationPoint>
-                        <Point x="18" y="1.1"/>
+                        <Point x="-0.05" y="250.2"/>
                       </transformationPoint>
                       <members>
-                        <DOMShape selected="true">
-                          <matrix>
-                            <Matrix a="2.58502197265625" d="2" tx="-46.6" ty="248"/>
-                          </matrix>
+                        <DOMShape>
                           <transformationPoint>
-                            <Point x="18" y="1.1"/>
+                            <Point x="-0.05" y="250.2"/>
                           </transformationPoint>
                           <fills>
                             <FillStyle index="1">
@@ -32,12 +23,12 @@
                             </FillStyle>
                           </fills>
                           <edges>
-                            <Edge fillStyle1="1" edges="!10275 3384|-9554 3384!-9554 3384|-9554 -341!-9554 -341|10275 -341!10275 -341|10275 3384"/>
+                            <Edge fillStyle1="1" edges="!25629 11728|-25629 11728!-25629 11728|-25629 4278!-25629 4278|25629 4278!25629 4278|25629 11728"/>
                           </edges>
                         </DOMShape>
                       </members>
                     </DOMGroup>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="769.3" ty="208"/>
                       </matrix>
@@ -45,7 +36,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="513.3" ty="208"/>
                       </matrix>
@@ -53,7 +44,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="257.9" ty="208"/>
                       </matrix>
@@ -61,7 +52,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="1.9" ty="208"/>
                       </matrix>
@@ -69,7 +60,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="-254.1" ty="208"/>
                       </matrix>
@@ -77,7 +68,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="-509.5" ty="208"/>
                       </matrix>
@@ -85,7 +76,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="-765.5" ty="208"/>
                       </matrix>
@@ -93,7 +84,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="-1021.5" ty="208"/>
                       </matrix>
@@ -101,7 +92,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="-1263.5" ty="208"/>
                       </matrix>
@@ -109,7 +100,7 @@
                         <Point/>
                       </transformationPoint>
                     </DOMSymbolInstance>
-                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation" selected="true">
+                    <DOMSymbolInstance libraryItemName="   Effects/ Lava-Fire/Lava Animation">
                       <matrix>
                         <Matrix tx="1009.3" ty="208"/>
                       </matrix>
@@ -119,9 +110,9 @@
                     </DOMSymbolInstance>
                   </members>
                 </DOMGroup>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ 5 - Lethal Lava Land/ Front-Back (1,4)/5-1 Lava FG Ray">
                   <matrix>
-                    <Matrix a="0.561538696289063" d="9.00593566894531" ty="514.35"/>
+                    <Matrix a="0.561538696289063" d="9.00592041015625" ty="514.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

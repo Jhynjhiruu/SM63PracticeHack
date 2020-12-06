@@ -150,7 +150,7 @@
         </DOMLayer>
         <DOMLayer name="Layer 3" color="#FFFF4F">
           <frames>
-            <DOMFrame index="0" duration="27" keyMode="9728" acceleration="-40">
+            <DOMFrame index="0" duration="27" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="      Char/  Mario CLIPS/Mario wait Waterblast 2" name="water">
                   <transformationPoint>

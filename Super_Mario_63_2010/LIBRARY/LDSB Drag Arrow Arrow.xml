@@ -7,14 +7,8 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.599990844726563" d="0.599990844726563"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.599990844726563" d="0.599990844726563"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor alpha="0.498039215686275"/>
@@ -30,7 +24,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle0="1" strokeStyle="1" edges="!149 25|0 -123.5!0 -123.5|-149.5 24.5!-149.5 24.5|-149.5 124.5!-149.5 124.5|0 -23.5!0 -23.5|149 125!149 125|149 25"/>
+                        <Edge fillStyle0="1" strokeStyle="1" edges="!89 15|0 -74!0 -74|-89 15!-89 15|-89 75!-89 75|0 -14!0 -14|89 75!89 75|89 15"/>
                       </edges>
                     </DOMShape>
                   </members>

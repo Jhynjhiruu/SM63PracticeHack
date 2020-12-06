@@ -506,7 +506,7 @@ _parent.play();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5488 1732|-312 1732!-312 1732|-312 -1708!-312 -1708|5488 -1708!5488 -1708|5488 1732"/>
+                    <Edge fillStyle1="1" edges="!5488 -1708|5488 1732!5488 1732|-312 1732!-312 1732|-312 -1708!-312 -1708|5488 -1708"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -534,7 +534,7 @@ _parent.play();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!5488 1752S2|-312 1752!-312 1752|-312 -1688!-312 -1688|5488 -1688!5488 -1688|5488 1752"/>
+                    <Edge fillStyle1="1" edges="!5488 -1688S2|5488 1752!5488 1752|-312 1752!-312 1752|-312 -1688!-312 -1688|5488 -1688"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -914,7 +914,7 @@ _parent.play();
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="193" duration="15" keyMode="9728" acceleration="-100">
+            <DOMFrame index="193" duration="15" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="YI Baby Bowser Frontflip" symbolType="graphic" firstFrame="2" loop="play once">
                   <matrix>
@@ -968,7 +968,7 @@ _parent.play();
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="218" duration="15" keyMode="9728" acceleration="-100">
+            <DOMFrame index="218" duration="15" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="YI Baby Bowser Frontflip" symbolType="graphic" firstFrame="2" loop="play once">
                   <matrix>

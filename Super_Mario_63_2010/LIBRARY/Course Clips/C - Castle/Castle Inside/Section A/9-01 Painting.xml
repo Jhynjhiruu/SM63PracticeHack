@@ -138,7 +138,7 @@ _root.StartNewCourse("9-01", true, "Fromwhite");
             </DOMFrame>
             <DOMFrame index="40" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isFloating="true">
+                <DOMShape isFloating="true">
                   <fills>
                     <FillStyle index="1">
                       <RadialGradient>
@@ -229,9 +229,6 @@ _root.StartNewCourse("9-01", true, "Fromwhite");
                   <filters>
                     <BlurFilter blurX="4" blurY="4"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

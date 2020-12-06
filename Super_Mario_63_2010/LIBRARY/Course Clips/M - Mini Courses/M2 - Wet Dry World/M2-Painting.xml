@@ -55,7 +55,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Frame Clip">
                   <matrix>
-                    <Matrix a="1.26153564453125" d="1.35536193847656" tx="0.5" ty="10.7"/>
+                    <Matrix a="1.26153564453125" d="1.3553466796875" tx="0.5" ty="10.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -72,7 +72,7 @@ onEnterFrame = function () {
           <frames>
             <DOMFrame index="0" duration="30" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses / M2 - Wet Dry World/M2-Picture" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Clips/ M - Mini Courses / M2 - Wet Dry World/M2-Picture">
                   <matrix>
                     <Matrix ty="20"/>
                   </matrix>

@@ -62,7 +62,7 @@ onEnterFrame = function () {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="37.7353210449219" d="22.7369689941406" tx="-1239" ty="37.4"/>
+                    <Matrix a="37.7353210449219" d="22.7369537353516" tx="-1239" ty="37.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -82,7 +82,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="15.6209259033203" d="30.5096588134766" tx="-2521.4" ty="142.1"/>
+                    <Matrix a="15.6209106445313" d="30.5096588134766" tx="-2521.4" ty="142.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -105,7 +105,7 @@ onClipEvent (enterFrame) {
               <elements>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="32.0748901367188" d="62.4983978271484" tx="-378.5" ty="-1022.3"/>
+                    <Matrix a="32.0748901367188" d="62.4983825683594" tx="-378.5" ty="-1022.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -129,7 +129,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="3.77366638183594" d="62.4983978271484" tx="-1190.4" ty="-1022.3"/>
+                    <Matrix a="3.77366638183594" d="62.4983825683594" tx="-1190.4" ty="-1022.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -153,7 +153,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="5.81004333496094" d="12.4997863769531" tx="-1410.4" ty="-1422.3"/>
+                    <Matrix a="5.81004333496094" d="12.4997711181641" tx="-1410.4" ty="-1422.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -175,7 +175,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-8.70356750488281" d="-22.1874389648438" tx="-2082.35" ty="-290.6"/>
+                    <Matrix a="-8.70355224609375" d="-22.1874389648438" tx="-2082.35" ty="-290.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -395,7 +395,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp2">
                   <matrix>
-                    <Matrix a="7.14115905761719" d="31.8188323974609" tx="312.4" ty="-78.75"/>
+                    <Matrix a="7.14115905761719" d="31.8188171386719" tx="312.4" ty="-78.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -718,19 +718,13 @@ onClipEvent (enterFrame) {
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="-90"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="-90"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Rocks &amp; Blocks (Tiled)/BluerockMosaic" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="10.3805541992188" tx="-2616.7" ty="-790.5"/>
+                              <Matrix a="20" d="10.3805541992188" tx="-2706.7" ty="-790.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -745,7 +739,7 @@ onClipEvent (enterFrame) {
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge fillStyle1="1" strokeStyle="1" edges="!-51445 -15773|-50724 -15274!-50724 -15274|-53130 -15274!-53130 -15274|-52604 -15773!-52604 -15773|-52244 -15773!-52244 -15773|-52244 -15634!-52244 -15634|-51784 -15634!-51784 -15634|-51784 -15773!-51784 -15773|-51445 -15773"/>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-52524 -15274|-54930 -15274!-54930 -15274|-54404 -15773!-54404 -15773|-54044 -15773!-54044 -15773|-54044 -15634!-54044 -15634|-53584 -15634!-53584 -15634|-53584 -15773!-53584 -15773|-53245 -15773!-53245 -15773|-52524 -15274"/>
                       </edges>
                     </DOMShape>
                   </members>

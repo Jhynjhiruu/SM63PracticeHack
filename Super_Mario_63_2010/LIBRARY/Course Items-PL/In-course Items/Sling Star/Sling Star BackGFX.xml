@@ -261,7 +261,7 @@ onEnterFrame = function () {
         </DOMLayer>
         <DOMLayer name="Layer 6" color="#808080" locked="true" layerType="mask">
           <frames>
-            <DOMFrame index="0" duration="7" keyMode="9728" acceleration="100">
+            <DOMFrame index="0" duration="7" keyMode="9728">
               <elements>
                 <DOMShape>
                   <fills>
@@ -270,7 +270,7 @@ onEnterFrame = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2001.5 0S2|-1998.5 0!-1998.5 0|-1998.5 -940!-1998.5 -940|2001.5 -940!2001.5 -940|2001.5 0"/>
+                    <Edge fillStyle1="1" edges="!2001.5 -940S2|2001.5 0!2001.5 0|-1998.5 0!-1998.5 0|-1998.5 -940!-1998.5 -940|2001.5 -940"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -384,7 +384,7 @@ onEnterFrame = function () {
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2001.5 4|-1998.5 4!-1998.5 4|-1998.5 -936!-1998.5 -936|2001.5 -936!2001.5 -936|2001.5 4"/>
+                    <Edge fillStyle1="1" edges="!2001.5 -936|2001.5 4!2001.5 4|-1998.5 4!-1998.5 4|-1998.5 -936!-1998.5 -936|2001.5 -936"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -393,9 +393,9 @@ onEnterFrame = function () {
         </DOMLayer>
         <DOMLayer name="Layer 5" color="#4FFFFF" parentLayerIndex="1" locked="true">
           <frames>
-            <DOMFrame index="0" duration="7" keyMode="9728" acceleration="100">
+            <DOMFrame index="0" duration="7" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star 2 Animation" name="star2" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star 2 Animation" name="star2">
                   <matrix>
                     <Matrix a="0.660552978515625" d="0.30841064453125"/>
                   </matrix>
@@ -489,7 +489,7 @@ onEnterFrame = function () {
           <frames>
             <DOMFrame index="0" duration="30" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star Animation" name="star" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star Animation" name="star">
                   <matrix>
                     <Matrix a="1.0003662109375" d="0.462600708007813" tx="-0.05"/>
                   </matrix>

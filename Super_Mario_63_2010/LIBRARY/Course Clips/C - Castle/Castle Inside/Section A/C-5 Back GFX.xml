@@ -89,7 +89,7 @@ onEnterFrame = function () {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip" name="warp2" selected="true">
                   <matrix>
-                    <Matrix a="1.56735229492188" d="15.2250518798828" tx="-666.4" ty="-256.3"/>
+                    <Matrix a="1.56735229492188" d="15.2250366210938" tx="-666.4" ty="-256.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -174,42 +174,42 @@ onEnterFrame = function () {
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="-30" tx="35" ty="12.4"/>
+                              <Matrix a="30" d="30" tx="35" ty="-230.5"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="2">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="30" tx="35" ty="-147.2"/>
+                              <Matrix a="30" d="-30" tx="35" ty="-69"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="-30" tx="35" ty="-69"/>
+                              <Matrix a="30" d="30" tx="35" ty="-147.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="4">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="30" tx="35" ty="-230.5"/>
+                              <Matrix a="30" d="-30" tx="35" ty="12.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="4" edges="!700 -2976|700 -4610!700 -4610|1660 -4610!1660 -4610|1660 -2976"/>
-                        <Edge fillStyle1="3" edges="!1660 -2976|1660 -2162"/>
-                        <Edge fillStyle1="2" edges="!1660 -2162|1660 -1348"/>
-                        <Edge fillStyle1="1" edges="!1660 -1348|1660 248!1660 248|700 248!700 248|700 -1348"/>
-                        <Edge fillStyle1="2" edges="!700 -1348|700 -2162"/>
-                        <Edge fillStyle1="3" edges="!700 -2162|700 -2976"/>
-                        <Edge fillStyle0="1" fillStyle1="2" edges="!1660 -1348|700 -1348"/>
-                        <Edge fillStyle0="3" fillStyle1="2" edges="!700 -2162|1660 -2162"/>
-                        <Edge fillStyle0="3" fillStyle1="4" edges="!1660 -2976|700 -2976"/>
+                        <Edge fillStyle1="1" edges="!700 -2976|700 -4610!700 -4610|1660 -4610!1660 -4610|1660 -2976"/>
+                        <Edge fillStyle1="2" edges="!1660 -2976|1660 -2162"/>
+                        <Edge fillStyle1="3" edges="!1660 -2162|1660 -1348"/>
+                        <Edge fillStyle1="4" edges="!1660 -1348|1660 248!1660 248|700 248!700 248|700 -1348"/>
+                        <Edge fillStyle1="3" edges="!700 -1348|700 -2162"/>
+                        <Edge fillStyle1="2" edges="!700 -2162|700 -2976"/>
+                        <Edge fillStyle0="4" fillStyle1="3" edges="!1660 -1348|700 -1348"/>
+                        <Edge fillStyle0="2" fillStyle1="3" edges="!700 -2162|1660 -2162"/>
+                        <Edge fillStyle0="2" fillStyle1="1" edges="!1660 -2976|700 -2976"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -249,14 +249,14 @@ onEnterFrame = function () {
                         <FillStyle index="3">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="30" tx="-601" ty="-147.2"/>
+                              <Matrix a="30" d="-30" tx="-601" ty="12.4"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                         <FillStyle index="4">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Pillar" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="30" d="-30" tx="-601" ty="12.4"/>
+                              <Matrix a="30" d="30" tx="-601" ty="-147.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
@@ -264,12 +264,12 @@ onEnterFrame = function () {
                       <edges>
                         <Edge fillStyle1="1" edges="!-12020 -2976|-12020 -4610!-12020 -4610|-11060 -4610!-11060 -4610|-11060 -2976"/>
                         <Edge fillStyle1="2" edges="!-11060 -2976|-11060 -2162"/>
-                        <Edge fillStyle1="3" edges="!-11060 -2162|-11060 -1348"/>
-                        <Edge fillStyle1="4" edges="!-11060 -1348|-11060 248!-11060 248|-12020 248!-12020 248|-12020 -1348"/>
-                        <Edge fillStyle1="3" edges="!-12020 -1348|-12020 -2162"/>
+                        <Edge fillStyle1="4" edges="!-11060 -2162|-11060 -1348"/>
+                        <Edge fillStyle1="3" edges="!-11060 -1348|-11060 248!-11060 248|-12020 248!-12020 248|-12020 -1348"/>
+                        <Edge fillStyle1="4" edges="!-12020 -1348|-12020 -2162"/>
                         <Edge fillStyle1="2" edges="!-12020 -2162|-12020 -2976"/>
-                        <Edge fillStyle0="2" fillStyle1="3" edges="!-12020 -2162|-11060 -2162"/>
-                        <Edge fillStyle0="4" fillStyle1="3" edges="!-11060 -1348|-12020 -1348"/>
+                        <Edge fillStyle0="2" fillStyle1="4" edges="!-12020 -2162|-11060 -2162"/>
+                        <Edge fillStyle0="3" fillStyle1="4" edges="!-11060 -1348|-12020 -1348"/>
                         <Edge fillStyle0="2" fillStyle1="1" edges="!-11060 -2976|-12020 -2976"/>
                       </edges>
                     </DOMShape>

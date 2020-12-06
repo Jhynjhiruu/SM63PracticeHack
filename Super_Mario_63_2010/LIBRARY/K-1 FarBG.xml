@@ -35,9 +35,6 @@ onEnterFrame = function () {
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
@@ -54,9 +51,6 @@ onEnterFrame = function () {
                   <filters>
                     <AdjustColorFilter brightness="20" contrast="20" saturation="10" hue="-166"/>
                   </filters>
-                  <color>
-                    <Color/>
-                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>

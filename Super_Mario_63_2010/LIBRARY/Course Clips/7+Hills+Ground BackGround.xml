@@ -7,25 +7,19 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="40" ty="-54"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="40" ty="-54"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Backgrounds/BG Hills Tree Repeat" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="-22.75" ty="171.95"/>
+                              <Matrix a="20" d="20" tx="17.25" ty="117.95"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!15972 4199|-15613 4199!-15613 4199|-15613 3439!-15613 3439|15972 3439!15972 3439|15972 4199"/>
+                        <Edge fillStyle1="1" edges="!16772 3119|-14813 3119!-14813 3119|-14813 2359!-14813 2359|16772 2359!16772 2359|16772 3119"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -39,37 +33,31 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="40" ty="-54"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="41.45" y="243.8"/>
+                    <Point x="81.45" y="189.8"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="40" ty="-54"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="41.45" y="243.8"/>
+                        <Point x="81.45" y="189.8"/>
                       </transformationPoint>
                       <fills>
                         <FillStyle index="1">
-                          <SolidColor color="#005300"/>
-                        </FillStyle>
-                        <FillStyle index="2">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0" b="-0.019317626953125" c="0.224014282226563" d="0" tx="74.4" ty="222.1"/>
+                              <Matrix a="0" b="-0.019317626953125" c="0.224014282226563" d="0" tx="114.4" ty="168.1"/>
                             </matrix>
                             <GradientEntry color="#305820" ratio="0"/>
                             <GradientEntry color="#346028" ratio="1"/>
                           </LinearGradient>
                         </FillStyle>
+                        <FillStyle index="2">
+                          <SolidColor color="#005300"/>
+                        </FillStyle>
                         <FillStyle index="3">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0" b="-0.0114593505859375" c="0.153488159179688" d="0" tx="75.65" ty="246.5"/>
+                              <Matrix a="0" b="-0.0114593505859375" c="0.153488159179688" d="0" tx="115.65" ty="192.5"/>
                             </matrix>
                             <GradientEntry color="#005300" ratio="0"/>
                             <GradientEntry color="#306028" ratio="0.345098039215686"/>
@@ -80,7 +68,7 @@
                         <FillStyle index="4">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0" b="-0.019317626953125" c="0.466812133789063" d="0" tx="757.8" ty="222.1"/>
+                              <Matrix a="0" b="-0.019317626953125" c="0.466812133789063" d="0" tx="797.8" ty="168.1"/>
                             </matrix>
                             <GradientEntry color="#305820" ratio="0"/>
                             <GradientEntry color="#346028" ratio="1"/>
@@ -89,7 +77,7 @@
                         <FillStyle index="5">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0" b="-0.0114593505859375" c="0.319854736328125" d="0" tx="760.4" ty="246.5"/>
+                              <Matrix a="0" b="-0.0114593505859375" c="0.319854736328125" d="0" tx="800.4" ty="192.5"/>
                             </matrix>
                             <GradientEntry color="#005300" ratio="0"/>
                             <GradientEntry color="#306028" ratio="0.345098039215686"/>
@@ -99,17 +87,17 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle0="2" edges="!15938 4731.5|15938.5 4152!15938.5 4152|-11068 4152"/>
-                        <Edge fillStyle0="2" fillStyle1="4" edges="!-11068 4152|-11068 4731.5"/>
-                        <Edge fillStyle0="2" fillStyle1="3" edges="!-11068 4731.5|15938 4731.5"/>
-                        <Edge fillStyle0="1" edges="!-15580.5 5128.5|-15580.5 5600.5!-15580.5 5600.5|15938 5600.5!15938 5600.5|15938 5128.5"/>
-                        <Edge fillStyle0="1" fillStyle1="3" edges="!15938 5128.5|-11068 5128.5"/>
-                        <Edge fillStyle0="1" fillStyle1="5" edges="!-11068 5128.5|-15580.5 5128.5"/>
-                        <Edge fillStyle1="3" edges="!15938 4731.5|15938 5128.5"/>
-                        <Edge fillStyle0="5" fillStyle1="3" edges="!-11068 5128.5|-11068 4731.5"/>
-                        <Edge fillStyle0="5" fillStyle1="4" edges="!-11068 4731.5|-15580.5 4731.5"/>
-                        <Edge fillStyle0="5" edges="!-15580.5 4731.5|-15580.5 5128.5"/>
-                        <Edge fillStyle0="4" edges="!-11068 4152|-15580.5 4152!-15580.5 4152|-15580.5 4731.5"/>
+                        <Edge fillStyle0="1" edges="!16738 3652|16739 3072!16739 3072|-10268 3072"/>
+                        <Edge fillStyle0="1" fillStyle1="4" edges="!-10268 3072|-10268 3652"/>
+                        <Edge fillStyle0="1" fillStyle1="3" edges="!-10268 3652|16738 3652"/>
+                        <Edge fillStyle0="2" edges="!-14780 4049|-14780 4521!-14780 4521|16738 4521!16738 4521|16738 4049"/>
+                        <Edge fillStyle0="2" fillStyle1="3" edges="!16738 4049|-10268 4049"/>
+                        <Edge fillStyle0="2" fillStyle1="5" edges="!-10268 4049|-14780 4049"/>
+                        <Edge fillStyle1="3" edges="!16738 3652|16738 4049"/>
+                        <Edge fillStyle0="5" fillStyle1="3" edges="!-10268 4049|-10268 3652"/>
+                        <Edge fillStyle0="5" fillStyle1="4" edges="!-10268 3652|-14780 3652"/>
+                        <Edge fillStyle0="5" edges="!-14780 3652|-14780 4049"/>
+                        <Edge fillStyle0="4" edges="!-10268 3072|-14780 3072!-14780 3072|-14780 3652"/>
                       </edges>
                     </DOMShape>
                   </members>

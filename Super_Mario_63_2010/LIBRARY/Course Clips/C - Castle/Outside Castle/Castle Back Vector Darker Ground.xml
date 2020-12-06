@@ -25,7 +25,7 @@
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!-438 3451|-438 -820!-438 -820|422 -420!422 -420|422 3451!422 3451|-438 3451"/>
+                        <Edge fillStyle1="1" edges="!422 -420|422 3451!422 3451|-438 3451!-438 3451|-438 -820!-438 -820|422 -420"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -64,7 +64,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!-4868 -820|-4023 -2441!-4023 -2441|-4228 -820!-4228 -820|-4868 -820"/>
+!-4023 -2441|-4228 -820!-4228 -820|-4868 -820!-4868 -820|-4023 -2441"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -108,7 +108,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!4323 -2017|3683 -2517!3683 -2517|3683 -4239!3683 -4239|4323 -3923!4323 -3923|4323 -2017"/>
+!3683 -2517|3683 -4239!3683 -4239|4323 -3923!4323 -3923|4323 -2017!4323 -2017|3683 -2517"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -133,7 +133,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!1361 -6385|1361 -4779!1361 -4779|1741 -4979!1741 -4979|1741 -6561!1741 -6561|1361 -6385"/>
+!1361 -4779|1741 -4979!1741 -4979|1741 -6561!1741 -6561|1361 -6385!1361 -6385|1361 -4779"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -177,82 +177,64 @@
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!1323 -4753|1741 -4936!1741 -4936|1456 -4260!1456 -4260|803 -3967!803 -3967|1323 -4753"/>
+!803 -3967|1323 -4753!1323 -4753|1741 -4936!1741 -4936|1456 -4260!1456 -4260|803 -3967"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" d="0.5" tx="63.1" ty="84.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="63.1" ty="84.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Roof Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="470.95" ty="-251.65"/>
+                              <Matrix a="10" d="10" tx="298.6" ty="-41.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!4182 -13222|4728 -11848!4728 -11848|6018 -11228!6018 -11228|4998 -12840!4998 -12840|4182 -13222"/>
+!3626 -4237|4271 -3927!4271 -3927|3761 -4733!3761 -4733|3353 -4924!3353 -4924|3626 -4237"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" d="0.5" tx="64.1" ty="84.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="64.1" ty="84.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Roof Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="470.95" ty="-251.65"/>
+                              <Matrix a="10" d="10" tx="299.6" ty="-41.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!158 -16128|2518 -19880!2518 -19880|958 -16428!958 -16428|158 -16128"/>
+!1361 -6377|2541 -8253!2541 -8253|1761 -6527!1761 -6527|1361 -6377"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" d="0.5" tx="63.1" ty="84.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="63.1" ty="84.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Roof Tile" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="20" d="20" tx="470.95" ty="-251.65"/>
+                              <Matrix a="10" d="10" tx="298.6" ty="-41.45"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!4948 -16128|2598 -19920!2598 -19920|4182 -16414!4182 -16414|4948 -16128"/>
+!3736 -6377|2561 -8273!2561 -8273|3353 -6520!3353 -6520|3736 -6377"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -330,7 +312,7 @@
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!783 -2017|1423 -2517!1423 -2517|1423 -4239!1423 -4239|783 -3923!783 -3923|783 -2017"/>
+!1423 -2517|1423 -4239!1423 -4239|783 -3923!783 -3923|783 -2017!783 -2017|1423 -2517"/>
                         <Edge cubics="!282 -8368(;282,-8368 282,-11812 282,-11812p282 -8368q282 -11812);"/>
                         <Edge cubics="!-998 -11180(;-998,-11180 -998,-7368 -998,-7368p-998 -11180q-998 -7368);"/>
                         <Edge cubics="!282 -11812(;282,-11812 -998,-11180 -998,-11180p282 -11812q-998 -11180);"/>
@@ -340,101 +322,77 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" d="0.5" tx="64.1" ty="83.35"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="64.1" ty="83.35"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Trim" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="40" d="40" tx="-358.15" ty="5.55"/>
+                              <Matrix a="20" d="20" tx="-114.95" ty="86.15"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle0="1" edges="
-!-12176 2546|-11076 2546!-11076 2546|-11076 2251!-11076 2251|-12320 2251!-12320 2251|-12320 2446!-12320 2446|-12176 2546"/>
+!-4878 2890|-4806 2940!-4806 2940|-4256 2940!-4256 2940|-4256 2793!-4256 2793|-4878 2793!-4878 2793|-4878 2890"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-0.5" d="0.496597290039063" tx="192.65" ty="81.45"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-0.5" d="0.496597290039063" tx="192.65" ty="81.45"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Trim" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="40" d="40" tx="-358.15" ty="5.55"/>
-                            </matrix>
-                          </BitmapFill>
-                        </FillStyle>
-                      </fills>
-                      <edges>
-                        <Edge fillStyle0="1" edges="
-!-12176 2546|-11076 2546!-11076 2546|-11076 2251!-11076 2251|-12320 2251!-12320 2251|-12320 2446!-12320 2446|-12176 2546"/>
-                      </edges>
-                    </DOMShape>
-                  </members>
-                </DOMGroup>
-                <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" d="0.5" tx="64.1" ty="83.35"/>
-                  </matrix>
-                  <members>
-                    <DOMShape>
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="64.1" ty="83.35"/>
-                      </matrix>
-                      <fills>
-                        <FillStyle index="1">
-                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Trim" bitmapIsClipped="false">
-                            <matrix>
-                              <Matrix a="-40" d="40" tx="615.15" ty="-355.45"/>
+                              <Matrix a="-20" d="19.8638916015625" tx="371.75" ty="84.2"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!17460 -4674|16216 -4674!16216 -4674|16216 -4969!16216 -4969|17460 -4969!17460 -4969|17460 -4674"/>
+!10013 2844|9941 2893!9941 2893|9391 2893!9391 2893|9391 2747!9391 2747|10013 2747!10013 2747|10013 2844"/>
                       </edges>
                     </DOMShape>
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.5" d="0.5" tx="-649.55" ty="83.25"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.5" d="0.5" tx="-649.55" ty="83.25"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Trim" bitmapIsClipped="false">
                             <matrix>
-                              <Matrix a="-40" d="40" tx="615.15" ty="-355.45"/>
+                              <Matrix a="-20" d="20" tx="371.7" ty="-94.35"/>
                             </matrix>
                           </BitmapFill>
                         </FillStyle>
                       </fills>
                       <edges>
                         <Edge fillStyle1="1" edges="
-!17460 -4674|16216 -4674!16216 -4674|16216 -4969!16216 -4969|17460 -4969!17460 -4969|17460 -4674"/>
+!9390 -817|10012 -817!10012 -817|10012 -670!10012 -670|9390 -670!9390 -670|9390 -817"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <BitmapFill bitmapPath="  Course Items-PL/ Blocks, Tiles &amp; Other Textures/ Castle Constructors/Castle Trim" bitmapIsClipped="false">
+                            <matrix>
+                              <Matrix a="-20" d="20" tx="-341.95" ty="-94.45"/>
+                            </matrix>
+                          </BitmapFill>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!-4883 -819|-4261 -819!-4261 -819|-4261 -672!-4261 -672|-4883 -672!-4883 -672|-4883 -819"/>
                       </edges>
                     </DOMShape>
                   </members>

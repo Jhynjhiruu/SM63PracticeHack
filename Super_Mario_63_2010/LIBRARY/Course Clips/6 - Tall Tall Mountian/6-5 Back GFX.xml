@@ -31,19 +31,13 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.52328491210938" b="0.934356689453125" c="-0.253982543945313" d="1.04402160644531" tx="63.6" ty="-11.05"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="-0.05" y="250"/>
+                    <Point x="0.05" y="249.9"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.52328491210938" b="0.934356689453125" c="-0.253982543945313" d="1.04402160644531" tx="63.6" ty="-11.05"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="-0.05" y="250"/>
+                        <Point x="0.05" y="249.9"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -55,7 +49,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!-2896 4223.5|1 5000"/>
+                        <Edge strokeStyle="1" edges="!-4212 1483|4 5000"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -85,19 +79,13 @@
                   </members>
                 </DOMGroup>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.33380126953125" b="-0.93719482421875" c="0.93719482421875" d="0.33380126953125" tx="-234.1" ty="166.55"/>
-                  </matrix>
                   <transformationPoint>
-                    <Point x="0.2" y="249.8"/>
+                    <Point x="0.1" y="249.75"/>
                   </transformationPoint>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="0.33380126953125" b="-0.93719482421875" c="0.93719482421875" d="0.33380126953125" tx="-234.1" ty="166.55"/>
-                      </matrix>
                       <transformationPoint>
-                        <Point x="0.2" y="249.8"/>
+                        <Point x="0.1" y="249.75"/>
                       </transformationPoint>
                       <strokes>
                         <StrokeStyle index="1">
@@ -105,7 +93,7 @@
                             <fill>
                               <RadialGradient>
                                 <matrix>
-                                  <Matrix a="0.3980712890625" d="0.3980712890625" tx="-294.65" ty="114.95"/>
+                                  <Matrix a="0.13287353515625" b="-0.373077392578125" c="0.373077392578125" d="0.13287353515625" tx="-224.7" ty="481.05"/>
                                 </matrix>
                                 <GradientEntry color="#0000FF" ratio="0"/>
                                 <GradientEntry ratio="1"/>
@@ -115,7 +103,7 @@
                         </StrokeStyle>
                       </strokes>
                       <edges>
-                        <Edge strokeStyle="1" edges="!-11796.5 -401|10.5 4998"/>
+                        <Edge strokeStyle="1" edges="!-8996 14252|6 4989"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -879,7 +867,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Clips/6-5 Sling Star Path" name="sst1">
                   <matrix>
-                    <Matrix a="1.00119018554688" d="1.00288391113281" tx="-735.05" ty="908"/>
+                    <Matrix a="1.00119018554688" d="1.00286865234375" tx="-735.05" ty="908"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -1348,7 +1336,7 @@ onClipEvent (enterFrame) {
 ]]></script>
                   </Actionscript>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Common Coded PL/ Green PL/Green Circle Platform" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Common Coded PL/ Green PL/Green Circle Platform">
                   <matrix>
                     <Matrix ty="250"/>
                   </matrix>
@@ -1458,7 +1446,7 @@ onClipEvent (enterFrame) {
                     <AdjustColorFilter hue="-98"/>
                   </filters>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Common Coded PL/ Green PL/Green Circle Platform" selected="true">
+                <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Common Coded PL/ Green PL/Green Circle Platform">
                   <matrix>
                     <Matrix ty="250"/>
                   </matrix>
@@ -1729,14 +1717,8 @@ onClipEvent (enterFrame) {
                   </color>
                 </DOMSymbolInstance>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="1.00096130371094" tx="-445.65" ty="472.6"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="1.00096130371094" tx="-445.65" ty="472.6"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor alpha="0.8"/>
@@ -1753,7 +1735,7 @@ onClipEvent (enterFrame) {
                       </strokes>
                       <edges>
                         <Edge fillStyle1="1" strokeStyle="1" edges="
-!-2702 3800|-2565 4520!-2565 4520|-3600.5 4520!-3600.5 4520|-3442 3640!-3442 3640|-3042 3240!-3042 3240|-2702 3800"/>
+!-11958 12692|-11618 13252!-11618 13252|-11480 13972!-11480 13972|-12516 13972!-12516 13972|-12358 13092!-12358 13092|-11958 12692"/>
                       </edges>
                     </DOMShape>
                   </members>

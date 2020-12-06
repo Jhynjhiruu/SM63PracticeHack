@@ -28,7 +28,8 @@ onEnterFrame = function () {
 	}
 	if (_root.warpframe == true) {
 		if (warpnum == 1) {
-			_root.gotoAndStop("BowserBattle3");
+            _root.event.onSpaceEnd();
+			//_root.gotoAndStop("BowserBattle3");
 			_root.RemoveCourse();
 			//
 			// goto Cinema
@@ -278,7 +279,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/Sling Star/Sling Star BackGFX">
                   <matrix>
-                    <Matrix a="1.23056030273438" b="-0.001953125" c="0.0003814697265625" d="1.24488830566406" tx="-3.9" ty="-1258.4"/>
+                    <Matrix a="1.23056030273438" b="-0.001953125" c="0.0003814697265625" d="1.244873046875" tx="-3.9" ty="-1258.4"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -404,7 +405,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Clips/ 8 - Storyline Stars/8-E5-3 Sling Star Path">
                   <matrix>
-                    <Matrix a="1.00119018554688" d="1.00288391113281" tx="55.5" ty="197.85"/>
+                    <Matrix a="1.00119018554688" d="1.00286865234375" tx="55.5" ty="197.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.05"/>

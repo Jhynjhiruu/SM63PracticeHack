@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="92" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName=" Menu/Menu Folder/  Universal Stuff/Menu Button (really)" selected="true" symbolType="button">
+                <DOMSymbolInstance libraryItemName=" Menu/Menu Folder/  Universal Stuff/Menu Button (really)" symbolType="button">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -46,7 +46,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580!1105 -580|1105 580"/>
+                    <Edge fillStyle1="1" edges="!1105 -580|1105 580!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -77,7 +77,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580!1105 -580|1105 580"/>
+                    <Edge fillStyle1="1" edges="!1105 -580|1105 580!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -108,7 +108,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580!1105 -580|1105 580"/>
+                    <Edge fillStyle1="1" edges="!1105 -580|1105 580!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -139,7 +139,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580!1105 -580|1105 580"/>
+                    <Edge fillStyle1="1" edges="!1105 -580|1105 580!1105 580|-1105 580!-1105 580|-1105 -580!-1105 -580|1105 -580"/>
                   </edges>
                 </DOMShape>
               </elements>

@@ -11,7 +11,7 @@
                     <FillStyle index="1">
                       <BitmapFill bitmapPath="Wood Block" bitmapIsClipped="false">
                         <matrix>
-                          <Matrix a="28.9778137207031" b="7.76458740234375" c="-7.76458740234375" d="28.9778137207031" tx="-134.65" ty="-39.15"/>
+                          <Matrix a="28.9777984619141" b="7.76458740234375" c="-7.76458740234375" d="28.9777984619141" tx="-134.65" ty="-39.15"/>
                         </matrix>
                       </BitmapFill>
                     </FillStyle>
@@ -26,7 +26,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1060 2249.5|-1060 2249.5!-1060 2249.5|-1060 -2250.5!-1060 -2250.5|1060 -2250.5!1060 -2250.5|1060 2249.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1060 -2250.5|1060 2249.5!1060 2249.5|-1060 2249.5!-1060 2249.5|-1060 -2250.5!-1060 -2250.5|1060 -2250.5"/>
                   </edges>
                 </DOMShape>
               </elements>

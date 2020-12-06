@@ -33,7 +33,7 @@ onMouseDown = function () {
 		//_parent.Trans("starmap");
 	}
 };
-if (_root.TotalStars == 0 || (_root.Star[41] == false && _root.BowserKey1 == true)) {
+if (_root.TotalStars == 0 || (_root.Star[41] == false && _root.BowserKey1 == true) && !_root.betaQuest.isStarted()) {
 	//if (false) {
 	onEnterFrame = null;
 	onMouseDown = null;
@@ -95,7 +95,7 @@ if (_root.TotalStars == 0 || (_root.Star[41] == false && _root.BowserKey1 == tru
                     <FillStyle index="1">
                       <RadialGradient>
                         <matrix>
-                          <Matrix a="0.09283447265625" d="0.05908203125" tx="-0.15"/>
+                          <Matrix a="0.09283447265625" d="0.0590667724609375" tx="-0.15"/>
                         </matrix>
                         <GradientEntry color="#0909FF" ratio="0"/>
                         <GradientEntry ratio="1"/>
@@ -124,7 +124,7 @@ if (_root.TotalStars == 0 || (_root.Star[41] == false && _root.BowserKey1 == tru
                     <FillStyle index="1">
                       <RadialGradient>
                         <matrix>
-                          <Matrix a="0.09283447265625" d="0.05908203125" tx="-0.15"/>
+                          <Matrix a="0.09283447265625" d="0.0590667724609375" tx="-0.15"/>
                         </matrix>
                         <GradientEntry color="#808188" ratio="0"/>
                         <GradientEntry ratio="1"/>
@@ -141,7 +141,7 @@ if (_root.TotalStars == 0 || (_root.Star[41] == false && _root.BowserKey1 == tru
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1443 300|-1446.5 300!-1446.5 300|-1446.5 -300!-1446.5 -300|1443 -300!1443 -300|1443 300"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1443 -300|1443 300!1443 300|-1446.5 300!-1446.5 300|-1446.5 -300!-1446.5 -300|1443 -300"/>
                   </edges>
                 </DOMShape>
               </elements>

@@ -117,7 +117,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-4.89503479003906" d="-27.7208404541016" tx="1108.6" ty="-917.6"/>
+                    <Matrix a="-4.89501953125" d="-27.7208404541016" tx="1108.6" ty="-917.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -152,7 +152,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName=" Xtra/Blank Movieclip">
                   <matrix>
-                    <Matrix a="-4.89503479003906" d="-27.7208404541016" tx="-212.2" ty="-1468.2"/>
+                    <Matrix a="-4.89501953125" d="-27.7208404541016" tx="-212.2" ty="-1468.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -270,7 +270,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ In-course Items/ Other/Camera Control Box">
                   <matrix>
-                    <Matrix a="3.58192443847656" d="2.41281127929688" tx="820.45" ty="-1931.65"/>
+                    <Matrix a="3.5819091796875" d="2.41281127929688" tx="820.45" ty="-1931.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -302,7 +302,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Coded Wooden PL/Flipping PL">
                   <matrix>
-                    <Matrix c="1.52587890625e-005" d="1.00001525878906" tx="263" ty="-661.6"/>
+                    <Matrix c="1.52587890625e-005" tx="263" ty="-661.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -623,7 +623,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Signs &amp; Fences/YI Arrow">
                   <matrix>
-                    <Matrix a="-1.52587890625e-005" b="1.00001525878906" c="-1" d="0" tx="634.65" ty="-729.95"/>
+                    <Matrix a="-1.52587890625e-005" b="1" c="-1" d="0" tx="634.65" ty="-729.95"/>
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Mutant/Giant Book 1">
@@ -857,7 +857,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Mutant/Giant Book 1">
                   <matrix>
-                    <Matrix a="0" b="1.55474853515625" c="-1.23408508300781" d="0" tx="-61.95" ty="-1506.55"/>
+                    <Matrix a="0" b="1.55474853515625" c="-1.23406982421875" d="0" tx="-61.95" ty="-1506.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -873,7 +873,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Signs &amp; Fences/YI Arrow">
                   <matrix>
-                    <Matrix a="1.00001525878906" b="1.52587890625e-005" tx="-170.5" ty="-1422.9"/>
+                    <Matrix b="1.52587890625e-005" tx="-170.5" ty="-1422.9"/>
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Common Coded PL/Rotating Block Plat">
@@ -968,7 +968,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Mutant/Giant Book 3">
                   <matrix>
-                    <Matrix a="1.62098693847656" tx="801.45" ty="-1799.75"/>
+                    <Matrix a="1.6209716796875" tx="801.45" ty="-1799.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-5.4" y="-0.1"/>
@@ -999,7 +999,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMBitmapInstance libraryItemName="  Course Items-PL/ Decoration/ Signs &amp; Fences/YI Arrow">
                   <matrix>
-                    <Matrix a="-1.52587890625e-005" b="1.00001525878906" c="-1" d="0" tx="8.5" ty="-1973.9"/>
+                    <Matrix a="-1.52587890625e-005" b="1" c="-1" d="0" tx="8.5" ty="-1973.9"/>
                   </matrix>
                 </DOMBitmapInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Mutant/Giant Book 1">
@@ -1012,7 +1012,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Mutant/Giant Book 2">
                   <matrix>
-                    <Matrix d="1.00050354003906" tx="1204.65" ty="-1317.95"/>
+                    <Matrix d="1.00048828125" tx="1204.65" ty="-1317.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.05"/>
@@ -1089,7 +1089,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Mutant/Giant Book 3">
                   <matrix>
-                    <Matrix a="0.815536499023438" d="1.02796936035156" tx="-423.1" ty="98.05"/>
+                    <Matrix a="0.815536499023438" d="1.0279541015625" tx="-423.1" ty="98.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-5.4" y="-0.1"/>
@@ -1508,7 +1508,7 @@ onClipEvent (enterFrame) {
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="  Course Items-PL/ Various Platforms/ Themed PL/ Mutant/Giant Book 3">
                   <matrix>
-                    <Matrix a="-1.04713439941406" d="0.75" tx="160.25" ty="-1142.5"/>
+                    <Matrix a="-1.047119140625" d="0.75" tx="160.25" ty="-1142.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.15"/>

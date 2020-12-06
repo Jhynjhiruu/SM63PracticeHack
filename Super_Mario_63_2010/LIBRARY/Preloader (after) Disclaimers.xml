@@ -41,19 +41,13 @@ _root.nextFrame();
             <DOMFrame index="0" duration="62" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="20"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" tx="20"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.30517578125" d="0.18310546875" tx="65"/>
+                              <Matrix a="-0.30517578125" d="0.18310546875" tx="-45"/>
                             </matrix>
                             <GradientEntry ratio="0.823529411764706"/>
                             <GradientEntry alpha="0" ratio="1"/>
@@ -61,7 +55,7 @@ _root.nextFrame();
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!6300 3000|-4500 3000!-4500 3000|-4500 -3000!-4500 -3000|6300 -3000!6300 -3000|6300 3000"/>
+                        <Edge fillStyle0="1" edges="!4900 -3000|-5900 -3000!-5900 -3000|-5900 3000!-5900 3000|4900 3000!4900 3000|4900 -3000"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -71,19 +65,13 @@ _root.nextFrame();
             <DOMFrame index="62" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="-1" tx="540"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix a="-1" tx="540"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0.30517578125" d="0.18310546875" tx="65"/>
+                              <Matrix a="-0.30517578125" d="0.18310546875" tx="475"/>
                             </matrix>
                             <GradientEntry ratio="0.823529411764706"/>
                             <GradientEntry alpha="0" ratio="1"/>
@@ -91,7 +79,7 @@ _root.nextFrame();
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!6300 -3000|6300 3000!6300 3000|-4500 3000!-4500 3000|-4500 -3000!-4500 -3000|6300 -3000"/>
+                        <Edge fillStyle0="1" edges="!15300 3000|15300 -3000!15300 -3000|4500 -3000!4500 -3000|4500 3000!4500 3000|15300 3000"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -126,19 +114,13 @@ _root.nextFrame();
             <DOMFrame index="64" duration="92" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="14.1" ty="-393.05"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="14.1" ty="-393.05"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0" b="0.243072509765625" c="-0.304718017578125" d="0" tx="-14.05" ty="43.05"/>
+                              <Matrix a="0" b="0.243072509765625" c="-0.304718017578125" d="0" tx="0.05" ty="-350"/>
                             </matrix>
                             <GradientEntry ratio="0.823529411764706"/>
                             <GradientEntry alpha="0" ratio="1"/>
@@ -146,7 +128,7 @@ _root.nextFrame();
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!4218 -3139S2|4218 4861!4218 4861|-4782 4861!-4782 4861|-4782 -3139!-4782 -3139|4218 -3139"/>
+                        <Edge fillStyle1="1" edges="!4500 -3000|-4500 -3000!-4500 -3000|-4500 -11000!-4500 -11000|4500 -11000!4500 -11000|4500 -3000"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -156,19 +138,13 @@ _root.nextFrame();
             <DOMFrame index="156" tweenType="motion" keyMode="17921">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="14.1" ty="-73.05"/>
-                  </matrix>
                   <members>
                     <DOMShape>
-                      <matrix>
-                        <Matrix tx="14.1" ty="-73.05"/>
-                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <LinearGradient>
                             <matrix>
-                              <Matrix a="0" b="0.243072509765625" c="-0.304718017578125" d="0" tx="-14.05" ty="43.05"/>
+                              <Matrix a="0" b="0.243072509765625" c="-0.304718017578125" d="0" tx="0.05" ty="-30"/>
                             </matrix>
                             <GradientEntry ratio="0.823529411764706"/>
                             <GradientEntry alpha="0" ratio="1"/>
@@ -176,7 +152,7 @@ _root.nextFrame();
                         </FillStyle>
                       </fills>
                       <edges>
-                        <Edge fillStyle1="1" edges="!4218 4861S2|-4782 4861!-4782 4861|-4782 -3139!-4782 -3139|4218 -3139!4218 -3139|4218 4861"/>
+                        <Edge fillStyle1="1" edges="!-4500 -4600|4500 -4600!4500 -4600|4500 3400!4500 3400|-4500 3400!-4500 3400|-4500 -4600"/>
                       </edges>
                     </DOMShape>
                   </members>
@@ -333,7 +309,7 @@ _root.nextFrame();
                   </transformationPoint>
                   <fills>
                     <FillStyle index="1">
-                      <RadialGradient focalPointRatio="-0.541176470588235">
+                      <RadialGradient focalPointRatio="-0.537254901960784">
                         <matrix>
                           <Matrix a="0.1971435546875" d="0.0944671630859375" ty="1"/>
                         </matrix>
@@ -369,7 +345,7 @@ _root.nextFrame();
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!4399 2360S2|-3980 2360!-3980 2360|-3980 -2960!-3980 -2960|4399 -2960!4399 -2960|4399 2360"/>
+                    <Edge fillStyle1="1" edges="!4399 -2960S2|4399 2360!4399 2360|-3980 2360!-3980 2360|-3980 -2960!-3980 -2960|4399 -2960"/>
                   </edges>
                 </DOMShape>
               </elements>

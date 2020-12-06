@@ -7,9 +7,6 @@
             <DOMFrame index="0" duration="34" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="2" keyMode="17921">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix a="0.848587036132813" b="-0.526275634765625" c="0.526275634765625" d="0.848587036132813" tx="73.95" ty="-136.2"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
@@ -33,9 +30,6 @@
             <DOMFrame index="34" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.848587036132813" b="-0.526275634765625" c="0.526275634765625" d="0.848587036132813" tx="213.95" ty="-136.2"/>
-                  </matrix>
                   <members>
                     <DOMBitmapInstance libraryItemName="   Enemies/Normal/ A-F/ Bob-Omb/YI Styled Bomb-omb Tumbling">
                       <matrix>
